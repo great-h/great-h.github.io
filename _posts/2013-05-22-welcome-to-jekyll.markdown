@@ -14,3 +14,8 @@ categories: 'イベント'
 ## [@eielh](https://twitter.com/eielh)
 
 * [すごい広島 はじめました。](http://eielh-life.tumblr.com/post/51064201668)
+
+
+## [@hanapage](https://twitter.com/hanapage)
+
+* [ブログ作りました。](http://hanapage.wordpress.com/)
