@@ -30,3 +30,7 @@ categories: 'イベント'
 
 * [CentOS 6.4 x64 にnvmでnode.jsをインストールする](http://106n.net/toro/blog/?p=879)
 
+
+## [@yukilab](https://twitter.com/yukilab)
+
+* [第一回すごい広島 参加しました](http://yukilab3.blog.fc2.com/blog-entry-17.html)
