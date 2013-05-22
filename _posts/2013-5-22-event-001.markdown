@@ -2,7 +2,7 @@
 layout: post
 title:  "すごい広島 #1"
 date:   2013-05-22 19:00:00
-categories: 'イベント'
+categories: events
 ---
 
 第１回です。
