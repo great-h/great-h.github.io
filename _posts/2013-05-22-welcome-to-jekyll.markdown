@@ -7,6 +7,8 @@ categories: 'イベント'
 
 第１回です。
 
+* [atnd](http://atnd.org/events/39897)
+
 イベントのルール決めや、グループ名を決めたりしました。
 
 # 参加者
@@ -34,3 +36,9 @@ categories: 'イベント'
 ## [@yukilab](https://twitter.com/yukilab)
 
 * [第一回すごい広島 参加しました](http://yukilab3.blog.fc2.com/blog-entry-17.html)
+
+# 次回
+
+2013年5月29日 (水) 19:00 - 22:00
+
+* [atnd](http://atnd.org/events/39927)
