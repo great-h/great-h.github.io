@@ -19,3 +19,8 @@ categories: 'イベント'
 ## [@hanapage](https://twitter.com/hanapage)
 
 * [ブログ作りました。](http://hanapage.wordpress.com/)
+
+
+## [@moriC](https://twitter.com/CentBoss)
+
+* [すごい広島参加しました！](http://blog.mori-theta.net/?p=7)
