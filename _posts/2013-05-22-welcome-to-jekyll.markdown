@@ -24,3 +24,9 @@ categories: 'イベント'
 ## [@moriC](https://twitter.com/CentBoss)
 
 * [すごい広島参加しました！](http://blog.mori-theta.net/?p=7)
+
+
+## [@Toro_kun](https://twitter.com/Toro_kun)
+
+* [CentOS 6.4 x64 にnvmでnode.jsをインストールする](http://106n.net/toro/blog/?p=879)
+
