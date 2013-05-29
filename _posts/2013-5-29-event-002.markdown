@@ -13,3 +13,7 @@ categories: events
 <!-- 概要 -->
 
 # 参加者
+
+## [@moriC](https://twitter.com/CentBoss)
+
+* [RedmineでGitのリポジトリを見れるようにしたい](http://blog.mori-theta.net/?p=46)
