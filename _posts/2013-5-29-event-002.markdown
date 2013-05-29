@@ -21,3 +21,7 @@ categories: events
 ## [@hanapage](https://twitter.com/hanapage)
 
 * [WPF勉強しました。](http://hanapage.wordpress.com/2013/05/29/%E3%81%99%E3%81%94%E3%81%84%E5%BA%83%E5%B3%B62-wpf%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E5%8B%89%E5%BC%B7%E3%81%99%E3%82%8B%E3%80%82/)
+
+## [@enofujityan](https://twitter.com/enofujityan)
+
+* [office365調査](http://enofujityan.tumblr.com/)
