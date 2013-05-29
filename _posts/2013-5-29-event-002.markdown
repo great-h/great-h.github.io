@@ -29,3 +29,8 @@ categories: events
 ## [@pecosantoyobe](https://twitter.com/pecosantoyobe)
 
 * [すごい広島 #2](http://49.212.143.129/posts/2013-05-30-great-h-2.html)
+
+## [@eielh](http://twitter.com/eielh)
+
+* [すごい広島 #2 に遊びにいった](http://eielh-life.tumblr.com/post/51639356116/2)
+* [Github Page で公開する サイトを ローカルで preview するのに使ってる方法](http://blog.eiel.info/blog/2013/05/29/jekyll-preview/)
