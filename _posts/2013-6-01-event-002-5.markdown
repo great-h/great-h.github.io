@@ -19,10 +19,12 @@ categories: events
 * [@yukilab](https://twitter.com/yukilab)
 * [@csc_kamera25](https://twitter.com/csc_kamera25)
 * [@gumiimuggumi](https://twitter.com/gumiimuggumi)
+* [@moriC](https://twitter.com/CentBoss)
 
 # 参加者のブログ・日記一覧
 * [広島 Git 勉強会に参加した。 - ワタタツの日記!(2013-06-01)](http://kita.dyndns.org/diary/?date=20130601#p01)
 * [Gitを始めてみました](http://twitter.com/andydesukara/status/340723714083663872)
+* [広島Git勉強会に参加してみたりしてみた](http://blog.mori-theta.net/?p=60)
 * [広島 Git 勉強会に参加しました。 - nishimotzの日記](http://d.nishimotz.com/archives/1470)
 * [広島 Git 勉強会に参加しました](http://yukilab3.blog.fc2.com/blog-entry-19.html)
 * [Git勉強中](https://twitter.com/csc_kamera25/status/340726863250997249/)
