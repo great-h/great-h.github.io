@@ -13,6 +13,7 @@ categories: events
 
 <!-- 概要 -->
 # 参加者
+
 * [ryoan](http://twitter.com/andydesukara)
 * [nishimura](https://twitter.com/coelacanth/status/340703059736924161)
 * [@NeXTSTEP2OSX](https://twitter.com/NeXTSTEP2OSX)
@@ -21,8 +22,10 @@ categories: events
 * [@gumiimuggumi](https://twitter.com/gumiimuggumi)
 * [@moriC](https://twitter.com/CentBoss)
 * [@pons](https://twitter.com/b211035)
+* [spilca](https://twitter.com/spilca_)
 
 # 参加者のブログ・日記一覧
+
 * [広島 Git 勉強会に参加した。 - ワタタツの日記!(2013-06-01)](http://kita.dyndns.org/diary/?date=20130601#p01)
 * [Gitを始めてみました](http://twitter.com/andydesukara/status/340723714083663872)
 * [広島Git勉強会に参加してみたりしてみた](http://blog.mori-theta.net/?p=60)
@@ -31,3 +34,4 @@ categories: events
 * [Git勉強中](https://twitter.com/csc_kamera25/status/340726863250997249/)
 * [広島 Git 勉強会に参加しました。 - ほしくずのツイート](https://twitter.com/gumiimuggumi/status/340728822787870720)
 * [広島 Git 勉強会に参加しました by pons](https://twitter.com/b211035/status/340717516022218752)
+* [[日常] 広島Git勉強会に参加してきた。- すぴるか.net(2013-06-01)](http://www.spilca.net/2013/06/git.html)
