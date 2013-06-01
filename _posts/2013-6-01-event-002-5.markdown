@@ -14,7 +14,7 @@ categories: events
 <!-- 概要 -->
 
 # 参加者
-
+nishimura_test
 # 参加者のブログ・日記一覧
 * [広島 Git 勉強会に参加した。 - ワタタツの日記!(2013-06-01)](http://kita.dyndns.org/diary/?date=20130601#p01)
 
