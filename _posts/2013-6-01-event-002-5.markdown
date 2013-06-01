@@ -16,10 +16,13 @@ categories: events
 
 * [nishimura](https://twitter.com/coelacanth/status/340703059736924161)
 * [@NeXTSTEP2OSX](https://twitter.com/NeXTSTEP2OSX)
-
+* [@csc_kamera25](https://twitter.com/csc_kamera25)
 
 # 参加者のブログ・日記一覧
 
 * [広島 Git 勉強会に参加した。 - ワタタツの日記!(2013-06-01)](http://kita.dyndns.org/diary/?date=20130601#p01)
 
 * [広島 Git 勉強会に参加しました。 - nishimotzの日記](http://d.nishimotz.com/archives/1470)
+
+*[Git勉強中](https://twitter.com/csc_kamera25/status/340726863250997249/)
+
