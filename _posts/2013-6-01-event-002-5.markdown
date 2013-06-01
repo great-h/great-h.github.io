@@ -14,7 +14,7 @@ categories: events
 <!-- 概要 -->
 
 # 参加者
-
+* [@gumiimuggumi](https://twitter.com/gumiimuggumi)
 # 参加者のブログ・日記一覧
 * [広島 Git 勉強会に参加した。 - ワタタツの日記!(2013-06-01)](http://kita.dyndns.org/diary/?date=20130601#p01)
-
+* [広島 Git 勉強会に参加しました。 - ほしくずのツイート](https://twitter.com/gumiimuggumi/status/340728822787870720)
