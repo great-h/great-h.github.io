@@ -13,9 +13,13 @@ categories: events
 
 <!-- 概要 -->
 # 参加者
-[nishimura](https://twitter.com/coelacanth/status/340703059736924161)
+
+* [nishimura](https://twitter.com/coelacanth/status/340703059736924161)
+* [@NeXTSTEP2OSX](https://twitter.com/NeXTSTEP2OSX)
+
 
 # 参加者のブログ・日記一覧
+
 * [広島 Git 勉強会に参加した。 - ワタタツの日記!(2013-06-01)](http://kita.dyndns.org/diary/?date=20130601#p01)
 
 * [広島 Git 勉強会に参加しました。 - nishimotzの日記](http://d.nishimotz.com/archives/1470)
