@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "すごい広島 #2.5"
+date:   2013-06-05 19:00:00
+categories: events
+---
+
+第2.5回です。
+なんとここで
+
+* [Local Search](http://local.aguuu.com/events/15354)
+* togetter
+
+<!-- 概要 -->
+
+# 参加者
+
+# 参加者のブログ・日記一覧
+* [広島 Git 勉強会に参加した。 - ワタタツの日記!(2013-06-01)](http://kita.dyndns.org/diary/?date=20130601#p01)
+
