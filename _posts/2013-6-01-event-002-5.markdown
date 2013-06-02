@@ -28,3 +28,4 @@ categories: events
 * [広島 Git 勉強会に参加しました](http://yukilab3.blog.fc2.com/blog-entry-19.html)
 * [Git勉強中](https://twitter.com/csc_kamera25/status/340726863250997249/)
 * [萌えが足らん](https://twitter.com/tsuda_ahr/status/340656448155574272)
+
