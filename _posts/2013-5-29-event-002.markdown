@@ -34,3 +34,7 @@ categories: events
 
 * [すごい広島 #2 に遊びにいった](http://eielh-life.tumblr.com/post/51639356116/2)
 * [Github Page で公開する サイトを ローカルで preview するのに使ってる方法](http://blog.eiel.info/blog/2013/05/29/jekyll-preview/)
+
+## [@Toro_kun](http://twitter.com/Toro_kun)
+
+* [すごい広島#2に行って来た。](http://106n.net/toro/blog/?p=906)
