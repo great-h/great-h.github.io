@@ -14,9 +14,8 @@ categories: events
 
 # 参加者
 
-* [@24motz](https://twitter.com/24motz)
-
-# 参加者のブログ・日記一覧
+## [@24motz](https://twitter.com/24motz)
 
 * [すごい広島 #3 に行って勉強した - nishimotzの日記](http://d.nishimotz.com/archives/1494)
+
 
