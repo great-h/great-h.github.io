@@ -17,3 +17,7 @@ categories: events
 ## [@moriC](https://twitter.com/CentBoss)
 
 * [Gitlabを導入する](http://blog.mori-theta.net/?p=67)
+
+## [@24motz](https://twitter.com/24motz)
+
+* [すごい広島 #3 に行って勉強した - nishimotzの日記](http://d.nishimotz.com/archives/1494)
