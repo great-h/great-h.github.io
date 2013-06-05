@@ -18,5 +18,5 @@ categories: events
 
 # 参加者のブログ・日記一覧
 
-* [広島 Git 勉強会に参加しました。 - nishimotzの日記](http://d.nishimotz.com/archives/1494)
+* [すごい広島 #3 に行って勉強した - nishimotzの日記](http://d.nishimotz.com/archives/1494)
 
