@@ -13,3 +13,7 @@ categories: events
 <!-- 概要 -->
 
 # 参加者
+
+## [@moriC](https://twitter.com/CentBoss)
+
+* [Gitlabを導入する](http://blog.mori-theta.net/?p=67)
