@@ -13,3 +13,7 @@ categories: events
 <!-- 概要 -->
 
 # 参加者
+
+## [@eielh](https://twitter.com/eielh)
+
+* [すごい広島 #3 に遊びにいった。](http://eielh-life.tumblr.com/post/52212876105/3)
