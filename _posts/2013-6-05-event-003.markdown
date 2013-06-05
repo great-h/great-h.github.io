@@ -13,3 +13,10 @@ categories: events
 <!-- 概要 -->
 
 # 参加者
+
+* [@24motz](https://twitter.com/24motz)
+
+# 参加者のブログ・日記一覧
+
+* [広島 Git 勉強会に参加しました。 - nishimotzの日記](http://d.nishimotz.com/archives/1494)
+
