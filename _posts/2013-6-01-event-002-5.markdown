@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "すごい広島 #2.5"
-date:   2013-06-05 19:00:00
+date:   2013-06-01 15:00:00
 categories: events
 ---
 
@@ -24,6 +24,8 @@ categories: events
 * [@pons](https://twitter.com/b211035)
 * [spilca](https://twitter.com/spilca_)
 * [ryosms](https://twitter.com/ryosms)
+* [eielh](https://twitter.com/eielh)
+* [@tsuda_ahr](https://twitter.com/tsuda_ahr)
 
 # 参加者のブログ・日記一覧
 
@@ -37,3 +39,7 @@ categories: events
 * [広島 Git 勉強会に参加しました by pons](https://twitter.com/b211035/status/340717516022218752)
 * [[日常] 広島Git勉強会に参加してきた。- すぴるか.net(2013-06-01)](http://www.spilca.net/2013/06/git.html)
 * [広島Git勉強会201306に参加してきた - sms日記](http://blog.livedoor.jp/ryosms/archives/7152236.html)
+* [広島Git勉強会に遊びにいった。- 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/51889117564/git)
+* [広島Git勉強会 201306 - やりなおせるGit入門 - そんなこと覚えてない](http://blog.eiel.info/blog/2013/06/02/hiroshima-git/)
+* [広島Git勉強会 - 番外編 Github Flow してみる - そんなこと覚えてない](http://blog.eiel.info/blog/2013/06/02/hiroshima-git-extend/)
+* [萌えが足らん](https://twitter.com/tsuda_ahr/status/340656448155574272)
