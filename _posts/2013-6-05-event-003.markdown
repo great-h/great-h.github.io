@@ -29,3 +29,7 @@ categories: events
 ## [@eielh](https://twitter.com/eielh)
 
 * [すごい広島 #3 に遊びにいった。](http://eielh-life.tumblr.com/post/52212876105/3)
+
+## [@Toro_kun](https://twitter.com/Toro_kun)
+
+* [CentOS 6.4 x64 にnginxをインストールする](http://106n.net/toro/blog/?p=921)
