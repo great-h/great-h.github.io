@@ -33,3 +33,8 @@ categories: events
 ## [@Toro_kun](https://twitter.com/Toro_kun)
 
 * [CentOS 6.4 x64 にnginxをインストールする](http://106n.net/toro/blog/?p=921)
+
+## [@NeXTSTEP2OSX](https://twitter.com/NeXTSTEP2OSX)
+
+* [すごい広島 #3 にエア参加した - ワタタツの日記!(2013-06-05)](http://kita.dyndns.org/diary/?date=20130605#p01)
+
