@@ -39,3 +39,22 @@ Github の利用方法がわからない場合は、他の参加者に気軽に�
 <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
+
+## リンク
+
+### 広島県内 ITコミュニティ
+
+* [WEB TOUCH MEETING](http://webtouchmeeting.com/)<br>デザイナー、プログラマー、営業、経営者と様々な人々が参加する。「自分は知ってる当たり前のことを
+まずはさわりの部分から紹介する」という主旨の勉強会です。
+* [セキュリティ もみじ](https://sites.google.com/site/secmomiji/)<br>広島で行われているセキュリティの勉強会です。年に3、4回行なわれ、県外からの参加者も多く、講師も県外からいらっしゃることが多いです。
+* [Windows Phone ハンズオン in 広島](https://www.facebook.com/groups/273162962715808/)<br>Windows Phone や Windows ストアアプリに関する勉強会をされています。平日の夜に月に一度程度行われています。
+* [広島サーバユーザ友の会](http://atnd.org/events/39564)<br>年に1度程度行われてる自宅サーバやVPS、クラウドを利用している人たちの勉強会です。回数の表記が2進数らしいです。
+* [NVDAユーザ会広島](http://ja.nishimotz.com/nvda_hiroshima)<br>NVDAユーザ会広島は、オープンソースのスクリーンリーダー NVDA とその 日本語版 の普及を通じて、視覚障害者の福祉向上を目指す非営利活動グループです。勉強会以外の活動もされていますが、1ヶ月に一度程度勉強会も行われています。
+* [.NET 勉強会 / ヒーロー島](http://heroshima.jp/)<br>広島を中心に活動している IT エンジニアのコミュニティで、主にマイクロソフトの技術をテーマにしています。概ね毎月勉強会が行われています。
+* [広島Webシステム開発勉強会](https://twitter.com/hwebsys)<br>Webシステムをテーマにした、勉強会で平日の昼間に行われています。概ね毎月開催されています。
+* [GDG中国](https://sites.google.com/site/gdgchugokuofficial/)<br>GDG中国は中国地方をカバーするGoogle Developer Groupです。様々なイベントを行われていて、広島でも年に2、3回程度勉強会が行われています。
+* [広島マックユーザグループ](http://hiroshima.mac-ug.net/)<br>ほぼ毎月行われているマックの勉強会です。他の勉強会よりも普通のマック利用者向けの勉強会になっています。
+* [日本Androidの会 中国支部](http://www.android-group.jp/index.php?%A5%EF%A1%BC%A5%AD%A5%F3%A5%B0%A5%B0%A5%EB%A1%BC%A5%D7%2F%C3%E6%B9%F1%BB%D9%C9%F4)<br>Androidの会の中国支部です。勉強会などを行われています。最近の活動は不定期です。
+* [Hiroshima.rb](http://hiroshimarb.github.io/)<br>広島のRubyコミュニティです。Rubyをメインに様々なプログラミング言語やオープンソースソフトウェアを扱うことが多いです。概ね毎月第一土曜日にイベントを行われています。
+
+他にも 広島のITコミュニティがありましたら、[Pull Request](https://github.com/great-h/great-h.github.io/pulls) をお願いします。
