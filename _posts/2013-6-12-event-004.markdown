@@ -19,3 +19,7 @@ categories: events
 * [Linkを追加してみました。- great-h/great-h.github.io](https://github.com/great-h/great-h.github.io/pull/94)
 * [Rails で AngularJs を使おうとしてみた - そんなこと覚えてない](http://blog.eiel.info/blog/2013/06/12/htmlday-angular-js/)
 * [すごい広島 #004 に遊びにいった。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/52784624383/004)
+
+## [@hanapage](http://hanapage.wordpress.com)
+
+* [git-flowについて勉強 すごい広島#4](http://hanapage.wordpress.com/2013/06/12/git-flow%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E5%8B%89%E5%BC%B7/)
