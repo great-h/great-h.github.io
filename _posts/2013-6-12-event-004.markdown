@@ -23,3 +23,7 @@ categories: events
 ## [@hanapage](http://hanapage.wordpress.com)
 
 * [git-flowについて勉強 すごい広島#4](http://hanapage.wordpress.com/2013/06/12/git-flow%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E5%8B%89%E5%BC%B7/)
+
+## [@yukilab](https://twitter.com/yukilab)
+
+* [第四回すごい広島 参加しました](http://yukilab3.blog.fc2.com/blog-entry-21.html)
