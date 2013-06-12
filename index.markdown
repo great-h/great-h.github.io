@@ -58,3 +58,16 @@ Github の利用方法がわからない場合は、他の参加者に気軽に�
 * [Hiroshima.rb](http://hiroshimarb.github.io/)<br>広島のRubyコミュニティです。Rubyをメインに様々なプログラミング言語やオープンソースソフトウェアを扱うことが多いです。概ね毎月第一土曜日にイベントを行われています。
 
 他にも 広島のITコミュニティがありましたら、[Pull Request](https://github.com/great-h/great-h.github.io/pulls) をお願いします。
+
+### すごい広島 参加者の blogたち
+
+* [hanapage](http://hanapage.wordpress.com/)
+* [モリシーのブログ](http://blog.mori-theta.net/)
+* [Toroとトロは電子機械の夢を見るか](http://106n.net/toro/blog/)
+* [XAML公国 - 技術開発部](http://yukilab3.blog.fc2.com/)
+* [えのふじちゃん日記](http://enofujityan.tumblr.com/)
+* [49.212.143.129](http://49.212.143.129/posts/2013-05-30-great-h-2.html)
+* [ワタタツの日記!](http://kita.dyndns.org/diary/)
+* [Fragments of development.](http://ykumano.tumblr.com/)
+* [そんなこと覚えてない](http://blog.eiel.info/)
+* [日常と勉強会と広島と。](http://eielh-life.tumblr.com/)
