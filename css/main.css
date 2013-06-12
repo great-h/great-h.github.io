@@ -16,16 +16,20 @@ body {
 h1, h2, h3, h4, h5, h6 {
   margin: 24px 0 10px; }
 h1 {
-  font-size: 22px; }
+  font-size: 24px; }
 h2 {
-  font-size: 18px; }
+  font-size: 20px; }
 h3 {
+  color: #777777;
   font-size: 18px; }
 h4 {
+  color: #777777;
   font-size: 16px; }
 h5 {
+  color: #777777;
   font-size: 14px; }
 h6 {
+  color: #999999;
   font-size: 14px; }
 
 h1 { margin-bottom: 1em; }
