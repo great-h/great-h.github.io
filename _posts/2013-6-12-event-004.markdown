@@ -13,3 +13,9 @@ categories: events
 <!-- 概要 -->
 
 # 参加者
+
+## [@eielh](https://twitter.com/eielh)
+
+* [Linkを追加してみました。- great-h/great-h.github.io](https://github.com/great-h/great-h.github.io/pull/94)
+* [Rails で AngularJs を使おうとしてみた - そんなこと覚えてない](http://blog.eiel.info/blog/2013/06/12/htmlday-angular-js/)
+* [すごい広島 #004 に遊びにいった。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/52784624383/004)
