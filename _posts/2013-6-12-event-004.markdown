@@ -27,3 +27,7 @@ categories: events
 ## [@yukilab](https://twitter.com/yukilab)
 
 * [第四回すごい広島 参加しました](http://yukilab3.blog.fc2.com/blog-entry-21.html)
+
+## [@24motz](https://twitter.com/24motz)
+
+* [すごい広島 #4 で Twitter API の勉強](http://d.nishimotz.com/archives/1519)
