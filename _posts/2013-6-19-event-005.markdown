@@ -17,3 +17,7 @@ categories: events
 ## [@moriC](https://twitter.com/CentBoss)
 
 * [FuelPHPで認証機能を実装してみる!](http://blog.mori-theta.net/?p=102)
+
+## [@takatayoshitake](https://twitter.com/takatayoshitake)
+
+* [MAC Book Airを注文した!](http://tktstudy.blogspot.jp/2013/06/20130619-5.html)
