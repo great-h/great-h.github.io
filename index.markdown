@@ -69,5 +69,6 @@ Github の利用方法がわからない場合は、他の参加者に気軽に�
 * [49.212.143.129](http://49.212.143.129/posts/2013-05-30-great-h-2.html)
 * [ワタタツの日記!](http://kita.dyndns.org/diary/)
 * [Fragments of development.](http://ykumano.tumblr.com/)
+* [tkt/勉強会・セミナー参加メモ](http://tktstudy.blogspot.jp/)
 * [そんなこと覚えてない](http://blog.eiel.info/)
 * [日常と勉強会と広島と。](http://eielh-life.tumblr.com/)
