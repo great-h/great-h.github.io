@@ -21,3 +21,9 @@ categories: events
 ## [@takatayoshitake](https://twitter.com/takatayoshitake)
 
 * [MAC Book Airを注文した!](http://tktstudy.blogspot.jp/2013/06/20130619-5.html)
+
+## [@eielh](https://twitter.com/eielh)
+
+* [イベントページにイベントの開催場所を追加](https://github.com/great-h/great-h.github.io/pull/110)
+* [Jekyll を使ったGithub Pages で関数呼び出し的なことをする - そんなこと覚えてない](http://blog.eiel.info/blog/2013/06/19/jekyll-on-function/)
+* [すごい広島 #5 に遊びにいった。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/53368072707/5)
