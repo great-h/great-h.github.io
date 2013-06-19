@@ -13,3 +13,7 @@ categories: events
 <!-- 概要 -->
 
 # 参加者
+
+## [@moriC](https://twitter.com/CentBoss)
+
+* [FuelPHPで認証機能を実装してみる!](http://blog.mori-theta.net/?p=102)
