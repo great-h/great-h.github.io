@@ -1,17 +1,12 @@
 ---
-layout: post
+layout: event
 title:  "すごい広島 #1"
 date:   2013-05-22 19:00:00
+atnd: http://atnd.org/events/39897
+togetter: http://togetter.com/li/507014
+place: tullys_main_street
 categories: events
 ---
-
-第１回です。
-
-* [atnd](http://atnd.org/events/39897)
-* [セキココ](http://sekico.co/zaseki/138)
-* [togetter](http://togetter.com/li/507014)
-
-イベントのルール決めや、グループ名を決めたりしました。
 
 # 参加者
 
