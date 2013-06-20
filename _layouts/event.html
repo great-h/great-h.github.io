@@ -17,10 +17,10 @@ layout: default
   <span itemprop="startDate" content="{{ page.date | date: "%Y-%m-%dT%H:%M" }}">{{ page.date | date: "%Y年%m月%d日 %H:%M" }}</span>
   <h1>開催場所</h1>
   <div itemprop="location" itemscope itemtype="http://schema.org/Place">
+    <span itemprop="name">{{ place_name }}</span>
     <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
       <span itemprop="addressLocality">広島市</span>
       <span itemprop="streetAddress">{{ place_address }}</span>
-      <span itemprop="name">{{ place_name }}</span>
       <meta itemprop="addressRegion" content="広島県">
       <meta itemprop="addressCountry" content="日本">
       <meta itemprop="postalCode" content="{{ place_postcode }}">
