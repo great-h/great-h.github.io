@@ -8,7 +8,7 @@ categories: events
 第5回です。
 
 * [atnd](http://atnd.org/events/40559)
-* togetter
+* [togetter](http://togetter.com/li/521209)
 
 <!-- 概要 -->
 
