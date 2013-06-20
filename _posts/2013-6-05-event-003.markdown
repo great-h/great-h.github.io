@@ -1,16 +1,12 @@
 ---
-layout: post
+layout: event
 title:  "すごい広島 #3"
 date:   2013-06-05 19:00:00
+atnd: http://atnd.org/events/40132
+togetter: http://togetter.com/li/514216
+place: tullys_main_street
 categories: events
 ---
-
-第3回です。
-
-* [atnd](http://atnd.org/events/40132)
-* [togetter](http://togetter.com/li/514216)
-
-<!-- 概要 -->
 
 # 参加者
 

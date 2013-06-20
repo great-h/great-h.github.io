@@ -1,0 +1,5 @@
+{% if page.place == "tullys_main_street" %}
+{% assign place_address = "中区本通３−９" %}
+{% assign place_name = "タリーズコーヒー広島本通店" %}
+{% assign place_postcode = "7300035" %}
+{% endif %}
