@@ -27,3 +27,7 @@ categories: events
 * [イベントページにイベントの開催場所を追加](https://github.com/great-h/great-h.github.io/pull/110)
 * [Jekyll を使ったGithub Pages で関数呼び出し的なことをする - そんなこと覚えてない](http://blog.eiel.info/blog/2013/06/19/jekyll-on-function/)
 * [すごい広島 #5 に遊びにいった。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/53368072707/5)
+
+## [@Toro_kun](https://twitter.com/Toro_kun)
+
+* [apacheにmod_rpafをインストールする(アクセス元IPアドレスが127.0.0.1になってしまう対策)](http://106n.net/toro/blog/?p=951)
