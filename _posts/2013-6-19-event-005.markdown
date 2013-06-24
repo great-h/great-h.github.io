@@ -32,3 +32,7 @@ categories: events
 ## [@Toro_kun](https://twitter.com/Toro_kun)
 
 * [apacheにmod_rpafをインストールする(アクセス元IPアドレスが127.0.0.1になってしまう対策)](http://106n.net/toro/blog/?p=951)
+
+## [@hanapage](https://twitter.com/hanapage)
+
+* [git-flowのfeatureのマージコミットを残したい すごい広島#5](http://hanapage.wordpress.com/2013/06/25/git-flow%E3%81%AEfeature%E3%81%AE%E3%83%9E%E3%83%BC%E3%82%B8%E3%82%B3%E3%83%9F%E3%83%83%E3%83%88%E3%82%92%E6%AE%8B%E3%81%97%E3%81%9F%E3%81%84%E3%80%80%E3%81%99%E3%81%94%E3%81%84%E5%BA%83%E5%B3%B65/)
