@@ -9,3 +9,7 @@ categories: events
 ---
 
 # 参加者
+
+## [@moriC](https://twitter.com/CentBoss)
+
+* [Sublime Text でRubyのコードを実行する](http://blog.mori-theta.net/?p=172)
