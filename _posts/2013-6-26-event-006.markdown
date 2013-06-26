@@ -17,3 +17,8 @@ categories: events
 ## [@24motz](https://twitter.com/24motz)
 
 * [すごい広島 #6 でテスト駆動開発の読書](http://d.nishimotz.com/archives/1530)
+
+## [@NeXTSTEP2OSX](https://twitter.com/NeXTSTEP2OSX)
+
+* [すごい広島 #6 にエア参加した - ワタタツの日記!(2013-06-26)](http://kita.dyndns.org/diary/?date=20130626#p02)
+* [docker に関する誰得系情報 - ワタタツの日記!(2013-06-26)](http://kita.dyndns.org/diary/?date=20130626#p01)
