@@ -9,3 +9,7 @@ categories: events
 ---
 
 # 参加者
+
+## [@Toro_kun](https://twitter.com/Toro_kun)
+
+* [Gunosyを使ってみる](http://106n.net/toro/blog/?p=974)
