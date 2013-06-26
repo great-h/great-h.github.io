@@ -3,7 +3,7 @@ layout: event
 title:  "すごい広島 #6"
 date:   2013-06-26 19:00:00
 atnd: http://atnd.org/events/40750
-togetter:
+togetter: http://togetter.com/li/524933
 place: tullys_main_street
 categories: events
 ---
