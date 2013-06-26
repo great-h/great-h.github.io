@@ -9,3 +9,9 @@ categories: events
 ---
 
 # 参加者
+
+## [@eielh](http://twitter.com/eielh)
+
+* [Mac で使える Git Mergetool をいろいろ試してみる - 準備編 - そんなこ覚えてない](http://blog.eiel.info/blog/2013/06/26/git-mergetool/)
+* [すごい広島 #6 に遊びにいった - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/53925875590/6)
+* [Github - eiel/git-merge-sandbox](https://github.com/eiel/git-merge-sandbox)
