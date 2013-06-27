@@ -3,12 +3,36 @@ layout: event
 title:  "すごい広島 #6"
 date:   2013-06-26 19:00:00
 atnd: http://atnd.org/events/40750
-togetter:
+togetter: http://togetter.com/li/524933
 place: tullys_main_street
 categories: events
 ---
 
 # 参加者
+
+## [@moriC](https://twitter.com/CentBoss)
+
+* [Sublime Text でRubyのコードを実行する](http://blog.mori-theta.net/?p=172)
+
+## [@24motz](https://twitter.com/24motz)
+
+* [すごい広島 #6 でテスト駆動開発の読書](http://d.nishimotz.com/archives/1530)
+
+## [@NeXTSTEP2OSX](https://twitter.com/NeXTSTEP2OSX)
+
+* [すごい広島 #6 にエア参加した - ワタタツの日記!(2013-06-26)](http://kita.dyndns.org/diary/?date=20130626#p02)
+* [docker に関する誰得系情報 - ワタタツの日記!(2013-06-26)](http://kita.dyndns.org/diary/?date=20130626#p01)
+
+## [@eielh](http://twitter.com/eielh)
+
+* [Mac で使える Git Mergetool をいろいろ試してみる - 準備編 - そんなこ覚えてない](http://blog.eiel.info/blog/2013/06/26/git-mergetool/)
+* [すごい広島 #6 に遊びにいった - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/53925875590/6)
+* [Github - eiel/git-merge-sandbox](https://github.com/eiel/git-merge-sandbox)
+
+## [@pecosantoyobe](https://twitter.com/pecosantoyobe)
+
+* [すごい広島 #6](http://49.212.143.129/posts/2013-06-26-great-h-6.html)
+* [書いたコード](https://github.com/furu/programming_fundamentals/tree/master/chapter-7)
 
 ## [@Toro_kun](https://twitter.com/Toro_kun)
 
