@@ -33,3 +33,7 @@ categories: events
 
 * [すごい広島 #6](http://49.212.143.129/posts/2013-06-26-great-h-6.html)
 * [書いたコード](https://github.com/furu/programming_fundamentals/tree/master/chapter-7)
+
+## [@Toro_kun](https://twitter.com/Toro_kun)
+
+* [Gunosyを使ってみる](http://106n.net/toro/blog/?p=974)
