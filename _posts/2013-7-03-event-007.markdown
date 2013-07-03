@@ -9,3 +9,13 @@ categories: events
 ---
 
 # 参加者
+
+## [@eielh](http://twitter.com/eielh)
+
+ひたすら記事を書いていた。つらい。しかも、終わらなかった。
+
+* [Mac で使える git mergetool をいろいろ試してみる - Deltawalker](http://blog.eiel.info/blog/2013/07/03/git-mergetool-deltawalker/)
+* [Mac で使える git mergetool をいろいろ試してみる - Vimdiff2](http://blog.eiel.info/blog/2013/07/03/git-mergetool-vimdiff2/)
+* [Mac で使える git mergetool をいろいろ試してみる - tkdiff](http://blog.eiel.info/blog/2013/07/03/git-mergetool-tkdiff/)
+* [Mac で使える git mergetool をいろいろ試してみる - xxdiff](http://blog.eiel.info/blog/2013/07/03/git-mergetool-xxdiff/)
+* [すごい広島 #7 に遊びにいった](http://eielh-life.tumblr.com/post/54508486487/7)
