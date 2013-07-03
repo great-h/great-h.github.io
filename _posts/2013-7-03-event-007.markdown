@@ -3,7 +3,7 @@ layout: event
 title:  "すごい広島 #7"
 date:   2013-07-03 19:00:00
 atnd: http://atnd.org/events/40937
-togetter:
+togetter: http://togetter.com/li/528501
 place: tullys_main_street
 categories: events
 ---
