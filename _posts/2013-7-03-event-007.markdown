@@ -9,7 +9,3 @@ categories: events
 ---
 
 # 参加者
-
-## [@tsuda_ahr](https://twitter.com/tsuda_ahr)
-
-* [「すごい広島 #7」に参加しました](http://ooltcloud.expressweb.jp/201307/article_04235959.html) 
