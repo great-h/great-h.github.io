@@ -12,3 +12,6 @@ categories: events
 ## [@moriC](https://twitter.com/CentBoss)
 
 * [FuelPHPをサーバにデプロイする](http://blog.mori-theta.net/?p=185)
+## [@enofujityan](https://twitter.com/enofujityan)
+
+* [代替手書きメモアプリ調査](http://enofujityan.tumblr.com/post/54505841753)
