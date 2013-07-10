@@ -13,3 +13,7 @@ categories: events
 ## [@nullpon](http://www.none-style.jp/)
 
 * [すごい広島のロゴを作成してみました。](https://github.com/great-h/great-h.github.io/issues/69)
+
+## [@enofujityan](https://twitter.com/enofujityan)
+
+* [Adobe Brackets調査](http://enofujityan.tumblr.com/post/55081637780/adobe-brackets)
