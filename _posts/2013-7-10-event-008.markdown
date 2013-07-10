@@ -9,3 +9,7 @@ categories: events
 ---
 
 # 参加者
+
+## [@moriC](https://twitter.com/CentBoss)
+
+* [FuelPHPで生SQLを使う方法を調べる](http://blog.mori-theta.net/?p=198)
