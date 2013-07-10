@@ -1,0 +1,15 @@
+---
+layout: event
+title:  "すごい広島 #8"
+date:   2013-07-10 19:00:00
+atnd: http://atnd.org/events/41158
+togetter:
+place: tullys_main_street
+categories: events
+---
+
+# 参加者
+
+## [@nullpon](http://www.none-style.jp/)
+
+* [すごい広島のロゴを作成してみました。](https://github.com/great-h/great-h.github.io/issues/69)

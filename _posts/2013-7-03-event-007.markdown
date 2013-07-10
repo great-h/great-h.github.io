@@ -3,12 +3,13 @@ layout: event
 title:  "すごい広島 #7"
 date:   2013-07-03 19:00:00
 atnd: http://atnd.org/events/40937
-togetter:
+togetter: http://togetter.com/li/528501
 place: tullys_main_street
 categories: events
 ---
 
 # 参加者
+
 ## [@moriC](https://twitter.com/CentBoss)
 
 * [FuelPHPをサーバにデプロイする](http://blog.mori-theta.net/?p=185)
@@ -17,3 +18,24 @@ categories: events
 
 * [すごい広島#7 シンタックスハイライトを試す](http://hanapage.wordpress.com/2013/07/03/%E3%81%99%E3%81%94%E3%81%84%E5%BA%83%E5%B3%B67-%E3%82%B7%E3%83%B3%E3%82%BF%E3%83%83%E3%82%AF%E3%82%B9%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%88%E3%82%92%E8%A9%A6%E3%81%99/)
 
+## [@enofujityan](https://twitter.com/enofujityan)
+
+* [代替手書きメモアプリ調査](http://enofujityan.tumblr.com/post/54505841753)
+
+## [@tsuda_ahr](https://twitter.com/tsuda_ahr)
+
+* [「すごい広島 #7」に参加しました](http://ooltcloud.expressweb.jp/201307/article_04231557.html)
+
+## [@eielh](http://twitter.com/eielh)
+
+ひたすら記事を書いていた。つらい。しかも、終わらなかった。
+
+* [Mac で使える git mergetool をいろいろ試してみる - Deltawalker](http://blog.eiel.info/blog/2013/07/03/git-mergetool-deltawalker/)
+* [Mac で使える git mergetool をいろいろ試してみる - Vimdiff2](http://blog.eiel.info/blog/2013/07/03/git-mergetool-vimdiff2/)
+* [Mac で使える git mergetool をいろいろ試してみる - tkdiff](http://blog.eiel.info/blog/2013/07/03/git-mergetool-tkdiff/)
+* [Mac で使える git mergetool をいろいろ試してみる - xxdiff](http://blog.eiel.info/blog/2013/07/03/git-mergetool-xxdiff/)
+* [すごい広島 #7 に遊びにいった](http://eielh-life.tumblr.com/post/54508486487/7)
+
+## [@Toro_kun](http://twitter.com/Toro_kun)
+
+* [Gunosyの通知をevernoteに送る（失敗）](http://106n.net/toro/blog/?p=1052)

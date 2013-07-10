@@ -27,3 +27,7 @@ categories: events
 ## [@24motz](https://twitter.com/24motz)
 
 * [すごい広島 #4 で Twitter API の勉強](http://d.nishimotz.com/archives/1519)
+
+## [@enofujityan](https://twitter.com/enofujityan)
+
+* [office365調査（続き）](http://enofujityan.tumblr.com/post/52785503909/office365)
