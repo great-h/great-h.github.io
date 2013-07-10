@@ -32,3 +32,6 @@ categories: events
 * [Mac で使える git mergetool をいろいろ試してみる - xxdiff](http://blog.eiel.info/blog/2013/07/03/git-mergetool-xxdiff/)
 * [すごい広島 #7 に遊びにいった](http://eielh-life.tumblr.com/post/54508486487/7)
 
+## [@Toro_kun](http://twitter.com/Toro_kun)
+
+* [Gunosyの通知をevernoteに送る（失敗）](http://106n.net/toro/blog/?p=1052)
