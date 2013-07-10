@@ -9,3 +9,7 @@ categories: events
 ---
 
 # 参加者
+
+## [@nullpon](http://www.none-style.jp/)
+
+* [すごい広島のロゴを作成してみました。](https://github.com/great-h/great-h.github.io/issues/69)
