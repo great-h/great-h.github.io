@@ -21,3 +21,7 @@ categories: events
 ## [@moriC](https://twitter.com/CentBoss)
 
 * [FuelPHPで生SQLを使う方法を調べる](http://blog.mori-theta.net/?p=198)
+
+## [@pecosantoyobe](https://twitter.com/pecosantoyobe)
+
+* [すごい広島 #7 #8](http://49.212.143.129/posts/2013-07-10-great-h-7-8.html)
