@@ -17,3 +17,7 @@ categories: events
 ## [@enofujityan](https://twitter.com/enofujityan)
 
 * [Adobe Brackets調査](http://enofujityan.tumblr.com/post/55081637780/adobe-brackets)
+
+## [@moriC](https://twitter.com/CentBoss)
+
+* [FuelPHPで生SQLを使う方法を調べる](http://blog.mori-theta.net/?p=198)
