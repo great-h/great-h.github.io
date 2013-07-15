@@ -25,3 +25,7 @@ categories: events
 ## [@pecosantoyobe](https://twitter.com/pecosantoyobe)
 
 * [すごい広島 #7 #8](http://49.212.143.129/posts/2013-07-10-great-h-7-8.html)
+
+## [@tsuda_ahr](https://twitter.com/tsuda_ahr)
+
+* [WPFで関数グラフを描いてみる](http://ooltcloud.expressweb.jp/201307/article_15211613.html)
