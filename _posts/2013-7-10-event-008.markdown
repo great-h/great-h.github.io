@@ -29,3 +29,7 @@ categories: events
 ## [@akira345](https://twitter.com/akira345)
 
 * [数学文章作法を読む。](http://akira-junkbox.blogspot.jp/2013/07/8.html)
+
+## [@tsuda_ahr](https://twitter.com/tsuda_ahr)
+
+* [WPFで関数グラフを描いてみる](http://ooltcloud.expressweb.jp/201307/article_15211613.html)
