@@ -33,3 +33,12 @@ categories: events
 ## [@tsuda_ahr](https://twitter.com/tsuda_ahr)
 
 * [WPFで関数グラフを描いてみる](http://ooltcloud.expressweb.jp/201307/article_15211613.html)
+
+## [eiel](http://twitter.com/eielh/)
+
+今日も無意味に、いっぱい書いてしまった。
+
+* [すごい広島の参加方法について、コマンドラインを使わずにやる場合の方法を書いてくださったので、トップにリンクはってみた](https://github.com/great-h/great-h.github.io/pull/154)
+* [Funtoo から Gentoo に戻してみた - そんなこと覚えてない](http://blog.eiel.info/blog/2013/07/10/from-funtoo-to-gentoo/)
+* [広島Ruby勉強会 #32 で 発表したこと - ActiveSupport, Jenkins - そんなこと覚えてない](http://blog.eiel.info/blog/2013/07/08/hiroshimarb-32/)
+* [すごい広島 #008 に遊びにいった](http://eielh-life.tumblr.com/post/55081619922/008)
