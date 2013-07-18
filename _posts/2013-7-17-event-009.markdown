@@ -13,3 +13,7 @@ categories: events
 ## [@enofujityan](https://twitter.com/enofujityan)
 
 * [office365　Ｗｅｂセミナー受講環境整備](http://enofujityan.tumblr.com/post/55686781926/office365-web)
+
+## [@ogatomo](https://twitter.com/ogatomo)
+
+* [Rubymotionでjoyboxを使ってみた](http://blog.ogatomo.com/blog/2013/07/18/using-joybox-in-rubymotion/)
