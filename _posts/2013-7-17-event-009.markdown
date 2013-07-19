@@ -17,3 +17,7 @@ categories: events
 ## [@moriC](https://twitter.com/CentBoss)
 
 * [オープンキャンパスのプレゼンを作る](http://blog.mori-theta.net/?p=217)
+
+## [@akira345](https://twitter.com/akira345)
+
+* [Chefのレシピについて、attributeの優先度を実際に試して見ながら調べてみる](http://akira-junkbox.blogspot.jp/2013/07/chefattribute.html)
