@@ -7,8 +7,15 @@ layout: default
 <h2>{{ page.title }}</h2>
 
 <ul>
+  {% if page.atnd %}
   <li><a href="{{ page.atnd }}">atnd</a></li>
+  {% endif %}
+  {% if page.localsearch %}
+  <li><a href="{{ page.localsearch }}">Local Search</a></li>
+  {% endif %}
+  {% if page.togetter %}
   <li><a href="{{ page.togetter}}">togetter</a></li>
+  {% endif %}
 </ul>
 
 
