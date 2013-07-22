@@ -18,7 +18,7 @@ title: 'ルール - すごい広島'
 
 ## やること宣言する
 
-やること宣言には [Github の Issues](https://github.com/great-h/great-h.github.io/issues?state=open) を利用しています。
+やること宣言には [GitHub の Issues](https://github.com/great-h/great-h.github.io/issues?state=open) を利用しています。
 
 やることを `issue` として登録します。
 
@@ -81,7 +81,7 @@ $ git commit -m '記事へのリンクを追加'
 $ git push origin アカウント名
 ```
 
-push をすると Pull Request ができます。Github のページに Pull Request というボタンがあるので、そこから行います。
+push をすると Pull Request ができます。GitHub のページに Pull Request というボタンがあるので、そこから行います。
 しばらく待っていれば、誰かが merge してくれて、反映されます。
 
 TODO
