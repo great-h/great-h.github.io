@@ -21,3 +21,7 @@ categories: events
 ## [@akira345](https://twitter.com/akira345)
 
 * [Chefのレシピについて、attributeの優先度を実際に試して見ながら調べてみる](http://akira-junkbox.blogspot.jp/2013/07/chefattribute.html)
+
+## [@ogatomo](https://twitter.com/ogatomo)
+
+* [Rubymotionでjoyboxを使ってみた](http://blog.ogatomo.com/blog/2013/07/18/using-joybox-in-rubymotion/)
