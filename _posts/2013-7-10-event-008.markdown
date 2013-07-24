@@ -33,3 +33,6 @@ categories: events
 ## [@tsuda_ahr](https://twitter.com/tsuda_ahr)
 
 * [WPFで関数グラフを描いてみる](http://ooltcloud.expressweb.jp/201307/article_15211613.html)
+
+## [@Toro_kun](https://twitter.com/Toro_kun)
+* [?](http://106n.net/toro/blog/?p=1084)
