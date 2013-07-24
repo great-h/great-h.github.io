@@ -9,3 +9,7 @@ categories: events
 ---
 
 # 参加者
+
+# [@enofujityan](https://twitter.com/enofujityan)
+
+* [すごい広島のgithub操作理解](http://enofujityan.tumblr.com/post/56328105687/github)
