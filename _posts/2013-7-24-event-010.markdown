@@ -9,3 +9,7 @@ categories: events
 ---
 
 # 参加者
+
+## [@ogatomo](https://twitter.com/ogatomo)
+
+* [Redmineのプラグイン用の開発環境を作ってみる](http://blog.ogatomo.com/blog/2013/07/24/development-environment-of-redmine-plugin/)
