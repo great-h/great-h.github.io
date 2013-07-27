@@ -18,13 +18,13 @@ title: 'すごい広島'
 
 * お店に迷惑を掛けない
 * 退出自由
-* すごい広島でやることを [Github の Issues](https://github.com/great-h/great-h.github.io/issues?state=open) で宣言する
+* すごい広島でやることを [GitHub の Issues](https://github.com/great-h/great-h.github.io/issues?state=open) で宣言する
 * イベント終了後に blog 記事を書いて、その日のイベントページにプルリクエストを送る
 * エア参加可能です
 
 このルールは **MUST** ではありませんが**気持ち MUST**でお願いします。
 
-Github の利用方法がわからない場合は、他の参加者に気軽に聞いてください。
+GitHub の利用方法がわからない場合は、他の参加者に気軽に聞いてください。
 
 まだ、blogをもっていない場合は、`blog を作成する。` などのタスクを作成して参加してみるのも良いです。
 
