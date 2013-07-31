@@ -42,3 +42,7 @@ categories: events
 * [Funtoo から Gentoo に戻してみた - そんなこと覚えてない](http://blog.eiel.info/blog/2013/07/10/from-funtoo-to-gentoo/)
 * [広島Ruby勉強会 #32 で 発表したこと - ActiveSupport, Jenkins - そんなこと覚えてない](http://blog.eiel.info/blog/2013/07/08/hiroshimarb-32/)
 * [すごい広島 #008 に遊びにいった](http://eielh-life.tumblr.com/post/55081619922/008)
+
+## [@Toro_kun](https://twitter.com/Toro_kun)
+
+* [?](http://106n.net/toro/blog/?p=1084)
