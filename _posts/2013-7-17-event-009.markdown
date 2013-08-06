@@ -25,3 +25,11 @@ categories: events
 ## [@ogatomo](https://twitter.com/ogatomo)
 
 * [Rubymotionでjoyboxを使ってみた](http://blog.ogatomo.com/blog/2013/07/18/using-joybox-in-rubymotion/)
+
+## [eiel](http://eiel.info/)
+
+chef で遊ぼうにも バッテリーがすぐなくなりそうで遊べてない。
+
+* [イベントページのフォーマットについて書いて Pull Request した](https://github.com/great-h/great-h.github.io/pull/173)
+* [すごい広島 #009 に遊びにいきました。- 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/55687499102/009)
+* [シンプルなプロンプトを提供する Zsh Pure を試してみた - そんなこと覚えてない](http://blog.eiel.info/blog/2013/07/17/zsh-pure/)
