@@ -20,3 +20,7 @@ GitHub の Feed を読むという地味なことをしていた。
 
 * [Github の Feed が溜りすぎてやばい。ついでに気になるのをメモっとく - すごい広島 010 - そんなこと覚えてない](http://blog.eiel.info/blog/2013/07/24/github-feed-in-these-days/)
 * [すごい広島 #010 に遊びにいきました。- 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/56328066612/010)
+
+# [@enofujityan](https://twitter.com/enofujityan)
+
+* [すごい広島のgithub操作理解](http://enofujityan.tumblr.com/post/56328105687/github)
