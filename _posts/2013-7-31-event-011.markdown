@@ -3,7 +3,7 @@ layout: event
 title:  "すごい広島 #11"
 date:   2013-07-31 19:00:00
 localsearch: http://local.aguuu.com/events/20896
-togetter:
+togetter: http://togetter.com/li/542127
 place: tullys_main_street
 categories: events
 ---
