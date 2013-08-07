@@ -3,7 +3,7 @@ layout: event
 title:  "すごい広島 #012"
 date:   2013-08-07 18:30:00
 localsearch: http://local.aguuu.com/events/21249
-togetter:
+togetter: http://togetter.com/li/545521
 place: tullys_main_street
 categories: events
 ---
