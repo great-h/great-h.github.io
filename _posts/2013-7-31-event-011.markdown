@@ -3,7 +3,7 @@ layout: event
 title:  "すごい広島 #11"
 date:   2013-07-31 19:00:00
 localsearch: http://local.aguuu.com/events/20896
-togetter:
+togetter: http://togetter.com/li/542127
 place: tullys_main_street
 categories: events
 ---
@@ -13,3 +13,10 @@ categories: events
 ## [@enofujityan](https://twitter.com/enofujityan)
 
 * [無償プロジェクト管理ツール（EPM-X）調査](http://enofujityan.tumblr.com/post/56966945128/epm-x)
+
+## [eiel](http://eiel.info/)
+
+暗号化だけで時間が無くなった。
+
+* [GnuPGで遊ぶ - 暗号化してみる - そんなこと覚えてない](http://blog.eiel.info/blog/2013/07/31/gpg/)
+* [すごい広島 #011 に遊びにいった。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/56967344856/011)
