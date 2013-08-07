@@ -13,3 +13,10 @@ categories: events
 ## [@moriC](https://twitter.com/CentBoss)
 
 * [tmuxが気になったので試してみる](http://blog.mori-theta.net/?p=250)
+
+## [eiel](http://eiel.info/)
+
+配色も弄りたかった…。
+
+* [自分の El-get のワークフロについて整理する - そんなこと覚えてない](http://blog.eiel.info/blog/2013/08/07/el-get/)
+* [すごい広島 #012 に遊びにいった。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/57614570592/012)
