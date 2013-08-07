@@ -13,3 +13,10 @@ categories: events
 ## [@enofujityan](https://twitter.com/enofujityan)
 
 * [無償プロジェクト管理ツール（EPM-X）調査](http://enofujityan.tumblr.com/post/56966945128/epm-x)
+
+## [eiel](http://eiel.info/)
+
+暗号化だけで時間が無くなった。
+
+* [GnuPGで遊ぶ - 暗号化してみる - そんなこと覚えてない](http://blog.eiel.info/blog/2013/07/31/gpg/)
+* [すごい広島 #011 に遊びにいった。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/56967344856/011)
