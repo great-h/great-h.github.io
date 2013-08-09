@@ -1,6 +1,6 @@
 ---
 layout: event
-title:  "すごい広島 #012"
+title:  "すごい広島 #12"
 date:   2013-08-07 18:30:00
 localsearch: http://local.aguuu.com/events/21249
 togetter: http://togetter.com/li/545521
