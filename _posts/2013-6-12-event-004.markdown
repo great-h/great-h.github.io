@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "すごい広島 #4"
-date:   2013-06-12 19:00:00
+date:   2013-06-12 19:00:00 JST
 atnd: http://atnd.org/events/40366
 togetter: http://togetter.com/li/517809
 place: tullys_main_street

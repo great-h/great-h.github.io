@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "すごい広島 #10"
-date:   2013-07-24 19:00:00
+date:   2013-07-24 19:00:00 JST
 localsearch: http://local.aguuu.com/events/20463
 togetter: http://togetter.com/li/538687
 place: tullys_main_street

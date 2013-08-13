@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "すごい広島 #2"
-date:   2013-05-29 19:00:00
+date:   2013-05-29 19:00:00 JST
 atnd: http://atnd.org/events/39927
 togetter: http://togetter.com/li/510364
 place: tullys_main_street
