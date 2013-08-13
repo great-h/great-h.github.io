@@ -20,3 +20,9 @@ categories: events
 
 * [自分の El-get のワークフロについて整理する - そんなこと覚えてない](http://blog.eiel.info/blog/2013/08/07/el-get/)
 * [すごい広島 #012 に遊びにいった。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/57614570592/012)
+
+## [@Toro_kun](https://twitter.com/Toro_kun)
+
+Sublime Text 2の何回目の設定か忘れたけど、まとめてなかったのもあって、設定のついでにブログ化した
+
+* [Sublime Text 2の設定をした（備忘録） - Toroとトロは電子機械の夢を見るか](http://106n.net/toro/blog/?p=1095)
