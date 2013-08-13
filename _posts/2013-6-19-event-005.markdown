@@ -31,7 +31,7 @@ categories: events
 
 ## [@Toro_kun](https://twitter.com/Toro_kun)
 
-* [apacheにmod_rpafをインストールする(アクセス元IPアドレスが127.0.0.1になってしまう対策)](http://106n.net/toro/blog/?p=951)
+* [apacheにmod_rpafをインストールする(アクセス元IPアドレスが127.0.0.1になってしまう対策) - Toroとトロは電子機械の夢を見るか](http://106n.net/toro/blog/?p=951)
 
 ## [@hanapage](https://twitter.com/hanapage)
 

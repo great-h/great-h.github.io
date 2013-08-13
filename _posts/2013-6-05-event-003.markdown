@@ -28,7 +28,7 @@ categories: events
 
 ## [@Toro_kun](https://twitter.com/Toro_kun)
 
-* [CentOS 6.4 x64 にnginxをインストールする](http://106n.net/toro/blog/?p=921)
+* [CentOS 6.4 x64 にnginxをインストールする - Toroとトロは電子機械の夢を見るか](http://106n.net/toro/blog/?p=921)
 
 ## [@NeXTSTEP2OSX](https://twitter.com/NeXTSTEP2OSX)
 
