@@ -1,4 +1,5 @@
 name: すごい広島
+timezone: Asia/Tokyo
 pygments: true
 permalink: none
 markdown: redcarpet
