@@ -18,3 +18,7 @@ categories: events
 * [ReVIEW を試してみる - そんなこと覚えてない](http://blog.eiel.info/blog/2013/08/14/review-setup/)
 * [すごい広島 013 に遊びにいった - 日常と勉強会と広島と。
 ](http://eielh-life.tumblr.com/post/58235465280/013)
+
+## [@yukilab](https://twitter.com/yukilab)
+
+* [Windows8.1でJoystick(GamePad)の状態を取得する](http://yukilab3.blog.fc2.com/blog-entry-26.html)
