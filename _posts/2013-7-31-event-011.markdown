@@ -20,3 +20,7 @@ categories: events
 
 * [GnuPGで遊ぶ - 暗号化してみる - そんなこと覚えてない](http://blog.eiel.info/blog/2013/07/31/gpg/)
 * [すごい広島 #011 に遊びにいった。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/56967344856/011)
+
+## [@pecosantoyobe](https://twitter.com/pecosantoyobe)
+
+* [49.212.143.129 - すごかった広島 #11](http://49.212.143.129/posts/2013-08-21-great-h-11.html)
