@@ -33,3 +33,7 @@ chef で遊ぼうにも バッテリーがすぐなくなりそうで遊べて�
 * [イベントページのフォーマットについて書いて Pull Request した](https://github.com/great-h/great-h.github.io/pull/173)
 * [すごい広島 #009 に遊びにいきました。- 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/55687499102/009)
 * [シンプルなプロンプトを提供する Zsh Pure を試してみた - そんなこと覚えてない](http://blog.eiel.info/blog/2013/07/17/zsh-pure/)
+
+## [@pecosantoyobe](https://twitter.com/pecosantoyobe)
+
+* [49.212.143.129 - すごかった広島 #9](http://49.212.143.129/posts/2013-08-21-great-h-9.html)
