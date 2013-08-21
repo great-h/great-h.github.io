@@ -9,3 +9,7 @@ categories: events
 ---
 
 # 参加者
+
+## [@moriC](https://twitter.com/CentBoss)
+
+* [The RSpec Bookの続きを読んでやってみる](http://blog.mori-theta.net/?p=276)
