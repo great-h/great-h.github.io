@@ -3,7 +3,7 @@ layout: event
 title:  "すごい広島 #14"
 date:   2013-08-21 18:30:00 JST
 localsearch: http://local.aguuu.com/events/22192
-togetter:
+togetter: http://togetter.com/li/552343
 place: tullys_main_street
 categories: events
 ---
