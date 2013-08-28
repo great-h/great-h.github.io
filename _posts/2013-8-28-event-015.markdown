@@ -9,3 +9,6 @@ categories: events
 ---
 
 # 参加者
+## [@moriC](https://twitter.com/CentBoss)
+
+* [Windowストアアプリ講習会を運営しました。](http://blog.mori-theta.net/?p=282)
