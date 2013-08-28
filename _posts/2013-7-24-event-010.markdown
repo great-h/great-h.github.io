@@ -39,4 +39,4 @@ GitHub の Feed を読むという地味なことをしていた。
 
 ## [@hanapage](http://hanapage.wordpress.com/)
 
-* [すごい広島#10 git_rebase_-iについてまとめる](http://hanapage.wordpress.com/2013/07/25/すごい広島10-git_rebase_-iについてまとめる/
+* [すごい広島#10 git_rebase_-iについてまとめる](http://hanapage.wordpress.com/2013/07/25/すごい広島10-git_rebase_-iについてまとめる/)
