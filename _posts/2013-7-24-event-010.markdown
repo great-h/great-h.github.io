@@ -36,3 +36,7 @@ GitHub の Feed を読むという地味なことをしていた。
 ## [@pecosantoyobe](https://twitter.com/pecosantoyobe)
 
 * [49.212.143.129 - すごかった広島 #10](http://49.212.143.129/posts/2013-08-21-great-h-10.html)
+
+## [@hanapage](http://hanapage.wordpress.com/)
+
+* [すごい広島#10 git_rebase_-iについてまとめる](http://hanapage.wordpress.com/2013/07/25/すごい広島10-git_rebase_-iについてまとめる/)
