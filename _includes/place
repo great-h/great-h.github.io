@@ -2,4 +2,8 @@
 {% assign place_address = "中区本通３−９" %}
 {% assign place_name = "タリーズコーヒー広島本通店" %}
 {% assign place_postcode = "7300035" %}
+{% elsif page.place == "soa-r_seminar" %}
+{% assign place_address = "中区広瀬北町３－１１ 和光広瀬ビル 3F" %}
+{% assign place_name = "ソアラ ビジネスポート セミナールーム" %}
+{% assign place_postcode = "7300803" %}
 {% endif %}
