@@ -1,0 +1,12 @@
+---
+layout: event
+title:  "すごい広島 #16"
+date:   2013-09-04 18:00:00 JST
+localsearch: http://local.aguuu.com/events/23237
+togetter:
+place: soa-r_seminar
+categories: events
+---
+
+# 参加者
+
