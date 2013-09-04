@@ -21,3 +21,7 @@ categories: events
 * [中国地方DB勉強会のリポジトリ - GitHub](https://github.com/dbstudychugoku/dbstudychugoku.github.io)
 * [ローカルサーバ起動と同時にブラウザで開く。 - Jekyll とかで。 - そんなこと覚えてない](http://blog.eiel.info/blog/2013/08/28/browse-open-when-rake-preview/)
 * [すごい広島 015 に遊びにいった。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/59578965693/015)
+
+## [@moriC](https://twitter.com/CentBoss)
+
+* [Windowストアアプリ講習会を運営しました。](http://blog.mori-theta.net/?p=282)
