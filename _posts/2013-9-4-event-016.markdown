@@ -10,3 +10,9 @@ categories: events
 
 # 参加者
 
+## [eiel](http://eiel.info/)
+
+たまにはRails関連を。
+
+* [AbstractController を継承して遊ぶ - そんなこと覚えてない](http://blog.eiel.info/blog/2013/09/04/extend-abstract-controller/)
+* [すごい広島 #16 に遊びにいった。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/60271422049/16)
