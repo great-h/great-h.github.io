@@ -15,3 +15,9 @@ categories: events
 * [すごい広島#15 CEDEC2013まとめ – 基調講演-](http://hanapage.wordpress.com/2013/08/28/すごい広島15-cedec2013まとめ-基調講演/)
 * [すごい広島#15 CEDEC2013まとめ – セッション-](http://hanapage.wordpress.com/2013/08/28/すごい広島15-cedec2013まとめ-セッション/)
 
+## [eiel](http://eiel.info/)
+
+* [中国地方DB勉強会のサイトつくった](http://dbstudychugoku.github.io/)
+* [中国地方DB勉強会のリポジトリ - GitHub](https://github.com/dbstudychugoku/dbstudychugoku.github.io)
+* [ローカルサーバ起動と同時にブラウザで開く。 - Jekyll とかで。 - そんなこと覚えてない](http://blog.eiel.info/blog/2013/08/28/browse-open-when-rake-preview/)
+* [すごい広島 015 に遊びにいった。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/59578965693/015)
