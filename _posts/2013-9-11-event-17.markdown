@@ -1,0 +1,11 @@
+---
+layout: event
+title:  "すごい広島 #17"
+date:   2013-09-11 18:00:00 JST
+doorkeeper: http://great-h.doorkeeper.jp/events/5836
+togetter:
+place: tullys_main_street
+categories: events
+---
+
+# 参加者
