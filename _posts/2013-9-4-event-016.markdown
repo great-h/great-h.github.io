@@ -10,3 +10,6 @@ categories: events
 
 # 参加者
 
+## [@moriC](https://twitter.com/CentBoss)
+
+* [TheRspecBookの第８章第９章を読んでやってみる](http://blog.mori-theta.net/?p=294)
