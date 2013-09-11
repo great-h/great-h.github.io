@@ -9,3 +9,6 @@ categories: events
 ---
 
 # 参加者
+## [@moriC](https://twitter.com/CentBoss)
+
+* [sublime-text-2-ruby-testsで遊んでみる](http://blog.mori-theta.net/?p=303)
