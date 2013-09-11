@@ -19,3 +19,7 @@ categories: events
 ## [@moriC](https://twitter.com/CentBoss)
 
 * [sublime-text-2-ruby-testsで遊んでみる](http://blog.mori-theta.net/?p=303)
+
+## [@yukilab](https://twitter.com/yukilab)
+
+* [Windows8.1でJoystickの状態を取得する 2](http://yukilab3.blog.fc2.com/blog-entry-27.html)
