@@ -9,3 +9,10 @@ categories: events
 ---
 
 # 参加者
+
+## [eiel](http://eiel.info/)
+
+Raphael つかって JavaScript で SVG 生成して遊んだ。
+
+* [Raphaelで遊んでみた。 - そんなこと覚えてない](http://blog.eiel.info/blog/2013/09/11/raphaeljs/)
+* [すごい広島 #17 に遊びにいった。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/60927881852/17)
