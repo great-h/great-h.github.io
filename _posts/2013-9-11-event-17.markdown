@@ -12,7 +12,6 @@ categories: events
 
 ## [kanro] (https://twitter.com/messier055)
 
-test 次回また来れたらいいな
+次回また来れたらいいな
 
 * [はつさんかしました] (https://github.com/great-h/great-h.github.io/issues/259)
-
