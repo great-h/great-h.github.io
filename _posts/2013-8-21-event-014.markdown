@@ -20,3 +20,7 @@ categories: events
 ## [@moriC](https://twitter.com/CentBoss)
 
 * [The RSpec Bookの続きを読んでやってみる](http://blog.mori-theta.net/?p=276)
+
+## [@Toro_kun](https://twitter.com/Toro_kun)
+
+* [すごい広島 #14 に参加してきた - Toroとトロは電子機械の夢を見るか](http://106n.net/toro/blog/?p=1123)

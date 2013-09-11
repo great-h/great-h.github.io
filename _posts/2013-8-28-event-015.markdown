@@ -25,3 +25,11 @@ categories: events
 ## [@moriC](https://twitter.com/CentBoss)
 
 * [Windowストアアプリ講習会を運営しました。](http://blog.mori-theta.net/?p=282)
+
+## [tsuda_ahr](https://twitter.com/tsuda_ahr)
+
+エア参加ですらななく、ステルス参加(=Issueすら書いてない)でした。 \# しかも時間外作業 -_-;
+
+* [\[VB.NET\] Invoke と BeginInvoke の違い](http://ooltcloud.expressweb.jp/201308/article_28235524.html)
+* [\[VB.NET\] ワーカースレッドから コントロール(UI スレッド)へのアクセス その1](http://ooltcloud.expressweb.jp/201308/article_29202427.html)
+* [\[VB.NET\] ワーカースレッドから コントロール(UI スレッド)へのアクセス その2](http://ooltcloud.expressweb.jp/201308/article_29211816.html)
