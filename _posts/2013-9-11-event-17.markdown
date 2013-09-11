@@ -15,5 +15,4 @@ categories: events
 test 次回また来れたらいいな
 
 * [はつさんかしました] (https://github.com/great-h/great-h.github.io/issues/259)
-* 
 
