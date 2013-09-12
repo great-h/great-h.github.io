@@ -15,3 +15,7 @@ categories: events
 次回また来れたらいいな
 
 * [はつさんかしました] (https://github.com/great-h/great-h.github.io/issues/259)
+
+## [@moriC](https://twitter.com/CentBoss)
+
+* [sublime-text-2-ruby-testsで遊んでみる](http://blog.mori-theta.net/?p=303)
