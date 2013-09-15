@@ -23,3 +23,10 @@ categories: events
 ## [@yukilab](https://twitter.com/yukilab)
 
 * [Windows8.1でJoystickの状態を取得する 2](http://yukilab3.blog.fc2.com/blog-entry-27.html)
+
+## [eiel](http://eiel.info/)
+
+Raphael つかって JavaScript で SVG 生成して遊んだ。
+
+* [Raphaelで遊んでみた。 - そんなこと覚えてない](http://blog.eiel.info/blog/2013/09/11/raphaeljs/)
+* [すごい広島 #17 に遊びにいった。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/60927881852/17)
