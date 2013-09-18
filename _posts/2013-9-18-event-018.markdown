@@ -3,7 +3,7 @@ layout: event
 title:  "すごい広島 #18"
 date:   2013-09-18 18:00:00 JST
 doorkeeper: http://great-h.doorkeeper.jp/events/5955
-togetter:
+togetter: http://togetter.com/li/566033
 place: tullys_main_street
 categories: events
 ---
