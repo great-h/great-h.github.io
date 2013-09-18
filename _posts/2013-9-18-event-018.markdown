@@ -9,3 +9,9 @@ categories: events
 ---
 
 # 参加者
+
+## [eiel](http://eiel.info/)
+
+風邪引きました。エア参加でごめんなさい。
+
+* [OSC でやる すごい広島のルールについて考えていた](https://github.com/great-h/great-h.github.io/issues/268)
