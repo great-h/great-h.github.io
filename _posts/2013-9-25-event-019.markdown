@@ -1,0 +1,11 @@
+---
+layout: event
+title:  "すごい広島 #19"
+date:   2013-09-25 18:00:00 JST
+doorkeeper: http://great-h.doorkeeper.jp/events/6252
+togetter:
+place: tullys_main_street
+categories: events
+---
+
+# 参加者
