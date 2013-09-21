@@ -3,6 +3,7 @@ layout: event
 title:  "すごい広島 in OSC 2013 Hiroshima"
 date:   2013-10-06 10:00:00 JST
 togetter:
+place: satelight_canpus_hiroshima
 categories: events
 ---
 

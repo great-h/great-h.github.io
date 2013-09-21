@@ -6,4 +6,8 @@
 {% assign place_address = "中区広瀬北町３－１１ 和光広瀬ビル 3F" %}
 {% assign place_name = "ソアラ ビジネスポート セミナールーム" %}
 {% assign place_postcode = "7300803" %}
+{% elsif page.place == "satelight_canpus_hiroshima" %}
+{% assign place_address = "広島県広島市中区大手町１丁目５−３" %}
+{% assign place_name = "サテライトキャンパスひろしま" %}
+{% assign place_postcode = "7300051" %}
 {% endif %}
