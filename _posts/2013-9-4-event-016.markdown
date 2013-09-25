@@ -3,7 +3,7 @@ layout: event
 title:  "すごい広島 #16"
 date:   2013-09-04 18:00:00 JST
 localsearch: http://local.aguuu.com/events/23237
-togetter:
+togetter: http://togetter.com/li/559331
 place: soa-r_seminar
 categories: events
 ---
@@ -13,3 +13,10 @@ categories: events
 ## [@moriC](https://twitter.com/CentBoss)
 
 * [TheRspecBookの第８章第９章を読んでやってみる](http://blog.mori-theta.net/?p=294)
+
+## [eiel](http://eiel.info/)
+
+たまにはRails関連を。
+
+* [AbstractController を継承して遊ぶ - そんなこと覚えてない](http://blog.eiel.info/blog/2013/09/04/extend-abstract-controller/)
+* [すごい広島 #16 に遊びにいった。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/60271422049/16)

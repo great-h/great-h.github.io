@@ -1,0 +1,17 @@
+---
+layout: event
+title:  "すごい広島 #18"
+date:   2013-09-18 18:00:00 JST
+doorkeeper: http://great-h.doorkeeper.jp/events/5955
+togetter: http://togetter.com/li/566033
+place: tullys_main_street
+categories: events
+---
+
+# 参加者
+
+## [eiel](http://eiel.info/)
+
+風邪引きました。エア参加でごめんなさい。
+
+* [OSC でやる すごい広島のルールについて考えていた](https://github.com/great-h/great-h.github.io/issues/268)
