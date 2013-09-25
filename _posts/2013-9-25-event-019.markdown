@@ -21,3 +21,9 @@ categories: events
 OSC 前で忙しいぜ的な。
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/276)
+
+## [Nyoho](http://nyoho.jp)
+
+todo list を欲張りすぎた。
+
+* [Nyoho's todo list for Great Hiroshima #19](https://github.com/great-h/great-h.github.io/issues/281)
