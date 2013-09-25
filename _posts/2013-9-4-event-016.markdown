@@ -20,3 +20,9 @@ categories: events
 
 * [AbstractController を継承して遊ぶ - そんなこと覚えてない](http://blog.eiel.info/blog/2013/09/04/extend-abstract-controller/)
 * [すごい広島 #16 に遊びにいった。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/60271422049/16)
+
+## [@Toro_kun](https://twitter.com/Toro_kun)
+
+MBAにSourceTreeをインストールしました！！！
+
+* [Macに使いやすいgitのGUIであるSourceTreeをインストールした - Toroとトロは電子機械の夢を見るか](http://106n.net/toro/blog/?p=1129)
