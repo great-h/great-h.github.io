@@ -12,6 +12,16 @@ categories: events
 
 ## [eiel](https://github.com/eiel)
 
+記念すべき20回で参加者も多くて良かった。
+エナジードリンクとかライトニングケーブルとかモバイルバッテリーとか買いました。
+付箋でやること宣言するスタイルも試してみました。
+GitHub でコミット間を表現する方法をまた調べてしまった。
+ラジオボタンがラジオボタンたる所以を知った。などなどもりだくさんでした。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/291)
+* [すごい広島のルール説明を修正](https://github.com/great-h/great-h.github.io/pull/306)
+* [すごい広島 #20 に遊びにいった。](http://eielh-life.tumblr.com/post/62904805567/20)
+
 ## [しばいし](https://twitter.com/isabisi1484)
 　
 きょうは楽しかった
