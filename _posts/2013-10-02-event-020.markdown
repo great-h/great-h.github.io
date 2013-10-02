@@ -24,6 +24,9 @@ categories: events
 
 ## [24motz](https://twitter.com/24motz)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/293)
+* [書いた記事 NVDA 日本語版の導入から入力ヘルプまで](http://d.nishimotz.com/archives/1577)
+
 ## [takanashi66](https://twitter.com/takanashi66)
 
 ## [tsuda_ahr](https://twitter.com/tsuda_ahr)
