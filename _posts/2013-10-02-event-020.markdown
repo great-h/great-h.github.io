@@ -12,6 +12,8 @@ categories: events
 
 ## [eiel](https://github.com/eiel)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/291)
+
 ## [しばいし](https://twitter.com/isabisi1484)
 　
 きょうは楽しかった
@@ -20,16 +22,35 @@ categories: events
 
 ## 内山真一
 
+* しっかり質問する
+* 素数を出す小プログラムを作る
+
 ## [furu](https://twitter.com/pecosantoyobe)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/302)
 
 ## [24motz](https://twitter.com/24motz)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/293)
+
 ## [takanashi66](https://twitter.com/takanashi66)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/294)
 
 ## [tsuda_ahr](https://twitter.com/tsuda_ahr)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/298)
+
 ## [@moriC](https://twitter.com/CentBoss)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/300)
 
 ## [@enoki](https://twitter.com/enofujityan)
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/303)
+
+## [moobay9](https://github.com/moobay9)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/305)
+
+## [Torokun](https://github.com/Torokun)
