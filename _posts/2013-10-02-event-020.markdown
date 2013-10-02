@@ -29,3 +29,7 @@ categories: events
 ## [tsuda_ahr](https://twitter.com/tsuda_ahr)
 
 ## [@moriC](https://twitter.com/CentBoss)
+
+## [@enoki](https://twitter.com/enofujityan)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/303)
