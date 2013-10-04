@@ -3,7 +3,7 @@ layout: event
 title:  "すごい広島 #20"
 date:   2013-10-02 18:00:00 JST
 doorkeeper: http://great-h.doorkeeper.jp/events/6343
-togetter:
+togetter: http://togetter.com/li/571849
 place: soa-r_seminar
 categories: events
 ---
