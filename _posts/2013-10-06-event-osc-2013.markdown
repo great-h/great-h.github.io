@@ -2,7 +2,7 @@
 layout: event
 title:  "すごい広島 in OSC 2013 Hiroshima"
 date:   2013-10-06 10:00:00 JST
-togetter:
+togetter: http://togetter.com/li/574737
 place: satellite_campus_hiroshima
 categories: events
 ---
