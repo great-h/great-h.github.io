@@ -26,3 +26,7 @@ categories: events
 MBAにSourceTreeをインストールしました！！！
 
 * [Macに使いやすいgitのGUIであるSourceTreeをインストールした - Toroとトロは電子機械の夢を見るか](http://106n.net/toro/blog/?p=1129)
+
+## [@pecosantoyobe](https://twitter.com/pecosantoyobe)
+
+* [すごい広島 #16 #18 #20 #OSC](http://49.212.143.129/posts/2013-10-09-great-h-16-18-20-osc.html)
