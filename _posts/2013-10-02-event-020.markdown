@@ -30,7 +30,12 @@ GitHub でコミット間を表現する方法をまた調べてしまった。
 
 ## 内山真一
 
+* しっかり質問する
+* 素数を出す小プログラムを作る
+
 ## [furu](https://twitter.com/pecosantoyobe)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/302)
 
 ## [24motz](https://twitter.com/24motz)
 
@@ -39,12 +44,16 @@ GitHub でコミット間を表現する方法をまた調べてしまった。
 
 ## [takanashi66](https://twitter.com/takanashi66)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/294)
+
 ## [tsuda_ahr](https://twitter.com/tsuda_ahr)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/298)
 
 ## [@moriC](https://twitter.com/CentBoss)
 
-卒論の相方も初めてまともに参加して卒論も進んでよかったなー。  
-あと、[@moobay9](https://twitter.com/moobay9)さんも参加してくれたのが嬉しかった！  
+卒論の相方も初めてまともに参加して卒論も進んでよかったなー。
+あと、[@moobay9](https://twitter.com/moobay9)さんも参加してくれたのが嬉しかった！
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/300)
 * [@takanashi66 のお世話とお守りという名の卒論を進める。](http://moric.github.io/blog/2013/10/02/create-my-graduation-thesis-part1/)
@@ -52,3 +61,9 @@ GitHub でコミット間を表現する方法をまた調べてしまった。
 ## [@enoki](https://twitter.com/enofujityan)
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/303)
+
+## [moobay9](https://github.com/moobay9)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/305)
+
+## [Torokun](https://github.com/Torokun)
