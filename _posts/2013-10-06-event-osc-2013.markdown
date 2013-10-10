@@ -2,7 +2,7 @@
 layout: event
 title:  "すごい広島 in OSC 2013 Hiroshima"
 date:   2013-10-06 10:00:00 JST
-togetter:
+togetter: http://togetter.com/li/574737
 place: satellite_campus_hiroshima
 categories: events
 ---
@@ -13,11 +13,15 @@ categories: events
 
 ## 開催時間
 
-OSCの展示中行います。
+OSCの展示中に行います。
 
 ## やること宣言
 
 マシンがない人も見れるようにホワイトボードにも記載します。
+
+**たくさんの人に書いてもらいました。**
+
+![やること宣言](https://f.cloud.github.com/assets/92595/1296282/25a29244-30c4-11e3-9b34-b204d6636b1d.jpg)
 
 ## プルリクエスト処理
 
@@ -49,3 +53,11 @@ LT のあとは息子を連れて市内でしばらく遊びました。主に�
 * スライド: [「YouTube動画の再生回数がわし…気になります!! (きゅふぃーん @OSC 2013 Hiroshima」(Slideshare)](http://www.slideshare.net/YukinoriKitadai/osc-2013-hiroshima-sigh-say-soon-share-version)
 * 息子と市内でしばらく遊ぶという[やること宣言 (Issue #319)](https://github.com/great-h/great-h.github.io/issues/319)
 * 成果物: [Sigh! Say! Soon!](http://sigh-say-soon.herokuapp.com) (Heroku上のRailsアプリ)
+
+## [eiel](http://eiel.info/)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/314)
+* [Hiroshima.rb のスライドアップした](http://www.slideshare.net/TomohikoHimura/ruby-26900494)
+* [第２回 中国DB勉強会に参加したり、喋ったり。 - そんなこと覚えてない](http://blog.eiel.info/blog/2013/10/05/chugokudb-02/) を書いた
+* [第二回 中国地方DB勉強会に遊びにいった。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/63249171892/db) を書いた
+* [ライトニングトークした](http://www.slideshare.net/TomohikoHimura/osc-26941852)
