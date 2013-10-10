@@ -33,9 +33,10 @@ GitHub でコミット間を表現する方法をまた調べてしまった。
 * しっかり質問する
 * 素数を出す小プログラムを作る
 
-## [furu](https://twitter.com/pecosantoyobe)
+## [@pecosantoyobe](https://twitter.com/pecosantoyobe)
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/302)
+* [すごい広島 #16 #18 #20 #OSC](http://49.212.143.129/posts/2013-10-09-great-h-16-18-20-osc.html)
 
 ## [24motz](https://twitter.com/24motz)
 

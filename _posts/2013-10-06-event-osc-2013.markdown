@@ -49,3 +49,7 @@ LT のあとは息子を連れて市内でしばらく遊びました。主に�
 * スライド: [「YouTube動画の再生回数がわし…気になります!! (きゅふぃーん @OSC 2013 Hiroshima」(Slideshare)](http://www.slideshare.net/YukinoriKitadai/osc-2013-hiroshima-sigh-say-soon-share-version)
 * 息子と市内でしばらく遊ぶという[やること宣言 (Issue #319)](https://github.com/great-h/great-h.github.io/issues/319)
 * 成果物: [Sigh! Say! Soon!](http://sigh-say-soon.herokuapp.com) (Heroku上のRailsアプリ)
+
+## [@pecosantoyobe](https://twitter.com/pecosantoyobe)
+
+* [すごい広島 #16 #18 #20 #OSC](http://49.212.143.129/posts/2013-10-09-great-h-16-18-20-osc.html)
