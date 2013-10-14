@@ -10,7 +10,14 @@ categories: events
 
 # 参加者
 
-## [Tomohiko Himura](https://github.com/eiel)
+## [eiel](http://eiel.info/)
+
+いろいろやったけど具体的には「やること宣言」のところにかきました。
+カツ丼食べた。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/323)
+* [すごい広島 #21 に遊びにいった。](http://eielh-life.tumblr.com/post/63558929046/21)
+* [Doorkeeper の参加者一覧を取りたい。 - gist 6899547](https://gist.github.com/eiel/6899547)
 
 ## [furu](http://twitter.com/pecosantoyobe)
 
