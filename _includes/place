@@ -7,7 +7,11 @@
 {% assign place_name = "ソアラ ビジネスポート セミナールーム" %}
 {% assign place_postcode = "7300803" %}
 {% elsif page.place == "satellite_campus_hiroshima" %}
-{% assign place_address = "広島県広島市中区大手町１丁目５−３" %}
+{% assign place_address = "中区大手町１丁目５−３" %}
 {% assign place_name = "サテライトキャンパスひろしま" %}
+{% assign place_postcode = "7300051" %}
+{% elsif page.place == "city_hiroshima_m-plaza-freespace" %}
+{% assign place_address = "中区袋町６番３６号" %}
+{% assign place_name = "広島市まちづくり市民交流プラザ 3Fフリースペース" %}
 {% assign place_postcode = "7300051" %}
 {% endif %}
