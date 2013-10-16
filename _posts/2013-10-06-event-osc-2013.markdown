@@ -21,7 +21,8 @@ OSCの展示中に行います。
 
 **たくさんの人に書いてもらいました。**
 
-![やること宣言](https://f.cloud.github.com/assets/92595/1296282/25a29244-30c4-11e3-9b34-b204d6636b1d.jpg)
+![やること宣言](https://f.cloud.github.com/assets/92595/1341875/a16aa82c-3654-11e3-961f-a3d64599ffae.jpg)
+
 
 ## プルリクエスト処理
 
