@@ -23,6 +23,11 @@ categories: events
 
 ## [松原和也（ゆるふわ系なんとか）](https://twitter.com/Toro_kun)
 
-## [森下智裕](https://github.com/moriC)
+## [moriC](https://github.com/moriC)
+
+バイト帰りで1時間だけだったけど、調べたいこと調べられたしよかったよかった。
+
+* [やること](https://github.com/great-h/great-h.github.io/issues/332)
+* [明日受け取るiPhone 5sに入れたいアプリ](http://moric.github.io/blog/2013/10/09/install-app-for-iphone_5s/)
 
 ## [tsuda_ahr](https://twitter.com/tsuda_ahr)
