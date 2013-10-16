@@ -21,7 +21,12 @@ categories: events
 
 ## [furu](http://twitter.com/pecosantoyobe)
 
-## [松原和也（ゆるふわ系なんとか）](https://twitter.com/Toro_kun)
+## [Toro_kun](https://twitter.com/Toro_kun)
+
+great-h.github.ioサイトから外部へのリンクにtarget=_brankを付けるだけの簡単な作業を行いました。
+
+* [Issue #18](https://github.com/great-h/great-h.github.io/issues/18)
+* [Pull Request](https://github.com/great-h/great-h.github.io/pull/329)
 
 ## [moriC](https://github.com/moriC)
 
