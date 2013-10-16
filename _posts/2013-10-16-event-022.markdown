@@ -9,3 +9,7 @@ categories: events
 ---
 
 # 参加者
+
+## [kt](https://twitter.com/kt_kyoto)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/341)
