@@ -21,5 +21,6 @@ categories: events
 ## [kt](https://twitter.com/kt_kyoto)
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/341)
+* [blog](http://goldbergvariations.tumblr.com/post/64385645381)
 
 ## Jun Kawamura
