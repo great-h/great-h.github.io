@@ -74,3 +74,4 @@ GitHub の利用方法がわからない場合は、他の参加者に気軽に�
 * [JunkBox～主に個人的防備録～](http://akira-junkbox.blogspot.jp)
 * [そんなこと覚えてない](http://blog.eiel.info/)
 * [日常と勉強会と広島と。](http://eielh-life.tumblr.com/)
+* [昔あったまよというもの](http://majosystems.com/)
