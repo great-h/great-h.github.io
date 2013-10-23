@@ -32,3 +32,6 @@ categories: events
 ## [yukilab](http://twitter.com/yukilab)
 
 ## [majosystems](https://github.com/majosystems)
+
+## [akira345](https://github.com/akira345)
+* [Vyattaをつかってみた。（インストール編）](http://akira-junkbox.blogspot.jp/2013/10/vyatta.html)
