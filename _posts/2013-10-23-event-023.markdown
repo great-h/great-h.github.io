@@ -25,3 +25,6 @@ categories: events
 ## [majosystems](https://github.com/majosystems)
 
 ## [nishimotz](https://github.com/nishimotz)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/360)
+* [blog](http://d.nishimotz.com/archives/1601)
