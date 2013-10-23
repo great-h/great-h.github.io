@@ -13,6 +13,10 @@ categories: events
 ## [eiel](https://github.com/eiel)
 
 ## [moriC](https://github.com/moriC)
+入れたいCSSフレームワークを見てたら時間なってた  
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/357)  
+* [移行してみたての素っ気ないブログ](http://moric.github.io/)  
+次週までにある程度見れるように調整してくる！  
 
 ## [Torokun](https://github.com/Torokun)
 
