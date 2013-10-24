@@ -17,11 +17,16 @@ categories: events
 * [やること宣言 - eiel](https://github.com/great-h/great-h.github.io/issues/356)
 * [すごい広島 #23 に遊びにいった。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/64868473004/23)
 
+
 ## [moriC](https://github.com/moriC)
+
 入れたいCSSフレームワークを見てたら時間なってた
+
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/357)
 * [移行してみたての素っ気ないブログ](http://moric.github.io/)
+
 次週までにある程度見れるように調整してくる！
+
 
 ## [Toro_kun](https://twitter.com/Toro_kun)
 
@@ -30,29 +35,39 @@ node.jsでのテスティングフレームワークをインストールして�
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/358)
 * [node.jsのテスティングフレームワークであるjasmine-nodeをインストールして使ってみる - Toroとトロは電子機械の夢を見るか](http://106n.net/toro/blog/?p=1141)
 
+
 ## [miu811](https://github.com/miu811)
+
 初めましてです。初ですがエア参加。。。
 木曜がお仕事お休みなら直接参加したいと思います。よろしくお願いします。
 今日はこれと言って何もできていない。。。
+
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/361)
 * [blog](http://miu811.blogspot.jp/2013/10/23.html)
 
+
 ## [isabisi1484](http://twitter.com/isabisi1484)
+
 
 ## [yukilab](http://twitter.com/yukilab)
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/365)
 * [slideshare](http://www.slideshare.net/ikedashogouki/windows-phone-27583685)
 
+
 ## [majosystems](https://github.com/majosystems)
 
 * 増えた知識1 .hoghogerc のような rc ファイルの rc は [run commands](http://en.wikipedia.org/wiki/Run_commands) の略らしい
 * 増えた知識2 issue 作成からpull request の流れをなんとなく理解した
 
+
 ## [tsuda_ahr](https://twitter.com/tsuda_ahr)
 
+
 ## [akira345](https://github.com/akira345)
+
 * [Vyattaをつかってみた。（インストール編）](http://akira-junkbox.blogspot.jp/2013/10/vyatta.html)
+
 
 ## [nishimotz](https://github.com/nishimotz)
 
