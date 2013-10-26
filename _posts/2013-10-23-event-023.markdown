@@ -38,3 +38,8 @@ categories: events
 
 ## [akira345](https://github.com/akira345)
 * [Vyattaをつかってみた。（インストール編）](http://akira-junkbox.blogspot.jp/2013/10/vyatta.html)
+
+## [nishimotz](https://github.com/nishimotz)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/360)
+* [blog](http://d.nishimotz.com/archives/1601)
