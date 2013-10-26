@@ -13,12 +13,17 @@ categories: events
 ## [eiel](https://github.com/eiel)
 
 ## [moriC](https://github.com/moriC)
-入れたいCSSフレームワークを見てたら時間なってた  
-* [やること宣言](https://github.com/great-h/great-h.github.io/issues/357)  
-* [移行してみたての素っ気ないブログ](http://moric.github.io/)  
-次週までにある程度見れるように調整してくる！  
+入れたいCSSフレームワークを見てたら時間なってた
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/357)
+* [移行してみたての素っ気ないブログ](http://moric.github.io/)
+次週までにある程度見れるように調整してくる！
 
-## [Torokun](https://github.com/Torokun)
+## [Toro_kun](https://twitter.com/Toro_kun)
+
+node.jsでのテスティングフレームワークをインストールしてみた。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/358)
+* [node.jsのテスティングフレームワークであるjasmine-nodeをインストールして使ってみる - Toroとトロは電子機械の夢を見るか](http://106n.net/toro/blog/?p=1141)
 
 ## [miu811](https://github.com/miu811)
 初めましてです。初ですがエア参加。。。
