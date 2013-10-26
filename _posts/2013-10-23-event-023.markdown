@@ -31,6 +31,9 @@ categories: events
 
 ## [yukilab](http://twitter.com/yukilab)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/365)
+* [slideshare](http://www.slideshare.net/ikedashogouki/windows-phone-27583685)
+
 ## [majosystems](https://github.com/majosystems)
 
 * 増えた知識1 .hoghogerc のような rc ファイルの rc は [run commands](http://en.wikipedia.org/wiki/Run_commands) の略らしい
