@@ -24,7 +24,9 @@ categories: events
 ## [furu](http://twitter.com/pecosantoyobe)
 
 ## [moriC](https://github.com/moriC)
+
 Middlemanに感動する３時間
+
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/343)
 * [Middlemanを触ってみる](http://moric.github.io/blog/2013/10/16/middleman/)
 
