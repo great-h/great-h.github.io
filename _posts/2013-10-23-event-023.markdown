@@ -10,7 +10,12 @@ categories: events
 
 # 参加者
 
-## [eiel](https://github.com/eiel)
+## [eiel](http://eiel.info/)
+
+今日こそさくらインターネット…とみせかけて Mavericks で遊ぶ…つもりだったけど Haskell いじってたら終わってしまった。
+
+* [やること宣言 - eiel](https://github.com/great-h/great-h.github.io/issues/356)
+* [すごい広島 #23 に遊びにいった。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/64868473004/23)
 
 ## [moriC](https://github.com/moriC)
 入れたいCSSフレームワークを見てたら時間なってた
