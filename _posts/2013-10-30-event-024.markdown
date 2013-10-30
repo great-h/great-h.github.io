@@ -12,6 +12,15 @@ categories: events
 
 ## [eiel](https://github.com/eiel)
 
+なかなか思うように作業が進められない日々。
+最低限のやりたいことはできた。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/380)
+  * 新しい keynote に関する感想を少し書いてる。
+* [Hiroshima.rb と 広島Ruby勉強会について書いた](https://gist.github.com/eiel/7234071)
+* [すごい広島 #24 に遊びにいった - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/65526520160/)
+
+
 ## [moriC](https://github.com/moriC)
 
 ## [enofujityan](http://twitter.com/enofujityan)
