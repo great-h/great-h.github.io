@@ -31,7 +31,7 @@ def next_event_time
   Date.today.end_of_week(:wednesday) + 18.hours
 end
 
-def last_event_number
+def next_event_number
   @number ||= Dir
     .glob('_posts/*')
     .map { |path| path.match(/event-(\d+).markdown/) }
@@ -43,10 +43,10 @@ end
 
 task :new_event do
   time = next_event_time
-  event_no = '%03d' % last_event_number
+  event_nu = '%03d' % next_event_number
   filename = time.strftime("_posts/%Y-%m-%d-event-#{event_no}.markdown")
   open(filename, 'w') do |io|
-    io.print front_formatter(time, last_event_number)
+    io.print front_formatter(time, next_event_number)
     io.puts <<-STRING
 ---
 
