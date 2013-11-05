@@ -16,6 +16,11 @@ categories: events
 
 ## [enofujityan](http://twitter.com/enofujityan)
 
-## [Torokun](https://github.com/Torokun)
+## [@Toro_kun](https://github.com/Torokun)
+
+11月のHiroshima.rbに申込んだ
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/382)
+* [広島 Ruby 勉強会 #035(Doorkeeper)](http://hiroshimarb.doorkeeper.jp/events/6624)
 
 ## [keitahiraki](https://github.com/keitahiraki)
