@@ -3,7 +3,7 @@ layout: event
 title:  "すごい広島 #24"
 date:   2013-10-30 18:00:00 JST
 doorkeeper: http://great-h.doorkeeper.jp/events/6804
-togetter:
+togetter: http://togetter.com/li/583743
 place: city_hiroshima_m-plaza-freespace
 categories: events
 ---
