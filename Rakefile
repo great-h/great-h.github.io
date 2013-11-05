@@ -28,7 +28,7 @@ end
 
 def next_event_time
   require 'active_support/core_ext'
-  Date.today.end_of_week(:wednesday) + 18.hours
+  Date.today.beginning_of_week(:wednesday) + 1.week + 18.hours
 end
 
 def next_event_number
