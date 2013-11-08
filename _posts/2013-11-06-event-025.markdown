@@ -13,7 +13,13 @@ categories: events
 ## [Nyoho](http://nyoho.jp)
 
 
-## [eiel](https://github.com/eiel)
+## [eiel](http://eiel.info)
+
+後半はプログラミングに夢中だったとさ。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/394)
+* [蓬莱の天津飯を食べにいった。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/66175169664)
+* [広島にコワーキングスペースができたそうです。 - Shake Hands - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/66175419134/shake-hands)
 
 
 ## [moriC](https://github.com/moriC)
