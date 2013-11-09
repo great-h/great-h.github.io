@@ -12,6 +12,11 @@ categories: events
 
 ## [Nyoho](http://nyoho.jp)
 
+今日も #エア参加 できました。
+
+* [やること宣言 (今日の Air 参加でやること · Issue #397)](https://github.com/great-h/great-h.github.io/issues/397)
+* WTM 的に大事なことについての記事: [WTM (WEB TOUCH MEETING) など tm で終わる英数字を OS X でよく打つ人が今すぐ設定すべきたった1つのこと - ワタタツの日記!(2013-11-06)](http://kita.dyndns.org/diary/?date=20131106#p01)
+
 
 ## [eiel](http://eiel.info)
 
