@@ -1,0 +1,11 @@
+---
+layout: event
+title: ! 'すごい広島 #27'
+date: 2013-11-20 18:00:00.000000000 +09:00
+doorkeeper: http://great-h.doorkeeper.jp/events/7172
+togetter:
+place: city_hiroshima_m-plaza-freespace
+categories: events
+---
+
+# 参加者
