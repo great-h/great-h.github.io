@@ -11,7 +11,11 @@ categories: events
 # 参加者
 
 
-# [eiel](https://github.com/eiel)
+# [eiel](http://eiel.info)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/405)
+* [やっと Chef Solo はじめた - そんなこと覚えてない](http://blog.eiel.info/blog/2013/11/13/abc-chef-solo/)
+* [すごい広島 #26 に遊びにいった - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/66876654202/26)
 
 
 # [keitahiraki](https://github.com/keitahiraki)
