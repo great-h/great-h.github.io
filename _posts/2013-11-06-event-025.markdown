@@ -35,6 +35,11 @@ categories: events
 
 ## [enofujityan](http://twitter.com/enofujityan)
 
+PhoneGapを利用したiOSやAndroidアプリの構築の流れを掴むため
+事例サイト読書し内容の理解に努めた。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/396)
+
 
 ## [yukilab](http://twitter.com/yukilab)
 
