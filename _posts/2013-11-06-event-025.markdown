@@ -30,7 +30,9 @@ categories: events
 ## [moriC](https://github.com/moriC)
 
 
-## [Torokun](https://github.com/Torokun)
+## [Torokun](https://twitter.com/Toro_kun)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/391)
 
 
 ## [enofujityan](http://twitter.com/enofujityan)
