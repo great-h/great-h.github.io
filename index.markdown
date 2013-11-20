@@ -11,9 +11,9 @@ title: 'すごい広島'
 ## 場所/時間
 
 * 毎週水曜日 18:00 - 21:00 ぐらいに開催。好きな時に入退出可能です。
-* 基本は[タリーズコーヒー 広島本通り店 （広島県広島市中区本通5-5）](http://as.chizumaru.com/tullys/detailMap?account=tullys&accmd=0&adr=34101&c21=1&bid=91&pgret=2) (現在はだいたいここ)
+* 基本は[広島市まちづくり市民交流プラザ(広島市中区袋町６番３６号)](http://www.cf.city.hiroshima.jp/m-plaza/) (現在はだいたいここ)
 * ソアラ ビジネスポート のセミナールームも月一で利用しています。
-* 参加場所に実際には行かない「エア参加」も可能です (ルールを参照してください)
+* 参加場所に実際には行かない「エア参加」も可能です ([ルール](/rule.html)を参照してください)
 
 ## ルール(概要)
 
@@ -60,7 +60,7 @@ GitHub の利用方法がわからない場合は、他の参加者に気軽に�
 ### すごい広島 参加者の blogたち
 
 * [hanapage](http://hanapage.wordpress.com/)
-* [モリシーのブログ](http://blog.mori-theta.net/)
+* [モリシーのブログ](http://moric.github.io/)
 * [Toroとトロは電子機械の夢を見るか](http://106n.net/toro/blog/)
 * [XAML公国 - 技術開発部](http://yukilab3.blog.fc2.com/)
 * [えのふじちゃん日記](http://enofujityan.tumblr.com/)
