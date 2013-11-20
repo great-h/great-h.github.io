@@ -13,6 +13,10 @@ categories: events
 
 ## [keziyajones](https://github.com/keziyajones)
 
+GitHuBで使い方を覚えます
+
+[やることリスト](https://github.com/great-h/great-h.github.io/issues/424)
+
 
 ## [eiel](https://github.com/eiel)
 
