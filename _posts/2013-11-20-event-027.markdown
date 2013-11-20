@@ -24,3 +24,7 @@ categories: events
 
 
 ## [moriC](https://github.com/moriC)
+
+* トップページの部分の修正はこまめにやったほうがいいね
+
+[やることリスト](https://github.com/great-h/great-h.github.io/issues/416)
