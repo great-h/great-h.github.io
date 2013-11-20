@@ -64,7 +64,7 @@ GitHub の利用方法がわからない場合は、他の参加者に気軽に�
 * [Toroとトロは電子機械の夢を見るか](http://106n.net/toro/blog/)
 * [XAML公国 - 技術開発部](http://yukilab3.blog.fc2.com/)
 * [えのふじちゃん日記](http://enofujityan.tumblr.com/)
-* [49.212.143.129](http://49.212.143.129/)
+* [49.212.143.129](http://tfrkd.org/)
 * [ワタタツの日記!](http://kita.dyndns.org/diary/)
 * [Fragments of development.](http://ykumano.tumblr.com/)
 * [tkt/勉強会・セミナー参加メモ](http://tktstudy.blogspot.jp/)
