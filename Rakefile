@@ -14,11 +14,12 @@ task :preview do
 end
 
 def front_formatter(datetime, event_no)
+  time_str = datetime.strftime("%Y-%m-%d %H:%M:%S %Z")
   require 'yaml'
   {
     layout: 'event',
     title: "すごい広島 ##{event_no}",
-    date: datetime,
+    date: time_str,
     doorkeeper: nil,
     togetter: nil,
     place: 'city_hiroshima_m-plaza-freespace',
@@ -43,7 +44,7 @@ end
 
 task :new_event do
   time = next_event_time
-  event_nu = '%03d' % next_event_number
+  event_no = '%03d' % next_event_number
   filename = time.strftime("_posts/%Y-%m-%d-event-#{event_no}.markdown")
   open(filename, 'w') do |io|
     io.print front_formatter(time, next_event_number)
