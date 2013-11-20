@@ -28,3 +28,10 @@ categories: events
 * トップページの部分の修正はこまめにやったほうがいいね
 
 [やることリスト](https://github.com/great-h/great-h.github.io/issues/416)
+
+
+## [ICHI-MICHI](https://github.com/ICHI-MICHI)
+
+* GitHubの使い方を覚えます
+
+[やることリスト](https://github.com/great-h/great-h.github.io/issues/419)
