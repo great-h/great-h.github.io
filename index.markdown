@@ -20,7 +20,7 @@ title: 'すごい広島'
 * お店に迷惑を掛けない
 * 退出自由
 * すごい広島でやることを [GitHub の Issues](https://github.com/great-h/great-h.github.io/issues?state=open) で宣言する
-* 一度は Pull Request を行う。名前を書いて感想を書くだけでもOK。
+* 一度は [Pull Request](https://github.com/great-h/great-h.github.io/pulls) を行う。名前を書いて感想を書くだけでもOK。
 
 GitHub の利用方法がわからない場合は、他の参加者に気軽に聞いてください。
 
