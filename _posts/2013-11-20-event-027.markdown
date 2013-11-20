@@ -25,6 +25,7 @@ categories: events
 
 ## [moriC](https://github.com/moriC)
 
+
 * トップページの部分の修正はこまめにやったほうがいいね
 
 [やることリスト](https://github.com/great-h/great-h.github.io/issues/416)
@@ -35,3 +36,7 @@ categories: events
 * GitHubの使い方を覚えます
 
 [やることリスト](https://github.com/great-h/great-h.github.io/issues/419)
+
+## [tsuda_ahr](https://twitter.com/tsuda_ahr)
+
+* [C言語の初期値](http://ooltcloud.expressweb.jp/201311/article_21003955.html)
