@@ -16,6 +16,14 @@ categories: events
 
 ## [eiel](https://github.com/eiel)
 
+説明をモリシーに任せて、雑務に励んでいたアカウントがこちらになります。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/418)
+* [Rails::Application を参照できてない…なぜだ。 #1 - Hiroshima.rb のグループに質問がきていたので回答した](https://github.com/k2works/rails_bootstrap/pull/2)
+* [オープンセミナ2014@広島のサイトに協賛の情報を記述(たたき台)を書いた](https://github.com/osh-2014/osh-2014.github.com/pull/9)
+* [すごい広島 #27 に遊びにいった。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/67623906010/27)
+* [GitHub からの通知が迷惑メールになった - 見ないリポジトリは Unwatch しよう - そんなこと覚えてない](http://blog.eiel.info/blog/2013/11/21/github-notifications-is-not-spam/)
+
 
 ## [Torokun](https://github.com/Torokun)
 
