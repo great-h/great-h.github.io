@@ -3,7 +3,7 @@ layout: event
 title: ! 'すごい広島 #27'
 date: '2013-11-20 18:00:00 JST'
 doorkeeper: http://great-h.doorkeeper.jp/events/7172
-togetter:
+togetter: http://togetter.com/li/592876
 place: city_hiroshima_m-plaza-freespace
 categories: events
 ---
