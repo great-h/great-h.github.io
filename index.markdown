@@ -32,10 +32,12 @@ GitHub の利用方法がわからない場合は、他の参加者に気軽に�
 ## 活動履歴
 
 <ul class="posts">
-{% for post in site.posts %}
+{% for post in site.posts limit:5 %}
 <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
+
+[すべてみる](/archives.html)
 
 ## リンク
 
