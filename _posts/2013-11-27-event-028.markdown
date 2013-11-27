@@ -16,6 +16,18 @@ categories: events
 
 ## [eiel](https://github.com/eiel)
 
+furu が一応よってたので勝手に追記してみた。
+人見知り合戦が起きてた気がする。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/433)
+* [すごい広島の活動履歴が長くなってきたので最新5件のみ表示するようにした](https://github.com/great-h/great-h.github.io/pull/437)
+* [広島Webシステム開発勉強会 2013年11月 に参加した。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/68254481793/web-2013-11)
+* [Dart で遊んだ - そんなこと覚えてない](http://blog.eiel.info/blog/2013/11/27/dart/)
+* [すごい広島 #28 に遊びにいった。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/68264721847/28)
+
+
+## [furu](https://github.com/furu)
+
 
 ## [moriC](https://github.com/moriC)
 
