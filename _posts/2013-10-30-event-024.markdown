@@ -35,3 +35,8 @@ categories: events
 ## [kt](https://twitter.com/kt_kyoto)
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/377)
+
+## [takata](https://github.com/takata)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/383)
+* [広島サーバユーザ友の会(仮称) 第11回勉強会 - Cloudstackをみんなでつくってみよう！](http://atnd.org/events/45041)
