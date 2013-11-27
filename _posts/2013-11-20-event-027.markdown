@@ -22,7 +22,12 @@ GitHuBで使い方を覚えます
 ## [eiel](https://github.com/eiel)
 
 
-## [Torokun](https://github.com/Torokun)
+## [@Toro_kun](https://twitter.com/Toro_kun)
+
+すごい広島でやりたいことを貯めておくリストを作った。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/423)
+* [やりたいことリスト](https://gist.github.com/Torokun/7561148)
 
 
 ## [pecosantoyobe](http://twitter.com/pecosantoyobe)
