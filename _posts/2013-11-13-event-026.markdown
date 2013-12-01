@@ -11,28 +11,33 @@ categories: events
 # 参加者
 
 
-# [eiel](http://eiel.info)
+## [eiel](http://eiel.info)
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/405)
 * [やっと Chef Solo はじめた - そんなこと覚えてない](http://blog.eiel.info/blog/2013/11/13/abc-chef-solo/)
 * [すごい広島 #26 に遊びにいった - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/66876654202/26)
 
 
-# [keitahiraki](https://github.com/keitahiraki)
+## [keitahiraki](https://github.com/keitahiraki)
 
 
-# [miu811](https://github.com/miu811)
+## [miu811](https://github.com/miu811)
 
 * [すごい広島　#26](http://miu811.blogspot.jp/2013/11/26.html)
 
 
-# [Torokun](https://github.com/Torokun)
+## [@Toro_kun](https://twitter.com/Toro_kun)
+
+プレゼンで使えるフリー素材を調べる
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/403)
+* [プレゼンに使えるクオリティの高い写真素材　無料サイト３つ - なるスラBLOG](http://blog.narusura.com/3-free-photo-site.html)
 
 
-# [moriC](https://github.com/moriC)
+## [moriC](https://github.com/moriC)
 
 
-# [fujioenoki](https://github.com/fujioenoki)
+## [fujioenoki](https://github.com/fujioenoki)
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/407)
 
