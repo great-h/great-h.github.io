@@ -47,3 +47,8 @@ PhoneGapを利用したiOSやAndroidアプリの構築の流れを掴むため
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/395)
 * [blog](http://yukilab3.blog.fc2.com/blog-entry-28.html)
+
+
+## [tsda-a](https://github.com/tsuda-a)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/393)
