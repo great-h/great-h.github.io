@@ -77,3 +77,6 @@ GitHub の利用方法がわからない場合は、他の参加者に気軽に�
 * [そんなこと覚えてない](http://blog.eiel.info/)
 * [日常と勉強会と広島と。](http://eielh-life.tumblr.com/)
 * [昔あったまよというもの](http://majosystems.com/)
+* [More Privatizing Profits While Socializing Costs](http://goldbergvariations.tumblr.com/)
+* [KEZIYAJONES](http://keziyajones.jp/)
+* [みうめも](http://miu811.blogspot.jp/)
