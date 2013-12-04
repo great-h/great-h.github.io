@@ -41,6 +41,8 @@ GitHub の利用方法がわからない場合は、他の参加者に気軽に�
 
 ## リンク
 
+* [広島IT勉強会カレンダー(仮)](https://www.google.com/calendar/embed?src=5udlp7brhcnbuv0mq7t0jcmh04@group.calendar.google.com&ctz=Asia/Tokyo)
+
 ### 広島県内 ITコミュニティ
 
 * [WEB TOUCH MEETING](http://webtouchmeeting.com/)<br>デザイナー、プログラマー、営業、経営者と様々な人々が参加する。「自分は知ってる当たり前のことを
