@@ -1,0 +1,11 @@
+---
+layout: event
+title: ! 'すごい広島 #30'
+date: '2013-12-11 18:00:00 JST'
+doorkeeper: http://great-h.doorkeeper.jp/events/7539
+togetter:
+place: city_hiroshima_m-plaza-freespace
+categories: events
+---
+
+# 参加者
