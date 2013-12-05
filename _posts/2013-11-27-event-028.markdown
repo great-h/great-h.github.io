@@ -35,4 +35,11 @@ furu が一応よってたので勝手に追記してみた。
 ## [moriC](https://github.com/moriC)
 
 
-## [Torokun](https://github.com/Torokun)
+## [@Toro_kun](https://twitter.com/Toro_kun)
+
+Webサーバの旧ドメインへのアクセスを新ドメインに転送する設定をした。
+定時ダッシュができなかったのが悔やまれる。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/432)
+* [旧ドメインへのアクセスを新ドメインへ転送するnginxの設定 - Toroとトロは電子機械の夢を見るか](http://106n.net/toro/blog/?p=1154)
+
