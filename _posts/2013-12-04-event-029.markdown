@@ -21,3 +21,8 @@ categories: events
 
 
 ## [Nyoho](https://github.com/Nyoho)
+
+
+## [fujioenoki](https://github.com/fujioenoki)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/451)
