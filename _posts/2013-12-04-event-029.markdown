@@ -21,3 +21,8 @@ categories: events
 
 
 ## [Nyoho](https://github.com/Nyoho)
+
+項目の最初の2つしかできませんでしたが着実に進めました。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/447)
+* [New Relic + coderwall のかっこいい T シャツをゲットした - ワタタツの日記!(2013-12-04)](http://kita.dyndns.org/diary/?date=20131204#p01)
