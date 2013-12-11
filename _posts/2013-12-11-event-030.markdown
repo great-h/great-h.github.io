@@ -22,3 +22,14 @@ categories: events
 * [すごい広島 #30 に遊びにいった - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/69701799730/30)
 
 ## [Nyoho](https://github.com/Nyoho)
+
+
+## [moriC](https://github.com/moriC)
+
+忘年会があるから30分しかいなかったけど、tumblrの感想をまとめてみた。すごく簡単に
+* 複数のアカウントで１つのブログを管理できることがびっくりです。便利ですね。
+* パスワードをつけられて閲覧制限をつけられるのはいいですね。
+* なにより、HTMLを自分で変更できることが驚きでした。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/461)
+
