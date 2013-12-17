@@ -9,3 +9,13 @@ categories: events
 ---
 
 # 参加者
+
+# Air参加
+
+## [tsuda.a](https://twitter.com/tsuda_ahr)
+
+プログラムって腐りやすいよね…
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/471)
+
+* [変数名ローンダリング実験](http://ooltcloud.expressweb.jp/201312/article_18010023.html)
