@@ -13,6 +13,12 @@ categories: events
 
 ## [eiel](https://github.com/eiel)
 
+OSH の準備が予定より遅れ気味
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/449)
+* [広島IT勉強会カレンダー(仮) を追加](https://github.com/great-h/great-h.github.io/pull/452)
+* [すごい広島 #29 に遊びにいった - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/68989513891/29)
+
 
 ## [moriC](https://github.com/moriC)
 
