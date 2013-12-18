@@ -23,6 +23,11 @@ categories: events
 
 ## [moriC](https://github.com/moriC)
 
+とりあえず、簡単にデザインを当てて見栄えを良くしてみた。  
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/381)
+* [少し見栄えを良くしてみたブログ](http://moric.github.io/)
+
 ## [enofujityan](http://twitter.com/enofujityan)
 
 ## [@Toro_kun](https://twitter.com/Toro_kun)
