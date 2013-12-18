@@ -16,3 +16,5 @@ categories: events
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/471)
 * [変数名ローンダリング実験](http://ooltcloud.expressweb.jp/201312/article_18010023.html)
+* [End の使用は信頼を裏切る (VB)](http://ooltcloud.expressweb.jp/201312/article_11223915.html)
+* [Application.Exit の使用は期待を裏切る (VB / WinForm)](http://ooltcloud.expressweb.jp/201312/article_19002212.html)
