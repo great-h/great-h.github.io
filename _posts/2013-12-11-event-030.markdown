@@ -21,7 +21,12 @@ categories: events
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/460)
 * [すごい広島 #30 に遊びにいった - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/69701799730/30)
 
-## [Nyoho](https://github.com/Nyoho)
+
+## [Nyoho](http://nyoho.jp)
+
+あまりできていませんがまた着実に進めました。記事は書いておりません。そろそろ書きたいです。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/467)
 
 
 ## [fujioenoki](https://github.com/fujioenoki)
