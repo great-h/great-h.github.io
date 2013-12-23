@@ -23,7 +23,11 @@ OSH の準備が予定より遅れ気味
 ## [moriC](https://github.com/moriC)
 
 
-## [Akami_kun](http://twitter.com/Akami_kun)
+## [Akami_kun](https://twitter.com/Akami_kun)
+
+tumblrでブログの始め方を調べました。
+
+* [Tumblrでブログを始めよう！ - すごい広島Advent Calendar 2013 5日目 - Akamikunのtumblr](http://akamikun.tumblr.com/post/68979502798/tumblr-advent-calendar-2013-5)
 
 
 ## [Nyoho](https://github.com/Nyoho)
