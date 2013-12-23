@@ -23,6 +23,12 @@ categories: events
 
 ## [eiel](https://github.com/eiel)
 
+mykie.el を試したり serverspec を試したり、DOT言語で遊んだりした。
+どれも触っただけだけど、どれもこれから使えそうなので勉強していきたい。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/475)
+* [すごい広島 #31 に遊びにいった。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/)
+
 
 ## [Torokun](https://github.com/Torokun)
 
