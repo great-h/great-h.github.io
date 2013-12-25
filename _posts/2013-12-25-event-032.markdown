@@ -19,6 +19,10 @@ categories: events
 
 ## [minamiyama1994](https://github.com/minamiyama1994)
 
+[C++勉強会in広島](http://partake.in/events/5ddde1fe-88b7-4541-9f37-02cf4fa0284c)のスライド作成です
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/490)
+* [作成中のスライド](https://docs.google.com/presentation/d/1P9m31wuo2TJ3OvmWxSp6nA9_NvL7riSoIm59CcuNVMw/edit?usp=sharing)
 
 ## [nemumu](https://github.com/nemumu)
 
