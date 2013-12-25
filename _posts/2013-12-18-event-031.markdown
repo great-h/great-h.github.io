@@ -40,3 +40,6 @@ mykie.el を試したり serverspec を試したり、DOT言語で遊んだり�
 
 ## [Nyoho](https://github.com/Nyoho)
 
+## [fujioenoki](https://github.com/fujioenoki)
+
+
