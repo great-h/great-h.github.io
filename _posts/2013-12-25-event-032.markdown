@@ -3,7 +3,7 @@ layout: event
 title: 'すごい広島 #32'
 date: '2013-12-25 18:00:00 JST'
 doorkeeper: http://great-h.doorkeeper.jp/events/7752
-togetter: 
+togetter:
 place: city_hiroshima_m-plaza-freespace
 categories: events
 ---
@@ -24,3 +24,8 @@ categories: events
 
 
 ## [moriC](https://github.com/moriC)
+
+今日も忘年会でちょっと顔を出すしかできなさそう・・・残念
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/491)
+* [tumblrのテンプレートのデザインをいじる](http://moric-life.tumblr.com/post/71078757834/tumblr)
