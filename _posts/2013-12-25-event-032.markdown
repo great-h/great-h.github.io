@@ -27,6 +27,10 @@ categories: events
 
 ## [nemumu](https://github.com/nemumu)
 
+そして課題が残った・・
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/492)
+* [おしい広島をすごくした [すごい広島 #32]](http://nemumu.hateblo.jp/entry/2013/12/26/055614)
 
 ## [moriC](https://github.com/moriC)
 
