@@ -11,7 +11,12 @@ categories: events
 # 参加者
 
 
-## [Torokun](https://github.com/Torokun)
+## [Toro_kun](https://twitter.com/Toro_kun)
+
+daitokaietの開発環境構築についてブログ書きました。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/489)
+* [ソーシャルダイエット！ソーシャルコーディング！ #daitokaiet の開発環境構築 - Toroとトロは電子機械の夢を見るか](http://106n.net/toro/blog/?p=1243)
 
 
 ## [eielh](https://github.com/eiel)
