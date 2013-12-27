@@ -11,7 +11,11 @@ categories: events
 # 参加者
 
 
-## [Torokun](https://github.com/Torokun)
+## [Toro_kun](https://twitter.com/Toro_kun)
+
+node.jsでのスクレイピングの方法が分かりました。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/463)
 
 
 ## [eiel](https://github.com/eiel)
