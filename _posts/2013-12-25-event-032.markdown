@@ -44,3 +44,10 @@ categories: events
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/491)
 * [tumblrのテンプレートのデザインをいじる](http://moric-life.tumblr.com/post/71078757834/tumblr)
+
+## [tsuda_ahr](https://twitter.com/tsuda_ahr)
+
+ネットにつながず、物静かに自分の頭で落ち着いて考えてみた…
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/504)
+* [\[VB.NET\]\[WPF\] タスクバーのアイコンが消えたり消えなかったり](http://ooltcloud.expressweb.jp/201312/article_27000240.html)
