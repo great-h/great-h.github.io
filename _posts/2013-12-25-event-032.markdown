@@ -14,7 +14,13 @@ categories: events
 ## [Torokun](https://github.com/Torokun)
 
 
-## [eielh](https://github.com/eiel)
+## [eiel](http://eiel.info/)
+
+主に Emacs の設定をいじってた。2013年のふりかえりもしてみたけど、全然ふりかえりになってない気がする。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/497)
+* [2013年のふりかえりをする - そんなこと覚えてない](http://blog.eiel.info/blog/2013/12/25/2013/)
+* [すごい広島 #32 に遊びにいった。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/71114961042/32)
 
 
 ## [minamiyama1994](https://github.com/minamiyama1994)
