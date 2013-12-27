@@ -32,9 +32,6 @@ mykie.el を試したり serverspec を試したり、DOT言語で遊んだり�
 * [すごい広島 #31 に遊びにいった。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/)
 
 
-## [Torokun](https://github.com/Torokun)
-
-
 ## [moriC](https://github.com/moriC)
 
 
