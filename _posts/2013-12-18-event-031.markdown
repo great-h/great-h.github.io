@@ -35,7 +35,12 @@ mykie.el を試したり serverspec を試したり、DOT言語で遊んだり�
 ## [moriC](https://github.com/moriC)
 
 
-## [Nyoho](https://github.com/Nyoho)
+## [Nyoho](http://nyoho.jp)
+
+全てではありませんがまた着実に進めました。今回は記事も書けました。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/473)
+* [すごい広島 #31 にエア参加, serverspec を試した。 - ワタタツの日記!(2013-12-18)](http://kita.dyndns.org/diary/?date=20131218)
 
 
 ## [fujioenoki](https://github.com/fujioenoki)
