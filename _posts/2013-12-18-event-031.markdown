@@ -29,7 +29,7 @@ mykie.el を試したり serverspec を試したり、DOT言語で遊んだり�
 どれも触っただけだけど、どれもこれから使えそうなので勉強していきたい。
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/475)
-* [すごい広島 #31 に遊びにいった。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/)
+* [すごい広島 #31 に遊びにいった。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/70382495007/31)
 
 
 ## [moriC](https://github.com/moriC)
