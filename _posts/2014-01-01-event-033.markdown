@@ -3,7 +3,7 @@ layout: event
 title: 'すごい広島 #33'
 date: '2014-01-01 18:00:00 JST'
 doorkeeper: http://great-h.doorkeeper.jp/events/7993
-togetter: 
+togetter:
 place: internet
 categories: events
 ---
@@ -26,7 +26,12 @@ categories: events
 ## [nemumu](https://github.com/nemumu)
 
 
-## [Torokun](https://github.com/Torokun)
+## [Toro_kun](https://twitter.com/Toro_kun)
+
+年越しコーディングで嵌ってた場所をまとめた。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/514)
+* [Cent OS 6のnode.jsでPostgreSQL 9.3を使うための環境構築 - Toroとトロは電子機械の夢を見るか](http://106n.net/toro/blog/?p=1266)
 
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
