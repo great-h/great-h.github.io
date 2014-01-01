@@ -82,3 +82,4 @@ GitHub の利用方法がわからない場合は、他の参加者に気軽に�
 * [More Privatizing Profits While Socializing Costs](http://goldbergvariations.tumblr.com/)
 * [KEZIYAJONES](http://keziyajones.jp/)
 * [みうめも](http://miu811.blogspot.jp/)
+* [tkt/study-log](http://tkt-study.tumblr.com/)
