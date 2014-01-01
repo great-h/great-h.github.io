@@ -3,7 +3,7 @@ layout: event
 title: 'すごい広島 #33'
 date: '2014-01-01 18:00:00 JST'
 doorkeeper: http://great-h.doorkeeper.jp/events/7993
-togetter:
+togetter: http://togetter.com/li/610633
 place: internet
 categories: events
 ---
