@@ -41,6 +41,11 @@ categories: events
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
+年はじめということでtumblrでblogを作ってみた
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/517)
+* [2014/01/01 すごい広島 #33](http://tkt-study.tumblr.com/post/71834975787/20140101-great-h)
+
 
 ## [Nyoho](https://github.com/Nyoho)
 
