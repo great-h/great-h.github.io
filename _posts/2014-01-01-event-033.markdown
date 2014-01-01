@@ -16,6 +16,12 @@ categories: events
 
 ## [eiel](https://github.com/eiel)
 
+良い元旦を満喫して、すごい広島用のプログラムを改良した。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/512)
+* [自動登録で生成される名前やURLから変更する情報を登録 by eiel - Pull Request #523 great-h/great-h.github.io - GitHub](https://github.com/great-h/great-h.github.io/pull/523)
+* [すごい広島 #33 を正月からプレイ。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/71847503595/33)
+
 
 ## [sasakilemonte](http://twitter.com/sasakilemonte)
 
