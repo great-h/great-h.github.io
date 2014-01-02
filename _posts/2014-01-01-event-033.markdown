@@ -57,3 +57,11 @@ categories: events
 
 
 ## [tsuda_ahr](http://twitter.com/tsuda_ahr)
+
+丸めについての復習と、今の処理系の振る舞いの確認、またどの程度やりたいことが実現できるのかを併せて調査。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/516)
+* [\[VB.NET\] 丸めの方法の違い](http://ooltcloud.expressweb.jp/201312/article_31172951.html)
+* [\[VB.NET\] 切り捨て／切り上げと床関数／天井関数,四捨五入と偶数丸め](http://ooltcloud.expressweb.jp/201401/article_01233316.html)
+* [\[VB.NET\] 期待通りに丸められない場合がある](http://ooltcloud.expressweb.jp/201401/article_02003656.html)
+
