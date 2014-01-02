@@ -36,6 +36,11 @@ categories: events
 
 ## [nemumu](https://github.com/nemumu)
 
+ios版はてなブログアプリを触ってみました
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/518)
+* [無料で借りられるレンタルサーバー [すごい広島 #33]](http://nemumu.hateblo.jp/entry/2014/01/02/051036)
+
 
 ## [Toro_kun](https://twitter.com/Toro_kun)
 
