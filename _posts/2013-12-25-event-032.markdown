@@ -56,3 +56,8 @@ daitokaietの開発環境構築についてブログ書きました。
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/504)
 * [\[VB.NET\]\[WPF\] タスクバーのアイコンが消えたり消えなかったり](http://ooltcloud.expressweb.jp/201312/article_27000240.html)
+
+
+## [pecosantoyobe](https://twitter.com/pecosantoyobe)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/498)
