@@ -44,3 +44,8 @@ node.jsでのスクレイピングの方法が分かりました。
 複数のアカウントで１つのブログを管理できることと、閲覧制限をつけられることに驚きました。
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/461)
+
+
+## [pecosantoyobe](https://twitter.com/pecosantoyobe)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/464)
