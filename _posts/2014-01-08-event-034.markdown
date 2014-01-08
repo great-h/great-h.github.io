@@ -25,6 +25,13 @@ categories: events
 
 ## [minamiyama1994](https://github.com/minamiyama1994)
 
+やること宣言と今日やったことです  
+スライドは一応完成してます（細部の詰めとかその辺はまだです）  
+あと、スライド作成以外は手を付けれていません  
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/533)
+* [やったこと](https://docs.google.com/presentation/d/1P9m31wuo2TJ3OvmWxSp6nA9_NvL7riSoIm59CcuNVMw/edit?usp=sharing)
+
 
 ## [pecosantoyobe](http://twitter.com/pecosantoyobe)
 
