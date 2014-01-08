@@ -30,7 +30,7 @@ categories: events
 あと、スライド作成以外は手を付けれていません  
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/533)
-* [やったこと](https://docs.google.com/presentation/d/1P9m31wuo2TJ3OvmWxSp6nA9_NvL7riSoIm59CcuNVMw/edit?usp=sharing)
+* [やったこと](https://docs.google.com/presentation/d/1P9m31wuo2TJ3OvmWxSp6nA9_NvL7riSoIm59CcuNVMw/edit?usp=sharing)（作成したスライドです）
 
 
 ## [pecosantoyobe](http://twitter.com/pecosantoyobe)
