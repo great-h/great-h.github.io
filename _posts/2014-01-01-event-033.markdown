@@ -25,6 +25,8 @@ categories: events
 
 ## [sasakilemonte](http://twitter.com/sasakilemonte)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/510)
+* [sasakilemonte/dx_project](https://github.com/sasakilemonte/dx_project/compare/056c08051a9499ec69124b8ef9ec59a4f37a53f6...efb850285ee457734d19ac46e07033716bde2534)
 
 ## [minamiyama1994](https://github.com/minamiyama1994)
 
