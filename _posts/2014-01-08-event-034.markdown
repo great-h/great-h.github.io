@@ -34,5 +34,7 @@ categories: events
 
 ## [onishida](http://twitter.com/onishida)
 
+* [やること宣言]{https://github.com/great-h/great-h.github.io/issues/539}
+
 
 ## [Nyoho](http://nyoho.jp/)
