@@ -13,6 +13,13 @@ categories: events
 
 ## [eiel](http://eiel.info/)
 
+雨で傘を倒してたら鞄が少しぬれた。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/537)
+* [OSHの協力にセキュリティもみじを追加した](https://github.com/osh-2014/osh-2014.github.com/pull/21)
+* [hiroshimarb gem v0.2.12 をリリースした - hiroshimarb | RubyGems.org](http://rubygems.org/gems/hiroshimarb)
+* [すごい広島 #34 に遊びにいった - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/72666139525/34)
+
 
 ## [Torokun](https://github.com/Torokun)
 
