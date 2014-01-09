@@ -54,3 +54,10 @@ categories: events
 
 
 ## [Nyoho](http://nyoho.jp/)
+
+## [@ogatomo](https://twitter.com/ogatomo)
+
+el-get移行、苦戦しましたがなんとか完了。  
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/530)
+* [Emacsのパッケージ管理をel-getに移行しました](http://blog.ogatomo.com/blog/2014/01/08/migration-to-el-get/)
