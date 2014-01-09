@@ -57,6 +57,7 @@ STRING
   require 'json'
   json = {
           no: next_event_number,
+          datetime: next_event_time
          }.to_json
   open('event.json', 'w') do |io|
     io.puts(json)
