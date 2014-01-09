@@ -34,5 +34,11 @@ categories: events
 
 ## [onishida](http://twitter.com/onishida)
 
+受講者情報変更ページは完成。
+受講者ごとに講座情報を出力するページを作成中。
+集中できました。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/539)
+
 
 ## [Nyoho](http://nyoho.jp/)
