@@ -19,6 +19,11 @@ categories: events
 
 ## [nemumu](https://github.com/nemumu)
 
+ニコニコ動画の動画取得を調べてみました
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/534)
+* [ニコニコ動画の動画URLを取得してみた [すごい広島 #34]](http://nemumu.hateblo.jp/entry/2014/01/09/040642)
+
 
 ## [moriC](https://github.com/moriC)
 
