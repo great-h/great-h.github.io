@@ -3,7 +3,7 @@ layout: event
 title: "すごい広島 #34"
 date: 2014-01-08 18:00:00 JST
 doorkeeper: http://great-h.doorkeeper.jp/events/8081
-togetter: 
+togetter: http://togetter.com/li/613729
 place: city_hiroshima_m-plaza-freespace
 categories: events
 ---
