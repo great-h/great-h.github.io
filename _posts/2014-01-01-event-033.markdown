@@ -61,7 +61,13 @@ ios版はてなブログアプリを触ってみました
 * [2014/01/01 すごい広島 #33](http://tkt-study.tumblr.com/post/71834975787/20140101-great-h)
 
 
-## [Nyoho](https://github.com/Nyoho)
+## [Nyoho](http://nyoho.jp)
+
+正月らしい食生活が出来たのでよかったです。
+その後、Homebrew の Emacs 用 formula も作れたのでよかったです。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/513)
+* [あけまおめで!!!, Homebrew の my formulae レポジトリを作った - すごい広島 #33 - 元日にエア参加にて レポいじり - ワタタツの日記!(2014-01-01)](http://kita.dyndns.org/diary/?date=20140101)
 
 
 ## [tsuda_ahr](http://twitter.com/tsuda_ahr)
