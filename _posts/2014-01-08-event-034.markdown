@@ -21,7 +21,12 @@ categories: events
 * [すごい広島 #34 に遊びにいった - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/72666139525/34)
 
 
-## [Torokun](https://github.com/Torokun)
+## [Toro_kun](https://twitter.com/Toro_kun)
+
+2013/12/11のすごい広島で調べたことをブログに書いてなかったので、今回のすごい広島の時間を使って書きました。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/544)
+* [node.jsでjQueryのようにスクレイピングする方法 - Toroとトロは電子機械の夢を見るか](http://106n.net/toro/blog/?p=1284)
 
 
 ## [nemumu](https://github.com/nemumu)
@@ -37,9 +42,9 @@ categories: events
 
 ## [minamiyama1994](https://github.com/minamiyama1994)
 
-やること宣言と今日やったことです  
-スライドは一応完成してます（細部の詰めとかその辺はまだです）  
-あと、スライド作成以外は手を付けれていません  
+やること宣言と今日やったことです
+スライドは一応完成してます（細部の詰めとかその辺はまだです）
+あと、スライド作成以外は手を付けれていません
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/533)
 * [やったこと](https://docs.google.com/presentation/d/1P9m31wuo2TJ3OvmWxSp6nA9_NvL7riSoIm59CcuNVMw/edit?usp=sharing)（作成したスライドです）
@@ -64,7 +69,7 @@ categories: events
 
 ## [@ogatomo](https://twitter.com/ogatomo)
 
-el-get移行、苦戦しましたがなんとか完了。  
+el-get移行、苦戦しましたがなんとか完了。
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/530)
 * [Emacsのパッケージ管理をel-getに移行しました](http://blog.ogatomo.com/blog/2014/01/08/migration-to-el-get/)
