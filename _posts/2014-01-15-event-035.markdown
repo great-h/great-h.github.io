@@ -13,6 +13,13 @@ categories: events
 
 ## [eiel](http://eiel.info/)
 
+Template Meta Programming の基礎不足なのがわかったので、そのうちリベンジしよう。
+Sensu は引続きどっかでやっとこうと思う。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/562)
+* [FTMPのコミット漏れを発見した。](https://github.com/minamiyama1994/FTMP/issues/1)
+* [すごい広島 #35 に遊びにいった - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/73415301929/35)
+
 
 ## [pecosantoyobe](http://twitter.com/pecosantoyobe)
 
