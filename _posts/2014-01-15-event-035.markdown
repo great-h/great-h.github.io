@@ -28,6 +28,14 @@ categories: events
 
 ## [minamiyama1994](https://github.com/minamiyama1994)
 
+今日やったことです  
+電波と格闘した関係で進捗あまりよろしくないです  
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/559)
+* [議論支援系について（togetter）](http://togetter.com/li/616625)
+* [議論支援系について（github）](https://github.com/minamiyama1994/DiscussionSupportSystem)
+* [Yesodのチュートリアル](http://yannesposito.com/Scratch/en/blog/Yesod-tutorial-for-newbies/)も少し読みました
+
 
 ## [Nyoho](http://nyoho.jp/)
 
