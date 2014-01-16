@@ -38,8 +38,7 @@ def next_event_number
     .map { |path| path.match(/event-(\d+).markdown/) }
     .compact
     .map { |match_object| match_object[1].to_i }
-    .max
-  @number + 1
+    .max + 1
 end
 
 task :new_event do
@@ -53,5 +52,14 @@ task :new_event do
 
 # 参加者
 STRING
+  end
+
+  require 'json'
+  json = {
+          no: next_event_number,
+          datetime: next_event_time
+         }.to_json
+  open('event.json', 'w') do |io|
+    io.puts(json)
   end
 end
