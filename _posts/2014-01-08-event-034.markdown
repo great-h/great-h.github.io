@@ -69,6 +69,12 @@ categories: events
 
 ## [Nyoho](http://nyoho.jp/)
 
+さくらクラウドで Vagrant up して Ansible で provisioning して遊んでいたら、さくらのクラウドさん公式が神対応して下さってうれしかったことを記しました。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/532)
+* [さくらのクラウドの対応が素早く柔軟な神対応で感動した - ワタタツの日記!(2014-01-07)](http://kita.dyndns.org/diary/?date=20140107#p01)
+
+
 ## [@ogatomo](https://twitter.com/ogatomo)
 
 el-get移行、苦戦しましたがなんとか完了。
