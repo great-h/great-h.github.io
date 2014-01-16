@@ -25,6 +25,11 @@ categories: events
 
 ## [nemumu](https://github.com/nemumu)
 
+macの初期設定などをしました
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/558)
+* [macの設定をした [すごい広島 #35]](http://nemumu.hateblo.jp/entry/2014/01/16/031414)
+
 
 ## [minamiyama1994](https://github.com/minamiyama1994)
 
