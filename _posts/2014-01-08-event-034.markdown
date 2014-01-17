@@ -81,3 +81,12 @@ el-get移行、苦戦しましたがなんとか完了。
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/530)
 * [Emacsのパッケージ管理をel-getに移行しました](http://blog.ogatomo.com/blog/2014/01/08/migration-to-el-get/)
+
+
+## [@tsuda_ahr](https://twitter.com/tsuda_ahr)
+
+jquery はあきらめて素の javascript を使って。Wordpress の記事中で Style を操作して引用部分を閉じたり開いたり。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/540)
+* [\[WEB\] ブロック要素を畳む](http://ooltcloud.expressweb.jp/201401/article_18013603.html)
+
