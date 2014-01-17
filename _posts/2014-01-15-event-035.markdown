@@ -27,7 +27,12 @@ Sensu は引続きどっかでやっとこうと思う。
 ## [moriC](https://github.com/moriC)
 
 
-## [Torokun](https://github.com/Torokun)
+## [Toro_kun](https://twitter.com/Toro_kun)
+
+書こう書こうと思ってたけどずっと書けていなかったCobaltBlue3の記事を書いた。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/554)
+* [internavi(カーナビ)とAndroidでBT-DUNをやってみる ( CobaltBlue3編 ) - Toroとトロは電子機械の夢を見るか](http://106n.net/toro/blog/?p=1298)
 
 
 ## [nemumu](https://github.com/nemumu)
@@ -40,8 +45,8 @@ macの初期設定などをしました
 
 ## [minamiyama1994](https://github.com/minamiyama1994)
 
-今日やったことです  
-電波と格闘した関係で進捗あまりよろしくないです  
+今日やったことです
+電波と格闘した関係で進捗あまりよろしくないです
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/559)
 * [議論支援系について（togetter）](http://togetter.com/li/616625)
