@@ -85,3 +85,9 @@
 1. ブラウザで確認
 
   http://&lt;hostname or IP address&gt;:4000/ をブラウザで開いて確認する
+
+## 新しいイベントページ`_posts/YYYY-MM-DD-event-XXX.markdown`の作成方法
+
+```
+$ bundle exec rake new_event
+```
