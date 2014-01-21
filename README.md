@@ -84,7 +84,7 @@
 
 1. ブラウザで確認
 
-  `http://&lt;hostname or IP address&gt;:4000/`をブラウザで開いて確認する<br>
+  `http://<hostname or IP address>:4000/`をブラウザで開いて確認する<br>
   ※環境(GUI環境がある環境)によっては`bundle exec rake preview`時にブラウザを起動して開いてくれます。
 
 ## 新しいイベントページの生成方法
