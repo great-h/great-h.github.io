@@ -55,16 +55,16 @@
 
   ここでbundlerと呼ばれるrubyのパッケージの依存関係を解決するパッケージをインストールしたいところですが、RVMでRubyをインストールした場合はすでに入っているようなので、gem install bundlerはしません。
 
-  ※補足
-  rbenvやソースコードからrubyをインストールした場合は `gem install bundler` してください。
+  ※補足<br>
+  rbenvやソースコードからrubyをインストールした場合は`gem install bundler`してください。
 
 1. epelリポジトリを無効化する（したい場合は）
 
-  `rvm install 2.0.0` の際にlibyaml-develパッケージのインストールがされますが、このときにlibyaml-develのパッケージリポジトリであるepelリポジトリがyumに登録され有効化されているので無効化して他のパッケージに影響を与えないようにします。
+  `rvm install 2.0.0`の際にlibyaml-develパッケージのインストールがされますが、このときにlibyaml-develのパッケージリポジトリであるepelリポジトリがyumに登録され有効化されているので無効化して他のパッケージに影響を与えないようにします。
   ```
   # vi /etc/yum.repos.d/epel.repo
   ```
-  で、/etc/yum.repos.d/epel.repoファイルを開き、 `enabled=1` を `enabled=0` に変更します。
+  で、/etc/yum.repos.d/epel.repoファイルを開き、`enabled=1`を`enabled=0`に変更します。
 
 1. great-hからソースをクローンしてbundle installをする
 
@@ -74,7 +74,7 @@
   $ cd great-h.github.io
   $ bundle install
   ```
-  ※ `git clone git@github.com:great-h/great-h.github.io.git` の箇所はリポジトリをフォークした場合はそのリポジトリに変更してください。
+  ※`git clone git@github.com:great-h/great-h.github.io.git`の箇所はリポジトリをフォークした場合はそのリポジトリに変更してください。
 
 1. 実行
 
@@ -84,11 +84,12 @@
 
 1. ブラウザで確認
 
-  http://&lt;hostname or IP address&gt;:4000/ をブラウザで開いて確認する
+  `http://&lt;hostname or IP address&gt;:4000/`をブラウザで開いて確認する<br>
+  ※環境(GUI環境がある環境)によっては`bundle exec rake preview`時にブラウザを起動して開いてくれます。
 
 ## 新しいイベントページの生成方法
 
-新しいイベントページ`_posts/YYYY-MM-DD-event-XXX.markdown`の生成方法
+新しいイベントページ`_posts/yyyy-mm-dd-event-xxx.markdown`の生成方法
 ```
 $ bundle exec rake new_event
 ```
