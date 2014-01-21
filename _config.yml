@@ -4,3 +4,4 @@ pygments: true
 permalink: none
 markdown: redcarpet
 safe: true
+exclude: ['Gemfile','Gemfile.lock','Rakefile','vendor']
