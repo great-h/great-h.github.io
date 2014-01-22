@@ -46,3 +46,9 @@ mykie.el を試したり serverspec を試したり、DOT言語で遊んだり�
 ## [fujioenoki](https://github.com/fujioenoki)
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/480)
+
+## [mako_wis](https://github.com/makowis)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/479)
+*[#daitokaiet に体重を入力した](https://daitokaiet.herokuapp.com/)
+
