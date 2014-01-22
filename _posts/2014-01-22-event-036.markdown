@@ -36,5 +36,10 @@ categories: events
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
+「自宅で眠ってるUst機材の有効活用方法を検討する」
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/598)
+* [2014/01/22 すごい広島 #36](http://tkt-study.tumblr.com/post/74162852043/20140122-great-h-036)
+
 
 ## [Nyoho](http://nyoho.jp/)
