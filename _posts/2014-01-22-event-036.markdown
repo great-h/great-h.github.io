@@ -13,6 +13,13 @@ categories: events
 
 ## [eiel](http://eiel.info/)
 
+g コマンドの人気に嫉妬
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/593)
+* [すごい広島 #036 に遊びにいった - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/74172775170/036)
+* [2月のHiroshima.rbのイベントページをつくった](http://hiroshimarb.doorkeeper.jp/events/8558)
+* [README.md を少し修正した](https://github.com/great-h/great-h.github.io/pull/599)
+
 
 ## [bandokoichi](http://twitter.com/bandokoichi)
 
