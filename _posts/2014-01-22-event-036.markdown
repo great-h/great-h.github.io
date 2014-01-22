@@ -24,6 +24,11 @@ categories: events
 
 ## [Toro_kun](https://twitter.com/Toro_kun)
 
+体調があんまりよくないので、こんなかんじで。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/587)
+* [オープンセミナー2014@広島のUstreamチャンネル](http://www.ustream.tv/channel/osh2014)を作成
+
 
 ## [miu811](https://github.com/miu811)
 
