@@ -64,3 +64,10 @@ macの初期設定などをしました
 
 
 ## [miu811](https://github.com/miu811)
+
+
+## [fujioenoki](https://github.com/fujioenoki)
+
+ドラッグ＆ドロップでPhoneGapベースのスマホアプリが作れる Intel® XDKの概略使用が理解できた。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/561)
