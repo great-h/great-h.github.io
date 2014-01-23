@@ -33,6 +33,9 @@ categories: events
 
 ## [minamiyama1994](https://github.com/minamiyama1994)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/589)
+* [やったこと：議論支援系処理系作成（まだ途中です）](https://github.com/minamiyama1994/DiscussionSupportSystem/commit/fd9276b1819089d9bc51dce213bbdeb01cd662b8)
+
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
