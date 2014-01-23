@@ -57,7 +57,7 @@ categories: events
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
-* [やること宣言](https://github.com/great-h/great-h.github.io/issues/543#issuecomment-33009437)
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/543)
 
 
 ## [onishida](http://twitter.com/onishida)
