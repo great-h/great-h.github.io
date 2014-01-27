@@ -57,6 +57,7 @@ GitHub の利用方法がわからない場合は、他の参加者に気軽に�
 * [広島マックユーザグループ](http://hiroshima.mac-ug.net/)<br>ほぼ毎月行われているマックの勉強会です。他の勉強会よりも普通のマック利用者向けの勉強会になっています。
 * [日本Androidの会 中国支部](http://www.android-group.jp/index.php?%A5%EF%A1%BC%A5%AD%A5%F3%A5%B0%A5%B0%A5%EB%A1%BC%A5%D7%2F%C3%E6%B9%F1%BB%D9%C9%F4)<br>Androidの会の中国支部です。勉強会などを行われています。最近の活動は不定期です。
 * [中国地方DB勉強会](http://dbstudychugoku.github.io/)<br>隔月程度でDBに関する勉強会を中国地方で開催しています。
+* [すくすくスクラム広島](https://www.facebook.com/Sukusuku.Scrum.Hiroshima)<br>すくすくスクラムの広島支部です。広島でScrum、Agile等について皆さんが経験や情報の共有、また相互に改善や気づきを言い合える場としたいです。
 * [Hiroshima.rb](http://hiroshimarb.github.io/)<br>広島のRubyコミュニティです。Rubyをメインに様々なプログラミング言語やオープンソースソフトウェアを扱うことが多いです。概ね毎月第一土曜日にイベントを行われています。
 
 他にも 広島のITコミュニティがありましたら、[Pull Request](https://github.com/great-h/great-h.github.io/pulls) をお願いします。
