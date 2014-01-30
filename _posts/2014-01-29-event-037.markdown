@@ -13,6 +13,12 @@ categories: events
 
 ## [eiel](http://eiel.info/)
 
+OSHの準備でいっぱいいっぱい。あ、またみんなにレビューしてね☆って言い忘れた。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/614)
+* [3月1日からはじめる勉強会の名前に迷ってる - Togetterまとめ](http://togetter.com/li/622708)
+* [タイムテーブルがおかしいことに気づいてなおしてもらった](https://github.com/osh-2014/osh-2014.github.com/pull/29)
+
 
 ## [pecosantoyobe](http://twitter.com/pecosantoyobe)
 
