@@ -3,7 +3,7 @@ layout: event
 title: "すごい広島 #37"
 date: 2014-01-29 18:00:00 JST
 doorkeeper: http://great-h.doorkeeper.jp/events/8562
-togetter: 
+togetter: http://togetter.com/li/622722
 place: city_hiroshima_m-plaza-freespace
 categories: events
 ---
@@ -21,6 +21,14 @@ categories: events
 
 
 ## [minamiyama1994](https://github.com/minamiyama1994)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/613)
+* 議論支援系の作成の進捗
+    * https://github.com/minamiyama1994/DiscussionSupportSystem/commit/94bfacb9f6f8b44924f2b10a96de26003e53c3a4
+    * https://github.com/minamiyama1994/DiscussionSupportSystem/commit/96d16cde82d8bfae43fd543567e776fe173d24cb
+* [オープンセミナー2014@広島のためのスライド（作成中）](https://docs.google.com/presentation/d/1-Xd4dTHsXM8mOhzUC46qzyU16KyyOI2eXLLSe30ItIU/edit?usp=sharing)
+
+この他TAPLを読むなどしました
 
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
