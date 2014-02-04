@@ -59,6 +59,7 @@ GitHub の利用方法がわからない場合は、他の参加者に気軽に�
 * [中国地方DB勉強会](http://dbstudychugoku.github.io/)<br>隔月程度でDBに関する勉強会を中国地方で開催しています。
 * [すくすくスクラム広島](https://www.facebook.com/Sukusuku.Scrum.Hiroshima)<br>すくすくスクラムの広島支部です。広島でScrum、Agile等について皆さんが経験や情報の共有、また相互に改善や気づきを言い合える場としたいです。
 * [Hiroshima.rb](http://hiroshimarb.github.io/)<br>広島のRubyコミュニティです。Rubyをメインに様々なプログラミング言語やオープンソースソフトウェアを扱うことが多いです。概ね毎月第一土曜日にイベントを行われています。
+* [広島++(設立予定)](http://hiroshima-plus-plus.github.io/)<br>広島のC++コミュニティ(になる予定)です。C++についての様々な情報共有や開発を行っていきたいです。定期的に小規模な勉強会など開催出来たらいいなぁと思っています。
 
 他にも 広島のITコミュニティがありましたら、[Pull Request](https://github.com/great-h/great-h.github.io/pulls) をお願いします。
 
