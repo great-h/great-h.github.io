@@ -81,7 +81,7 @@ GitHub の利用方法がわからない場合は、他の参加者に気軽に�
 * [majosystems](https://github.com/majosystems)
   * [昔あったまよというもの](http://majosystems.com/)
 * [minamiyama1994](minamiyama1994)
-  * [南山まさかずのブログ](http://minamimasa.exblog.jp/)
+  * [南山まさかずのブログ](https://github.com/minamiyama1994)
 * [miu811](https://github.com/miu811)
   * [みうめも](http://miu811.blogspot.jp/)
 * [moriC](https://github.com/moriC)
