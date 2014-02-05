@@ -13,6 +13,8 @@ categories: events
 
 ## [moriC](https://github.com/moriC)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/515)
+
 
 ## [eiel](https://github.com/eiel)
 
