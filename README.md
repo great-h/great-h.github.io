@@ -1,5 +1,5 @@
 [![Dependency Status](https://gemnasium.com/great-h/great-h.github.io.png)](https://gemnasium.com/great-h/great-h.github.io)
-![Gitter](https://idobata.io/organizations/okayamarb/invitation/c2fb1fe5-4ecb-4621-b301-01e72a7326b9)
+[![Gitter chat](https://badges.gitter.im/great-h.png)](https://gitter.im/great-h)
 
 # すごい広島 [http://great-h.github.io/](http://great-h.github.io/)
 
