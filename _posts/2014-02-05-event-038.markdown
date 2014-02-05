@@ -16,13 +16,10 @@ categories: events
 
 ## [minamiyama1994](https://github.com/minamiyama1994)
 
-- [ ] [広島++のGithub Pages](https://github.com/Hiroshima-plus-plus/Hiroshima-plus-plus.github.io)をもっと充実させる
-- [ ] [議論支援系](https://github.com/minamiyama1994/DiscussionSupportSystem)を進捗させる
-- [ ] [FTMP](https://github.com/minamiyama1994/FTMP)にテストを追加する
-- [x] [パスワードユーティリティ](https://github.com/minamiyama1994/password_tools)を作る
+* [パスワードユーティリティ](https://github.com/minamiyama1994/password_tools)を作る
  * [進捗1](https://github.com/minamiyama1994/password_tools/commit/b9080921d8ea737a8e4938014db156f224a13d81)
  * [進捗2](https://github.com/minamiyama1994/password_tools/commit/3e54305853eaf51a81a77ed9c4e13a53433e2514)
-- [x] TAPL1人読書会
+* TAPL1人読書会
 
 
 ## [nemumu](https://github.com/nemumu)
