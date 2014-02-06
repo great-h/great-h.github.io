@@ -19,6 +19,9 @@ categories: events
 
 ## [nemumu](https://github.com/nemumu)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/637)
+* [さくら Base Storageを使ってみた [すごい広島 #38]](http://nemumu.hateblo.jp/entry/2014/02/07/051330)
+
 
 ## [pecosantoyobe](http://twitter.com/pecosantoyobe)
 
