@@ -16,6 +16,11 @@ categories: events
 
 ## [minamiyama1994](https://github.com/minamiyama1994)
 
+* [パスワードユーティリティ](https://github.com/minamiyama1994/password_tools)を作る
+ * [進捗1](https://github.com/minamiyama1994/password_tools/commit/b9080921d8ea737a8e4938014db156f224a13d81)
+ * [進捗2](https://github.com/minamiyama1994/password_tools/commit/3e54305853eaf51a81a77ed9c4e13a53433e2514)
+* TAPL1人読書会
+
 
 ## [nemumu](https://github.com/nemumu)
 
