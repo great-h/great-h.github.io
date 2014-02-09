@@ -31,3 +31,10 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+とにかくお腹が空いていた。trello をキーボードショートカットを覚えなければ。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/634)
+* [すごい広島用の trello を作ってみた](https://trello.com/c7113a6e1fbe40de950e737bae5110a7)
+* [hiroshimarb-gem をリリースした](http://rubygems.org/gems/hiroshimarb)
+* [すごい広島 #38 に遊びにいった - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/75701969006/38)
