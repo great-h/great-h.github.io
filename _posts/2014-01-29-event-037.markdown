@@ -47,6 +47,8 @@ OSHの準備でいっぱいいっぱい。あ、またみんなにレビュー�
 
 ## [moriC](https://github.com/moriC)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/616)
+
 
 ## [Nyoho](http://nyoho.jp/)
 
