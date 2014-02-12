@@ -30,3 +30,12 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+Amazon Route 53 設定が楽すぎて移行が簡単だった。
+sitespec はRubyでの開発に馴れてると直感的に使えてよい。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/654)
+* [クローズできない Issue を Pull Request しまくった](https://github.com/eiel?tab=contributions&from=2014-02-12)
+* [LT駆動開発の事前申し込みページつくった](http://ltdd.doorkeeper.jp/events/9051)
+* [すごい広島のサイトを sitespec に移行しはじめた。](https://github.com/great-h/great-h.github.io/commit/f391fd73fd0cb2421b02ef1440080775f1bf99d9)
+* [すごい広島 #39 に遊びにいった。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/76431045725/39)
