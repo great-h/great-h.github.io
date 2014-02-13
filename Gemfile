@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'github-pages'
+gem 'padrino'
 gem 'sitespec'
 gem 'launchy'
 gem 'activesupport'
