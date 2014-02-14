@@ -16,6 +16,11 @@ categories: events
 
 ## [makowis](https://github.com/makowis)
 
+ICT岡山というイベントに参加してたのでエア参加し損ねる。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/667)
+* [すごい広島のページに自分のブログのリンクを追加した](https://github.com/great-h/great-h.github.io/commit/3778d6d4e0b7feebb99f7b93e969b260488cc6cd)
+
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 

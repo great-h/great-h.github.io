@@ -108,3 +108,5 @@ GitHub の利用方法がわからない場合は、他の参加者に気軽に�
   * [Fragments of development.](http://ykumano.tumblr.com/)
 * [yukilab](https://twitter.com/yukilab)
   * [XAML公国 - 技術開発部](http://yukilab3.blog.fc2.com/)
+* [mako_wis](https://twitter.com/mako_wis)
+  * [makoラボ](http://mako-wis.hatenablog.com/)
