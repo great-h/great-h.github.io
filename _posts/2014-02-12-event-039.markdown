@@ -3,7 +3,7 @@ layout: event
 title: "すごい広島 #39"
 date: 2014-02-12 18:00:00 JST
 doorkeeper: http://great-h.doorkeeper.jp/events/8869
-togetter: 
+togetter: http://togetter.com/li/628715
 place: city_hiroshima_m-plaza-freespace
 categories: events
 ---
