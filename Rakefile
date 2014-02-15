@@ -2,6 +2,9 @@
 require 'bundler/setup'
 require 'thread'
 require 'launchy'
+require 'padrino-core/cli/rake'
+
+PadrinoTasks.init
 
 desc 'preview する。 http://localhost:4000/'
 task :preview do

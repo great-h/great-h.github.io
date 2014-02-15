@@ -1,9 +1,9 @@
 require 'sitespec'
-require 'great_hiroshima'
+require './app/app'
 require 'pry'
 
 Sitespec.configure do
-  self.application = GreatHiroshima.new
+  self.application = GreatHiroshima::App.new
   self.build_path = "_site/"
   self.raise_http_error = true
 end
@@ -12,7 +12,6 @@ describe "Sitespec" do
   include Sitespec
 
   it "generate main page" do
-    get "README.md"
     get "index.html"
     get "rule.html"
     get "archives.html"
