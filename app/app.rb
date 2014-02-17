@@ -90,6 +90,33 @@ class Article
     front_matter_and_body[1]
   end
 
+  def place
+    Place.find(front_matter["place"])
+  end
+
+  def atnd_type
+    return @atnd_type if @atnd_type
+
+    @atnd_type = "none"
+    keys = front_matter.keys
+    %W|atnd localsearch doorkeeper|.each do |type|
+      if keys.include? type
+        @atnd_type = type
+        break
+      end
+    end
+    @atnd_type
+  end
+
+  def atnd_url
+    return if atnd_type == "none"
+    front_matter[atnd_type]
+  end
+
+  def togetter
+    front_matter["togetter"]
+  end
+
   def front_matter
     front_matter_and_body[0]
   end
@@ -103,5 +130,39 @@ class Article
       end
       [matters, content]
     end
+  end
+end
+
+class Place
+  def self.find(key)
+    @places ||= {
+      "tully_main_street" => new(
+        postcode: "7300035",
+        address: "中区本通３−９",
+        name: "タリーズコーヒー広島本通店"),
+      "soa-r_seminar" => new(
+        postcode: "7300803",
+        address: "中区広瀬北町３－１１ 和光広瀬ビル 3F",
+        name: "ソアラ ビジネスポート セミナールーム"),
+      "satellite_campus_hiroshima" => new(
+        postcode:"7300051",
+        address: "中区大手町１丁目５−３",
+        name: "サテライトキャンパスひろしま"),
+      "city_hiroshima_m-plaza-freespace" => new(
+        postcode: "7300051",
+        address: "中区袋町６番３６号",
+        name: "広島市まちづくり市民交流プラザ 3Fフリースペース"),
+      "internet" => new(
+        name: "インターネットのどこか")
+    }
+    @places[key]
+  end
+
+  attr_reader :name, :address, :postcode
+
+  def initialize(name: name, address: address = nil, postcode: postcode = nil)
+    @name = name
+    @address = address
+    @postcode = postcode
   end
 end

@@ -8,6 +8,7 @@ html
         meta content="広島,すごい広島,勉強会,交流会,Meet up,プログラマ,デザイナ" name="Keywords"
         meta content="すごい広島は広島のエンジニアやウェブデザイナーが毎週集まって、 もくもくしたり Hackしたり 読書したり する場所です。" name="Description"
         meta content="すごい広島" name="Author"
+        script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"
         = javascript_include_tag 'application'
         = stylesheet_link_tag :application
   body
@@ -27,5 +28,3 @@ html
               br/
     /! /container
     = partial "analytics"
-    / | {% include jquery %}
-    / | {% include add-target-about-to-outer-link %}
