@@ -1,0 +1,22 @@
+language: ruby
+rvm:
+  - 2.1.0
+after_success:
+  - cd _site
+  - git init
+  - git remote add deploy https://$GH_TOKEN@github.com/great-h/great-h.github.io.git
+  - git add --all
+  - 'git commit -m "Generate Travis JOB $TRAVIS_JOB_NUMBER
+
+https://travis-ci.org/great-h/great-h.github.io/builds/$TRAVIS_BUILD_ID"'
+  - '[ "x$TRAVIS_BRANCH" == "xsource" ] && git push -qf deploy master:gh-page 2>/dev/null'
+branches:
+  except:
+    - master
+env:
+  global:
+    - secure: "Bg6rLdExbqhFnSYEhhvhFangNPHQsnU7f4bG94IMa3jqi/uVVGc+u7U9esvTc+6SAma9+ZRSHRcEH+K1BA9g4Zu+ym89huHNvio3BEa1gVhTmHjcry1mFEBH94YysygMGx9RKahipDn1fhyR0RxvadY8Rq4X6X1+P0rdY2PcQWw="
+    - GIT_COMMITTER_NAME="Tomohiko Himura"
+    - GIT_COMMITTER_EMAIL="eiel.hal@gmail.com"
+    - GIT_AUTHOR_NAME="Tomohiko Himura"
+    - GIT_AUTHOR_EMAIL="eiel.hal@gmail.com"
