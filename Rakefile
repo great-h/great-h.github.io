@@ -2,9 +2,8 @@
 require 'bundler/setup'
 require 'thread'
 require 'launchy'
-require 'padrino-core/cli/rake'
 
-PadrinoTasks.init
+task default: :generate
 
 desc 'preview する。 http://localhost:4000/'
 task :preview do
@@ -13,7 +12,7 @@ task :preview do
     Launchy.open 'http://localhost:4000/'
   end
 
-  sh 'bundle exec jekyll serve --watch'
+  sh 'bundle exec padrino start -p 4000'
 end
 
 def front_formatter(datetime, event_no)
@@ -44,6 +43,7 @@ def next_event_number
     .max + 1
 end
 
+desc 'create next event file'
 task :new_event do
   time = next_event_time
   event_no = '%03d' % next_event_number
@@ -62,7 +62,12 @@ STRING
           no: next_event_number,
           datetime: next_event_time
          }.to_json
-  open('event.json', 'w') do |io|
+  open('public/event.json', 'w') do |io|
     io.puts(json)
   end
+end
+
+desc 'generate site'
+task :generate do
+  sh 'bundle exec rspec'
 end
