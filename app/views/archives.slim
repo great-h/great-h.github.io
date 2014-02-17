@@ -1,0 +1,9 @@
+h1 これまでの活動
+
+ul.posts
+  - articles.each do |article|
+    li
+      span= article.date.strftime("%Y-%m-%d")
+      = " » "
+      a href="/events/event-#{article.no}.html"
+        = article.title

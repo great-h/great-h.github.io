@@ -1,0 +1,31 @@
+doctype
+html
+  head
+    meta charset="utf-8"
+      meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"
+        title= @title
+        meta content="width=device-width" name="viewport"
+        meta content="広島,すごい広島,勉強会,交流会,Meet up,プログラマ,デザイナ" name="Keywords"
+        meta content="すごい広島は広島のエンジニアやウェブデザイナーが毎週集まって、 もくもくしたり Hackしたり 読書したり する場所です。" name="Description"
+        meta content="すごい広島" name="Author"
+        = javascript_include_tag 'application'
+        = stylesheet_link_tag :application
+  body
+    .container
+      .site
+        .header
+          h1.title
+            a href="/" すごい広島
+          a.extra href="/"
+          a.extra href="/archives.html"
+        = yield
+
+        .footer
+          .contact
+            p
+              a href="http://github.com/great-h/"
+              br/
+    /! /container
+    = partial "analytics"
+    / | {% include jquery %}
+    / | {% include add-target-about-to-outer-link %}

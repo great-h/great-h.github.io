@@ -9,6 +9,8 @@ gem 'pry'
 # Component requirements
 gem 'sass'
 gem 'slim'
+gem 'redcarpet'
+gem 'rack-livereload'
 
 # Padrino Stable Gem
 gem 'padrino', '0.12.0'

@@ -1,0 +1,15 @@
+== markdown article.body
+.hoge
+h2 活動履歴
+
+ul class="posts"
+  - articles.each do |article|
+    li
+      span= article.date.strftime("%Y-%m-%d")
+      = " » "
+      a href="/events/event-#{article.no}.html"
+        = article.title
+
+a href="/archives.html" すべてみる
+
+== markdown Article.new("link.markdown").body
