@@ -29,13 +29,13 @@ module GreatHiroshima
     get "/index.html" do
       slim :index, locals: {
         article: Article.new("index.markdown"),
-        articles: recent
+        articles: articles.reverse[0..4]
       }
     end
 
     get "/events/event-:no.html" do |no|
       slim :event, locals: {
-        article: articles[no],
+        article: articles_table[no],
       }
     end
 
@@ -44,10 +44,10 @@ module GreatHiroshima
     end
 
     get "/archives.html" do
-      slim :archives, locals: { articles: articles.values }
+      slim :archives, locals: { articles: articles }
     end
 
-    def articles
+    def articles_table
       unless @articles
         @articles = {}
 
@@ -59,10 +59,8 @@ module GreatHiroshima
       @articles
     end
 
-    def recent
-      articles.keys.reverse[0..4].map do |key|
-        articles[key]
-      end
+    def articles
+      articles_table.values.sort_by { |a| a.date }
     end
   end
 end
