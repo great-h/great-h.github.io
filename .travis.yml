@@ -9,7 +9,7 @@ after_success:
   - 'git commit -m "Generate Travis JOB $TRAVIS_JOB_NUMBER
 
 https://travis-ci.org/great-h/great-h.github.io/builds/$TRAVIS_BUILD_ID"'
-  - '[ "x$TRAVIS_BRANCH" == "xsource" ] && git push -qf deploy master:gh-page 2>/dev/null'
+  - '[ "x$TRAVIS_BRANCH" == "xsource" ] && git push -qf deploy master 2>/dev/null'
 branches:
   except:
     - master
