@@ -3,7 +3,7 @@ layout: event
 title: "すごい広島 #39"
 date: 2014-02-12 18:00:00 JST
 doorkeeper: http://great-h.doorkeeper.jp/events/8869
-togetter: 
+togetter: http://togetter.com/li/628715
 place: city_hiroshima_m-plaza-freespace
 categories: events
 ---
@@ -16,17 +16,33 @@ categories: events
 
 ## [makowis](https://github.com/makowis)
 
+ICT岡山というイベントに参加してたのでエア参加し損ねる。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/667)
+* [すごい広島のページに自分のブログのリンクを追加した](https://github.com/great-h/great-h.github.io/commit/3778d6d4e0b7feebb99f7b93e969b260488cc6cd)
+
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
 
-## [Toro_kun](https://twitter.com/Toro_kun)
-
-
 ## [nemumu](https://github.com/nemumu)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/664)
+* [multipath TCPとはなんぞや [すごい広島 #39]](http://nemumu.hateblo.jp/entry/2014/02/13/014251)
 
 
 ## [pecosantoyobe](http://twitter.com/pecosantoyobe)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/661)
+
 
 ## [eiel](http://eiel.info/)
+
+Amazon Route 53 設定が楽すぎて移行が簡単だった。
+sitespec はRubyでの開発に馴れてると直感的に使えてよい。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/654)
+* [クローズできない Issue を Pull Request しまくった](https://github.com/eiel?tab=contributions&from=2014-02-12)
+* [LT駆動開発の事前申し込みページつくった](http://ltdd.doorkeeper.jp/events/9051)
+* [すごい広島のサイトを sitespec に移行しはじめた。](https://github.com/great-h/great-h.github.io/commit/f391fd73fd0cb2421b02ef1440080775f1bf99d9)
+* [すごい広島 #39 に遊びにいった。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/76431045725/39)
