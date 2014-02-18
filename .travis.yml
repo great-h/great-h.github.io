@@ -2,19 +2,24 @@ language: ruby
 rvm:
   - 2.1.0
 after_success:
-  - cd _site
-  - git init
-  - git remote add deploy git@github.com:great-h/great-h.github.io.git
+  - echo -e "Host github.com\n\tStrictHostKeyChecking no\nIdentityFile ~/.ssh/deploy.key\n" >> ~/.ssh/config
+  - openssl aes-256-cbc -k "$secret" -in .travis/deploy_key.enc -d -a -out deploy.key
+  - cp deploy.key ~/.ssh/
+  - chmod 600 ~/.ssh/deploy.key
+  - git clone git@github.com:great-h/great-h.github.io.git -b master
+  - cd great-h.github.io
+  - cp -a ../_site/ .
   - git add --all
   - 'git commit -m "Generate Travis JOB $TRAVIS_JOB_NUMBER
 
 https://travis-ci.org/great-h/great-h.github.io/builds/$TRAVIS_BUILD_ID"'
-  - '[ "x$TRAVIS_BRANCH" == "xsource" ] && git push -f deploy master'
+  - '[ "x$TRAVIS_BRANCH" == "xexperiment" ] && git push origin master'
 branches:
   except:
     - master
 env:
   global:
+    - secure: "gIC6PLCnYmO29FiGqA1ZpVFsGBWbbdkZJGcBwYL2kyav3fPwdxRe6+RG3WEUfY2qwFnI52Br7pQ4ZClaBD76abObmYFW8Qkd13bgxgYMHFFzDh6ACMoY/JvRu4SXZcqiSi2QzeDTRk8Q825kGNY3QJXb4NiZ9gj8uAR9bNpnqnc="
     - GIT_COMMITTER_NAME="Tomohiko Himura"
     - GIT_COMMITTER_EMAIL="eiel.hal@gmail.com"
     - GIT_AUTHOR_NAME="Tomohiko Himura"
