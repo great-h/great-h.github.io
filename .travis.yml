@@ -24,3 +24,6 @@ env:
     - GIT_COMMITTER_EMAIL="eiel.hal@gmail.com"
     - GIT_AUTHOR_NAME="Tomohiko Himura"
     - GIT_AUTHOR_EMAIL="eiel.hal@gmail.com"
+notifications:
+  webhooks:
+    - https://idobata.io/hook/23b0913b-4122-4521-8478-e841a6a3f871
