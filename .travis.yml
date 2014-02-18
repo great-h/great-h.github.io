@@ -13,7 +13,7 @@ after_success:
   - 'git commit -m "Generate Travis JOB $TRAVIS_JOB_NUMBER
 
 https://travis-ci.org/great-h/great-h.github.io/builds/$TRAVIS_BUILD_ID"'
-  - '[ "x$TRAVIS_BRANCH" == "xexperiment" ] && git push origin master'
+  - '[ "x$TRAVIS_BRANCH" == "xsource" ] && git push origin master'
 branches:
   except:
     - master
