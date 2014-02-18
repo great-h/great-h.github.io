@@ -12,6 +12,7 @@ module GreatHiroshima
     use Rack::LiveReload unless defined?(RSpec)
     use Rack::Static, urls: ["/public"]
 
+    set :slim, pretty: true
     set :markdown, fenced_code_blocks: true
 
     enable :reloader
