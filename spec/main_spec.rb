@@ -5,7 +5,7 @@ require 'pry'
 
 Sitespec.configure do
   self.application = GreatHiroshima::App.new
-  self.build_path = "_site/"
+  self.build_path = "_site"
   self.raise_http_error = true
 end
 
