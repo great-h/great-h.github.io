@@ -11,7 +11,11 @@ categories: events
 # 参加者
 
 
-## [Akami_kun](http://twitter.com/Akami_kun)
+## [Akami_kun](https://github.com/Akamikun)
+
+2ヶ月ぶりの参加してみました。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/685)
 
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
