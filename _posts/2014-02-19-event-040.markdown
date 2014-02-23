@@ -1,0 +1,30 @@
+---
+layout: event
+title: "すごい広島 #40"
+date: 2014-02-19 18:00:00 JST
+doorkeeper: http://great-h.doorkeeper.jp/events/9049
+togetter: http://togetter.com/li/632119
+place: city_hiroshima_m-plaza-freespace
+categories: events
+---
+
+# 参加者
+
+
+## [Akami_kun](https://github.com/Akamikun)
+
+2ヶ月ぶりの参加してみました。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/685)
+
+
+## [takatayoshitake](http://twitter.com/takatayoshitake)
+
+
+## [minamiyama1994](https://github.com/minamiyama1994)
+
+
+## [nemumu](https://github.com/nemumu)
+
+
+## [eiel](http://eiel.info/)

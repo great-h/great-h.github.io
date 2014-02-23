@@ -1,0 +1,9 @@
+---
+:orm: none
+:test: rspec
+:mock: none
+:script: jquery
+:renderer: slim
+:stylesheet: sass
+:namespace: GreatHiroshima
+:migration_format: number

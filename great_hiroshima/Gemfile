@@ -1,16 +1,25 @@
 source 'https://rubygems.org'
 
-gem 'sitespec'
-gem 'launchy'
-gem 'activesupport'
+# Distribute your app as a gem
+# gemspec
+
+# Server requirements
+# gem 'thin' # or mongrel
+# gem 'trinidad', :platform => 'jruby'
+
+# Optional JSON codec (faster performance)
+# gem 'oj'
+
+# Project requirements
 gem 'rake'
-gem 'pry'
 
 # Component requirements
 gem 'sass'
 gem 'slim'
-gem 'redcarpet'
-gem 'rack-livereload'
+
+# Test requirements
+gem 'rspec', :group => 'test'
+gem 'rack-test', :require => 'rack/test', :group => 'test'
 
 # Padrino Stable Gem
 gem 'padrino', '0.12.0'
