@@ -23,6 +23,12 @@ categories: events
 
 ## [minamiyama1994](https://github.com/minamiyama1994)
 
+branchが変わっててちょっと戸惑った
+とりあえず[foxライブラリ](http://www.fox-toolkit.org/)が動かせそうなのでこれで何とか[uchan](https://twitter.com/uchan_nos)氏の顔を立てられそう
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/682)
+* [成果](https://github.com/minamiyama1994/Game-plus-plus/commit/b18fb034afe52c3c3c504e60bbf1218fc450ce45)
+
 
 ## [nemumu](https://github.com/nemumu)
 
