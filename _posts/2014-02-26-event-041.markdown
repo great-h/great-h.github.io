@@ -31,6 +31,11 @@ categories: events
 
 ## [eiel](http://eiel.info/)
 
+Issues との戦いに1時間ぐらいつかっていた。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/703)
+* [少し文章を見直ししてみた by eiel · Pull Request #711 · great-h/great-h.github.io · GitHub](https://github.com/great-h/great-h.github.io/pull/711)
+* [すごい広島 #041に遊びにいった。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/77912557008/041)
 
 ## [keishi3311](http://github.com/keishi3311)
 
