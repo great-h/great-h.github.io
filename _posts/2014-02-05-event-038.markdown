@@ -41,3 +41,10 @@ categories: events
 * [すごい広島用の trello を作ってみた](https://trello.com/c7113a6e1fbe40de950e737bae5110a7)
 * [hiroshimarb-gem をリリースした](http://rubygems.org/gems/hiroshimarb)
 * [すごい広島 #38 に遊びにいった - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/75701969006/38)
+
+
+## [akira345](https://github.com/akira345)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/641)
+* [JunkBox～主に個人的防備録～: 100均に売られている某社製アダプタにそっくりな物をバラしてみた。](http://akira-junkbox.blogspot.jp/2014/01/100.html)
+* [JunkBox～主に個人的防備録～: 超簡易ファンコントローラを自作してみた](http://akira-junkbox.blogspot.jp/2014/01/blog-post.html)
