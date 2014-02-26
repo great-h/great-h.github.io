@@ -30,3 +30,12 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+
+## [keishi3311](http://github.com/keishi3311)
+
+gitとgithub入門しました
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/707)
+* [やったこと](https://github.com/keishi3311) githubアカウントを作りました
+
