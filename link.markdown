@@ -30,7 +30,7 @@
 * [akira345](https://github.com/akira345)
   * [JunkBox～主に個人的防備録～](http://akira-junkbox.blogspot.jp)
   * [JunkBoxWiki](http://www.wicurio.com/junkbox/)
-* [eiel](http:/eiel.info/)
+* [eiel](http://eiel.info/)
   * [そんなこと覚えてない](http://blog.eiel.info/)
   * [日常と勉強会と広島と。](http://eielh-life.tumblr.com/)
 * [fujioenoki](https://github.com/fujioenoki)
