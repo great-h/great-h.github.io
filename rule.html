@@ -9,7 +9,7 @@
         <meta content="すごい広島は広島のエンジニアやウェブデザイナーが毎週集まって、 もくもくしたり Hackしたり 読書したり する場所です。" name="Description" />
         <meta content="すごい広島" name="Author" />
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-        <script src="/javascripts/application.js?1393410697" type="text/javascript"></script><link href="/stylesheets/application.css?1393410758" media="screen" rel="stylesheet" type="text/css" />
+        <script src="/javascripts/application.js?1393596988" type="text/javascript"></script><link href="/stylesheets/application.css?1393597051" media="screen" rel="stylesheet" type="text/css" />
       </meta>
     </meta>
   </head>
@@ -28,21 +28,21 @@
 <h2>基本</h2>
 
 <ul>
-<li>お店に迷惑を掛けない</li>
-<li>退出自由</li>
+<li>周りに迷惑を掛けない</li>
+<li>入退出自由</li>
 <li>エア参加可能</li>
 <li>やることを宣言する</li>
-<li>Webへアウトプットする</li>
+<li>GitHub に Pull Request すること</li>
 </ul>
 
 <h2>参加手順例</h2>
 
 <ol>
-<li>GitHub の Issues でやることを宣言する</li>
+<li>GitHub の Issues  でやることを宣言する</li>
 <li>作成した Issues 番号と自分のIDを元にブランチを作成する</li>
 <li><code>/_posts/yyyy-mm-dd-event-xxx.markdown</code> に「自分の名前」と「作成したIssueへのリンク」を作成する</li>
 <li>Pull Request を出す</li>
-<li>続きをしたり、やることを宣言したことをしたりする。</li>
+<li>やることを宣言したことをしたり、参加者と情報交換したり、地域貢献する</li>
 </ol>
 
 <h2>GitHub の Issues でやることを宣言する</h2>
@@ -50,17 +50,21 @@
 <p>やること宣言には <a href="https://github.com/great-h/great-h.github.io/issues?state=open">GitHub の Issues</a> を利用しています。</p>
 
 <p>やることを <code>issue</code> として登録します。
-他の参加者に自分が何をしているか伝えることができます。</p>
+他の参加者に自分が何をしているか伝えて、話のタネにしたり、自分がどんな人なのかをさりげなく伝えます。</p>
 
 <h3>もっと挑戦してみる</h3>
 
-<p>慣れてきたら Issue を作成する際に <code>label</code> と <code>milestone</code> と <code>assign</code> を設定しましょう。</p>
+<p>この小節は読み飛ばしても構いません。</p>
 
-<p><code>label</code> には <code>やること宣言</code> というのを用意しているのでこれを利用してください。</p>
+<p>Issue を作成するのに慣れたら、Issue に <code>label</code> と <code>milestone</code> と <code>assign</code> を設定してみましょう。</p>
 
-<p><code>milestone</code> には 日付を利用しています。参加した日付の <code>milestone</code> を設定してください。</p>
+<p><code>label</code> には <code>やること宣言</code> というのを用意しているのでこれを利用してください。
+Issue の一覧を表示する際に、このラベルをついているものだけにできます。</p>
 
-<p><code>assign</code> はその <code>issue</code> の担当者です。自分を設定しましょう。</p>
+<p><code>milestone</code> には 日付を利用しています。参加した日付の <code>milestone</code> を設定してください。
+その日のすごい広島のやること宣言が終了しているかどうかの確認に利用しています。</p>
+
+<p><code>assign</code> はその <code>issue</code> の担当者です。自分を設定することになっています。</p>
 
 <h2>作成した Issues 番号と自分のIDを元にブランチを作成する</h2>
 
@@ -108,7 +112,7 @@ Edit から編集を行えます。</p>
 <p>ここから Pull Request してください。
 ボタンを押していくだけでOKです。</p>
 
-<h2>続きをしたり、やることを宣言したことをしたりする。</h2>
+<h2>やることを宣言したことをしたり、参加者と情報交換したり、地域貢献する</h2>
 
 <p>Pull Request ができたらやること宣言したことをしたり、近くの人と会話したりしましょう。
 その際に面白い話などがあれば、自分の Issue にコメントしたりブログにしたりして、再度プルリクエストしたりしましょう。</p>
@@ -117,7 +121,7 @@ Edit から編集を行えます。</p>
 
 <p>pull request をする前に動作確認をしてみましょう。自分のコンピュータ上でウェブサイトを確認できます。</p>
 
-<h4>事前準備</h4>
+<h3>事前準備</h3>
 
 <ul>
 <li>ruby のインストール</li>
@@ -127,9 +131,13 @@ Edit から編集を行えます。</p>
 <h3>プレビューの方法</h3>
 
 <ul>
-<li><code>rake preview</code> の実行</li>
-<li><a href="http://localhost:4000/">http://localhost:4000/</a> にアクセスします。</li>
+<li><code>rake preview</code> の実行します</li>
+<li><a href="http://localhost:4000/">http://localhost:4000/</a> をブラウザでひらきます。</li>
 </ul>
+
+<p>この時、ブラウザを自動で開くようになっています。
+サーバが立ち上がるより速く開くことがあります。
+その場合は更新ボタンを押してください。</p>
 
 <h2>おまけ</h2>
 
