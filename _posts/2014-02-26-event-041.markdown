@@ -28,6 +28,11 @@ categories: events
 
 ## [Toro_kun](https://twitter.com/Toro_kun)
 
+LTDD01のネタに使うblogを書いていました
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/710)
+* [噂のnode.jsで動くビルドシステム gulpを使ってみた「gulpでHello World.」 - Toroとトロは電子機械の夢を見るか](http://106n.net/toro/blog/gulp-try/)
+
 
 ## [eiel](http://eiel.info/)
 
