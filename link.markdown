@@ -22,6 +22,7 @@
 * [Hiroshima.rb](http://hiroshimarb.github.io/)<br>広島のRubyコミュニティです。Rubyをメインに様々なプログラミング言語やオープンソースソフトウェアを扱うことが多いです。概ね毎月第一土曜日にイベントを行われています。
 * [広島++(設立予定)](http://hiroshima-plus-plus.github.io/)<br>広島のC++コミュニティ(になる予定)です。C++についての様々な情報共有や開発を行っていきたいです。定期的に小規模な勉強会など開催出来たらいいなぁと思っています。
 * [LT駆動開発](http://ltdd.doorkeeper.jp/)<br>普段の開発の中で毎月ライトニングトークをすること想定しつつ、本当に毎月ライトニングトークすることで勉強しようという勉強会。勉強会で一番勉強になるのは発表者らしいです。
+* [広島Unity勉強会(設立予定)](http://unity.moto-nari.com/)<br>広島でUnity3Dを学ぼうという活動している会です。勉強会や広報の他に、広島の人がUnityで制作した物の紹介などを行っています。
 
 他にも 広島のITコミュニティがありましたら、[Pull Request](https://github.com/great-h/great-h.github.io/pulls) をお願いします。
 
