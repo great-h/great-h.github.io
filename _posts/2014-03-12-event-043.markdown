@@ -1,0 +1,11 @@
+---
+layout: event
+title: "すごい広島 #43"
+date: 2014-03-12 18:00:00 JST
+doorkeeper: http://great-h.doorkeeper.jp/events/9602
+togetter: 
+place: city_hiroshima_m-plaza-freespace
+categories: events
+---
+
+# 参加者
