@@ -3,7 +3,7 @@ layout: event
 title: "すごい広島 #42"
 date: 2014-03-05 18:00:00 JST
 doorkeeper: http://great-h.doorkeeper.jp/events/9421
-togetter: 
+togetter: http://togetter.com/li/638174
 place: city_hiroshima_m-plaza-freespace
 categories: events
 ---
