@@ -25,6 +25,10 @@ categories: events
 
 ## [nemumu](https://github.com/nemumu)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/700)
+* [Twitterのスパムアカウントを考察する [LTDD 01]](http://www.slideshare.net/nemumu/2-31794766)
+* [Twitterスパムアカウントを考察した　[LT駆動開発 01]](http://nemumu.hateblo.jp/entry/2014/03/02/144519)
+
 
 ## [Toro_kun](https://twitter.com/Toro_kun)
 
