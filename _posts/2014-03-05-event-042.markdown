@@ -24,3 +24,11 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+
+## [Nyoho](http://nyoho.jp/)
+
+初めて Qiita に記事を書いてみました!
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/731)
+* [Emacs - global-set-key したキーが特定の mode-map に取られてしまったときーー! - Qiita](http://qiita.com/NeXTSTEP2OSX/items/ad3f2cef84f88690ddb1)
