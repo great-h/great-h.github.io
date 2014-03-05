@@ -16,6 +16,12 @@ categories: events
 
 ## [Nyoho](http://nyoho.jp/)
 
+当日は何も出来ずに寝落ちしました!
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/701)
+* [かっこいいURLのページ http://nyoho.jp/30-years/](http://nyoho.jp/30-years/) は背景がスライドショーになるようにした。
+* LTDD は[参加できた](https://github.com/LTDD/Sessions/wiki/LT%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA01)!
+* [TimeFlies](http://time-flies.herokuapp.com) をちょっと改良した。
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
