@@ -11,7 +11,9 @@ categories: events
 # 参加者
 
 
-## [enofujityan](http://twitter.com/enofujityan)
+## [fujioenoki](https://github.com/fujioenoki)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/663)
 
 
 ## [makowis](https://github.com/makowis)
@@ -49,3 +51,4 @@ sitespec はRubyでの開発に馴れてると直感的に使えてよい。
 * [LT駆動開発の事前申し込みページつくった](http://ltdd.doorkeeper.jp/events/9051)
 * [すごい広島のサイトを sitespec に移行しはじめた。](https://github.com/great-h/great-h.github.io/commit/f391fd73fd0cb2421b02ef1440080775f1bf99d9)
 * [すごい広島 #39 に遊びにいった。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/76431045725/39)
+
