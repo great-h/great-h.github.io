@@ -22,6 +22,9 @@ categories: events
 
 ## [nemumu](https://github.com/nemumu)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/726)
+* [GitHubとBitbucketでのDeploy keyの違い [すごい広島 #42]](http://nemumu.hateblo.jp/entry/2014/03/12/184610)
+
 
 ## [eiel](http://eiel.info/)
 
