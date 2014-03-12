@@ -24,3 +24,9 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/740)
+* [5374.jp のリンクを付けてみた](https://github.com/great-h/great-h.github.io/pull/745)
+* [すごい広島 #43 に遊びにいった - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/79378074873/43)
