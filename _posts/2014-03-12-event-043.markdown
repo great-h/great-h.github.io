@@ -13,6 +13,11 @@ categories: events
 
 ## [nemumu](https://github.com/nemumu)
 
+少しだけ改装しました
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/742)
+* [nemumu.com](http://nemumu.com)
+
 
 ## [Acto](https://github.com/Acto)
 
