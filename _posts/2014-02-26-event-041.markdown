@@ -13,6 +13,11 @@ categories: events
 
 ## [minamiyama1994](https://github.com/minamiyama1994)
 
+久しぶり？　そんなの関係ない！
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/699)
+* 取り敢えず[件の彼のリポジトリ](https://github.com/keishi3311)を見ている限りGithubの布教には成功したと判断します
+* 勉強会の資料作成、のためのライブラリは、取り敢えず[こんな感じ](https://github.com/minamiyama1994/Game-plus-plus)かなぁとか
 
 ## [Nyoho](http://nyoho.jp/)
 
