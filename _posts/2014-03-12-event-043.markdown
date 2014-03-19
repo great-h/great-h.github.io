@@ -25,7 +25,7 @@ categories: events
 
 ## [eiel](http://eiel.info/)
 
-
+思うほどなにかできてないので、次回はがんばる。
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/740)
 * [5374.jp のリンクを付けてみた](https://github.com/great-h/great-h.github.io/pull/745)
