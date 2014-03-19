@@ -46,3 +46,8 @@ branchが変わっててちょっと戸惑った
 * [すごい広島のサイトを sitespec に変えてみた - そんなこと覚えてない](http://blog.eiel.info/blog/2014/02/19/change-sitespec-for-great-h/)
 * [LT駆動開発という勉強会をはじめるよ - そんなこと覚えてない](http://blog.eiel.info/blog/2014/02/19/start-ltdd/)
 * [すごい広島 #40 に遊びにいった。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/77188649923/40)
+
+
+## [enofujityan](http://twitter.com/enofujityan)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/687)
