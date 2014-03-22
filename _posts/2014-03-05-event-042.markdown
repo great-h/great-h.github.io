@@ -13,6 +13,11 @@ categories: events
 
 ## [minamiyama1994](https://github.com/minamiyama1994)
 
+野生の南山まさかずがやってきた
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/723)
+* [前々々回のIssue](https://github.com/great-h/great-h.github.io/issues/699)[片付けた](https://github.com/great-h/great-h.github.io/pull/757)
+* [勉強会の資料](https://docs.google.com/presentation/d/1eNIjh_7hBD1R27Kg2-bD3nP_jGDmT8NepCx5xxIwDZA/edit?usp=sharing)概ね完成したかなって感じです
 
 ## [keishi3311](https://github.com/keishi3311)
 
