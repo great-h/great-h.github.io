@@ -30,6 +30,9 @@ categories: events
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/713)
+* [LT駆動開発01でLTをした - NTP reflection attack](https://github.com/LTDD/Sessions/wiki/LT%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA01)
+
 
 ## [Acto](https://github.com/Acto)
 
