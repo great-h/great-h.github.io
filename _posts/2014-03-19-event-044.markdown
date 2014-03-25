@@ -25,6 +25,13 @@ categories: events
 
 ## [eiel](http://eiel.info/)
 
+hiroshimarb gem の更新をしました。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/752)
+* [すごい広島#44 に遊びにいった - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/80069688060/44)
+* [hiroshimarb gem v0.3.0 をリリースしました](http://rubygems.org/gems/hiroshimarb)
+  * 変更点はイベントの情報を外部リソースにしました。イベント情報を更新するたびに gem を更新する必要がありましたが、今後は不要になりました。
+
 
 ## [tsuda_ahr](http://twitter.com/tsuda_ahr)
 
