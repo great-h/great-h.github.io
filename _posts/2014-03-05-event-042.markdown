@@ -33,6 +33,14 @@ categories: events
 
 ## [eiel](http://eiel.info/)
 
+Sensu の記事書いたのでディスクが空けられるぜ。やっほーい。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/724)
+* [Hiroshima.rb #037 をやることにした](http://hiroshimarb.doorkeeper.jp/events/9604)
+* [Sensu を少しだけ触ってみた - そんなこと覚えてない](http://blog.eiel.info/blog/2014/03/05/sensu-abc/)
+* [5374.jp を fork してきた](https://github.com/great-h/5374)
+* [すごい広島 #42 に遊びにいった。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/78657743488/42)
+
 
 ## [Nyoho](http://nyoho.jp/)
 
