@@ -45,11 +45,9 @@ hiroshimarb gem の更新をしました。
 ## [enofujityan](http://twitter.com/enofujityan)
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/765)
-* Chrome AppsをAndroid/iOSアプリとして動かすべく
-* 下記サイトに沿って実施中です。
-* （http://www.adamrocker.com/blog/342/build-android-ios-app-from-chrome-apps.html）
-* iosとAndroidの実行環境はできてsampleもgitからダウンロードし実行トライしたが
-* コンパイルエラーが発生し実行前段階で終了した。
-* 黒い画面のコマンド操作に間違いがある模様です(-_-;)
 
+Chrome AppsをAndroid/iOSアプリとして動かすべく下記サイトに沿って実施中です。
 
+* [throw Life - Chrome AppsをAndroid/iOSアプリとして動かす方法](http://www.adamrocker.com/blog/342/build-android-ios-app-from-chrome-apps.html)
+
+iosとAndroidの実行環境はできてsampleもgitからダウンロードし実行トライしたがコンパイルエラーが発生し実行前段階で終了した。黒い画面のコマンド操作に間違いがある模様です(-_-;)
