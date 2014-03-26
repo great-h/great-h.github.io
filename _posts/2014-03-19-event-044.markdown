@@ -16,6 +16,11 @@ categories: events
 
 ## [minamiyama1994](https://github.com/minamiyama1994)
 
+pullreqを片付ける
+
+* pullreqは片付けた、[これ](https://github.com/great-h/great-h.github.io/pull/757)とか[これ](https://github.com/great-h/great-h.github.io/pull/758)とか
+* TAPLは残念ながらほとんど読み進めれませんでしたとさ
+
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
