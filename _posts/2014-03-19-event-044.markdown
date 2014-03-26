@@ -40,3 +40,16 @@ hiroshimarb gem の更新をしました。
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/764)
 * [\[工業\] 配管の「呼び径」と呼ばれるものは一体何か](http://ooltcloud.expressweb.jp/201403/article_20001024.html)
 * [\[JS\] クロージャー怖い](http://ooltcloud.expressweb.jp/201403/article_20001537.html)
+
+
+## [enofujityan](http://twitter.com/enofujityan)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/765)
+* Chrome AppsをAndroid/iOSアプリとして動かすべく
+* 下記サイトに沿って実施中です。
+* （http://www.adamrocker.com/blog/342/build-android-ios-app-from-chrome-apps.html）
+* iosとAndroidの実行環境はできてsampleもgitからダウンロードし実行トライしたが
+* コンパイルエラーが発生し実行前段階で終了した。
+* 黒い画面のコマンド操作に間違いがある模様です(-_-;)
+
+
