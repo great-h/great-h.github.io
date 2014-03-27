@@ -16,6 +16,11 @@ categories: events
 
 ## [moriC](https://github.com/moriC)
 
+Sublime Textの教科書をゆるりと読んでました。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/777)
+* [Sublime Textの教科書を読む](http://moric-life.tumblr.com/post/80769733392/sublime-text)
+
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
