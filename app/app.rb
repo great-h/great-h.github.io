@@ -151,6 +151,10 @@ class Place
         postcode: "7300051",
         address: "中区袋町６番３６号",
         name: "広島市まちづくり市民交流プラザ 3Fフリースペース"),
+      "itarian_tomate_kamiyacho" => new(
+        postcode: "7300031",
+        address: "中区紙屋町1-5-10紙屋町クラタビル",
+        name: "イタリアン・トマト 広島紙屋町店"),
       "internet" => new(
         name: "インターネットのどこか")
     }
