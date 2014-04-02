@@ -24,3 +24,8 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+
+## [aka0803](https://github.com/aka0803)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/797)
