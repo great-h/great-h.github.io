@@ -23,6 +23,7 @@ Sublime Textの教科書をゆるりと読んでました。
 
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
+
 * [20140326 今日やること #778](https://github.com/great-h/great-h.github.io/issues/778)
 * [Document Freedom Day を祝う(2014/03/26 すごい広島 #45)](http://tkt-study.tumblr.com/post/81163076353/20140326-greath-045)
 
