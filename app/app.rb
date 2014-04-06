@@ -155,6 +155,10 @@ class Place
         postcode: "7300031",
         address: "中区紙屋町1-5-10紙屋町クラタビル",
         name: "イタリアン・トマト 広島紙屋町店"),
+      "doutor_kinzagai" => new(
+        postcode: "7300035",
+        address: "広島県広島市中区本通１‐６",
+        name: "ドトールコーヒーショップ 広島金座街店"),
       "internet" => new(
         name: "インターネットのどこか")
     }
