@@ -27,6 +27,9 @@ pullreqを片付ける
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
+* [20140319 今日やること #761](https://github.com/great-h/great-h.github.io/issues/761)
+* [LTDD#1の資料を公開(2014/03/19 すごい広島 #44)](http://tkt-study.tumblr.com/post/81162073658/20140319-greath-044)
+
 
 ## [nemumu](https://github.com/nemumu)
 
