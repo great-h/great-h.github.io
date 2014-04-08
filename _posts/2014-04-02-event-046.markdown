@@ -35,3 +35,10 @@ categories: events
 
 * [C++の勉強](http://www.asahi-net.or.jp/~yf8k-kbys/newcpp9.html)
 * JavaScriptのCookieのところ
+
+## [tsuda_ahr](http://twitter.com/tsuda_ahr)
+
+unwatch の仕方の手順がないから書いとくか…と思ったが、えいるさんがすでに書いていた件…＿|￣|○ -> http://blog.eiel.info/blog/2013/11/21/github-notifications-is-not-spam/ -> トップに貼っといてよ…
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/803)
+* [\[勉強会\] 「すごい広島 #46」に参加しました & GitHubの使用方法2](http://ooltcloud.expressweb.jp/201404/article_03011453.html)
