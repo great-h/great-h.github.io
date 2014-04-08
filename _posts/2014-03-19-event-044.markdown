@@ -33,6 +33,10 @@ pullreqを片付ける
 
 ## [nemumu](https://github.com/nemumu)
 
+EC2 API Toolsの導入手順をまとめてみました
+
+* [EC2 API Toolsの導入方法 [すごい広島 44]](http://nemumu.hateblo.jp/entry/2014/04/06/165845)
+
 
 ## [eiel](http://eiel.info/)
 
