@@ -42,3 +42,18 @@ unwatch の仕方の手順がないから書いとくか…と思ったが、え
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/803)
 * [\[勉強会\] 「すごい広島 #46」に参加しました & GitHubの使用方法2](http://ooltcloud.expressweb.jp/201404/article_03011453.html)
+
+## [enofujityan](http://twitter.com/enofujityan)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/798)
+
+Chrome AppsをAndroid/iOSアプリとして動かすべく下記サイトに沿って実施中です。
+
+* [throw Life - Chrome AppsをAndroid/iOSアプリとして動かす方法](http://www.adamrocker.com/blog/342/build-android-ios-app-from-chrome-apps.html)
+
+コンパイルは出来たようだが実行時にエラーが発生（exit code 1)
+原因調査中です。
+サイト記載のソフト（nvm , cca)のバージョンが少し前のバージョンなので
+その所為かも・・・
+
+
