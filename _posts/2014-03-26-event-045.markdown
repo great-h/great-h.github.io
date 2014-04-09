@@ -37,6 +37,8 @@ Sublime Textの教科書をゆるりと読んでました。
 
 ## [keishi3311](https://github.com/keishi3311)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/772)
+
 
 ## [eiel](http://eiel.info/)
 
