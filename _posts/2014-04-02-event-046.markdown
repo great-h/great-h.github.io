@@ -13,6 +13,9 @@ categories: events
 
 ## [nemumu](https://github.com/nemumu)
 
+* [WebRTCについて調べてみた　[LT駆動開発 02]（SlideShare）](http://www.slideshare.net/nemumu/webrtclt-02)
+* [WebRTCについて調べてみた　[LT駆動開発 02]（ブログ）](http://nemumu.hateblo.jp/entry/2014/04/10/001852)
+
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
