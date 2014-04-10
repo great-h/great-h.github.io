@@ -19,6 +19,13 @@ categories: events
 
 ## [minamiyama1994](https://github.com/minamiyama1994)
 
+珍しく早めにpullreq出してみる
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/808)
+* [先週のIssue片付けた](https://github.com/great-h/great-h.github.io/pull/816)
+* 自サイトに議論用SNSひっつけるのは後回しにして[自サイト](http://b-world.org/)のトップ弄ってみた、なお[議論用SNSならぬ議論支援系](https://github.com/minamiyama1994/DiscussionSupportSystem)の方は大体出来てるのであとはSNSのシステムの方をどうするかって問題があるけどまあなんとかなる多分
+* なんと電源があったので電源切れはなく読書タイムはなかった
+
 
 ## [eiel](http://eiel.info/)
 
