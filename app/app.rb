@@ -159,6 +159,10 @@ class Place
         postcode: "7300035",
         address: "広島県広島市中区本通１‐６",
         name: "ドトールコーヒーショップ 広島金座街店"),
+      "doutor_kamiyacho" => new(
+        postcode: "7300051",
+        address: "広島県広島市中区紙屋町２‐２‐３２",
+        name: "ドトールコーヒーショップ 広島紙屋町店"),
       "internet" => new(
         name: "インターネットのどこか")
     }

@@ -1,0 +1,11 @@
+---
+layout: event
+title: "すごい広島 #48"
+date: 2014-04-16 18:00:00 JST
+doorkeeper: http://great-h.doorkeeper.jp/events/10611
+togetter: 
+place: city_hiroshima_m-plaza-freespace
+categories: events
+---
+
+# 参加者
