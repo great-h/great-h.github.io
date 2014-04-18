@@ -3,7 +3,7 @@ layout: event
 title: "すごい広島 #47"
 date: 2014-04-09 18:00:00 JST
 doorkeeper: http://great-h.doorkeeper.jp/events/10410
-togetter:
+togetter: http://togetter.com/li/653324
 place: doutor_kinzagai
 categories: events
 ---
