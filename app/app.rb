@@ -163,6 +163,10 @@ class Place
         postcode: "7300051",
         address: "広島県広島市中区紙屋町２‐２‐３２",
         name: "ドトールコーヒーショップ 広島紙屋町店"),
+      "veloce_fukuro" => new(
+        postcode: "7300036",
+        address: "広島県広島市中区紙屋町２‐２‐３２",
+        name: "広島県広島市中区袋町4-21 広島ﾌｺｸ生命ﾋﾞﾙ1F"),
       "internet" => new(
         name: "インターネットのどこか")
     }
