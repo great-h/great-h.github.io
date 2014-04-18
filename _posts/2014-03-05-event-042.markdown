@@ -26,6 +26,8 @@ categories: events
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/732)
+
 
 ## [nemumu](https://github.com/nemumu)
 
