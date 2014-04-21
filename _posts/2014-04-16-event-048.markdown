@@ -23,6 +23,11 @@ categories: events
 ## [moriC](https://github.com/moriC)
 
 
+GitHub実践入門をゆるりと読んでました。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/829)
+* [hubコマンドを使ってみる](http://moric-life.tumblr.com/post/82884527088/hub)
+
 ## [minamiyama1994](https://github.com/minamiyama1994)
 
 
