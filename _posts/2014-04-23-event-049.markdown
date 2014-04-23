@@ -31,6 +31,7 @@ categories: events
 
 ## [k2works](https://github.com/k2works)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/845)
 
 ## [yomoginn](https://twitter.com/moriyomogi)
 
