@@ -3,7 +3,7 @@ layout: event
 title: "すごい広島 #49"
 date: 2014-04-23 18:00:00 JST
 doorkeeper: http://great-h.doorkeeper.jp/events/10764
-togetter: 
+togetter:
 place: veloce_fukuro
 categories: events
 ---
@@ -31,6 +31,7 @@ categories: events
 
 ## [k2works](https://github.com/k2works)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/845)
 
 ## [yomoginn](https://twitter.com/moriyomogi)
 
