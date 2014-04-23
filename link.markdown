@@ -53,7 +53,7 @@
 * [majosystems](https://github.com/majosystems)
   * [昔あったまよというもの](http://majosystems.com/)
 * [minamiyama1994](https://github.com/minamiyama1994)
-  * [南山まさかず](https://twitter.com/minamiyama1994)
+  * [南山まさかずの部屋](http://b-world.org/)
 * [miu811](https://github.com/miu811)
   * [みうめも](http://miu811.blogspot.jp/)
 * [moriC](https://github.com/moriC)
