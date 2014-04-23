@@ -32,3 +32,7 @@ GitHub実践入門をゆるりと読んでました。
 
 
 ## [eiel](http://eiel.info/)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/828)
+* [すごい広島 #48 に遊びにいきました - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/82884161259/48)
+* [LT駆動開発 03 - ひとりでもライトニングトークができるか - LT駆動開発 | Doorkeeper](http://ltdd.doorkeeper.jp/events/10730)
