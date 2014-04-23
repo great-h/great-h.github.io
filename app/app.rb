@@ -139,6 +139,10 @@ class Place
         postcode: "7300035",
         address: "中区本通３−９",
         name: "タリーズコーヒー広島本通店"),
+      "tully_tenmaya_hattyobori" => new(
+        postcode: "7308540",
+        address: "広島県広島市中区胡町5-22 7F",
+        name: "タリーズコーヒー天満屋八丁堀店"),
       "soa-r_seminar" => new(
         postcode: "7300803",
         address: "中区広瀬北町３－１１ 和光広瀬ビル 3F",
