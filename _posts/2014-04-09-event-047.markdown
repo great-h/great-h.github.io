@@ -38,3 +38,14 @@ categories: events
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/812)
 * [すごい広島 47 に遊びにいった - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/82198282141/47)
+
+## [enofujityan](http://twitter.com/enofujityan)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/817)
+Chrome AppsをAndroid/iOSアプリとして動かすべく下記サイトに沿って実施中です。
+* [throw Life - Chrome AppsをAndroid/iOSアプリとして動かす方法](http://www.adamrocker.com/blog/342/build-android-ios-app-from-chrome-apps.html)
+コンパイルは出来たようだが実行時にエラーが発生（exit code 1)し
+原因調査するも判明せず。
+黒い画面の操作に慣れてないためPATH通し方やフォルダ操作に誤りがありそうだが、
+一旦打ち切りとします。
+
