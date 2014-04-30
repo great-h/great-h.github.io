@@ -36,6 +36,7 @@ categories: events
 
 
 ## [zikkyoudao](https://github.com/OtaniTakeshi)
+
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/860)
 
 
