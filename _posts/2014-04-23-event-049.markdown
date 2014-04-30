@@ -22,6 +22,9 @@ categories: events
 
 ## [nemumu](https://github.com/nemumu)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/837)
+* [LT駆動開発03 · LTDD/Sessions Wiki · GitHub](https://github.com/LTDD/Sessions/wiki/LT%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA03)
+
 
 ## [minamiyama1994](https://github.com/minamiyama1994)
 
