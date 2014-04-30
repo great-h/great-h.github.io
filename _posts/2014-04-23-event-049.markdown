@@ -25,6 +25,13 @@ categories: events
 
 ## [minamiyama1994](https://github.com/minamiyama1994)
 
+頑張ってpullreq出す
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/838)
+* [議論支援SNS](http://b-world.org/dss)鋭意作成中です(表には見えないけど)
+* 読書した記憶はない
+* 寝た記憶もない
+
 
 ## [eiel](http://eiel.info/)
 
