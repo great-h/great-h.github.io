@@ -42,3 +42,12 @@ categories: events
 ## [yomoginn](https://twitter.com/moriyomogi)
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/843)
+
+
+## [enofujityan](http://twitter.com/enofujityan)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/854)
+* オープンソースになった WinJSをＭＡＣで実行評価してみるために下記サイトに沿って実施中です。
+* [オープンソースになった WinJS を GitHub から取得する方法](http://blogs.msdn.com/b/osamum/archive/2014/04/22/winjs-github.aspx?utm_source=twitterfeed&utm_medium=twitter)
+* このサイトの説明はWindowsでの実行評価となってるが、MACに置き換えて環境構築中です。
+
