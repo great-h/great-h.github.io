@@ -47,3 +47,8 @@ Chrome AppsをAndroid/iOSアプリとして動かすべく下記サイトに沿�
 * [throw Life - Chrome AppsをAndroid/iOSアプリとして動かす方法](http://www.adamrocker.com/blog/342/build-android-ios-app-from-chrome-apps.html)
 コンパイルは出来たようだが実行時にエラーが発生（exit code 1)し、原因調査するも判明せず。
 黒い画面の操作に慣れてないためPATH通し方やフォルダ操作に誤りがありそうだが、一旦打ち切りとします。
+
+
+## [keishi3311](https://github.com/keishi3311)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/810)
