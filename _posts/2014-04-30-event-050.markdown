@@ -50,4 +50,3 @@ categories: events
 ## [nezumiya](https://github.com/nezumiya)
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/859)
-* 
