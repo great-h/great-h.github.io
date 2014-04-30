@@ -3,7 +3,7 @@ layout: event
 title: "すごい広島 #50"
 date: 2014-04-30 18:00:00 JST
 doorkeeper: http://great-h.doorkeeper.jp/events/10928
-togetter: 
+togetter: http://togetter.com/li/661518
 place: tully_tenmaya_hattyobori
 categories: events
 ---
