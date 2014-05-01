@@ -43,6 +43,12 @@ categories: events
 
 ## [eiel](http://eiel.info/)
 
+50回達成してしまいましたし、ここからどこへゆくのだろう。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/855)
+* [CucumberとTurnipとSpinachと。 - そんなこと覚えてない](http://blog.eiel.info/blog/2014/05/01/cucumber-turnip-spinach/)
+* [すごい広島 #50 に遊びにいきました。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/84331752008/50)
+
 
 ## [minamiyama1994](https://github.com/minamiyama1994)
 
