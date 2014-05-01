@@ -16,8 +16,6 @@ ul
   - if place = article.place
     h1 開催場所
     .location itemprop="location" itemscope="" itemtype="http://schema.org/Place"
-    span itemprop="name"
-      = place.name
     - if address = place.address
       span.address itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"
       span itemprop="addressLocality" 広島市
@@ -26,6 +24,8 @@ ul
       meta itemprop="addressCountry" content="日本"
     - if code = place.postcode
       meta itemprop="postalCode" content="#{code}"
+    span itemprop="name"
+      = place.name
     meta itemprop="name" content="#{ title }"
     meta itemprop="image" content="https://raw.github.com/great-h/great-h_logo/master/logo.png"
 

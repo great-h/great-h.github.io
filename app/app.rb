@@ -134,6 +134,12 @@ end
 
 class Place
   def self.find(key)
+    plaza_free = new(
+        postcode: "7300051",
+        address: "中区袋町６番３６号",
+        name: "広島市まちづくり市民交流プラザ 3Fフリースペース")
+    plaza_b = plaza_free.dup
+    plaza_b.name = "広島市まちづくり市民交流プラザ 会議室B"
     @places ||= {
       "tully_main_street" => new(
         postcode: "7300035",
@@ -151,10 +157,8 @@ class Place
         postcode:"7300051",
         address: "中区大手町１丁目５−３",
         name: "サテライトキャンパスひろしま"),
-      "city_hiroshima_m-plaza-freespace" => new(
-        postcode: "7300051",
-        address: "中区袋町６番３６号",
-        name: "広島市まちづくり市民交流プラザ 3Fフリースペース"),
+      "city_hiroshima_m-plaza-freespace" => plaza_free,
+      "city_hiroshima_m-plaza-meeting_b" => plaza_b,
       "itarian_tomate_kamiyacho" => new(
         postcode: "7300031",
         address: "中区紙屋町1-5-10紙屋町クラタビル",
@@ -177,7 +181,7 @@ class Place
     @places[key]
   end
 
-  attr_reader :name, :address, :postcode
+  attr_accessor :name, :address, :postcode
 
   def initialize(name: name, address: address = nil, postcode: postcode = nil)
     @name = name
