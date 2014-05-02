@@ -48,6 +48,7 @@ categories: events
 ## [k2works](https://github.com/k2works)
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/845)
+* [LT駆動開発 03準備資料作成](https://github.com/k2works/study/wiki/LTDD-03)
 
 ## [yomoginn](https://twitter.com/moriyomogi)
 
@@ -60,4 +61,3 @@ categories: events
 * オープンソースになった WinJSをＭＡＣで実行評価してみるために下記サイトに沿って実施中です。
 * [オープンソースになった WinJS を GitHub から取得する方法](http://blogs.msdn.com/b/osamum/archive/2014/04/22/winjs-github.aspx?utm_source=twitterfeed&utm_medium=twitter)
 * このサイトの説明はWindowsでの実行評価となってるが、MACに置き換えて環境構築中です。
-
