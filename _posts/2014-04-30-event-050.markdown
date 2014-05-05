@@ -57,6 +57,16 @@ categories: events
 
 ## [minamiyama1994](https://github.com/minamiyama1994)
 
+懇親会のCoCo壱番屋で5辛のカレーを食べながら色々談義できた、良かった
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/851)
+* [先週のIssue](https://github.com/great-h/great-h.github.io/issues/838)は[片付けた](https://github.com/great-h/great-h.github.io/pull/856)
+* [LT駆動開発](https://github.com/LTDD/Sessions/wiki/LT%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA03)のスライドは[これ](http://www.slideshare.net/masakazuminamiyama/lt03-34229273)と[これ](http://www.slideshare.net/masakazuminamiyama/lt03-fizz-buzz)です、途中で寝てしまったのは痛恨のミス、今度からしっかり寝てから勉強会出る
+* [議論支援SNS](http://b-world.org/dss)はコア機能は大体出来ました、[ここ](http://b-world.org/dss/post)から新しく議論を投げたりしたら投げた結果は[こんな感じ](http://b-world.org/dss/discussion/minamiyama1994/2)に表示されたり、ユーザページも[こんな感じ](http://b-world.org/dss/user/1)に。ユーザ登録は[こちら](http://b-world.org/dss/create)からどうぞ
+* 奇跡が発生して電池は切れなかった
+* 眠くならなかった
+* [蟻本買った](https://twitter.com/minamiyama1994/status/461474529131233280)
+
 
 ## [nezumiya](https://github.com/nezumiya)
 
