@@ -41,6 +41,7 @@ categories: events
 ## [yomoginn](https://github.com/yomoginn)
 
 * [ツイッター](https://twitter.com/moriyomogi)
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/862)
 
 
 ## [eiel](http://eiel.info/)
