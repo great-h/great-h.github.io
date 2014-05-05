@@ -35,7 +35,9 @@ categories: events
 ## [moriC](https://github.com/moriC)
 
 
-## [zikkyoudao](http://twitter.com/zikkyoudao)
+## [zikkyoudao](https://github.com/OtaniTakeshi)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/860)
 
 
 ## [yomoginn](https://github.com/yomoginn)
