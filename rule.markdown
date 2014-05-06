@@ -21,7 +21,7 @@ title: 'ルール - すごい広島'
 
 1. GitHub の Issues  でやることを宣言する
 2. 作成した Issues 番号と自分のIDを元にブランチを作成する
-3. `/_posts/yyyy-mm-dd-event-xxx.markdown` に「自分の名前」と「作成したIssueへのリンク」を作成する(**[doorkeeper}(http://great-h.doorkeeper.jp/)の方で参加者登録している場合は自動生成されるので不要です**)
+3. `/_posts/yyyy-mm-dd-event-xxx.markdown` に「自分の名前」と「作成したIssueへのリンク」を作成する(**[doorkeeper](http://great-h.doorkeeper.jp/)の方で参加者登録している場合は自動生成されるので不要です**)
 4. Pull Request を出す
 5. やることを宣言したことをしたり、参加者と情報交換したり、地域貢献する
 
@@ -69,7 +69,7 @@ TODO WEBでのブランチの作成方法をかく
 
 ## `/_posts/yyyy-mm-dd-event-xxx.markdown` に「自分の名前」と「作成したIssueへリンク」を作成する
 
-**[doorkeeper}(http://great-h.doorkeeper.jp/)で参加者登録を行っている場合はSNSのID追加の手順は自動化されているので不要です**
+**[doorkeeper](http://great-h.doorkeeper.jp/)で参加者登録を行っている場合はSNSのID追加の手順は自動化されているので不要です**
 
 参加したことが残るようにして欲しいので、ウェブページの更新を行ないます。
 参加したイベントページが [_posts](https://github.com/great-h/great-h.github.io/tree/master/_posts) の中にあります。
