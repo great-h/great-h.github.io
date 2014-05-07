@@ -71,3 +71,14 @@ categories: events
 ## [nezumiya](https://github.com/nezumiya)
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/859)
+
+
+## [Nyoho](http://nyoho.jp)
+
+doorkeeper に参加登録せずに終わり30分弱で登場してしまいました。
+念願の hiλoshima の GitHub org を作成することが出来ました。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/876)
+* [hiλoshima の GitHub Organization](https://github.com/hi-lambda-oshima/)
+* [hiλoshima の GitHub Pages のリポジトリ](https://github.com/hi-lambda-oshima/hi-lambda-oshima.github.io)
+* [hiλoshima の GitHub Pages](http://hi-lambda-oshima.github.io/) まだ single html。hakyll に移行中です。
