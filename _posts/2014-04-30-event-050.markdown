@@ -16,6 +16,11 @@ categories: events
 
 ## [yasu7ri](https://www.facebook.com/yasu7ri)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/858)
+ほぼgitの使い方の勉強でした。。。
+java8 stream API ＋メソッド参照を使ってグルグル回してみた。
+
+
 
 ## [k2works](https://github.com/k2works)
 
