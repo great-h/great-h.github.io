@@ -1,4 +1,5 @@
 [![Dependency Status](https://gemnasium.com/great-h/great-h.github.io.png)](https://gemnasium.com/great-h/great-h.github.io)
+[![Stories in Ready](https://badge.waffle.io/great-h/great-h.github.io.png?label=ready&title=Ready)](http://waffle.io/great-h/great-h.github.io)
 [![Gitter chat](https://badges.gitter.im/great-h.png)](https://gitter.im/great-h)
 
 # すごい広島 [http://great-h.github.io/](http://great-h.github.io/)
