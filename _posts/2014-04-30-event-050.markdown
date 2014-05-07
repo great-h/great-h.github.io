@@ -86,3 +86,8 @@ doorkeeper に参加登録せずに終わり30分弱で登場してしまいま�
 * [hiλoshima の GitHub Organization](https://github.com/hi-lambda-oshima/)
 * [hiλoshima の GitHub Pages のリポジトリ](https://github.com/hi-lambda-oshima/hi-lambda-oshima.github.io)
 * [hiλoshima の GitHub Pages](http://hi-lambda-oshima.github.io/) まだ single html。hakyll に移行中です。
+
+
+## [Toro_kun](https://twitter.com/Toro_kun)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/865)
