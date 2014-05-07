@@ -19,6 +19,8 @@ categories: events
 
 ## [k2works](https://github.com/k2works)
 
+* [LT駆動開発発表](http://www.slideshare.net/kakimomokuri/lt-03-34275687?ref=http://k2-works.tumblr.com/post/84793626316/lt-03)
+* [Vagrant入門](https://github.com/k2works/vagrant_introduction)
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
