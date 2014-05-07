@@ -37,6 +37,13 @@ categories: events
 
 ## [eiel](http://eiel.info/)
 
+やっぱり場所借りると肩身が広くて良いっす。
+雑用していてあんまり作業はできてないけどね。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/886)
+* [waffle.io をすごい広島のリポジトリ使ってみた](https://waffle.io/great-h/great-h.github.io)
+* [すごい広島 #51 に遊びにいった - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/85028455193/51)
+
 
 ## [andoromeda](https://github.com/andoromeda)
 
