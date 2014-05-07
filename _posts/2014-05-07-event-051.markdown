@@ -38,6 +38,6 @@ categories: events
 ## [eiel](http://eiel.info/)
 
 
-##[andoromeda](https://github.com/andoromeda)
+## [andoromeda](https://github.com/andoromeda)
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/890)
