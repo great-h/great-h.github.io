@@ -3,3 +3,4 @@ vendor
 .bundle
 public/stylesheets
 .rvmrc
+.sass-cache
