@@ -28,6 +28,12 @@ categories: events
 
 ## [Toro_kun](https://twitter.com/Toro_kun)
 
+ゴールデンウィーク中に参加した勉強会のブログを書くのは大変だ（主に写真整理が）
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/894)
+* [LT駆動開発03 という勉強会に参加してみた - Toroとトロは電子機械の夢を見るか](http://106n.net/toro/blog/ltdd03/)
+* [Java8 Lambdaハンズオン@岡山後楽園に参加してみた - Toroとトロは電子機械の夢を見るか](http://106n.net/toro/blog/java8-lambda-handson-okajug/)
+
 
 ## [nemumu](https://github.com/nemumu)
 
