@@ -25,6 +25,13 @@ categories: events
 
 ## [minamiyama1994](https://github.com/minamiyama1994)
 
+ひたすらHaskellを布教した
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/885)
+* TAPLは持っていったけど読書しなかった
+* 寝なかった
+* 人のWindowsマシンにVMware Playerを入れ、Ubuntu14.04をブチ込み、Haskell Platformをapt-getして色々遊ばせた、僕が遊んだとも言う
+
 
 ## [Toro_kun](https://twitter.com/Toro_kun)
 
