@@ -1,0 +1,35 @@
+---
+layout: event
+title: "すごい広島 #52"
+date: 2014-05-14 18:00:00 JST
+doorkeeper: http://great-h.doorkeeper.jp/events/11310
+togetter: 
+place: city_hiroshima_m-plaza-meeting_b
+categories: events
+---
+
+# 参加者
+
+
+## [Toro_kun](https://twitter.com/Toro_kun)
+
+
+## [akira345](https://github.com/akira345)
+
+
+## [takatayoshitake](http://twitter.com/takatayoshitake)
+
+
+## [nemumu](https://github.com/nemumu)
+
+
+## 大野木 基文
+
+
+## [yomoginn](https://github.com/yomoginn)
+
+
+## [minamiyama1994](https://github.com/minamiyama1994)
+
+
+## [eiel](http://eiel.info/)
