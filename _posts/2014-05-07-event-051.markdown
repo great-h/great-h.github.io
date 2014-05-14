@@ -57,3 +57,7 @@ categories: events
 ## [andoromeda](https://github.com/andoromeda)
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/890)
+
+## [k2works](https://github.com/k2works)
+
+* [入門CHEF SOLO](https://github.com/k2works/chef_solo_introduction)
