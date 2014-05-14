@@ -31,5 +31,12 @@ categories: events
 
 ## [minamiyama1994](https://github.com/minamiyama1994)
 
+静的型付け関数型な集まりだった、濃かった
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/906)
+* [Kernel/VMの発表資料](https://docs.google.com/presentation/d/19CqtAnfRbwrNQcGQZ1QLtB7ylOUzeZ91URk6iFGBENk/edit?usp=sharing)を作る
+* Haskell談義延々した、ちょっとCoqとかの話まで入った
+* みんなカリー化されてたけど1人だけとんこつラーメンﾎﾟﾂｰﾝ
+
 
 ## [eiel](http://eiel.info/)
