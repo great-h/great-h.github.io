@@ -175,6 +175,10 @@ class Place
         postcode: "7300036",
         address: "広島県広島市中区袋町4-21 広島ﾌｺｸ生命ﾋﾞﾙ1F",
         name: "カフェ・ベローチェ 広島袋町店"),
+      "y_center-first-meeting-room" => new(
+        postcode: "7300011",
+        address: "広島県広島市中区基町5番61号",
+        name: "広島市青少年センター 第一会議室"),
       "internet" => new(
         name: "インターネットのどこか")
     }
