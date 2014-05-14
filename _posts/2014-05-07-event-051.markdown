@@ -37,6 +37,9 @@ categories: events
 
 ## [nemumu](https://github.com/nemumu)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/883)
+* [ドメインが凍結されたお話 [すごい広島51]](http://nemumu.hateblo.jp/entry/2014/05/11/033244)
+
 
 ## [yomoginn](https://github.com/yomoginn)
 
