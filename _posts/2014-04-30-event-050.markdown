@@ -98,3 +98,11 @@ doorkeeper に参加登録せずに終わり30分弱で登場してしまいま�
 ## [Toro_kun](https://twitter.com/Toro_kun)
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/865)
+
+
+## [enofujityan](http://twitter.com/enofujityan)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/870)
+* オープンソースになった WinJS を Mac で実行評価してみた
+  * 参考サイト - [オープンソースになった WinJS を GitHub から取得する方法](http://blogs.msdn.com/b/osamum/archive/2014/04/22/winjs-github.aspx?utm_source=twitterfeed&utm_medium=twitter)
+  * このサイトの説明は Windows での実行評価となってるが、Mac に置き換えて環境構築してみたが、 WinJS のコンパイルが上記サイト通りできないので次回 Windows 環境で再トライしてみる。
