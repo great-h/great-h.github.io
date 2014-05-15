@@ -5,16 +5,30 @@ title: 'すごい広島'
 
 # すごい広島とは
 
-広島のエンジニアやウェブデザイナーが毎週集まって、
-もくもくしたり Hackしたり 読書したり する場所です。
+広島のエンジニアやウェブデザイナー、情報系の学生が
 
-[GitHub](https://github.com/) の操作に慣れるのも目的の一つにしています。
+* 読書したり
+* 情報交換したり
+* もくもくと自分の作業をしたり
+* Hackしたり
+
+するために集まる場所です。
+
+[GitHub](https://github.com/) というウェブサービスの操作に慣れるのも目的の一つにしています。
 
 ## 場所/時間
 
 * 毎週水曜日 18:00 - 21:00 ぐらいに開催。好きな時に入退出可能です。
-* 現在広島市内のカフェを転々としています、場所は不定です、その回ごとのdoorkeeperページを確認して下さい
+* 現在広島市内の公共施設を主に利用しています。
+  * [広島市まちづくり交流プラザ](http://www.cf.city.hiroshima.jp/m-plaza/index.html) - [空き情報照会](https://yoyaku.e-harp.jp/hiroshima/Menu.aspx?lgCode=340006&sstCode=0110)
+  * [広島市青少年](http://www.cf.city.hiroshima.jp/y-center/) - [空き情報照会](https://yoyaku.e-harp.jp/hiroshima/Menu.aspx?lgCode=340006&sstCode=0105)
 * 参加場所に実際には行かないで参加する「エア参加」も可能です。 ([ルール](/rule.html)を参照してください)
+
+## 関連サイト
+
+* [ウェブサイトのリポジトリ - GitHub](https://github.com/great-h/)
+* [タスクボード - waffle](https://waffle.io/great-h/great-h.github.io)
+* [チャットルーム - gitter](https://gitter.im/great-h)
 
 ## ルール(概要)
 
