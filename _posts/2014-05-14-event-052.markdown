@@ -40,3 +40,11 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+今週も close されてない Issue にアタックをかけてました。
+すごい広島のサイトのインデックスを修正して、Haskellに対するイメージを整理してから、モナドの話をしたり、Facebook ページを作成したりしました。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/908)
+* [トップページを修正してみた by eiel · Pull Request #916 · great-h/great-h.github.io · GitHub](https://github.com/great-h/great-h.github.io/pull/916)
+* [すごい広島 #52 に遊びにいった - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/85765488823/52)
+* [すごい広島 | Facebook](https://www.facebook.com/great.hiroshima)
