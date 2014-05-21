@@ -27,7 +27,10 @@ java8 stream API ＋メソッド参照を使ってグルグル回してみた。
 * [LT駆動開発発表](http://www.slideshare.net/kakimomokuri/lt-03-34275687?ref=http://k2-works.tumblr.com/post/84793626316/lt-03)
 * [Vagrant入門](https://github.com/k2works/vagrant_introduction)
 
+
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/871)
 
 
 ## [nemumu](https://github.com/nemumu)
