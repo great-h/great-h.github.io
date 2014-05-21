@@ -3,7 +3,7 @@ layout: event
 title: "すごい広島 #53"
 date: 2014-05-21 18:00:00 JST
 doorkeeper: http://great-h.doorkeeper.jp/events/11547
-togetter: 
+togetter: http://togetter.com/li/670110
 place: y_center-first-meeting-room
 categories: events
 ---
