@@ -40,7 +40,9 @@ java8 stream API ＋メソッド参照を使ってグルグル回してみた。
 ## [keishi3311](https://github.com/keishi3311)
 
 
-## 大野木 基文
+## [doraru-](https://github.com/doraru-)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/861)
 
 
 ## [moriC](https://github.com/moriC)
