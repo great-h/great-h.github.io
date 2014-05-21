@@ -19,6 +19,8 @@ categories: events
 
 ## [nemumu](https://github.com/nemumu)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/830)
+
 
 ## [moriC](https://github.com/moriC)
 
