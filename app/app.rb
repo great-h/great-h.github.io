@@ -179,6 +179,10 @@ class Place
         postcode: "7300011",
         address: "広島県広島市中区基町5番61号",
         name: "広島市青少年センター 第一会議室"),
+      "movin_on" => new(
+        postcode: "7300021",
+        address: "広島県広島市中区胡町4番25号 7F",
+        name: "Movin'on"),
       "internet" => new(
         name: "インターネットのどこか")
     }
