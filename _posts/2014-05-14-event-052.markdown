@@ -48,3 +48,16 @@ categories: events
 * [トップページを修正してみた by eiel · Pull Request #916 · great-h/great-h.github.io · GitHub](https://github.com/great-h/great-h.github.io/pull/916)
 * [すごい広島 #52 に遊びにいった - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/85765488823/52)
 * [すごい広島 | Facebook](https://www.facebook.com/great.hiroshima)
+
+
+## [k2works](https://github.com/k2works)
+
+ただいま業務でインフラ強化のため技術調査実施中です。  
+オープンセミナー2014@岡山に参加してきました。  
+すくすくスクラムでアプリケーションみんなで作りました。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/917)
+* [Vagrant入門](https://github.com/k2works/vagrant_introduction#4)
+* [入門CHEF SOLO](https://github.com/k2works/chef_solo_introduction#8)
+* [オープンセミナー岡山LT](http://www.slideshare.net/kakimomokuri/2014-34946008)
+* [すくすくスクラム広島第5回「スクラムやってみる」](https://github.com/k2works/sukusuku)
