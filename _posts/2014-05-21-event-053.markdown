@@ -52,3 +52,8 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+ついに Docker で遊ぶことができた。Gentoo で Docker したい。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/929)
+* [すごい広島 #053 に遊びにいった - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/86464702178/053)
