@@ -22,6 +22,9 @@ categories: events
 
 ## [nemumu](https://github.com/nemumu)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/911)
+* cURLを使ってみたけどアウトプットできる内容は無さそう(やりたい事の多くは既に解説されていた)
+
 
 ## 大野木 基文
 
