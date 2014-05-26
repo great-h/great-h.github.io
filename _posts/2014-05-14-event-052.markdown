@@ -11,9 +11,6 @@ categories: events
 # 参加者
 
 
-## [Toro_kun](https://twitter.com/Toro_kun)
-
-
 ## [akira345](https://github.com/akira345)
 
 
@@ -58,8 +55,8 @@ categories: events
 
 ## [k2works](https://github.com/k2works)
 
-ただいま業務でインフラ強化のため技術調査実施中です。  
-オープンセミナー2014@岡山に参加してきました。  
+ただいま業務でインフラ強化のため技術調査実施中です。
+オープンセミナー2014@岡山に参加してきました。
 すくすくスクラムでアプリケーションみんなで作りました。
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/917)
