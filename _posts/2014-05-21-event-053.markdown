@@ -59,3 +59,15 @@ categories: events
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/929)
 * [すごい広島 #053 に遊びにいった - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/86464702178/053)
+
+
+## [enofujityan](http://twitter.com/enofujityan)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/936)
+* オープンソースになった WinJS を Mac で実行評価してみた-続き２
+  * 参考サイト - [オープンソースになった WinJS を GitHub から取得する方法](http://blogs.msdn.com/b/osamum/archive/2014/04/22/winjs-github.aspx?utm_source=twitterfeed&utm_medium=twitter)
+  * このサイトの説明は Windows での実行評価となってるが、Mac に置き換えて環境構築してみたが、 WinJS のコンパイルが上記サイト通りできないので
+今回 Windows 環境でも再トライしてみたが、相変わらずコンパイルエラーが発生した。何か基本的な所でミスがありそうだが、直ぐ解決できそうにないので一旦打ち切りとします。
+
+
+
