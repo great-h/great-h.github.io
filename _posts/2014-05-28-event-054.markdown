@@ -36,3 +36,11 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+てんこもり。一周年だしね。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/954)
+* [SEOのことを少し考えてキーワードを変えてみた](https://github.com/great-h/great-h.github.io/pull/961)
+* [すごい合同勉強会が動きはじめた](https://github.com/LTDD/Sessions/wiki/%E3%81%99%E3%81%94%E3%81%84%E5%90%88%E5%90%8C%E5%8B%89%E5%BC%B7%E4%BC%9A)
+* [great-h コマンドを作成した](https://github.com/great-h/great-h)
+* [すごい広島 54 に遊びにいった。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/87106852513/54)
