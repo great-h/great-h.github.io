@@ -19,7 +19,7 @@ categories: events
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
-* [やること宣言](https://twitter.com/oschiroshima/status/464221316661264384)
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/898)
 * [オープンソースカンファレンス2014 の日程が 9月20日(土)に決定しました](https://twitter.com/oschiroshima/status/464221316661264384)
 
 
