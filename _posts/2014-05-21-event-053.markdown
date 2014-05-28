@@ -49,6 +49,14 @@ categories: events
 
 ## [minamiyama1994](https://github.com/minamiyama1994)
 
+かーねるう゛ぃえむ行って来た
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/924)
+* えいる氏には一言謝った、ゆるして
+* [K/VMの発表資料](https://docs.google.com/presentation/d/19CqtAnfRbwrNQcGQZ1QLtB7ylOUzeZ91URk6iFGBENk/edit?usp=sharing)作成した
+* Haskell談義してた
+* サーバちょこちょこメンテした
+* 小説そう言えば書いてない、書かなきゃ
 
 ## [kakenavi](http://twitter.com/kakenavi)
 
