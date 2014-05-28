@@ -59,3 +59,16 @@ categories: events
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/929)
 * [すごい広島 #053 に遊びにいった - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/86464702178/053)
+
+
+## [k2works](https://github.com/k2works)
+
+引き続き業務でインフラ強化のため技術調査実施中です。  
+[ウェブマーケティングセミナー](http://www.hibis.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E6%83%85%E5%A0%B1/%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E5%88%86%E3%81%8B%E3%82%8B-%E3%82%A6%E3%82%A7%E3%83%96%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC-%E5%85%AC%E9%96%8B%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC/)に参加してきました。  
+ウェブマーケティングに関連してA/Bテストの実装をいろいろ調べてます。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/941)
+* [awsセキュリティ入門](https://github.com/k2works/aws_security_introduction)
+* [テスト関連を強化](https://github.com/LeanEC/mvp_smoke_tester)
+* [A/BテストフレームワークVanity入門](https://github.com/k2works/vanity_introduction)
+* [(WIP)Chef-DK入門](https://github.com/k2works/Chef-DK_introduction)
