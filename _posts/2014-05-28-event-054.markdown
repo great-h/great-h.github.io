@@ -31,6 +31,8 @@ categories: events
 
 ## [yukilab](http://twitter.com/yukilab)
 
+* [Visual StudioでGitリポジトリをつくると困ったファイルが作られる件](http://yukilab3.blog.fc2.com/blog-entry-29.html)
+
 
 ## [shige0501](https://github.com/shige0501)
 
