@@ -22,6 +22,8 @@ categories: events
 
 ## [tsuda_ahr](http://twitter.com/tsuda_ahr)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/893)
+
 
 ## [minamiyama1994](https://github.com/minamiyama1994)
 
