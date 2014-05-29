@@ -24,7 +24,7 @@ def front_formatter(datetime, event_no)
     date: time_str,
     doorkeeper: nil,
     togetter: nil,
-    place: 'city_hiroshima_m-plaza-freespace',
+    place: 'movin_on',
     categories: 'events',
   }.stringify_keys.to_yaml
 end
