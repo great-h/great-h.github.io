@@ -24,7 +24,18 @@ title: 'すごい広島'
   * [広島市青少年](http://www.cf.city.hiroshima.jp/y-center/) - [空き情報照会](https://yoyaku.e-harp.jp/hiroshima/Menu.aspx?lgCode=340006&sstCode=0105)
 * 参加場所に実際には行かないで参加する「エア参加」も可能です。 ([ルール](/rule.html)を参照してください)
 
-## 関連サイト
+## 応援してる
+
+* [ひろしま発 人材集積促進プロジェクト](http://hiro-hata.com/)
+
+[2014年6月7日(土)にキックオフイベントがあるそうです。](http://hiro-hata.com/kickoff)
+
+[![ヒロハタ キックオフイベント](http://lirio.sakura.ne.jp/kickoff/assets/images/logo.gif)](http://hiro-hata.com/kickoff)
+
+Webでおもしろいことをやってる人たちが広島にやってきます。
+参加費無料なのでお気軽に参加してみてください。
+
+## 関連サイトなど
 
 * [ウェブサイトのリポジトリ - GitHub](https://github.com/great-h/)
 * [タスクボード - waffle](https://waffle.io/great-h/great-h.github.io)
