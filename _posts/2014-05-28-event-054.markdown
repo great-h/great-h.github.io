@@ -39,7 +39,7 @@ categories: events
 
 ## [akira345](https://github.com/akira345)
 
-* [Rails4で自己認証局+自己証明書を作成する俺得アプリを作った。](https://github.com/akira345/self_ca/)
+* [Rails4で自己認証局+自己証明書を作成する俺得アプリを作った。](http://akira-junkbox.blogspot.jp/2014/06/railsweb.html)
 
 
 ## [eiel](http://eiel.info/)
