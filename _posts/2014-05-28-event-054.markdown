@@ -3,7 +3,7 @@ layout: event
 title: "すごい広島 #54"
 date: 2014-05-28 18:00:00 JST
 doorkeeper: http://great-h.doorkeeper.jp/events/11789
-togetter: 
+togetter: http://togetter.com/li/673097
 place: movin_on
 categories: events
 ---
@@ -31,8 +31,23 @@ categories: events
 
 ## [yukilab](http://twitter.com/yukilab)
 
+* [Visual StudioでGitリポジトリをつくると困ったファイルが作られる件](http://yukilab3.blog.fc2.com/blog-entry-29.html)
+
 
 ## [shige0501](https://github.com/shige0501)
 
 
+## [akira345](https://github.com/akira345)
+
+* [Rails4で自己認証局+自己証明書を作成する俺得アプリを作った。](http://akira-junkbox.blogspot.jp/2014/06/railsweb.html)
+
+
 ## [eiel](http://eiel.info/)
+
+てんこもり。一周年だしね。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/954)
+* [SEOのことを少し考えてキーワードを変えてみた](https://github.com/great-h/great-h.github.io/pull/961)
+* [すごい合同勉強会が動きはじめた](https://github.com/LTDD/Sessions/wiki/%E3%81%99%E3%81%94%E3%81%84%E5%90%88%E5%90%8C%E5%8B%89%E5%BC%B7%E4%BC%9A)
+* [great-h コマンドを作成した](https://github.com/great-h/great-h)
+* [すごい広島 54 に遊びにいった。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/87106852513/54)

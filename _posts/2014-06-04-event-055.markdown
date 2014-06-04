@@ -1,0 +1,35 @@
+---
+layout: event
+title: "すごい広島 #55"
+date: 2014-06-04 18:00:00 JST
+doorkeeper: http://great-h.doorkeeper.jp/events/12021
+togetter: 
+place: movin_on
+categories: events
+---
+
+# 参加者
+
+
+## [sasakilemonte](https://github.com/sasakilemonte)
+
+
+## [Nyoho](http://nyoho.jp/)
+
+
+## [k2works](https://github.com/k2works)
+
+
+## [nemumu](https://github.com/nemumu)
+
+
+## [akira345](https://github.com/akira345)
+
+
+## [takatayoshitake](http://twitter.com/takatayoshitake)
+
+
+## [minamiyama1994](https://github.com/minamiyama1994)
+
+
+## [eiel](http://eiel.info/)
