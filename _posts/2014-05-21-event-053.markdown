@@ -33,6 +33,8 @@ categories: events
 
 ## [yomoginn](https://github.com/yomoginn)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/928)
+* [感想（ツイッター）](https://twitter.com/moriyomogi/status/469101982611828736)
 
 ## [moriC](https://github.com/moriC)
 
