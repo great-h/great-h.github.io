@@ -25,6 +25,11 @@ categories: events
 
 ## [minamiyama1994](https://github.com/minamiyama1994)
 
+kernelvmのおみやげ話をした気がする
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/950)
+* [先週のIssue片付けた](https://github.com/great-h/great-h.github.io/pull/965)
+* 色々適当に話した気がする
 
 ## [k2works](https://github.com/k2works)
 
