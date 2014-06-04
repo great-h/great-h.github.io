@@ -31,5 +31,10 @@ categories: events
 
 ## [minamiyama1994](https://github.com/minamiyama1994)
 
+もくもくpullreq作ってた
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/985)
+* [先週のIssue](https://github.com/great-h/great-h.github.io/pull/986)片付けた
+* [twitter-conduit](http://hackage.haskell.org/package/twitter-conduit)に[pullreq出した](https://github.com/himura/twitter-conduit/pull/21)
 
 ## [eiel](http://eiel.info/)
