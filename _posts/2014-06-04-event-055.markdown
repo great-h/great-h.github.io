@@ -3,6 +3,7 @@ layout: event
 title: "すごい広島 #55"
 date: 2014-06-04 18:00:00 JST
 doorkeeper: http://great-h.doorkeeper.jp/events/12021
+facebook: https://www.facebook.com/events/1450274871886884/
 togetter: 
 place: movin_on
 categories: events
