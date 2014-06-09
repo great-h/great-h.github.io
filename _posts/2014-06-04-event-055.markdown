@@ -42,7 +42,7 @@ categories: events
 
 ## [eiel](http://eiel.info/)
 
-[すごい広島BOT](https://twitter.com/great_hiroshima)を作成しようと悪銭苦闘していた。
+[すごい広島BOT](https://twitter.com/great_hiroshima)を作成しようと悪戦苦闘していた。
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/975)
 * [ruboty-twitterにpull reqした](https://github.com/r7kamura/ruboty-twitter/pull/1)
