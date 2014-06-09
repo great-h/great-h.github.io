@@ -40,6 +40,7 @@ Webでおもしろいことをやってる人たちが広島にやってきま�
 * [ウェブサイトのリポジトリ - GitHub](https://github.com/great-h/)
 * [タスクボード - waffle](https://waffle.io/great-h/great-h.github.io)
 * [チャットルーム - gitter](https://gitter.im/great-h)
+* [すごい広島 - Facebook Page](https://www.facebook.com/great.hiroshima)
 * [Twitter BOT - @great_hiroshima](https://twitter.com/great_hiroshima)
 
 ## ルール(概要)
