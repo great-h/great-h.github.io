@@ -42,3 +42,10 @@ categories: events
 * [twitter-conduit](http://hackage.haskell.org/package/twitter-conduit)に[pullreq出した](https://github.com/himura/twitter-conduit/pull/21)
 
 ## [eiel](http://eiel.info/)
+
+[すごい広島BOT](https://twitter.com/great_hiroshima)を作成しようと悪戦苦闘していた。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/975)
+* [ruboty-twitterにpull reqした](https://github.com/r7kamura/ruboty-twitter/pull/1)
+* [Facebook ページもいろいろ試みているらしい](https://www.facebook.com/great.hiroshima/posts/403232589819392)
+* [すごい広島 #55 に遊びにいった - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/87854878393/55)
