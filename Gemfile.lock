@@ -14,6 +14,9 @@ GEM
       rack (>= 1.0.0)
       url_mount (~> 0.2.1)
     i18n (0.6.9)
+    jbuilder (2.1.0)
+      activesupport (>= 3.0.0, < 5)
+      multi_json (~> 1.2)
     json (1.8.1)
     launchy (2.4.2)
       addressable (~> 2.3)
@@ -24,6 +27,7 @@ GEM
     mime-types (1.25.1)
     minitest (5.3.3)
     moneta (0.7.20)
+    multi_json (1.10.1)
     padrino (0.12.0)
       padrino-admin (= 0.12.0)
       padrino-cache (= 0.12.0)
@@ -102,6 +106,7 @@ PLATFORMS
 
 DEPENDENCIES
   activesupport
+  jbuilder
   launchy
   padrino (= 0.12.0)
   pry
