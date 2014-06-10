@@ -3,6 +3,7 @@ require "rack-livereload"
 require 'sass'
 require 'slim'
 require 'redcarpet'
+require 'jbuilder'
 
 module GreatHiroshima
   class App < Padrino::Application
@@ -46,6 +47,15 @@ module GreatHiroshima
 
     get "/archives.html" do
       slim :archives, locals: { articles: articles }
+    end
+
+    get "/event.json" do
+      article = articles.last
+      Jbuilder.encode do |json|
+        json.no article.no.to_i
+        json.datetime article.date
+        json.place article.place.name
+      end
     end
 
     def articles_table
