@@ -4,6 +4,9 @@ ul
   - if atnd = article.atnd_url
     li
       a href="#{atnd}" = article.atnd_type
+  - if facebook = article.facebook
+    li
+      a href="#{facebook}" Facebook イベントページ
   - if togetter = article.togetter
     li
       a href="#{togetter}" Togetter

@@ -23,6 +23,7 @@ def front_formatter(datetime, event_no)
     title: "すごい広島 ##{event_no}",
     date: time_str,
     doorkeeper: nil,
+    facebook: nil,
     togetter: nil,
     place: 'movin_on',
     categories: 'events',

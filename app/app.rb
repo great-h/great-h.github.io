@@ -116,6 +116,10 @@ class Article
     front_matter["togetter"]
   end
 
+  def facebook
+    front_matter["facebook"]
+  end
+
   def front_matter
     front_matter_and_body[0]
   end
