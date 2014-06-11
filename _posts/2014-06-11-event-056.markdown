@@ -31,3 +31,14 @@ categories: events
 
 
 ## [yoshikoyokko](https://github.com/yoshikoyokko)
+
+
+## [tsuda_ahr](https://twitter.com/tsuda_ahr)
+
+見当違いなことしている気もしているが、これ以上推敲しそうにもないのでとりあえず上げる（汗
+　
+* [\[F#\] Either 型による return](http://ooltcloud.expressweb.jp/201406/article_11235138.html)
+* [\[VB.NET\] VB で Either 型](http://ooltcloud.expressweb.jp/201406/article_11235313.html)
+* [\[VB.NET\] VB で Either 型 (その2)](http://ooltcloud.expressweb.jp/201406/article_11235949.html)
+
+
