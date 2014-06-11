@@ -37,6 +37,15 @@ kernelvmのおみやげ話をした気がする
 
 ## [k2works](https://github.com/k2works)
 
+引き続き業務でインフラ強化のため技術調査実施中です。  
+ただいま[実践Chef入門](http://www.amazon.co.jp/Chef%E5%AE%9F%E8%B7%B5%E5%85%A5%E9%96%80-~%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AB%E3%82%88%E3%82%8B%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E6%A7%8B%E6%88%90%E3%81%AE%E8%87%AA%E5%8B%95%E5%8C%96-WEB-PRESS-plus/dp/477416500X)をベースにTDD環境構築検証中。
+
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/964)
++ [実践リーンスタートアップ](http://k2works.github.io/blog/2014/04/18/runnig-lenan-startup/)
+* [Chef-DK入門](https://github.com/k2works/Chef-DK_introduction)
++ [[WIP]実践Chef](https://github.com/k2works/chef_practice/tree/wip)
+
 
 ## [yukilab](http://twitter.com/yukilab)
 
