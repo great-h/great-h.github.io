@@ -14,6 +14,15 @@ categories: events
 
 ## [minamiyama1994](https://github.com/minamiyama1994)
 
+C++のtemplate強すぎﾜﾛﾀ
+
+もうしばらくみんなと顔合わせられないんだなぁ……寂しい、まあ、東京で頑張る
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/999)
+* [ドワンゴC++勉強会](http://connpass.com/event/6560/)の[発表資料のためのネタライブラリ](https://github.com/minamiyama1994/Dependent-Type)作ってた、C++で依存型みたいなことやってみるってテーマ
+ * 依存型というのは値を型として扱ったり型を値として扱ったりするための機能のことです、CoqとかAgdaとかIdrisとかの定理証明系にあるのだけれど、C++のtemplateで部分的にエミュレートが可能
+* みんなとお別れ会を我馬でした。また明日！
+
 
 ## [yomoginn](https://github.com/yomoginn)
 
