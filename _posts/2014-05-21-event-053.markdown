@@ -50,6 +50,8 @@ categories: events
 
 ## [keishi3311](https://github.com/keishi3311)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/926)
+
 
 ## [minamiyama1994](https://github.com/minamiyama1994)
 
