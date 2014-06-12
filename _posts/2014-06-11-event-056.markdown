@@ -4,7 +4,7 @@ title: "すごい広島 #56"
 date: 2014-06-11 18:00:00 JST
 doorkeeper: http://great-h.doorkeeper.jp/events/12230
 facebook: https://www.facebook.com/events/303546573144047/
-togetter: 
+togetter: http://togetter.com/li/678993
 place: movin_on
 categories: events
 ---
@@ -33,6 +33,15 @@ categories: events
 
 
 ## [yoshikoyokko](https://github.com/yoshikoyokko)
+
+
+## [tsuda_ahr](https://twitter.com/tsuda_ahr)
+
+見当違いなことしている気もしているが、これ以上推敲しそうにもないのでとりあえず上げる（汗
+　
+* [\[F#\] Either 型による return](http://ooltcloud.expressweb.jp/201406/article_11235138.html)
+* [\[VB.NET\] VB で Either 型](http://ooltcloud.expressweb.jp/201406/article_11235313.html)
+* [\[VB.NET\] VB で Either 型 (その2)](http://ooltcloud.expressweb.jp/201406/article_11235949.html)
 
 
 ## [moriC](https://github.com/moriC)
