@@ -23,6 +23,13 @@ categories: events
 
 ## [k2works](https://github.com/k2works)
 
+業務で外部データを収集・分析・視覚化する要望があったのでお手軽に実現できる方法を調査しました。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/982)
++ [LT駆動開発04](http://www.slideshare.net/kakimomokuri/ss-35629403)
++ [実践Chef](https://github.com/k2works/chef_practice/tree/wip)
++ [Keen IO入門](https://github.com/k2works/keenio_introduction)
++ [Keen IOと楽天API連携](https://github.com/k2works/keenio_rakuten_api)
 
 ## [nemumu](https://github.com/nemumu)
 
