@@ -40,6 +40,14 @@ C++のtemplate強すぎﾜﾛﾀ
 
 ## [eiel](http://eiel.info/)
 
+進捗ダメです。
+
+GitHub の説明をしたりしました。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/996)
+* [すごい広島BOTの修正](https://github.com/great-h/great-bot/pull/12)
+* [すごい広島 56 へ遊びにいった - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/88551715783/56)
+
 
 ## [yoshikoyokko](https://github.com/yoshikoyokko)
 
