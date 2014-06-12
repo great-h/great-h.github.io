@@ -26,6 +26,10 @@ categories: events
 
 ## [moriC](https://github.com/moriC)
 
+ITIL Foundationの勉強をしていた
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/958)
+
 
 ## [minamiyama1994](https://github.com/minamiyama1994)
 

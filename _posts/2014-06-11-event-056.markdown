@@ -17,6 +17,8 @@ categories: events
 
 ## [yomoginn](https://github.com/yomoginn)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/997)
+* [感想（ついったー）](https://twitter.com/moriyomogi/status/476704644828114944)
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
@@ -42,3 +44,9 @@ categories: events
 * [\[VB.NET\] VB で Either 型 (その2)](http://ooltcloud.expressweb.jp/201406/article_11235949.html)
 
 
+## [moriC](https://github.com/moriC)
+
+進捗どうですか？っていわれたので
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1008)
+* [定期的進捗報告](http://moric-life.tumblr.com/post/88465949011)
