@@ -57,15 +57,6 @@ task :new_event do
 # 参加者
 STRING
   end
-
-  require 'json'
-  json = {
-          no: next_event_number,
-          datetime: next_event_time
-         }.to_json
-  open('public/event.json', 'w') do |io|
-    io.puts(json)
-  end
 end
 
 desc 'generate site'
