@@ -32,6 +32,7 @@ categories: events
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
+* [やること](https://github.com/great-h/great-h.github.io/issues/942)
 
 ## [yomoginn](https://github.com/yomoginn)
 
