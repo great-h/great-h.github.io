@@ -4,7 +4,7 @@ title: "すごい広島 #56"
 date: 2014-06-11 18:00:00 JST
 doorkeeper: http://great-h.doorkeeper.jp/events/12230
 facebook: https://www.facebook.com/events/303546573144047/
-togetter: 
+togetter: http://togetter.com/li/678993
 place: movin_on
 categories: events
 ---
