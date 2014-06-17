@@ -23,6 +23,10 @@ categories: events
 
 ## [nemumu](https://github.com/nemumu)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/963)
+* [whoispy [GitHub]](https://github.com/nemumu/whoispy)
+* [whoispy [PyPi]](https://pypi.python.org/pypi/whoispy)
+
 
 ## [moriC](https://github.com/moriC)
 
