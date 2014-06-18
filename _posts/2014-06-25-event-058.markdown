@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #58"
+date: 2014-06-25 18:00:00 JST
+doorkeeper: http://great-h.doorkeeper.jp/events/12622
+facebook: https://www.facebook.com/events/883538014996298/
+togetter: 
+place: movin_on
+categories: events
+---
+
+# 参加者
