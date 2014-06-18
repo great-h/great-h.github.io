@@ -33,6 +33,12 @@ categories: events
 
 ## [nemumu](https://github.com/nemumu)
 
+ドメイン料金は返金されました  
+二文字ドメインは予約語であるため取得できないそうです  
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/978)
+* [二文字.comドメインが空いていた話 [LT駆動開発 04]](http://nemumu.hateblo.jp/entry/2014/06/07/221103)
+* [WHOISとドメイン (SlideShare)](http://www.slideshare.net/nemumu/whois-35597469)
 
 ## [akira345](https://github.com/akira345)
 
