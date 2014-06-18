@@ -67,6 +67,9 @@ categories: events
 
 ## [kakenavi](http://twitter.com/kakenavi)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/945)
+* [ITリテラシーの格差問題を考える](https://www.youtube.com/watch?v=tSk63Sn3ZJU&feature=youtu.be)
+
 
 ## [eiel](http://eiel.info/)
 
