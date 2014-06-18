@@ -67,3 +67,12 @@ GitHub の説明をしたりしました。
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1008)
 * [定期的進捗報告](http://moric-life.tumblr.com/post/88465949011)
+
+## [k2works](https://github.com/k2works)
+
+今週は進捗なしです。  
+金・土・日は福岡行って[コレ](http://fukuoka.startupweekend.org/)参加してきました。  
+詳細は[こっち](http://k2works.github.io/blog/2014/06/16/startup-weekend-fukuoka/)です。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1012)
+* [StartupWeekendFukuoka June振り返り](http://k2works.github.io/blog/2014/06/16/startup-weekend-fukuoka/)
