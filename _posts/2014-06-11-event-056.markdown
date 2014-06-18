@@ -34,6 +34,11 @@ C++のtemplate強すぎﾜﾛﾀ
 
 ## [nemumu](https://github.com/nemumu)
 
+進捗ダメです
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/997)
+* [hello-py-curses.py](https://gist.github.com/nemumu/66f20437f059058611cd)
+
 
 ## [sasakilemonte](https://github.com/sasakilemonte)
 
