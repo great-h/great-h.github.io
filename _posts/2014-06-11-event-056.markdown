@@ -36,7 +36,7 @@ C++のtemplate強すぎﾜﾛﾀ
 
 進捗ダメです
 
-* [やること宣言](https://github.com/great-h/great-h.github.io/issues/997)
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1003)
 * [hello-py-curses.py](https://gist.github.com/nemumu/66f20437f059058611cd)
 
 
