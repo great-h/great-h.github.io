@@ -20,6 +20,11 @@ categories: events
 
 ## [moriC](https://github.com/moriC)
 
+しばらくLPICのお勉強。
+「その１」からどこまでつづけられるか
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1028)
+* [LPIC L1のお勉強(その１)](http://moric-life.tumblr.com/post/89151612286/lpic-l1-1)
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
