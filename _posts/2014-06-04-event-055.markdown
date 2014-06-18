@@ -56,3 +56,9 @@ categories: events
 * [ruboty-twitterにpull reqした](https://github.com/r7kamura/ruboty-twitter/pull/1)
 * [Facebook ページもいろいろ試みているらしい](https://www.facebook.com/great.hiroshima/posts/403232589819392)
 * [すごい広島 #55 に遊びにいった - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/87854878393/55)
+
+
+## [Toro_kun](https://twitter.com/Toro_kun)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/979)
+* [5分では分からないTypeScriptのなんとか](https://speakerdeck.com/torokun/ltqu-dong-kai-fa-04-5fen-dehafen-karanaitypescriptfalsenantoka)
