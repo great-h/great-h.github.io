@@ -45,6 +45,11 @@ categories: events
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/981)
+* [たまゆら祭2014に申し込み](http://tamayura.info/news/1879/)
+* [広島サーバユーザ友の会(仮称)のページを更新](http://server-h.github.io/)
+* [LT駆動04のネタを考える](https://github.com/LTDD/Sessions/wiki/LT%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA04)
+
 
 ## [minamiyama1994](https://github.com/minamiyama1994)
 
