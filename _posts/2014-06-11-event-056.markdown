@@ -42,6 +42,9 @@ C++のtemplate強すぎﾜﾛﾀ
 
 ## [sasakilemonte](https://github.com/sasakilemonte)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1007)
+* [広島Mac-UG(6/21](http://atnd.org/events/49314)の準備
+
 
 ## [eiel](http://eiel.info/)
 
