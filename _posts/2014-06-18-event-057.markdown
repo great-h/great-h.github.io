@@ -33,5 +33,11 @@ categories: events
 
 ## [eiel](http://eiel.info/)
 
+BOTに機能追加してたら一日がおわった。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1023)
+* [すごい広島BOT に reply_to コマンドを追加](https://github.com/great-h/great-bot/compare/568c0a1e1e1dfd2525732078d2e80629e0593a5d...0d208d56af547d03aaaf39c86cfe5b282f18c201)
+* [すごい広島 57に遊びにいった - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/89165663438/57)
+
 
 ## [k2works](https://github.com/k2works)
