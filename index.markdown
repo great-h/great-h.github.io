@@ -29,13 +29,6 @@ title: 'すごい広島'
 
 * [ひろしま発 人材集積促進プロジェクト](http://hiro-hata.com/)
 
-[2014年6月7日(土)にキックオフイベントがあるそうです。](http://hiro-hata.com/kickoff)
-
-[![ヒロハタ キックオフイベント](http://lirio.sakura.ne.jp/kickoff/assets/images/logo.gif)](http://hiro-hata.com/kickoff)
-
-Webでおもしろいことをやってる人たちが広島にやってきます。
-参加費無料なのでお気軽に参加してみてください。
-
 ## 関連サイトなど
 
 * [ウェブサイトのリポジトリ - GitHub](https://github.com/great-h/)
