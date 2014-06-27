@@ -41,3 +41,9 @@ BOTに機能追加してたら一日がおわった。
 
 
 ## [k2works](https://github.com/k2works)
+
+只今インフラ改善のための関連技術調査中  
+[DevLOVE広島　第一回（夏の陣)](http://devlove-hiroshima.doorkeeper.jp/events/11247)参加してきました。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1036)
+* [Docker入門](https://github.com/k2works/docker_introduction)
