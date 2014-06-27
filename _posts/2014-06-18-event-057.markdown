@@ -19,6 +19,11 @@ categories: events
 
 ## [nemumu](https://github.com/nemumu)
 
+外部非公開用のWikiを作成しました。  
+近いうちに外部公開用のWikiも作成する予定です。  
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1030)
+
 
 ## [moriC](https://github.com/moriC)
 
