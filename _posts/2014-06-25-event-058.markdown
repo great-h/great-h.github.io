@@ -14,6 +14,10 @@ categories: events
 
 ## [eiel](http://eiel.info/)
 
+寝てました。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1040)
+
 
 ## [nemumu](https://github.com/nemumu)
 
