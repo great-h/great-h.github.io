@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #59"
+date: 2014-07-02 18:00:00 JST
+doorkeeper: http://great-h.doorkeeper.jp/events/12832
+facebook: https://www.facebook.com/events/1455900091324507/
+togetter: 
+place: movin_on
+categories: events
+---
+
+# 参加者
