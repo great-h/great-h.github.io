@@ -14,7 +14,7 @@ gem 'rack-livereload'
 gem 'jbuilder'
 
 # Padrino Stable Gem
-gem 'padrino', '0.12.0'
+gem 'padrino', '~> 0.12.0'
 
 # Or Padrino Edge
 # gem 'padrino', :github => 'padrino/padrino-framework'

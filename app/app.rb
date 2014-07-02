@@ -14,7 +14,14 @@ module GreatHiroshima
     use Rack::Static, urls: ["/public"]
 
     set :slim, pretty: true
-    set :markdown, fenced_code_blocks: true
+
+    def markdown(text)
+      @markdown ||= begin
+        options = { autolink: true, tables: true, fenced_code_blocks: true }
+        Redcarpet::Markdown.new(Redcarpet::Render::HTML, options)
+      end
+      @markdown.render text
+    end
 
     enable :reloader
     disable :logging if defined?(RSpec)
