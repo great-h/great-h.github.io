@@ -21,6 +21,8 @@ categories: events
 
 ## [nemumu](https://github.com/nemumu)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1044)
+
 
 ## [yomoginn](https://github.com/yomoginn)
 
