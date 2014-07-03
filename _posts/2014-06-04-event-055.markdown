@@ -36,8 +36,8 @@ categories: events
 
 ## [nemumu](https://github.com/nemumu)
 
-ドメイン料金は返金されました  
-二文字ドメインは予約語であるため取得できないそうです  
+ドメイン料金は返金されました
+二文字ドメインは予約語であるため取得できないそうです
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/978)
 * [二文字.comドメインが空いていた話 [LT駆動開発 04]](http://nemumu.hateblo.jp/entry/2014/06/07/221103)
@@ -76,3 +76,4 @@ categories: events
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/979)
 * [5分では分からないTypeScriptのなんとか](https://speakerdeck.com/torokun/ltqu-dong-kai-fa-04-5fen-dehafen-karanaitypescriptfalsenantoka)
+* [LT駆動開発 04に参加してTypeScriptのほんのさわりをLTしてきた - Toroとトロは電子機械の夢を見るか](http://106n.net/toro/blog/ltdd04/)
