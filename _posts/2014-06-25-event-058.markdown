@@ -12,6 +12,12 @@ categories: events
 # 参加者
 
 
+## [yycake](https://github.com/yycake)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1042)
+* [pecoのインスール](https://github.com/peco/peco)
+
+
 ## [eiel](http://eiel.info/)
 
 寝てました。
@@ -20,6 +26,10 @@ categories: events
 
 
 ## [nemumu](https://github.com/nemumu)
+
+名刺は作成しました。現在は印刷待ちです。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1044)
 
 
 ## [yomoginn](https://github.com/yomoginn)
@@ -33,3 +43,11 @@ categories: events
 ## [tsuda_ahr](http://twitter.com/tsuda_ahr)
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1041)
+
+
+## [k2works](https://github.com/k2works)
+
+只今インフラ環境移行中
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1037)
+* [実践Docker](https://github.com/k2works/docker_practice)
