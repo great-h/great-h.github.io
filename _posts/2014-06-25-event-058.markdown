@@ -12,6 +12,12 @@ categories: events
 # 参加者
 
 
+## [yycake](https://github.com/yycake)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1042)
+* [pecoのインスール](https://github.com/peco/peco)
+
+
 ## [eiel](http://eiel.info/)
 
 寝てました。
