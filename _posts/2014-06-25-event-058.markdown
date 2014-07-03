@@ -21,6 +21,10 @@ categories: events
 
 ## [nemumu](https://github.com/nemumu)
 
+名刺は作成しました。現在は印刷待ちです。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1044)
+
 
 ## [yomoginn](https://github.com/yomoginn)
 
