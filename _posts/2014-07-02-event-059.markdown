@@ -32,3 +32,11 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+## [k2works](https://github.com/k2works)
+
+インフラ移行でCapistranoがバージョンアップして色々変わったので気合を入れて勉強。  
+只今、試験勉強追い込み中・・・
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1051)
+* [Capistrano入門](https://github.com/k2works/capistrano_introduction)
