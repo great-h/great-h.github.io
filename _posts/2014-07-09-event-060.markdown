@@ -4,7 +4,7 @@ title: "すごい広島 #60"
 date: 2014-07-09 18:00:00 JST
 doorkeeper: http://great-h.doorkeeper.jp/events/13077
 facebook: https://www.facebook.com/events/887994181217826/
-togetter:
+togetter: http://togetter.com/li/690957
 place: movin_on
 categories: events
 ---
