@@ -1,9 +1,18 @@
+== markdown summary.body
+h2 次のイベント
+- next_event = articles.first
+ul class="posts"
+  li
+    span= next_event.date.strftime("%Y-%m-%d")
+    = " » "
+    a href="/events/event-#{next_event.no}.html"
+      = next_event.title
+
 == markdown article.body
-.hoge
 h2 活動履歴
 
 ul class="posts"
-  - articles.each do |article|
+  - articles[1..-1].each do |article|
     li
       span= article.date.strftime("%Y-%m-%d")
       = " » "

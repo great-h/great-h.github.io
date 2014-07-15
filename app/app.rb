@@ -31,6 +31,7 @@ module GreatHiroshima
     get "/index.html" do
       slim :index, locals: {
         article: Article.new("index.markdown"),
+        summary: Article.new("summary.markdown"),
         articles: articles.reverse[0..4]
       }
     end
