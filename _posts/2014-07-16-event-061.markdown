@@ -22,3 +22,9 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+進捗ダメです。
+CSS Nite in HIROSHIMA, Vol. 8 のテーマを考えていたらしい。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1080)
+* [すごい広島 61 に遊びにいった - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/92022699713/61)
