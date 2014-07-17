@@ -25,6 +25,8 @@ categories: events
 
 ## [nemumu](https://github.com/nemumu)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1062)
+* [Free Serverというナウでヤングなサービス(スライド)](http://www.slideshare.net/nemumu/free-server)
 
 ## [LirioY](http://twitter.com/LirioY)
 
