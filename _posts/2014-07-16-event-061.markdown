@@ -11,6 +11,12 @@ categories: events
 
 # 参加者
 
+## [fujioenoki](https://github.com/fujioenoki)
+
+電子書籍販売プラットフォーム調査
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1085)
+
 
 ## [nemumu](https://github.com/nemumu)
 
