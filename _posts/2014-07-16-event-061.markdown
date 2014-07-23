@@ -14,6 +14,10 @@ categories: events
 
 ## [nemumu](https://github.com/nemumu)
 
+セキュリキュリティキャンプの課題を進める
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1083)
+
 
 ## [tsuda_ahr](http://twitter.com/tsuda_ahr)
 
