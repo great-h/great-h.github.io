@@ -10,6 +10,9 @@
 * [5374.jp for Hiroshima](http://hiroshima.5374.jp/)
   * [リポジトリ](https://github.com/great-h/5374)
   * [データを作成するためのプログラム](https://github.com/great-h/5374-csv-generator-in-hiroshima)
+* [とある我馬の非公式(ファンサイト)](http://gaba.eiel.info)
+  * [リポジトリ](https://github.com/eiel/gaba.eiel.info)
+  * [関連ライブラリ - gaba gem](https://github.com/eiel/gaba)
 
 
 ### 広島県内 ITコミュニティ
