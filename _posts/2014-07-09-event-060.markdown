@@ -27,3 +27,13 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+台風前でこない人も多かったけどなぜか9人ぐらいいた気がする。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1069)
+* [Docker Hub を少し試してきた - そんなこと覚えてない](http://blog.eiel.info/blog/2014/07/10/abc-docker-hub/)
+
+## [k2works](https://github.com/k2works)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1073)
+* [LT駆動開発05](http://www.slideshare.net/kakimomokuri/ss-37074146)

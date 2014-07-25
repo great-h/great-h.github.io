@@ -14,6 +14,12 @@ categories: events
 
 ## [Toro_kun](https://twitter.com/Toro_kun)
 
+溜まっているプルリクのレビューをした
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1064)
+* [ガチャピンを注文した](https://github.com/great-h/great-h.github.io/issues/1064)
+* [DevLOVE広島　第一回（夏の陣）でポモドーロ・テクニックとタスクシュートを使ったライフハックのLTをしてきた - Toroとトロは電子機械の夢を見るか](http://106n.net/toro/blog/devhilove1/)
+
 
 ## [yomoginn](https://github.com/yomoginn)
 
@@ -35,7 +41,18 @@ categories: events
 
 ## [eiel](http://eiel.info/)
 
+sensu で問題がおきてるを検知すると30秒ごとに通知がくるらしい。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1054)
+* [すごい広島BOTを強化した。reply_to 時に拾うスクリーンネームが増えた](https://github.com/great-h/great-bot/commit/a52ed63c4704c119dd9189ed294b17ad446ea8d3)
+* [シェルの if を1行でかく - そんなこと覚えてない](http://blog.eiel.info/blog/2014/07/03/oneline-if-on-shell-script/)
+* [すごい広島 59 に遊びにいった - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/90620173848/59)
+
+
 ## [k2works](https://github.com/k2works)
 
-* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1073)
-* [LT駆動開発05](http://www.slideshare.net/kakimomokuri/ss-37074146)
+インフラ移行でCapistranoがバージョンアップして色々変わったので気合を入れて勉強。
+只今、試験勉強追い込み中・・・
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1051)
+* [Capistrano入門](https://github.com/k2works/capistrano_introduction)
