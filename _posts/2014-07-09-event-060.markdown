@@ -13,6 +13,8 @@ categories: events
 
 ## [isabasi1484](https://twitter.com/isabisi1484)
 
+[OSC2014 Hiroshima](http://www.ospn.jp/osc2014-hiroshima/)のミーティングをした
+
 
 ## [nemumu](https://github.com/nemumu)
 
@@ -22,8 +24,14 @@ categories: events
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
+[OSC2014 Hiroshima](http://www.ospn.jp/osc2014-hiroshima/)のミーティングをした
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1072)
+
 
 ## 三谷　篤
+
+[OSC2014 Hiroshima](http://www.ospn.jp/osc2014-hiroshima/)のミーティングをした
 
 
 ## [eiel](http://eiel.info/)
