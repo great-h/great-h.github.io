@@ -23,4 +23,5 @@ categories: events
 
 ## [k2works](https://github.com/k2works)
 
+* [ヒロハタ第1回レギュラーミーティング参加](http://hiro-hata.com/)  
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1102)
