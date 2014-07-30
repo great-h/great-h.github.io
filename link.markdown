@@ -85,3 +85,9 @@
   * [Twitter](https://twitter.com/moriyomogi)
 * [yycake](https://github.com/yycake)
   * [Twitter](https://twitter.com/yy_no4)
+
+### スペシャルサンクス
+
+* [ラーメン屋 - 我馬](http://www.gaba-2000.com/)
+* [コワーキングスペース - Movin'on](http://coworking-hiroshima.com/)
+* [コワーキングスペース - ShakeHands](http://www.shakehands.jp/)
