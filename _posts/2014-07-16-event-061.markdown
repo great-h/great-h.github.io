@@ -11,6 +11,12 @@ categories: events
 
 # 参加者
 
+## [k2works](https://github.com/k2works)
+
+OpenStack の勉強をしたい
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1091)
+
 
 ## [nemumu](https://github.com/nemumu)
 
