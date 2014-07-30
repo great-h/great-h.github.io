@@ -20,5 +20,10 @@ categories: events
 
 ## [eiel](http://eiel.info/)
 
+やりたいことができてなーい。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1107)
+* [WindowsPhoneハンズオン Vol.31でコード写経していた](https://github.com/eiel/wpho-31-typescript2)
+
 
 ## [enofujityan](http://twitter.com/enofujityan)
