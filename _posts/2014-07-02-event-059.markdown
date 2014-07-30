@@ -56,3 +56,11 @@ sensu で問題がおきてるを検知すると30秒ごとに通知がくるら
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1051)
 * [Capistrano入門](https://github.com/k2works/capistrano_introduction)
+
+
+## [enofujityan](http://twitter.com/enofujityan)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1063)
+* [E★エブリスタ](http://estar.jp/)のようなウェブシステムを構築するため会員登録して調査
+
+電子書籍販売プラットフォームとして、まず最初にDeNAとNTTドコモとの共同出資企業、株式会社エブリスタが提供するE★エブリスタについて、会員登録して調査中です。
