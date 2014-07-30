@@ -12,6 +12,11 @@ categories: events
 # 参加者
 
 
+## [takata](https://github.com/great-h/great-h.github.io/issues/1097)
+
+* [マルレク「グローバル・ネットワークと技術革新の展望」](http://kokucheese.com/event/index/192017/)に参加
+
+
 ## [tsuda_ahr](http://twitter.com/tsuda_ahr)
 
 
