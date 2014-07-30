@@ -34,6 +34,7 @@
 * [広島++](http://hiroshima-plus-plus.github.io/)<br>広島のC++コミュニティ(になる予定)です。C++についての様々な情報共有や開発を行っていきたいです。定期的に小規模な勉強会など開催出来たらいいなぁと思っています。
 * [LT駆動開発](http://ltdd.doorkeeper.jp/)<br>普段の開発の中で毎月ライトニングトークをすること想定しつつ、本当に毎月ライトニングトークすることで勉強しようという勉強会。勉強会で一番勉強になるのは発表者らしいです。
 * [広島Unity勉強会](http://hiroshima-unity.jimdo.com/)<br>広島でUnity3Dを学ぼうという活動している会です。勉強会や広報の他に、広島の人がUnityで制作した物の紹介などを行っています。
+* [DevLOVE広島](https://www.facebook.com/groups/657965497630510/)<br>DevLOVEとは、開発(Develop)を愛する人たちの集まりの広島版です。開発の楽しさや開発の現場をよりよくすることを主眼に勉強会が行われています。
 
 他にも 広島のITコミュニティがありましたら、[Pull Request](https://github.com/great-h/great-h.github.io/pulls) をお願いします。
 
