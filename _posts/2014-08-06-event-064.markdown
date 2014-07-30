@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #64"
+date: 2014-08-06 18:00:00 JST
+doorkeeper: http://great-h.doorkeeper.jp/events/13875
+facebook: https://www.facebook.com/events/700038796718575/
+togetter: 
+place: movin_on
+categories: events
+---
+
+# 参加者
