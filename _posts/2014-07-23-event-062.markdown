@@ -20,3 +20,9 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+秘密であるが [A8D:2](http://augment8.org/) の打ち合わせもした。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1092)
+* [すごい広島60のレポートを書いた](https://www.facebook.com/great.hiroshima/posts/425368057605845)
+* [gaba.eiel.info に Google Analytics を設置した](https://github.com/eiel/gaba.eiel.info/commit/ff9dbb86105d019a796548b527c5c47e16dc6711)
