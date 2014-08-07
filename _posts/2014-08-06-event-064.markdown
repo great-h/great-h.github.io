@@ -25,3 +25,11 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+
+## [Nyoho](http://nyoho.jp)
+
+久々のリアル参加ができました。かろうじて bot の機能アップができました。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1122)
+* [すごい広島 bot の改良](https://github.com/great-h/great-bot/pull/19)
