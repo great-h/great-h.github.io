@@ -18,6 +18,10 @@ categories: events
 
 ## [tsuda_ahr](http://twitter.com/tsuda_ahr)
 
+w32tmとかntpとかLT駆動で発表するらしいとの噂。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1099)
+
 
 ## [eiel](http://eiel.info/)
 
