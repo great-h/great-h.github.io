@@ -26,6 +26,12 @@ categories: events
 
 ## [eiel](http://eiel.info/)
 
+某ブログの記事についたコメントに回答する記事を書いていたせいで進捗ダメです。(しかも公開できてない)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1118)
+* [すごい広島62 のレポートかきました](https://www.facebook.com/great.hiroshima/posts/431842923625025)
+* [eiel.info を rails でつくってみようかなということでリポジトリつくった](https://github.com/eiel/eiel.info)
+
 
 ## [Nyoho](http://nyoho.jp)
 
