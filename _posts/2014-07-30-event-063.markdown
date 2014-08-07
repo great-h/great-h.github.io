@@ -4,7 +4,7 @@ title: "すごい広島 #63"
 date: 2014-07-30 18:00:00 JST
 doorkeeper: http://great-h.doorkeeper.jp/events/13634
 facebook: https://www.facebook.com/events/277891285730413/
-togetter: 
+togetter: http://togetter.com/li/700086
 place: movin_on
 categories: events
 ---
