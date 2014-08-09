@@ -24,6 +24,7 @@ categories: events
 ## [tsuchim](http://twitter.com/tsuchim)
 
 初めて参加させて頂きました。
+
 * 今後の開発方針の決定と、基本APIの策定、リポジトリ作成など、第一歩を踏み出せました。
 
 ## [eiel](http://eiel.info/)
