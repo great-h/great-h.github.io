@@ -95,4 +95,4 @@
 
 * [ラーメン屋 - 我馬](http://www.gaba-2000.com/)
 * [コワーキングスペース - Movin'on](http://coworking-hiroshima.com/)
-* [コワーキングスペース - ShakeHands](http://www.shakehands.jp/)
+* [コワーキングスペース - Shake Hands](http://www.shakehands.jp/)
