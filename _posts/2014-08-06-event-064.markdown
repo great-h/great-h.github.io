@@ -4,7 +4,7 @@ title: "すごい広島 #64"
 date: 2014-08-06 18:00:00 JST
 doorkeeper: http://great-h.doorkeeper.jp/events/13875
 facebook: https://www.facebook.com/events/700038796718575/
-togetter: 
+togetter:
 place: movin_on
 categories: events
 ---
@@ -36,3 +36,9 @@ categories: events
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1122)
 * [すごい広島 bot の改良](https://github.com/great-h/great-bot/pull/19)
+
+## [k2works](https://github.com/k2works)
+
+中小企業診断士試験１次試験突破できず・・・
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1136)
