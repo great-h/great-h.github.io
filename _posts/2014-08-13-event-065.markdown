@@ -14,6 +14,15 @@ categories: events
 
 ## [eiel](http://eiel.info/)
 
+すごい広島の前から Movin'on に来てたので疲れました。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1135)
+* [すごい合同勉強会のDoorkeeperを更新しました。](https://github.com/LTDD/great-study-2014/commit/917f57b960fa23a1fa26f7b18f2212808f3504ab)
+* [http://eiel.info さんを更新していました](https://github.com/eiel/eiel.info/compare/a160cd097e6f9697ca0a1264bbcb1b82e9881d11...84cdf64ecbe19ff471e8d82b0d2998a6e7abe728)
+* [eiel.info さんがリニューアルされました](http://eiel.info/)
+* [すごい広島 63 のレポートを書きました](https://www.facebook.com/great.hiroshima/posts/434289160047068)
+* [すみっこの空さんを読みました](https://github.com/great-h/great-h.github.io/issues/1135#issuecomment-52066011)
+
 
 ## [LirioY](http://twitter.com/LirioY)
 
