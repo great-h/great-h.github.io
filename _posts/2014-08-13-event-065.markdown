@@ -22,3 +22,10 @@ categories: events
 
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
+
+## [moriC](https://github.com/moriC)
+
+久しぶりに時間があったからたまにはもくもく
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1138)
+* [ログを読む技術を読む](http://moric-life.tumblr.com/post/94628179271)
