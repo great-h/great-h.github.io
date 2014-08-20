@@ -20,5 +20,9 @@ categories: events
 
 ## [tsuda_ahr](http://twitter.com/tsuda_ahr)
 
+Haskel の do への書き換えをした
+
+* [これを](https://twitter.com/tsuda_ahr/status/499509828172009473) do を使ってかくと [こうなる](https://twitter.com/tsuda_ahr/status/499510638557687809)
+
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
