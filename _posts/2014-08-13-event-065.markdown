@@ -4,7 +4,7 @@ title: "すごい広島 #65"
 date: 2014-08-13 18:00:00 JST
 doorkeeper: http://great-h.doorkeeper.jp/events/14137
 facebook: https://www.facebook.com/events/1517253035175333/
-togetter: 
+togetter: http://togetter.com/li/706055
 place: movin_on
 categories: events
 ---
