@@ -11,6 +11,11 @@ categories: events
 
 # 参加者
 
+## [nemumu](https://github.com/nemumu)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1111)
+* [プログラミング同好会とすごい合同勉強会 - LT駆動開発のスライド](http://www.slideshare.net/nemumu/ss-37607787)
+
 
 ## [coelacanth77](https://github.com/coelacanth77)
 
