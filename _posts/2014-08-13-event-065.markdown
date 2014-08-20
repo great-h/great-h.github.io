@@ -17,6 +17,8 @@ categories: events
 
 ## [LirioY](http://twitter.com/LirioY)
 
+* [concrete5](http://concrete5-japan.org/) を [vagrant](https://www.vagrantup.com/)使いインストールした。
+
 
 ## [tsuda_ahr](http://twitter.com/tsuda_ahr)
 
