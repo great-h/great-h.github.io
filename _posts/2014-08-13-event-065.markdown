@@ -4,7 +4,7 @@ title: "すごい広島 #65"
 date: 2014-08-13 18:00:00 JST
 doorkeeper: http://great-h.doorkeeper.jp/events/14137
 facebook: https://www.facebook.com/events/1517253035175333/
-togetter: 
+togetter:
 place: movin_on
 categories: events
 ---
@@ -22,3 +22,8 @@ categories: events
 
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
+
+## [k2works](https://github.com/k2works)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1136)
+* [Linuxセキュリティ入門](https://github.com/k2works/linux_security_introduction)
