@@ -19,6 +19,8 @@ categories: events
 
 ## [coelacanth77](https://github.com/coelacanth77)
 
+* [Windows Phoneハンズオン Vol.31](http://wphandson.doorkeeper.jp/events/13633)で TypeScript のハンズオンに参加した
+
 
 ## [tsuda_ahr](http://twitter.com/tsuda_ahr)
 
