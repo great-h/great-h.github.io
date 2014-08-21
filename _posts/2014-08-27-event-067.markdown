@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #67"
+date: 2014-08-27 18:00:00 JST
+doorkeeper: http://great-h.doorkeeper.jp/events/14519
+facebook: https://www.facebook.com/events/508183085993100/
+togetter:
+place: movin_on
+categories: events
+---
+
+# 参加者
