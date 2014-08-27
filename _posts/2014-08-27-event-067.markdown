@@ -26,9 +26,9 @@ categories: events
 
 ## [mrtc0](http://twitter.com/mrtc0)
 
-GtHubの勉強をしました。
+GtHubの勉強とkippoのイケてないコマンド構文解析を改善しました。
 
-* [ すごい広島#67に参加しました](http://mrt-k.hateblo.jp/)
+* [ すごい広島#67に参加しました](http://mrt-k.hateblo.jp/entry/2014/08/28/000840)
 
 
 ## [nemumu](https://github.com/nemumu)
