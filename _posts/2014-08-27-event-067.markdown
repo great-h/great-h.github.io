@@ -40,3 +40,10 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+今日も雑な GitHub 講座をした。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1161)
+* [OSCの懇親会に申し込みした。](https://www.ospn.jp/osc2014-hiroshima/modules/eguide/event.php?eid=1)<br>みんな事前申し込みしてあげてね。
+* [Facebook Pageに65回のレポート書いた](https://www.facebook.com/great.hiroshima/posts/440670109408973)
+* [すごい広島に「ヒロハタを応援するサイト」へのリンクを作成した。](https://github.com/great-h/great-h.github.io/pull/1171)
