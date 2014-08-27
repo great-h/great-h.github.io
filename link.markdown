@@ -13,7 +13,10 @@
 * [とある我馬の非公式(ファンサイト)](http://gaba.eiel.info)
   * [リポジトリ](https://github.com/eiel/gaba.eiel.info)
   * [関連ライブラリ - gaba gem](https://github.com/eiel/gaba)
-
+* [ヒロハタを応援するサイト](/hirohata/)
+  * [リポジトリ](https://github.com/great-h/hirohata)
+  * [記事を作成するためのサポートプログラム](https://github.com/great-h/hirohata-reporter)
+  * [ヒロハタ](http://hiro-hata.com/)
 
 ### 広島県内 ITコミュニティ
 
