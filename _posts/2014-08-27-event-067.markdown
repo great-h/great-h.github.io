@@ -35,6 +35,7 @@ categories: events
 
 ## [s-rem](https://github.com/s-rem)
 
+  * [すごい広島 はじめて参加してみました](https://github.com/great-h/great-h.github.io/issues/1175)
 
 ## [uehaso](https://github.com/uehaso)
 
