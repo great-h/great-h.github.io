@@ -26,6 +26,10 @@ categories: events
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
+OSC2014広島の告知を送ったり告知依頼をした。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1178)
+
 
 ## [tsuda_ahr](http://twitter.com/tsuda_ahr)
 
