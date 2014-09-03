@@ -12,6 +12,13 @@ categories: events
 # 参加者
 
 
+## [yoshikoyokko](https://github.com/yoshikoyokko)
+
+Wordpress を勉強しました。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1166)
+
+
 ## [Uemmra3](https://github.com/Uemmra3)
 
 
