@@ -20,6 +20,10 @@ categories: events
 
 ## [s-rem](https://github.com/s-rem)
 
+* [20140903今日やること](https://github.com/great-h/great-h.github.io/issues/1193)
+* [作ってみたGitHub Page](http://s-rem.github.io/vaexp/)<BR>
+中身はautogenしたまんまです :stuck_out_tongue:
+
 
 ## [uehaso](https://github.com/uehaso)
 
