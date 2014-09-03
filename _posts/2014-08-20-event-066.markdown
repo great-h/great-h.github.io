@@ -28,3 +28,10 @@ GitHub Pages で動く Jekyll さんで sass が動くようになってるの�
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1147)
 * [中国地方DB勉強会](http://dbstudychugoku.github.io/events/event-005.html)のサイトを修正した - [コミットログ](https://github.com/dbstudychugoku/dbstudychugoku.github.io/commit/0e9e8ae614a8245287ebf4dfea449c5a34e894b6)
+
+
+## [k2works](https://github.com/k2works)
+
+統合監視環境Zabbix導入のため検証中です。
+
+* [WIP:Zabbix入門](https://github.com/k2works/zabbix_introduction)
