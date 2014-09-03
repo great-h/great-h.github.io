@@ -27,6 +27,6 @@ categories: events
 ## [よっちゃん](https://www.facebook.com/profile.php?id=100002278659582)
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1196)
-
+* [コンテンツデザイン要素を３つ考える](https://github.com/great-h/great-h.github.io/issues/1196)
 
 ## [eiel](http://eiel.info/)
