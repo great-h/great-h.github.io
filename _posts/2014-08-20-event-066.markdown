@@ -18,6 +18,7 @@ categories: events
 
 ## [tsuda_ahr](http://twitter.com/tsuda_ahr)
 
+モナドについて語った。
 
 ## [uehaso](https://github.com/uehaso)
 
