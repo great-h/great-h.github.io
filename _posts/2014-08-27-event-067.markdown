@@ -38,6 +38,10 @@ categories: events
 
 ## [nemumu](https://github.com/nemumu)
 
+スライドを作る時間があればDNS Spoofing、無かった場合はRed Star OSの発表をする予定です
+
+* [LT駆動開発07 · LTDD/Sessions Wiki](https://github.com/LTDD/Sessions/wiki/LT%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA07)
+
 
 ## [s-rem](https://github.com/s-rem)
 
