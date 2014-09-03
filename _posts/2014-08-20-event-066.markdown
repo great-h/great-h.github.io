@@ -11,6 +11,10 @@ categories: events
 
 # 参加者
 
+## [tkt](https://twitter.com/takatayoshitake)
+
+* [OSCの懇親会の受付がはじまりました](http://www.ospn.jp/osc2014-hiroshima/modules/eguide/event.php?eid=1)
+
 
 ## [tsuda_ahr](http://twitter.com/tsuda_ahr)
 
