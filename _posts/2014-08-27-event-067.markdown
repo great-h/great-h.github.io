@@ -41,6 +41,12 @@ categories: events
 
 ## [s-rem](https://github.com/s-rem)
 
+  * [すごい広島 はじめて参加してみました](https://github.com/great-h/great-h.github.io/issues/1175)
+  * [GitHubを使って、ソーシャルコーディングを試みています](https://github.com/conkan/conkan)<BR>
+成果物の利用ターゲットは既に決まっていますが、成果物自体はAL2.0でオープンソースにします。<BR>
+現在はまだ要求定義段階ですが、9月に入ったら製造段階に入る予定です。<BR>
+が、実装担当者がほとんど集まっていません。開発環境(キーワード)は、perl/Amon2/MySQL など。<BR>
+ソーシャルコーディングに興味がある方、perlでの実装に興味がある方、ぜひご連絡ください。
 
 ## [uehaso](https://github.com/uehaso)
 
