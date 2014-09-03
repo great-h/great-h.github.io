@@ -23,6 +23,8 @@ categories: events
 * [20140903今日やること](https://github.com/great-h/great-h.github.io/issues/1193)
 * [作ってみたGitHub Page](http://s-rem.github.io/vaexp/)<BR>
 中身はautogenしたまんまです :stuck_out_tongue:
+* [GitHubを使ったコミュニケーション](https://github.com/s-rem/great-h-rep/blob/gh-pages/githubcom.md)<BR>
+作ったけど、md->html自動変換のやり方がわからない
 
 
 ## [uehaso](https://github.com/uehaso)
