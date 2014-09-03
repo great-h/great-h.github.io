@@ -14,6 +14,10 @@ categories: events
 
 ## [Uemmra3](https://github.com/Uemmra3)
 
+FirefoxOS勉強会のLT資料作成しました。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1174)
+
 
 ## [kwgch](https://github.com/kwgch)
 
