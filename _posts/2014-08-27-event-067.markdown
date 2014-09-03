@@ -46,3 +46,10 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+
+## [k2works](https://github.com/k2works)
+
+ショック！Zabbixは統合監視環境であってログ収集は別にやらないといけないことが判明
+
+* [Zabbix入門](https://github.com/k2works/zabbix_introduction)
