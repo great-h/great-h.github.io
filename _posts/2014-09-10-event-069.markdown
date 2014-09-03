@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #69"
+date: 2014-09-10 18:00:00 JST
+doorkeeper: http://great-h.doorkeeper.jp/events/14959
+facebook: https://www.facebook.com/events/500837913386073/
+togetter:
+place: movin_on
+categories: events
+---
+
+# 参加者
