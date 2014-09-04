@@ -4,7 +4,7 @@ title: "すごい広島 #68"
 date: 2014-09-03 18:00:00 JST
 doorkeeper: http://great-h.doorkeeper.jp/events/14707
 facebook: https://www.facebook.com/events/829833717047803/
-togetter:
+togetter: http://togetter.com/li/715064
 place: movin_on
 categories: events
 ---
