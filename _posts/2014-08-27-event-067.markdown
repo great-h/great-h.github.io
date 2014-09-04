@@ -36,6 +36,10 @@ Wordpress を勉強しました。
 
 ## [tsuda_ahr](http://twitter.com/tsuda_ahr)
 
+子プロセスから標準入力によって結果を受信する実験とできればNLogの実験
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1172)
+
 
 ## [mrtc0](http://twitter.com/mrtc0)
 
