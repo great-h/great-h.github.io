@@ -11,6 +11,12 @@ categories: events
 
 # 参加者
 
+## [fujioenoki](https://github.com/fujioenoki)
+
+[Ruby on Rails チュートリアル](http://railstutorial.jp/)を読みました。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1176)
+
 
 ## [yoshikoyokko](https://github.com/yoshikoyokko)
 
