@@ -38,3 +38,8 @@ categories: events
 * [コンテンツデザイン要素を３つ考える](https://github.com/great-h/great-h.github.io/issues/1196)
 
 ## [eiel](http://eiel.info/)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1186)
+* [66回のレポート書きました](https://www.facebook.com/great.hiroshima/posts/446008698875114)
+* [すごい広島の本置場を作成した - OSCの展示に使う…予定](http://great-h-book.eiel.info/)
+  * [リポジトリにプッシュするとCIでepubを自動生成するようにした](https://app.wercker.com/#applications/54073625a3d31ea93b308e2d/)
