@@ -17,6 +17,9 @@
   * [リポジトリ](https://github.com/great-h/hirohata)
   * [記事を作成するためのサポートプログラム](https://github.com/great-h/hirohata-reporter)
   * [ヒロハタ](http://hiro-hata.com/)
+* [すごい広島の本](http://great-h-book.eiel.info/)
+  * [リポジトリ](https://github.com/great-h/great-h-book)
+  * [最新のepubをダウンロード](http://great-h-book.eiel.info/great-h-book.epub)
 
 ### 広島県内 ITコミュニティ
 
