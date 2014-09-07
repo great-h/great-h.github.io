@@ -38,3 +38,10 @@ categories: events
 * [コンテンツデザイン要素を３つ考える](https://github.com/great-h/great-h.github.io/issues/1196)
 
 ## [eiel](http://eiel.info/)
+
+
+## [nemumu](https://github.com/nemumu)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1185)
+* [既出のDNSキャッシュポイズニング [LT駆動開発 07](ブログ)](http://nemumu.hateblo.jp/entry/2014/09/07/225602)
+* [既出のDNS キャッシュポイズニング(スライド)](http://www.slideshare.net/nemumu/ltdd7)
