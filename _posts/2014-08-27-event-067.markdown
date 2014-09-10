@@ -65,8 +65,9 @@ OSC2014広島の告知を送ったり告知依頼をした。
 
 ## [mrtc0](http://twitter.com/mrtc0)
 
-* [ すごい広島#67に参加しました](http://mrt-k.hateblo.jp/)
+GtHubの勉強とkippoのイケてないコマンド構文解析を改善しました。
 
+* [ すごい広島#67に参加しました](http://mrt-k.hateblo.jp/entry/2014/08/28/000840)
 
 
 ## [nemumu](https://github.com/nemumu)
