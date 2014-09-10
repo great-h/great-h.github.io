@@ -25,14 +25,6 @@ Wordpress を勉強しました。
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1166)
 
 
-## [k2works](https://github.com/k2works)
-
-統合監視環境Zabbix導入のため検証中。
-
-* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1159)
-* [Zabbix入門](https://github.com/k2works/zabbix_introduction)
-
-
 ## [Uemmra3](https://github.com/Uemmra3)
 
 FirefoxOS勉強会のLT資料作成しました。
@@ -86,11 +78,13 @@ GtHubの勉強とkippoのイケてないコマンド構文解析を改善しま�
 が、実装担当者がほとんど集まっていません。開発環境(キーワード)は、perl/Amon2/MySQL など。<BR>
 ソーシャルコーディングに興味がある方、perlでの実装に興味がある方、ぜひご連絡ください。
 
+
 ## [uehaso](https://github.com/uehaso)
 
 2回目！すごい広島！
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1165)
+
 
 ## [eiel](http://eiel.info/)
 
@@ -100,3 +94,11 @@ GtHubの勉強とkippoのイケてないコマンド構文解析を改善しま�
 * [OSCの懇親会に申し込みした。](https://www.ospn.jp/osc2014-hiroshima/modules/eguide/event.php?eid=1)<br>みんな事前申し込みしてあげてね。
 * [Facebook Pageに65回のレポート書いた](https://www.facebook.com/great.hiroshima/posts/440670109408973)
 * [すごい広島に「ヒロハタを応援するサイト」へのリンクを作成した。](https://github.com/great-h/great-h.github.io/pull/1171)
+
+
+## [k2works](https://github.com/k2works)
+
+ショック！Zabbixは統合監視環境であってログ収集は別にやらないといけないことが判明
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1159)
+* [Zabbix入門](https://github.com/k2works/zabbix_introduction)
