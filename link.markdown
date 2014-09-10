@@ -65,6 +65,8 @@
   * [KEZIYAJONES](http://keziyajones.jp/)
 * [kt](https://twitter.com/kt_kyoto)
   * [More Privatizing Profits While Socializing Costs](http://goldbergvariations.tumblr.com/)
+* [kwgch](http://twitter.com/ducky19999)
+  * [blogはweb logの略](http://kwgch.github.io/)
 * [majosystems](https://github.com/majosystems)
   * [昔あったまよというもの](http://majosystems.com/)
 * [mako](https://github.com/makowis)
