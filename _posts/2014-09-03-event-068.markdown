@@ -19,6 +19,10 @@ categories: events
 
 ## [mrtc0](http://twitter.com/mrtc0)
 
+* [今日やること](https://github.com/great-h/great-h.github.io/issues/1184)
+* [完成したスライド](http://www.slideshare.net/mrtc0/ss-38770495)
+* [ブログ](http://mrt-k.hateblo.jp/entry/2014/09/06/192805)
+
 
 ## [s-rem](https://github.com/s-rem)
 
