@@ -25,6 +25,14 @@ Wordpress を勉強しました。
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1166)
 
 
+## [k2works](https://github.com/k2works)
+
+統合監視環境Zabbix導入のため検証中。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1159)
+* [Zabbix入門](https://github.com/k2works/zabbix_introduction)
+
+
 ## [Uemmra3](https://github.com/Uemmra3)
 
 FirefoxOS勉強会のLT資料作成しました。
