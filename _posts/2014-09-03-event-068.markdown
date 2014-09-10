@@ -38,3 +38,10 @@ categories: events
 * [コンテンツデザイン要素を３つ考える](https://github.com/great-h/great-h.github.io/issues/1196)
 
 ## [eiel](http://eiel.info/)
+
+## [k2works](https://github.com/k2works)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1218)
+* [LT資料作成](http://www.slideshare.net/kakimomokuri/5-s-38912911)
+* [5S解説サンプルプログラム](https://github.com/k2works/5s_example)
+* [Rails ジョブ調査](https://github.com/k2works/rails_jobs_research)
