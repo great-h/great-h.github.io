@@ -31,3 +31,10 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+おれたちは我馬へいった。
+
+すごいHiroshimaの本の執筆要請や[広島の楽しい100人](http://hiroshima100nin.doorkeeper.jp/events/14710)の宣伝活動をした
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1213)
+* [Facebookページに67回のレポート書いた](https://www.facebook.com/great.hiroshima/posts/451565211652796)
