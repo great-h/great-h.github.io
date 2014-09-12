@@ -28,6 +28,9 @@ categories: events
 
 ## [kwgch](https://github.com/kwgch)
 
+* [今日やること](https://github.com/great-h/great-h.github.io/issues/1215)
+* [すごい広島#69に参加しました](http://kwgch.github.io/blog/2014/09/10/great-h/)
+
 
 ## [s-rem](https://github.com/s-rem)
 
