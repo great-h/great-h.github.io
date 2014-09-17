@@ -30,4 +30,6 @@ categories: events
 ## [k2works](https://github.com/k2works)
 
 
-## [uehaso](https://github.com/uehaso)
+## [uehaso](https://twitter.com/uehaso)
+
+ 今日もPHPが捗らなかった。。。SQL分からんOTZ
