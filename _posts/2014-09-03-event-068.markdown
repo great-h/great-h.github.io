@@ -11,6 +11,12 @@ categories: events
 
 # 参加者
 
+## [takata](https://github.com/takata)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1198)
+* [OSC2014 広島の告知とか](http://www.ospn.jp/osc2014-hiroshima/)
+* [レッドハッカソン広島に申し込み](http://www.pasonatech.co.jp/search/features_plan/hackathon_hiroshima.jsp)
+
 
 ## [kwgch](https://github.com/kwgch)
 
