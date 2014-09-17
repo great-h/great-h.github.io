@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #71"
+date: 2014-09-24 18:00:00 JST
+doorkeeper: http://great-h.doorkeeper.jp/events/15415
+facebook: https://www.facebook.com/events/1572844892943862/
+togetter:
+place: movin_on
+categories: events
+---
+
+# 参加者
