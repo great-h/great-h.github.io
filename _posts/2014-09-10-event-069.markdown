@@ -12,6 +12,13 @@ categories: events
 # 参加者
 
 
+## [takata](https://github.com/takata)
+
+OSCのための活動をしました。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1217)
+
+
 ## [sasakilemonte](https://github.com/sasakilemonte)
 
 
