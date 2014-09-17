@@ -25,9 +25,11 @@ categories: events
 
 
 ## [s-rem](https://github.com/s-rem)
+
 * [20140910今日やること](https://github.com/great-h/great-h.github.io/issues/1219)
 * [GitHub Pageにスタイルを適用](https://github.com/s-rem/great-h-rep/blob/gh-pages/githubcom.md)
 * Bootstrapの調査は時間切れ
+
 
 ## [uehaso](https://github.com/uehaso)
 
