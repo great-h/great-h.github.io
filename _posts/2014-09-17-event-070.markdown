@@ -4,7 +4,7 @@ title: "すごい広島 #70"
 date: 2014-09-17 18:00:00 JST
 doorkeeper: http://great-h.doorkeeper.jp/events/15183
 facebook: https://www.facebook.com/events/1469746579973909
-togetter:
+togetter: http://togetter.com/li/720532
 place: movin_on
 categories: events
 ---
