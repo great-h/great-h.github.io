@@ -14,6 +14,10 @@ categories: events
 
 ## [Nyoho](http://nyoho.jp/)
 
+久々に参加できました。高校生が低レベルですごいと思いました。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1241)
+
 
 ## [kwgch](https://github.com/kwgch)
 
