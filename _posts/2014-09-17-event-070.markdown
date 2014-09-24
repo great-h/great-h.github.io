@@ -20,6 +20,9 @@ categories: events
 
 ## [nemumu](https://github.com/nemumu)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1236)
+* [OSCのLTスライド](http://nemumu.hateblo.jp/entry/2014/09/21/234305)
+
 
 ## [mrtc0](http://twitter.com/mrtc0)
 
