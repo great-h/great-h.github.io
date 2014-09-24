@@ -26,6 +26,9 @@ categories: events
 
 ## [Uemmra3](https://github.com/Uemmra3)
 
+ ブログ書くまでが勉強会。DB勉強会の軽目な参戦記を書けた(http://d.hatena.ne.jp/Uemmra3/20140924)。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1246)
 
 ## [shige0501](https://github.com/shige0501)
 
