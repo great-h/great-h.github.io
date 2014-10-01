@@ -38,5 +38,9 @@ categories: events
 
 ## [k2works](https://github.com/k2works)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1228)
+* [ログ収集・可視化入門](https://github.com/k2works/logging_introduction)
+* [オープンセミナー2014@広島プレゼン](http://www.slideshare.net/kakimomokuri/2014-39450085)
+
 
 ## [uehaso](https://github.com/uehaso)
