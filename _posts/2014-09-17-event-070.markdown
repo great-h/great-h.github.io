@@ -56,4 +56,6 @@ categories: events
 * [オープンセミナー2014@広島プレゼン](http://www.slideshare.net/kakimomokuri/2014-39450085)
 
 
-## [uehaso](https://github.com/uehaso)
+## [uehaso](https://twitter.com/uehaso)
+
+ 今日もPHPが捗らなかった。。。SQL分からんOTZ
