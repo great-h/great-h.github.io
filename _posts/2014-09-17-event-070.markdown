@@ -21,6 +21,12 @@ categories: events
 * [LT駆動開発で順番を決めるためのシャフルツール](https://github.com/LTDD/ltdd_shuffler)
 * [すごいHiroshimaの本の推敲](https://github.com/great-h/great-h-book/pull/19)
 
+## [takata](https://github.com/takata)
+
+無事にOSC2014広島を終えることができました。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1238)
+
 
 ## [Nyoho](http://nyoho.jp/)
 
