@@ -11,6 +11,11 @@ categories: events
 
 # 参加者
 
+## [mumumu-pg](https://github.com/mumumu-pg)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1243)
+
+
 ## [eiel](http://eiel.info)
 
 今日はすごいUniyの人達もいて非常にたくさんの人が参加してました。すごい。
