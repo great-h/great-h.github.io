@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #73"
+date: 2014-10-08 18:00:00 JST
+doorkeeper: http://great-h.doorkeeper.jp/events/15899
+facebook: http://www.facebook.com/events/1478073769138532/
+togetter:
+place: movin_on
+categories: events
+---
+
+# 参加者
