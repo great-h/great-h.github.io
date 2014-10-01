@@ -21,6 +21,9 @@ categories: events
 
 ## [kwgch](https://github.com/kwgch)
 
+* [今日やること](https://github.com/great-h/great-h.github.io/issues/1232)
+* [すごい広島#70にエア参加しました](http://kwgch.github.io/blog/2014/09/17/great-h/)
+
 
 ## [nemumu](https://github.com/nemumu)
 
