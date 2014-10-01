@@ -11,6 +11,16 @@ categories: events
 
 # 参加者
 
+## [eiel](http://eiel.info)
+
+今日はすごいUniyの人達もいて非常にたくさんの人が参加してました。すごい。
+シャッフルツールはまだ標準入力をうけとって、標準出力へ返すだけの状態。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1234)
+* [Fackebook Pageに68のレポートを書いた](https://www.facebook.com/great.hiroshima/posts/454245684718082)
+* [LT駆動開発で順番を決めるためのシャフルツール](https://github.com/LTDD/ltdd_shuffler)
+* [すごいHiroshimaの本の推敲](https://github.com/great-h/great-h-book/pull/19)
+
 
 ## [Nyoho](http://nyoho.jp/)
 
