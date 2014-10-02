@@ -44,3 +44,8 @@ categories: events
 
 
 ## [k2works](https://github.com/k2works)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1253)
+* [リーンスタートアップの奇妙な冒険](http://www.slideshare.net/kakimomokuri/ss-39629182)
+* [A/BテストフレームワークSplit入門](https://github.com/k2works/ab_testing_split_introduction)
+* [AWS CloudFormation 入門](https://github.com/k2works/aws_cloudformation_introduction)
