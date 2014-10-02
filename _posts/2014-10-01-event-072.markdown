@@ -26,5 +26,8 @@ categories: events
 
 ## [kwgch](https://github.com/kwgch)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1265)
+* [やったこと](http://kwgch.github.io/blog/2014/10/01/great-h/)
+
 
 ## [akira345](https://github.com/akira345)
