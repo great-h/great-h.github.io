@@ -32,6 +32,13 @@ categories: events
 
 ## [eiel](http://eiel.info/)
 
+[Test-Kitichen](https://github.com/test-kitchen/test-kitchen)でも遊んだけど途中で終わった。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1251)
+* [69回のすごい広島のレポート書いた](https://www.facebook.com/great.hiroshima/posts/456880414454609)
+* [itunes_information_slackのバグを直した](https://github.com/eiel/itunes_information_slack/commit/6069e0fcb3038b249ad7dd5f4dffcdd3edb6c11c)
+* [Re: Rails Update時に値を変更して更新したいというブログを書いた](http://blog.eiel.info/blog/2014/09/24/re-modified-rails-update/)
+
 
 ## [uehaso](https://github.com/uehaso)
 
