@@ -23,6 +23,9 @@ categories: events
 
 ## [nemumu](https://github.com/nemumu)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1272)
+* [複数回線を束ねて高速化 [LT駆動開発 08](ブログ)](http://nemumu.hateblo.jp/entry/2014/10/05/224811)
+* [複数回線を束ねて高速化(スライド)](http://www.slideshare.net/nemumu/ss-39889987)
 
 ## [kwgch](https://github.com/kwgch)
 
