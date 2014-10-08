@@ -38,3 +38,9 @@ categories: events
 
 
 ## [akira345](https://github.com/akira345)
+
+## [k2works](https://github.com/k2works)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1264)
+* [LT駆動開発08](http://www.slideshare.net/kakimomokuri/ss-39901697)
+* [AWS VPC入門](https://github.com/k2works/aws_vpc_introduction)
