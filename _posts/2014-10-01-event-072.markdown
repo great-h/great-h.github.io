@@ -17,6 +17,11 @@ categories: events
 
 ## [mrtc0](http://twitter.com/mrtc0)
 
+LT駆動のスライド完成.
+VulnHabのTr0llを解いた(解いたとは言っていない)
+エスパー問題だった.
+[VulnHab Tr0ll](http://vulnhub.com/?q=secos&sort=date-asc&type=vm)
+
 
 ## [yomoginn](https://github.com/yomoginn)
 
