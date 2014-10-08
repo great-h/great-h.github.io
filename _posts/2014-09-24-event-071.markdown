@@ -12,7 +12,14 @@ categories: events
 # 参加者
 
 
+## [takata](https://github.com/great-h/great-h.github.io/issues/1255)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1255)
+
+
 ## [mrtc0](http://twitter.com/mrtc0)
+
+* VMのDebianを入れなおした.
 
 
 ## [kwgch](https://github.com/kwgch)
@@ -32,8 +39,20 @@ categories: events
 
 ## [eiel](http://eiel.info/)
 
+[Test-Kitichen](https://github.com/test-kitchen/test-kitchen)でも遊んだけど途中で終わった。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1251)
+* [69回のすごい広島のレポート書いた](https://www.facebook.com/great.hiroshima/posts/456880414454609)
+* [itunes_information_slackのバグを直した](https://github.com/eiel/itunes_information_slack/commit/6069e0fcb3038b249ad7dd5f4dffcdd3edb6c11c)
+* [Re: Rails Update時に値を変更して更新したいというブログを書いた](http://blog.eiel.info/blog/2014/09/24/re-modified-rails-update/)
+
 
 ## [uehaso](https://github.com/uehaso)
 
 
 ## [k2works](https://github.com/k2works)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1253)
+* [リーンスタートアップの奇妙な冒険](http://www.slideshare.net/kakimomokuri/ss-39629182)
+* [A/BテストフレームワークSplit入門](https://github.com/k2works/ab_testing_split_introduction)
+* [AWS CloudFormation 入門](https://github.com/k2works/aws_cloudformation_introduction)

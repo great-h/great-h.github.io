@@ -11,6 +11,11 @@ categories: events
 
 # 参加者
 
+## [eiel](http://eiel.info/)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1267)
+* [Rubyに関する1ヶ月の自分の活動を書いた](https://github.com/hiroshimarb/hiroshimarb.github.com/wiki/2014%E5%B9%B49%E6%9C%88%E3%81%AE%E6%B4%BB%E5%8B%95/ca89328a5ad2d7579b96ee6bdb5d197275b6027a)
+
 
 ## [_Phos](http://twitter.com/_Phos)
 
@@ -19,10 +24,15 @@ categories: events
 
 
 ## [yomoginn](https://github.com/yomoginn)
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1266)
+* [感想](https://twitter.com/moriyomogi/status/517301395783811072)
 
 
 ## [nemumu](https://github.com/nemumu)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1272)
+* [複数回線を束ねて高速化 [LT駆動開発 08](ブログ)](http://nemumu.hateblo.jp/entry/2014/10/05/224811)
+* [複数回線を束ねて高速化(スライド)](http://www.slideshare.net/nemumu/ss-39889987)
 
 ## [kwgch](https://github.com/kwgch)
 
