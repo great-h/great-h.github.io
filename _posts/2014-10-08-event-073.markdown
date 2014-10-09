@@ -34,3 +34,9 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+gravatarのアイコン変えました。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1284)
+* [すごい広島71のレポート書いた](https://www.facebook.com/great.hiroshima/posts/462804380528879)
+* [新アイコン](https://github.com/eiel/eiel-logo/blob/master/gravatar.png) - [リポジトリ](https://github.com/eiel/eiel-logo)
