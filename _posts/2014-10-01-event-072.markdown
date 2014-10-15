@@ -11,6 +11,11 @@ categories: events
 
 # 参加者
 
+## [moriC](https://github.com/moriC)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1273)
+
+
 ## [eiel](http://eiel.info/)
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1267)
