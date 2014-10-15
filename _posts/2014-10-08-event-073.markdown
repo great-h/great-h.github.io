@@ -17,6 +17,8 @@ categories: events
 
 ## [Uemmra3](https://github.com/Uemmra3)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1286)
+
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
