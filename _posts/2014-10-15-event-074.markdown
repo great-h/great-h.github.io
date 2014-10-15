@@ -31,3 +31,8 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+
+## [yuririn](http://www.ginneko-atelier.com)
+
+すごい広島でgitをコマンドラインで操れるようになりたいと思った。
