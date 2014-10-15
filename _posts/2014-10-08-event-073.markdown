@@ -25,7 +25,7 @@ categories: events
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1283)
 * [やったこと](http://kwgch.github.io/blog/2014/10/08/great-h/)
-
+* [やったこと２](http://kwgch.github.io/blog/2014/10/08/sg-learning/)
 
 ## [k2works](https://github.com/k2works)
 
