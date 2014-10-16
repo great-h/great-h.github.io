@@ -26,6 +26,12 @@ categories: events
 
 ## [k2works](https://github.com/k2works)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1281)
+* [AWS OpsWorks入門](https://github.com/k2works/aws_opsworks_introduction)
+* [AWS Elastic Beanstalk入門](https://github.com/k2works/aws_elasticbeanstalk_introduction)
+* [RedHackathon Hiroshima](https://github.com/k2works/rhh2014)
+
+
 
 ## [shige0501](https://github.com/shige0501)
 
