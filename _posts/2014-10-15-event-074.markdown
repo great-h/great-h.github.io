@@ -14,6 +14,9 @@ categories: events
 
 ## [mrtc0](http://twitter.com/mrtc0)
 
+* syslogとapacheのログをelasticsearch + kibanaで可視化できた
+* kibanaのダッシュボードが少し扱いにくい
+
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
