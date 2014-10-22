@@ -20,6 +20,9 @@ categories: events
 
 ## [nemumu](https://github.com/nemumu)
 
+ConoHaから5万円分のVPS無料券がもらえました。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1291)
 
 ## [tsuda_ahr](http://twitter.com/tsuda_ahr)
 
