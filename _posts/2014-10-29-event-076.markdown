@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #76"
+date: 2014-10-29 18:00:00 JST
+doorkeeper: http://great-h.doorkeeper.jp/events/16657
+facebook: https://www.facebook.com/events/557634177703044/?ref_newsfeed_story_type=regular
+togetter: 
+place: movin_on
+categories: events
+---
+
+# 参加者
