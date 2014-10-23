@@ -23,6 +23,9 @@ categories: events
 
 ## [kwgch](https://github.com/kwgch)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1315)
+* [すごい広島#75にエア参加しました](http://kwgch.github.io/blog/2014/10/22/great-h/)
+
 
 ## [Uemmra3](https://github.com/Uemmra3)
 
