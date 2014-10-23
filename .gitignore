@@ -4,3 +4,4 @@ vendor
 public/stylesheets
 .rvmrc
 .sass-cache
+.versions.conf
