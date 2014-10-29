@@ -32,6 +32,9 @@ ConoHaから5万円分のVPS無料券がもらえました。
 
 ## [kwgch](https://github.com/kwgch)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1290)
+* [AWS CLIのおべんきょう](http://kwgch.github.io/blog/2014/10/15/great-h/)
+
 
 ## okuchan
 
