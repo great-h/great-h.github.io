@@ -17,6 +17,8 @@ categories: events
 
 ## [mrtc0](http://twitter.com/mrtc0)
 
+* NLTKで構文解析を行った.日本語難しい.
+
 
 ## [nemumu](https://github.com/nemumu)
 
