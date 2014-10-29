@@ -20,6 +20,11 @@ categories: events
 
 ## [nemumu](https://github.com/nemumu)
 
+Mac mini 2014の16GBを買いました(まだ届いてないけど)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1311)
+* [お好み焼きの宅配手配案件](https://github.com/LTDD/great-study-2014/issues/11)が少しだけ進捗あった
+
 
 ## [kwgch](https://github.com/kwgch)
 
