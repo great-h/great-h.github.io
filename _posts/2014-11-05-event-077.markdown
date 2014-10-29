@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #77"
+date: 2014-11-05 18:00:00 JST
+doorkeeper: http://great-h.doorkeeper.jp/events/16930
+facebook: https://www.facebook.com/events/597577230364436/
+togetter:
+place: movin_on
+categories: events
+---
+
+# 参加者
