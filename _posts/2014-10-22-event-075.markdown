@@ -40,3 +40,8 @@ categories: events
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1304)
 * [すごい合同勉強会にアクセス方法について記載](https://github.com/LTDD/great-study-2014/commit/6a50127465300998d3aba567fb0983e5ebff1f25)
 * [すごい広島73のレポート](https://www.facebook.com/great.hiroshima/posts/468614816614502)
+
+## [k2works](https://github.com/k2works)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1307)
+* [RailsとiPhoneではじめるアプリケーション開発](https://github.com/k2works/rails_ios_appdev)
