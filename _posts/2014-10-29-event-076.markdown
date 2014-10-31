@@ -14,6 +14,15 @@ categories: events
 
 ## [eiel](http://eiel.info/)
 
+合同勉強会があるよぉ。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1324)
+* Emacs Lisp書いた
+  * [現在開いているのバッファのファイル名をキルリングに追加するコマンド](https://gist.github.com/eiel/5d52839c596fdbaab058)
+  * [プロジェクトルートからの相対パスをキルリングに追加する](https://gist.github.com/eiel/85b38a0ac1b1d6fa0693)
+* [browserify で遊んだ](http://blog.eiel.info/blog/2014/10/30/browserify/)
+* [74回のレポートを書いた](https://www.facebook.com/great.hiroshima/posts/471491112993539)
+
 
 ## [k2works](https://github.com/k2works)
 
