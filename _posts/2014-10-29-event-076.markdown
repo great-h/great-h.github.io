@@ -29,6 +29,9 @@ categories: events
 
 ## [mrtc0](http://twitter.com/mrtc0)
 
+* [合同勉強会のスライドを作成した](http://www.slideshare.net/mrtc0/machine-learning-41005650)
+* [合同勉強会に参加した](http://mrt-k.github.io/sugoihiroshima/2014/11/02/%E3%81%99%E3%81%94%E3%81%84%E5%90%88%E5%90%8C%E5%8B%89%E5%BC%B7%E4%BC%9A/)
+
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
