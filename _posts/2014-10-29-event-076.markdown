@@ -37,3 +37,9 @@ categories: events
 
 
 ## [kwgch](https://github.com/kwgch)
+
+## [k2works](https://github.com/k2works)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1322)
+* すごい合同（以下ry)に行ってきたぞ
+* WIP:[RailsとiPhoneではじめるアプリケーション開発](https://github.com/k2works/rails_ios_appdev)
