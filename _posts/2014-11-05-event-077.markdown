@@ -25,3 +25,9 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+いっぱいいっぱいでツイートできてない。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1336)
+* [75回のレポートを作成](https://www.facebook.com/great.hiroshima/posts/474771092665541)
+* [gulp-assembleをちょっと試した](https://github.com/eiel/gulp-assemble-abc)
