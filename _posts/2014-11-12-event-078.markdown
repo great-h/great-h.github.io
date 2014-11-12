@@ -20,6 +20,10 @@ categories: events
 
 ## [mumumu_pg](http://twitter.com/mumumu_pg)
 
+情報オリンピックの勉強した。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1354)
+
 
 ## [nemumu](https://github.com/nemumu)
 
