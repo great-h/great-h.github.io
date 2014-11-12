@@ -26,6 +26,10 @@ categories: events
 
 ## [k2works](https://github.com/k2works)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1322)
+* すごい合同（以下ry)に行ってきたぞ
+* WIP:[RailsとiPhoneではじめるアプリケーション開発](https://github.com/k2works/rails_ios_appdev)
+
 
 ## [mrtc0](http://twitter.com/mrtc0)
 
@@ -50,10 +54,3 @@ categories: events
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1318)
 * [Webinar視聴](http://kwgch.github.io/blog/2014/10/31/great-h/)
-
-
-## [k2works](https://github.com/k2works)
-
-* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1322)
-* すごい合同（以下ry)に行ってきたぞ
-* WIP:[RailsとiPhoneではじめるアプリケーション開発](https://github.com/k2works/rails_ios_appdev)
