@@ -28,3 +28,14 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+
+## [mrtc0](https://twitter.com/mrtc0)
+
+* SnortのログをCSVで出力,wekaのCLIから読み込ませた.
+    * ex) java weka.classifiers.trees.J48 -t C:\Users\admin\Documents\ids\alert.arff -c 5  
+* マルウェアパケットを解析. 学習データとして使えそうであるが,サンプル数が少ないため悩む.
+* VulnHabのSkyTowerを解いた.簡単だった.
+    * [skytower-walkthrough](http://mrt-k.github.io/ctf/2014/11/10/skytower-walkthrough/)
+
+
