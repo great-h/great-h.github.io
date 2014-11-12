@@ -42,6 +42,9 @@ categories: events
 
 ## [nemumu](https://github.com/nemumu)
 
+合同勉強会の準備。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1328)
 
 ## [kwgch](https://github.com/kwgch)
 
