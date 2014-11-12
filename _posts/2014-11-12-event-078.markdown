@@ -23,6 +23,11 @@ categories: events
 
 ## [nemumu](https://github.com/nemumu)
 
+珍しく当日に進捗が出ました
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1355)
+* [参考にしたサイト](http://morizyun.github.io/blog/twitter-bootstrap-templates/)
+
 
 ## [Uehaso](https://twitter.com/uehaso)
 
