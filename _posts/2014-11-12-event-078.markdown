@@ -28,3 +28,9 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+進捗ダメです。
+
+* [やること宣言](http://ltdd.doorkeeper.jp/events/17506)
+* [LT駆動開発09の申し込みページつくった](https://github.com/great-h/great-h.github.io/issues/1347)
+* [すごい広島76のレポート](https://www.facebook.com/great.hiroshima/posts/477960925679891)
