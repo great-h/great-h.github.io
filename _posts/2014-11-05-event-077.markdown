@@ -17,6 +17,10 @@ categories: events
 
 ## [Toro_kun](https://twitter.com/Toro_kun)
 
+bashのパッチ当て
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1337)
+
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
