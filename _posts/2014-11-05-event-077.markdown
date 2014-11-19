@@ -29,7 +29,17 @@ categories: events
 
 ## [eiel](http://eiel.info/)
 
+
 ## [k2works](https://github.com/k2works)
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1340)
 * WIP:[RailsとiPhoneではじめるアプリケーション開発](https://github.com/k2works/rails_ios_appdev)
+
+
+## [mrtc0](https://twitter.com/mrtc0)
+
+* SnortのログをCSVで出力,wekaのCLIから読み込ませた.
+    * ex) `java weka.classifiers.trees.J48 -t C:\Users\admin\Documents\ids\alert.arff -c 5`
+* マルウェアパケットを解析. 学習データとして使えそうであるが,サンプル数が少ないため悩む.
+* VulnHabのSkyTowerを解いた.簡単だった.
+    * [skytower-walkthrough](http://mrt-k.github.io/ctf/2014/11/10/skytower-walkthrough/)
