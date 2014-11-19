@@ -33,3 +33,8 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+## [k2works](https://github.com/k2works)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1340)
+* WIP:[RailsとiPhoneではじめるアプリケーション開発](https://github.com/k2works/rails_ios_appdev)
