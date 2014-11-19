@@ -37,3 +37,7 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+Gulpが依存しているvinylのソースコードを読んで遊んでた。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1368)
