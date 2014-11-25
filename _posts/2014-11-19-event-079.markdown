@@ -32,6 +32,10 @@ categories: events
 
 ## [nemumu](https://github.com/nemumu)
 
+本当にやりたかった事は思い出せなかった
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1371)
+* [参考にしたサイト](http://server-setting.info/blog/gmail-spam-check-list.html)
 
 ## [LirioY](http://twitter.com/LirioY)
 
