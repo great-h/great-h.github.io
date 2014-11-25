@@ -4,7 +4,7 @@ title: "すごい広島 #79"
 date: 2014-11-19 18:00:00 JST
 doorkeeper: http://great-h.doorkeeper.jp/events/17493
 facebook: https://www.facebook.com/events/1495114684095884/
-togetter: 
+togetter: http://togetter.com/li/747317
 place: movin_on
 categories: events
 ---
