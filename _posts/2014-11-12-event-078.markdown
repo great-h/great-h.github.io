@@ -17,6 +17,13 @@ categories: events
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1354)
 
 
+## [kwgch](https://github.com/kwgch)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1358)
+* [プルリクにcommit重ねてたやつをrebaseした](https://github.com/fulcrum-agile/fulcrum/pull/239)
+* 少しよんだ [組込Ruby「mruby」のすべて](http://www.amazon.co.jp/dp/B00HZGBN58)
+
+
 ## [LirioY](http://twitter.com/LirioY)
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1349)
