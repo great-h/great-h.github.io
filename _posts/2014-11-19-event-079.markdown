@@ -26,6 +26,15 @@ categories: events
 
 ## [k2works](https://github.com/k2works)
 
+iOSアプリ開発のお勉強中。  
+JASidePanels周りで苦戦中です。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1366)
+* WIP:[RailsとiPhoneではじめるアプリケーション開発](https://github.com/k2works/rails_ios_appdev)
+  * [シングルトンクラスの作成](https://github.com/k2works/travelphoto/commit/af2bfb77f387ab0b5472fd49adc4dea342688c19)
+  * [AppDelegateの修正](https://github.com/k2works/travelphoto/commit/a1e5ed571eef91f8b63239503335d741d4cd08a1)
+  * [TPLefMenuControllerの作成](https://github.com/k2works/travelphoto/commit/e43e3ddc2f3c2c95da4e55a0eb5db816ebb652c0)
+  * [画面切り替え処理の実装](https://github.com/k2works/travelphoto/commit/74d3b21aa2093856567d960004df684a03a9dbc4)
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
