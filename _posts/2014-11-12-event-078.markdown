@@ -48,3 +48,10 @@ categories: events
 * [やること宣言](http://ltdd.doorkeeper.jp/events/17506)
 * [LT駆動開発09の申し込みページつくった](https://github.com/great-h/great-h.github.io/issues/1347)
 * [すごい広島76のレポート](https://www.facebook.com/great.hiroshima/posts/477960925679891)
+
+
+## [k2works](https://github.com/k2works)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1340)
+* WIP:[RailsとiPhoneではじめるアプリケーション開発](https://github.com/k2works/rails_ios_appdev)
+* [Railsアプリケーションのルート定義を確認する](https://gist.github.com/k2works/f704a3c8b8b79e2dacf0)
