@@ -12,11 +12,6 @@ categories: events
 # 参加者
 
 
-## [mumumu-pg](https://github.com/mumumu-pg)
-
-* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1354)
-
-
 ## [kwgch](https://github.com/kwgch)
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1358)
@@ -38,6 +33,8 @@ categories: events
 
 
 ## [mumumu_pg](http://twitter.com/mumumu_pg)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1354)
 
 
 ## [nemumu](https://github.com/nemumu)
