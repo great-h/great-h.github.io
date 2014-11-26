@@ -12,6 +12,11 @@ categories: events
 # 参加者
 
 
+## [mumumu-pg](https://github.com/mumumu-pg)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1354)
+
+
 ## [LirioY](http://twitter.com/LirioY)
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1349)
