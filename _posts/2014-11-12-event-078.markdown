@@ -14,6 +14,8 @@ categories: events
 
 ## [LirioY](http://twitter.com/LirioY)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1349)
+
 
 ## [mrtc0](http://twitter.com/mrtc0)
 
