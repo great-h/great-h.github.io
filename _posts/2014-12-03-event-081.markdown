@@ -1,0 +1,14 @@
+---
+layout: event
+title: "すごい広島 #81"
+date: 2014-12-03 18:00:00 JST
+doorkeeper: http://great-h.doorkeeper.jp/events/17984
+facebook: https://www.facebook.com/events/1520117251577903/
+togetter:
+place: movin_on
+categories: events
+---
+
+今回は[「ギークエンジニア必見！Lispインタープリター」勉強会 with すごい広島](http://great-h.doorkeeper.jp/events/16621)が同時に開催されています。
+
+# 参加者
