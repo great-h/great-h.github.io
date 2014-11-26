@@ -23,6 +23,9 @@ categories: events
 
 ## [mrtc0](http://twitter.com/mrtc0)
 
+* Snortで検知した攻撃から自動的にモデル生成を行えるようにした
+* 学習データ用の攻撃パケットのバリエーションが少ないのをなんとかしないといけない
+
 
 ## [k2works](https://github.com/k2works)
 
