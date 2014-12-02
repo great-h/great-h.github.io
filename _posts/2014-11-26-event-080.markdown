@@ -14,6 +14,10 @@ categories: events
 
 ## [mrtc0](http://twitter.com/mrtc0)
 
+* ハニーポットが2->3台に増えた
+* 怪しいURLをVirusTotalで調べてくれるスクリプトを書き始めた  
+    [malsite_check](https://github.com/mrt-k/malsite_check/blob/master/virustotal.py)
+
 
 ## 久保河内 祐樹
 
