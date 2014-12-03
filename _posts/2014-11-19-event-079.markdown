@@ -17,6 +17,8 @@ categories: events
 
 ## [Uemmra3](https://github.com/Uemmra3)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1369)
+
 
 ## [tsuda_ahr](http://twitter.com/tsuda_ahr)
 
@@ -29,7 +31,7 @@ categories: events
 
 ## [k2works](https://github.com/k2works)
 
-iOSアプリ開発のお勉強中。  
+iOSアプリ開発のお勉強中。
 JASidePanels周りで苦戦中です。
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1366)
