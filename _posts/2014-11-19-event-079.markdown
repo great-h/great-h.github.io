@@ -12,6 +12,12 @@ categories: events
 # 参加者
 
 
+## [kwgch](https://github.com/kwgch)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1372)
+* [すくすくのネタ出し](http://sukusuku-scrum-hiroshima.doorkeeper.jp/events/16261)
+
+
 ## [yoccy178](http://twitter.com/yoccy178)
 
 
