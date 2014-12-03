@@ -12,6 +12,12 @@ categories: events
 # 参加者
 
 
+## [kwgch](https://github.com/kwgch)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1372)
+* [すくすくのネタ出し](http://sukusuku-scrum-hiroshima.doorkeeper.jp/events/16261)
+
+
 ## [yoccy178](http://twitter.com/yoccy178)
 
 
@@ -46,6 +52,10 @@ JASidePanels周りで苦戦中です。
 
 ## [nemumu](https://github.com/nemumu)
 
+本当にやりたかった事は思い出せなかった
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1371)
+* [参考にしたサイト](http://server-setting.info/blog/gmail-spam-check-list.html)
 
 ## [LirioY](http://twitter.com/LirioY)
 
