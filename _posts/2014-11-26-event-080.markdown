@@ -40,3 +40,12 @@ categories: events
 
 
 ## [coelacanth77](https://github.com/coelacanth77)
+
+
+## [k2works](https://github.com/k2works)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1385)
+* [Vagrantのアンインストール](https://gist.github.com/k2works/286726223cbfea87efe7)
+* [ChefDKのアンインストール](https://gist.github.com/k2works/1afd6ebadcd44dec46ff)
+* [DBの文字コードまわり](https://gist.github.com/k2works/fb0d175f7161c84b53d2)
+* [早くgemをインストールする](https://gist.github.com/k2works/e884c32406899544bcd8)
