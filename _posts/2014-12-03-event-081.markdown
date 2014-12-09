@@ -19,5 +19,8 @@ categories: events
 
 ## [kwgch](https://github.com/kwgch)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1392)
+* [ブログかいた](http://kwgch.github.io/blog/2014/12/03/great-h/)
+
 
 ## [eiel](http://eiel.info/)
