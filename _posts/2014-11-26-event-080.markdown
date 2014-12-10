@@ -11,6 +11,11 @@ categories: events
 
 # 参加者
 
+## [Toro_kun](https://twitter.com/Toro_kun/)
+
+* [LT駆動の宣伝](https://twitter.com/Toro_kun/status/537562176441962496)
+* Wordpressのログイン画面にBasic認証をいれた - [参考資料](http://raining.bear-life.com/wordpress/wordpress%E3%81%AE%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E7%94%BB%E9%9D%A2%E3%81%ABbasic%E8%AA%8D%E8%A8%BC%E3%82%92%E8%A8%AD%E5%AE%9A%E3%81%99%E3%82%8B)
+
 ## [yoship](https://github.com/yoship)
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1383)
