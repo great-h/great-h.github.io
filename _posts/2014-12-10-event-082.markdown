@@ -4,7 +4,7 @@ title: "すごい広島 #82"
 date: 2014-12-10 18:00:00 JST
 doorkeeper: http://great-h.doorkeeper.jp/events/18267
 facebook: https://www.facebook.com/events/878988512120828/
-togetter:
+togetter: http://togetter.com/li/756209
 place: movin_on
 categories: events
 ---
