@@ -42,5 +42,11 @@ categories: events
 
 ## [eiel](http://eiel.info/)
 
+意外と成果がない。
+Unityなにしたらいいのかわからん。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1379)
+* [すごい広島78のレポート](https://www.facebook.com/great.hiroshima/posts/483709581771692)
+
 
 ## [coelacanth77](https://github.com/coelacanth77)
