@@ -33,3 +33,9 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+ざっくりとGitHub講座をしたよ。
+
+* [やること宣言](http://osh-web.github.io/2015/)
+* [80回のレポートをかいた](https://www.facebook.com/great.hiroshima/posts/490134084462575)
+* [オープンセミナー2015@広島の概要をつくった](http://osh-web.github.io/2015/)
