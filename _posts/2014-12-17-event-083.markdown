@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #83"
+date: 2014-12-17 18:00:00 JST
+doorkeeper: http://great-h.doorkeeper.jp/events/18522
+facebook: https://www.facebook.com/events/761381710595355/?context=create&previousaction=create&source=49&sid_create=1485863017
+togetter:
+place: movin_on
+categories: events
+---
+
+# 参加者
