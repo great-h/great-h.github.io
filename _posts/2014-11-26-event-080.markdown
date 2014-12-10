@@ -11,6 +11,11 @@ categories: events
 
 # 参加者
 
+## [yoship](https://github.com/yoship)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1383)
+
+
 ## [kwgch](https://github.com/kwgch)
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1380)
