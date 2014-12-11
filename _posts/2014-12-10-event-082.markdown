@@ -27,6 +27,7 @@ categories: events
 ## [KonishiYudai](http://twitter.com/KonishiYudai)
 
 すごい広島の環境に慣れることが今月の一番の目的。
+
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1403 "やること宣言")
 
 
