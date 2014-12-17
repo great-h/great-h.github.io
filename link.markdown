@@ -62,6 +62,7 @@
 
 * 2014年2月1日 [オープンセミナー2014@広島](http://osh-2014.github.io/)
 * 2014年9月20日 [オープンソースカンファレンス 2014 Hiroshima](http://www.ospn.jp/osc2014-hiroshima/)
+* 2014年11月1日 [すごい合同勉強会2014](https://github.com/LTDD/Sessions/wiki/%E3%81%99%E3%81%94%E3%81%84%E5%90%88%E5%90%8C%E5%8B%89%E5%BC%B7%E4%BC%9A2014)
 
 
 ### すごい広島 参加者 & blog
