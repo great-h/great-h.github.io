@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #84"
+date: 2014-12-24 18:00:00 JST
+doorkeeper: http://great-h.doorkeeper.jp/events/18726
+facebook: https://www.facebook.com/events/799949243410338/
+togetter:
+place: movin_on
+categories: events
+---
+
+# 参加者
