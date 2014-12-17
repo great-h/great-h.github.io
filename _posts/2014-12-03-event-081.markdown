@@ -21,3 +21,8 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+HaskellでLispインタープリターに挑戦してみたいところだ。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1391)
+* [というわけで実験的にHaskellでLispインタープリター作った](https://gist.github.com/eiel/af120e6f44febc875702)
