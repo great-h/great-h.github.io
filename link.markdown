@@ -47,7 +47,22 @@
 * [JAWS-UG 広島](http://jaws-ug.jp/bc/hiroshima/)<br>AWSのユーザコミュニティで3ヶ月に1度程度勉強会が開催されています。
 * [JSers' Cafe ZERO](http://jczero.doorkeeper.jp)<br>Cafeに集まり、JavaScriptに関する談義をしたり、もくもくと作業したりしています。
 
+
 他にも 広島のITコミュニティがありましたら、[Pull Request](https://github.com/great-h/great-h.github.io/pulls) をお願いします。
+
+
+### 過去のITコミュニティ系イベント
+
+#### 2013年
+
+* 2013年1月19日 [オープンセミナー2013@広島](http://osh-web.github.io/2013/)
+* 2013年11月6日 [オープンソースカンファレンス 2014 Hiroshima](http://www.ospn.jp/osc2013-hiroshima/)
+
+#### 2014年
+
+* 2014年2月1日 [オープンセミナー2014@広島](http://osh-2014.github.io/)
+* 2014年9月20日 [オープンソースカンファレンス 2014 Hiroshima](http://www.ospn.jp/osc2014-hiroshima/)
+
 
 ### すごい広島 参加者 & blog
 
@@ -108,3 +123,6 @@
 * [ラーメン屋 - 我馬](http://www.gaba-2000.com/)
 * [コワーキングスペース - Movin'on](http://coworking-hiroshima.com/)
 * [コワーキングスペース - Shake Hands](http://www.shakehands.jp/)
+
+
+###
