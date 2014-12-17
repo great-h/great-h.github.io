@@ -34,3 +34,12 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+swiftでRabbitMQに接続しようとしたが途中で力尽きた。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1414)
+* [すごい広島81のレポートを書いた](https://www.facebook.com/great.hiroshima/posts/493202940822356)
+* [Stack Overflow日本語版](http://ja.stackoverflow.com/)で遊んでみる
+  * [ツアーを読むとバッジがついた](http://ja.stackoverflow.com/tour)
+  * [質問してみたけど回答がつきそうにない](http://ja.stackoverflow.com/questions/1917/emacs-%E3%81%AE-haskell-mode-%E3%81%A7%E3%83%AD%E3%83%BC%E3%83%89%E5%A4%B1%E6%95%97%E6%99%82%E3%81%AB%E5%9E%8B%E3%82%92%E8%AA%BF%E3%81%B9%E3%82%8B%E6%96%B9%E6%B3%95%E3%81%AF)
+* [GitHubの入門情報がまとめようと努力したが難しい](https://gist.github.com/eiel/aea7d5c102c458f55d7e)
