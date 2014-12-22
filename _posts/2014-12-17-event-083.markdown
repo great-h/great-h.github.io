@@ -29,6 +29,11 @@ categories: events
 
 ## [KonishiYudai](http://twitter.com/KonishiYudai)
 
+やっとこさブログにデザインあてた。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1417 "やること宣言")
+* [ブログにデザインあてた](http://konishi-yudai.com/)
+
 
 ## [LirioY](http://twitter.com/LirioY)
 
