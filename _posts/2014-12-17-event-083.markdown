@@ -20,6 +20,9 @@ categories: events
 
 ## [kwgch](https://github.com/kwgch)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1425)
+* [ブログかいた](http://kwgch.github.io/blog/2014/12/18/great-h/)
+
 
 ## [Toro_kun](https://twitter.com/Toro_kun)
 
