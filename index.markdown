@@ -5,7 +5,7 @@ title: 'すごい広島'
 
 ## 応援してる
 
-* [![OSC 広島](http://www.ospn.jp/osc2014-hiroshima/pdf/OSC2014_Hiroshima_flyer_web.jpg)](http://www.ospn.jp/osc2014-hiroshima/)
+* [オープンセミナー2015@広島](http://osh-web.github.io/2015/)
 * [ひろしま発 人材集積促進プロジェクト](http://hiro-hata.com/)
 
 ## 関連サイトなど
