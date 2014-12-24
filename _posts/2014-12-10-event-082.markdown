@@ -24,6 +24,9 @@ categories: events
 
 ## [kwgch](https://github.com/kwgch)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1406)
+* [移動中にWebinar視聴してた](http://kwgch.github.io/blog/2014/12/17/great-h/)
+
 
 ## [KonishiYudai](http://twitter.com/KonishiYudai)
 
