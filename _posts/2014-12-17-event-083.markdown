@@ -17,7 +17,7 @@ categories: events
 
 ## [yasu7ri](https://github.com/yasu7ri)
 ２回目の参加だよ
-* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1415)
+* [やること、やったこと宣言](https://github.com/great-h/great-h.github.io/issues/1415)
 
 
 ## [kwgch](https://github.com/kwgch)
