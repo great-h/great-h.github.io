@@ -5,7 +5,7 @@ date: 2014-12-31 18:00:00 JST
 doorkeeper: https://manage.doorkeeper.jp/groups/great-h/events/19034
 facebook: https://www.facebook.com/events/757466924342232/
 togetter:
-place: movin_on
+place: internet
 categories: events
 ---
 
