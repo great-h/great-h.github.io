@@ -14,6 +14,9 @@ categories: events
 
 ## [tsuda_ahr](http://twitter.com/tsuda_ahr)
 
+諸般の事情で無線LANの設定に失敗したので、別のことをした。
+
+* [Powershell で TCPing もどき](http://ooltcloud.expressweb.jp/201412/article_17235628.html)
 
 ## [yasu7ri](https://www.facebook.com/yasu7ri)
 
