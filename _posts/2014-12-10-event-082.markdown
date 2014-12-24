@@ -19,6 +19,8 @@ categories: events
 
 ## [mrtc0](http://twitter.com/mrtc0)
 
+* [PEDAを使ってみた](https://gist.github.com/mrt-k/8de4fd4aa741e6c02bf7)
+
 
 ## [kwgch](https://github.com/kwgch)
 
