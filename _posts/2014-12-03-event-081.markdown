@@ -13,6 +13,11 @@ categories: events
 
 # 参加者
 
+## [takata](https://github.com/takata)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1393)
+* [一家に複数台 お勧めの小型サーバ](http://tkt-study.tumblr.com/post/104254828215/20141203-smallserver)
+
 
 ## [Uehaso](https://twitter.com/uehaso)
 
@@ -29,3 +34,13 @@ HaskellでLispインタープリターに挑戦してみたいところだ。
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1391)
 * [というわけで実験的にHaskellでLispインタープリター作った](https://gist.github.com/eiel/af120e6f44febc875702)
+
+
+## [k2works](https://github.com/k2works)
+
+レッドハッカソン広島に参加してeiel氏とともにサービスを作りました。
+あと、来年に向けてエディタの手入れをしています。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1398)
+* [レッドハッカソン広島](http://www.pasonatech.co.jp/search/features_plan/RHhiroshima.jsp)
+* [TUNAGUU](https://tunaguu.herokuapp.com/)
