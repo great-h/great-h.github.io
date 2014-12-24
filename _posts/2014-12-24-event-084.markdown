@@ -22,3 +22,12 @@ categories: events
 
 
 ## [eiel](https://github.com/eiel)
+
+リアル参加者が少なかったので作業をがんばった。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1430#issuecomment-68046425)
+* [すごい広島82のレポートをかいた](https://www.facebook.com/great.hiroshima/posts/496552707154046)
+* [Octokitをつかって特定のマイルストーンが設定されている issueをとりだす方法を書いた](http://qiita.com/eielh/items/6890b18974180deb5c61)
+* [Oiitaと技術系ブログを書き分けることにした理由」をかいた](http://blog.eiel.info/blog/2014/12/24/reason-for-written-qiita/)
+* [fishの配列と環境変数PATHという記事を書いた](https://www.chatwork.com/#!rid17750365)
+* [すごい広島のやること宣言をみるためのサイトをつくった](https://great-mile.herokuapp.com)
