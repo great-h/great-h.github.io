@@ -30,6 +30,10 @@ categories: events
 
 ## [Toro_kun](https://twitter.com/Toro_kun)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1418)
+* [オープンセミナー2015@広島にプルリクエスト](https://github.com/osh-web/osh-web.github.com/pull/11)
+* [CSS Animationについて調べた](https://www.google.co.jp/search?q=css%20animation&rct=j)
+
 
 ## [mrtc0](http://twitter.com/mrtc0)
 
