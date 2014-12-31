@@ -12,6 +12,9 @@ categories: events
 # 参加者
 
 
+## [yasu7ri](https://github.com/yasu7ri)
+
+
 ## [kwgch](https://github.com/kwgch)
 
 
