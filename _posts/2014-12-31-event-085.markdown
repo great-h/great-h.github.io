@@ -2,7 +2,7 @@
 layout: event
 title: "すごい広島 #85"
 date: 2014-12-31 18:00:00 JST
-doorkeeper: https://manage.doorkeeper.jp/groups/great-h/events/19034
+doorkeeper: http://great-h.doorkeeper.jp/events/19034
 facebook: https://www.facebook.com/events/757466924342232/
 togetter:
 place: internet
@@ -10,3 +10,18 @@ categories: events
 ---
 
 # 参加者
+
+
+## [kwgch](https://github.com/kwgch)
+
+
+## [k2works](https://github.com/k2works)
+
+
+## [tsuda_ahr](http://twitter.com/tsuda_ahr)
+
+
+## [takatayoshitake](http://twitter.com/takatayoshitake)
+
+
+## [eiel](https://github.com/eiel)
