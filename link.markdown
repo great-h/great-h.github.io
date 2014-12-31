@@ -93,6 +93,8 @@
   * [みうめも](http://miu811.blogspot.jp/)
 * [moriC](https://github.com/moriC)
   * [モリシーのブログ](http://moric.github.io/)
+* [mrt-c](https://github.com/mrt-k)
+  * [mrtc's blog - mrtc0's blog](http://mrt-k.github.io/)
 * [nemumu](https://github.com/nemumu)
   * [ねむむ日記](http://nemumu.hateblo.jp/)
 * [nishimotz](https://github.com/nishimotz)
