@@ -22,3 +22,7 @@ categories: events
 
 
 ## [eiel](https://github.com/eiel)
+
+## [k2works](https://github.com/k2works)
+
+* [Rails再入門](https://github.com/k2works/rails-practice)
