@@ -33,6 +33,10 @@ categories: events
 
 ## [mrtc0](http://twitter.com/mrtc0)
 
+* 未踏に出すプロジェクトが浮かばなかった
+* [SANSのPaper読んだ](http://www.sans.org/reading-room/whitepapers/detection/60-seconds-wire-malicious-traffic-34307)
+
+
 
 ## [KonishiYudai](http://twitter.com/KonishiYudai)
 
