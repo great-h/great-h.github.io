@@ -26,5 +26,8 @@ categories: events
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
+* [やること宣言/今年やり残した事 #1448](https://github.com/great-h/great-h.github.io/issues/1448)
+* [世間は大晦日ですが「すごい広島 #85」にエア参加しました。](http://tkt-study.tumblr.com/post/106752665500/20141231-greath085)
+
 
 ## [eiel](https://github.com/eiel)
