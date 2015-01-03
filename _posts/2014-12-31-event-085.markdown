@@ -23,6 +23,11 @@ categories: events
 
 ## [tsuda_ahr](http://twitter.com/tsuda_ahr)
 
+年跨いで作業した結果、とりあえず二件リリース…
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1451)
+* [\[EXCEL\] 祝日判定関数](http://ooltcloud.expressweb.jp/201412/article_31211717.html)
+* [\[VB.NET\]\[与太\] なぜ VB6 は偉大だったのか](http://ooltcloud.expressweb.jp/201501/article_01231502.html)
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
