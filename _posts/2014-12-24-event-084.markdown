@@ -43,3 +43,8 @@ categories: events
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1435)
 * [すごい広島84 PostgreSQLをインストールする](http://moric-life.tumblr.com/post/106051227896/84-postgresql)
+
+
+## [k2works](https://github.com/k2works)
+
+* [Rails再入門](https://github.com/k2works/rails-practice)
