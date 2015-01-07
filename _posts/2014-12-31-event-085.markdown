@@ -44,3 +44,10 @@ categories: events
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1454)
 * [すごい広島85 2014年を大雑把に振り返りたい](http://moric-life.tumblr.com/post/106706277631)
+
+
+## [Nyoho](http://nyoho.jp)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1450)
+* [hiki の rack の件のメモ](https://gist.github.com/Nyoho/6a20c0975cbeeecd6f9b) hiki が、rack 1.6.0 になってセミコロンをセパレータしなくなってしまって動かなくなった件のメモを更新しました。
+
