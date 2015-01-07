@@ -20,6 +20,8 @@ categories: events
 
 ## [k2works](https://github.com/k2works)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1468)
+* [Grunt入門](https://github.com/k2works/grunt_introduction)
 
 ## [tsuda_ahr](http://twitter.com/tsuda_ahr)
 
