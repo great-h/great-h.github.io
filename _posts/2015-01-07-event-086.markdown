@@ -35,5 +35,9 @@ categories: events
 
 ## [nemumu](https://github.com/nemumu)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1470)
+* [IPv6の拡張ヘッダって何？ [LT駆動開発 10](解説)](http://nemumu.hateblo.jp/entry/2015/01/11/190137)
+* [IPv6って何？(拡張ヘッダ編)(スライド)](http://www.slideshare.net/nemumu/ipv6-extension-header)
+
 
 ## [kwgch](https://github.com/kwgch)
