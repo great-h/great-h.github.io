@@ -39,6 +39,13 @@ categories: events
 
 ## [eiel](https://github.com/eiel)
 
+良い年末だった。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1445)
+* [83回のレポート書いた](https://www.facebook.com/great.hiroshima/posts/500813326727984)
+* [2014年をふりかえりした](http://blog.eiel.info/blog/2014/12/31/2014-monthy/)
+* [great-mileのバグ修正した](https://github.com/great-h/great-mile/commit/cd87faed3843cb7feb560745908260d9b935d28d)
+* [rails new したときに Procfileを作るようにした](http://qiita.com/eielh/items/6196cb825fe1ae5e3b4c)
 
 ## [moriC](https://github.com/moriC)
 
@@ -52,4 +59,3 @@ categories: events
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1450)
 * [hiki の rack の件のメモ](https://gist.github.com/Nyoho/6a20c0975cbeeecd6f9b) hiki が、rack 1.6.0 になってセミコロンをセパレータしなくなってしまって動かなくなった件のメモを更新しました。
-
