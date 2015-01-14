@@ -37,3 +37,8 @@ categories: events
 
 
 ## [kwgch](https://github.com/kwgch)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1462)
+* [Elastic Transcoder概要](http://kwgch.github.io/blog/2015/01/14/great-h)
+* [LT駆動スライド](http://www.slideshare.net/ducky19999/line-43382682)
+
