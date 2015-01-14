@@ -4,6 +4,7 @@ title: "すごい広島 #87"
 date: 2015-01-14 18:00:00 JST
 doorkeeper: http://great-h.doorkeeper.jp/events/18140
 facebook: https://www.facebook.com/events/382567695238040/
+togetter: http://togetter.com/li/770091
 place: movin_on
 categories: events
 ---
