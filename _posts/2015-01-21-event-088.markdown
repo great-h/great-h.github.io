@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #88"
+date: 2015-01-21 18:00:00 JST
+doorkeeper: http://great-h.doorkeeper.jp/events/19717
+facebook: https://www.facebook.com/events/1526662837621034/
+togetter:
+place: movin_on
+categories: events
+---
+
+# 参加者
