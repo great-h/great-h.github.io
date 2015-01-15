@@ -41,3 +41,11 @@ categories: events
 
 
 ## [kwgch](https://github.com/kwgch)
+
+
+## [k2works](https://github.com/k2works)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1468)
+* [Bacbone.js入門](https://github.com/k2works/backbone_introduction)
+* [LT駆動開発 10](http://www.slideshare.net/kakimomokuri/value-propsition-design)
+
