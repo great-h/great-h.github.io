@@ -138,6 +138,10 @@ class Article
     front_matter["facebook"]
   end
 
+  def flikr
+    front_matter["flickr"]
+  end
+
   def front_matter
     front_matter_and_body[0]
   end
