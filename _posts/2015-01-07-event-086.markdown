@@ -14,6 +14,13 @@ categories: events
 
 ## [eiel](https://github.com/eiel)
 
+Conoha VPSで遊んだ。
+CentOSをインストールしたあとに好きなOSをインストールできることがわかった。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1461)
+* [すごい広島84のレポートを書いた](https://www.facebook.com/great.hiroshima/posts/505332912942692)
+* [我馬 「黒辛 胡麻みそ担々麺」 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/107451800513)
+
 
 ## [KonishiYudai](http://twitter.com/KonishiYudai)
 
