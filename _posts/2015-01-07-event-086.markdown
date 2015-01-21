@@ -64,3 +64,10 @@ LT駆動のスライドを作成した.
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1462)
 * [Elastic Transcoder概要](http://kwgch.github.io/blog/2015/01/14/great-h)
 * [LT駆動スライド](http://www.slideshare.net/ducky19999/line-43382682)
+
+
+## [k2works](https://github.com/k2works)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1468)
+* [Bacbone.js入門](https://github.com/k2works/backbone_introduction)
+* [LT駆動開発 10](http://www.slideshare.net/kakimomokuri/value-propsition-design)
