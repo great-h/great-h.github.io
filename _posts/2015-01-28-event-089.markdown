@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #89"
+date: 2015-01-28 18:00:00 JST
+doorkeeper: http://ltdd.doorkeeper.jp/events/19716
+facebook: https://www.facebook.com/events/645101765612062/
+togetter:
+place: movin_on
+categories: events
+---
+
+# 参加者
