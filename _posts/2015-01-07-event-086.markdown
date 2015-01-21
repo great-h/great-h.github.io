@@ -11,7 +11,6 @@ categories: events
 
 # 参加者
 
-
 ## [eiel](https://github.com/eiel)
 
 Conoha VPSで遊んだ。
@@ -24,23 +23,33 @@ CentOSをインストールしたあとに好きなOSをインストールでき
 
 ## [KonishiYudai](http://twitter.com/KonishiYudai)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1463)
+
 
 ## [Nyoho](https://github.com/Nyoho)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1464)
 
 
 ## [mrtc0](http://twitter.com/mrtc0)
 
-LT駆動のスライドを作成した.  
+LT駆動のスライドを作成した.
 [スライド](http://www.slideshare.net/mrtc0/lt10) - [ブログ](http://mrt-k.github.io/lt/2015/01/10/LT%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA10%E3%81%A7%E3%82%A2%E3%83%B3%E3%83%81%E3%83%87%E3%83%90%E3%83%83%E3%82%B0%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E6%89%8B%E6%B3%95%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6LT%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F/)  
 
 
 ## [yasu7ri](https://github.com/yasu7ri)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1473)
+
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1471)
+
 
 ## [tsuda_ahr](http://twitter.com/tsuda_ahr)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1465)
 
 
 ## [nemumu](https://github.com/nemumu)
