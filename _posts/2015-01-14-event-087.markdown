@@ -49,3 +49,4 @@ categories: events
 ## [k2works](https://github.com/k2works)
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1491)
+* [WIP:Backbone.jsで学ぶMVCフレームワーク入門(実践編)](https://github.com/k2works/backbone_practice/tree/wip)
