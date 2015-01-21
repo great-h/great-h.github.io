@@ -1,6 +1,10 @@
 h2= title = article.title
 
 ul
+  - date = article.date.strftime('%Y%m%d')
+  li
+    a href="https://great-mile.herokuapp.com/great-h/great-h.github.io/#{date}"
+      | みんなのやること一覧
   - if atnd = article.atnd_url
     li
       a href="#{atnd}" = article.atnd_type
