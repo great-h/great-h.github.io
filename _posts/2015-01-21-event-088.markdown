@@ -19,3 +19,9 @@ categories: events
 
 
 ## [eiel](https://github.com/eiel)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1495)
+* [86のレポートをかいた](https://www.facebook.com/great.hiroshima/posts/511148802361103)
+* [OSHのタイムテーブルをかいた](https://github.com/osh-web/osh-web.github.com/pull/14)
+* [すごい広島のイベントページからgreat-mileへのリンクを追加した](https://github.com/great-h/great-h.github.io/pull/1498)
+* [great-mileの開発を進めた](https://github.com/great-h/great-mile/compare/dd72af59f0a6d79e365600ce04adf9a50a55ab6d...b2cf9b61970ab06b664bdaa34f83d3516a039cb1)
