@@ -23,6 +23,9 @@ categories: events
 
 ## [kwgch](http://twitter.com/ducky19999)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1488)
+* [ElastiCache](http://kwgch.github.io/blog/2015/01/14/great-h2/)
+
 
 ## [btfs0](http://twitter.com/btfs0)
 
