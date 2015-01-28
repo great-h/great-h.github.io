@@ -37,6 +37,13 @@ categories: events
 
 ## [eiel](https://github.com/eiel)
 
+参加者がおおくて雑用ばかりしていて進捗ありません。
+[オープンセミナー2015@広島](http://osh-web.github.io/2015/)の準備もしました。
+GitHubも教えました。
+WindowsのGemでおきるSSL問題とかとも戦いました。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1482)
+* [85回のレポート](https://www.facebook.com/great.hiroshima/posts/508698435939473)
 
 ## [anmochi.net](https://www.facebook.com/anmochi.net)
 
