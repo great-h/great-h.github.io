@@ -12,6 +12,10 @@ categories: events
 
 # 参加者
 
+## [mi81ma](https://github.com/mi81ma)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1487)
+
 
 ## [OmotoAkihiro](https://github.com/OmotoAkihiro)
 
@@ -19,6 +23,8 @@ categories: events
 
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1489)
 
 
 ## [kwgch](http://twitter.com/ducky19999)
@@ -31,6 +37,8 @@ categories: events
 
 
 ## [tsuda_ahr](http://twitter.com/tsuda_ahr)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1485)
 
 
 ## [Mavoroshi_Oni](http://twitter.com/Mavoroshi_Oni)
@@ -50,9 +58,11 @@ WindowsのGemでおきるSSL問題とかとも戦いました。
 
 ## [anmochi.net](https://www.facebook.com/anmochi.net)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1480)
 
 ## [kamera25](https://github.com/kamera25)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1481)
 
 ## [kakenavi](http://twitter.com/kakenavi)
 
