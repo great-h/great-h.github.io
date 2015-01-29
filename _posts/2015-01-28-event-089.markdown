@@ -17,6 +17,9 @@ categories: events
 
 ## [24motz](http://twitter.com/24motz)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1507)
+* [NVDA日本語チーム emoticons アドオンの日本語対応](https://sourceforge.jp/ticket/browse.php?group_id=4221&tid=34819)
+* [すごい広島89の覚え書き](http://d.nishimotz.com/archives/1774)
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
