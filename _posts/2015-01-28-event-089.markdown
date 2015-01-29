@@ -4,7 +4,7 @@ title: "すごい広島 #89"
 date: 2015-01-28 18:00:00 JST
 doorkeeper: http://great-h.doorkeeper.jp/events/20004
 facebook: https://www.facebook.com/events/645101765612062/
-togetter:
+togetter: http://togetter.com/li/775873
 place: movin_on
 categories: events
 ---
