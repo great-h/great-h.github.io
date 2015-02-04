@@ -31,6 +31,9 @@ categories: events
 
 ## [kwgch](https://github.com/kwgch)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1506)
+* [AWS Direct Connect](http://kwgch.github.io/blog/2015/01/31/great-h/)
+
 
 ## [k2works](https://github.com/k2works)
 
