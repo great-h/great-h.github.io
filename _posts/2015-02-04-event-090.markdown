@@ -21,6 +21,6 @@ categories: events
 ## [eiel](https://github.com/eiel)
 
 
-## [meishistylist](https://tecre.jp/)
+## [meishistylist](http://tecre.jp/)
 
 パークマッププロジェクトについてひむひむさんに取材。
