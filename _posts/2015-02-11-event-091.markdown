@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #91"
+date: 2015-02-11 18:00:00 JST
+doorkeeper: http://great-h.doorkeeper.jp/events/20587
+facebook: https://www.facebook.com/events/624048814408102/
+togetter:
+place: movin_on
+categories: events
+---
+
+# 参加者
