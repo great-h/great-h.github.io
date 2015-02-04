@@ -11,6 +11,15 @@ categories: events
 
 # 参加者
 
+## [takata](https://github.com/takata)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1497)
+
+
+## [kakenavi](https://github.com/kakenavi)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1493)
+
 
 ## [kwgch](https://github.com/kwgch)
 
