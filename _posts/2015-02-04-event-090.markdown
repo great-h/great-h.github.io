@@ -4,7 +4,7 @@ title: "すごい広島 #90"
 date: 2015-02-04 18:00:00 JST
 doorkeeper: http://great-h.doorkeeper.jp/events/20334
 facebook: https://www.facebook.com/events/778590925542818/
-togetter:
+togetter: http://togetter.com/li/778733
 place: movin_on
 categories: events
 ---
