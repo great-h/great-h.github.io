@@ -45,3 +45,9 @@ categories: events
 
 
 ## [eiel](https://github.com/eiel)
+
+文字コードと戦っていたら終わりました。
+文字コード怖い。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1508)
+* [すごい広島87のレポート](https://www.facebook.com/great.hiroshima/posts/513897075419609)
