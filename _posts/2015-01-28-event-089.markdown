@@ -11,6 +11,10 @@ categories: events
 
 # 参加者
 
+## [Akamikun](https://github.com/Akamikun)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1510)
+
 
 ## [Uemmra3](https://github.com/Uemmra3)
 
@@ -27,6 +31,8 @@ categories: events
 
 
 ## [nemumu](https://github.com/nemumu)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1509)
 
 
 ## [kwgch](https://github.com/kwgch)

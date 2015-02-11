@@ -11,6 +11,11 @@ categories: events
 
 # 参加者
 
+## [tsuda-a](https://github.com/tsuda-a)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1499)
+
+
 ## [kakenavi](https://github.com/kakenavi)
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1493)
