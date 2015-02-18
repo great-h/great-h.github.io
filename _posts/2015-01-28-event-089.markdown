@@ -43,6 +43,10 @@ categories: events
 
 ## [k2works](https://github.com/k2works)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1504)
+* [Backbone.jsで学ぶMVCフレームワーク入門(実践編)](https://github.com/k2works/backbone_practice)
+* [[WIP]広島パークマップクックブック開発環境](https://github.com/parkmap-h/parkmap-cookbook-ops)
+
 
 ## [eiel](https://github.com/eiel)
 
