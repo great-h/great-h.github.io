@@ -37,3 +37,7 @@ CMSの会と戯れたため明確な成果がなかった。(?)
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1518)
 * [パークマップ](https://github.com/parkmap-h/parkmap)
+
+## [takata](https://github.com/takata)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1525)
