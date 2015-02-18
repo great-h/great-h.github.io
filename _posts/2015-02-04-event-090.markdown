@@ -24,3 +24,8 @@ categories: events
 ## [meishistylist](http://tecre.jp/)
 
 パークマッププロジェクトについてひむひむさんに取材。
+
+## [k2works](https://github.com/k2works)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1518)
+* [パークマップ](https://github.com/parkmap-h/parkmap)
