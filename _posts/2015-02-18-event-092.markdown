@@ -4,7 +4,7 @@ title: "すごい広島 #92"
 date: 2015-02-18 18:00:00 JST
 doorkeeper: http://great-h.doorkeeper.jp/events/19712
 facebook: https://www.facebook.com/events/663826367077179/
-togetter:
+togetter: http://togetter.com/li/785149
 place: movin_on
 categories: events
 ---
