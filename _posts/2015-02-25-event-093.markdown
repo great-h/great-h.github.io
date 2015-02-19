@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #93"
+date: 2015-02-25 18:00:00 JST
+doorkeeper: http://great-h.doorkeeper.jp/events/21084
+facebook: https://www.facebook.com/events/424860781005349/
+togetter:
+place: movin_on
+categories: events
+---
+
+# 参加者
