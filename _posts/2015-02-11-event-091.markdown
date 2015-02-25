@@ -27,3 +27,8 @@ reactjsで遊ぶついでに、iojsとかインストールしてみたりして
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1528)
 * [89のレポートをかいた](https://www.facebook.com/great.hiroshima/posts/520287921447191)
+
+## [k2works](https://github.com/k2works)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1532)
+* [オープンソースセミナー2015@広島](http://www.slideshare.net/kakimomokuri/2015-44664587)
