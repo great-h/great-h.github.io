@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #94"
+date: 2015-03-04 18:00:00 JST
+doorkeeper: https://great-h.doorkeeper.jp/events/21509
+facebook: https://www.facebook.com/events/354125674792771
+togetter:
+place: movin_on
+categories: events
+---
+
+# 参加者
