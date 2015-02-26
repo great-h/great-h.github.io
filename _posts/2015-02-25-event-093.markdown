@@ -13,3 +13,6 @@ categories: events
 
 
 ## [eiel](https://github.com/eiel)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1546)
+* [ChefDKハンズオンをして思ったこと](http://localhost:1313/blog/2015/02/26/chefdk-hands-on/)
