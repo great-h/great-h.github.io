@@ -30,6 +30,8 @@ categories: events
 
 ## [kwgch](https://github.com/kwgch)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1539)
+* [Amazon WorkDocsについて途中まできいてた](http://aws.amazon.com/jp/workdocs/)（ねてた）（ねるな）
 
 ## [eiel](http://eiel.info)
 
