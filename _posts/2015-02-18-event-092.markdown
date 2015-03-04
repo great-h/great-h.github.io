@@ -17,6 +17,10 @@ categories: events
 
 ## [mrt-k](https://github.com/mrt-k)
 
+* JANOG'35のレポートを提出して旅費を振り込んでもらった
+* [ScapyでARP SpoofingとARPパケットのモニタリングをした](https://mrt-k.github.io/scapy,nw,security/2015/02/17/Scapy%E3%81%A7ARP-Spoofing%E3%81%99%E3%82%8B/)
+* バックアップとして現在の環境をそのままISOにしようとしたが, remastersysが開発停止しているらしくどうしようか悩んでいる
+
 
 ## [cuocue](https://www.facebook.com/cuocue)
 
