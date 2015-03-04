@@ -13,3 +13,10 @@ categories: events
 
 
 ## [eiel](https://github.com/eiel)
+
+## [k2works](https://github.com/k2works)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1559)
+* [ひろしまクリエイティブミーティングで発表](http://www.slideshare.net/kakimomokuri/tunaguu)
+* [パークマッププロジェクトタスクの整理](https://huboard.com/parkmap-h/parkmap#/)
+* [パークマッププロジェクトマイルストーン作成](https://trello.com/b/xhZks1lL/-)
