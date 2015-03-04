@@ -29,6 +29,12 @@ categories: events
 
 ## [eiel](http://eiel.info)
 
+ブログ記事の生成がおそすぎてつらかったのでジェネレータを変更した。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1542)
+* [npmのバージョン指定するときのごにょごにょを学んだ](http://qiita.com/kondei/items/9ee1bd9bc15c86a63070)
+* [blog.eiel.infoの静的サイトジェネレータを変更してみた](http://blog.eiel.info/)
+  * [hugo](http://gohugo.io/)を使いました
 
 ## [neyano_jp](http://twitter.com/neyano_jp)
 
