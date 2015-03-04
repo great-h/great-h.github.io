@@ -45,6 +45,10 @@ categories: events
 
 ## [k2works](https://github.com/k2works)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1548)
+* [[WIP]YEOMAN入門](https://github.com/k2works/yeoman-introduction)
+* [タスクの整理](https://huboard.com/parkmap-h/parkmap#/)
+
 
 ## [Mavoroshi_Oni](http://twitter.com/Mavoroshi_Oni)
 
