@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #95"
+date: 2015-03-11 18:00:00 JST
+doorkeeper: https://great-h.doorkeeper.jp/events/21758
+facebook: https://www.facebook.com/events/1060472350633584/
+togetter:
+place: movin_on
+categories: events
+---
+
+# 参加者
