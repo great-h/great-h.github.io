@@ -10,3 +10,6 @@ categories: events
 ---
 
 # 参加者
+
+## [digital09](https://github.com/great-h/great-h.github.io/issues/1568)
+はじめて「すごい広島」勉強会に参加させていただきました。よろしくです。
