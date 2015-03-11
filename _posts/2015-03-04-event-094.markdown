@@ -17,6 +17,11 @@ categories: events
 
 ## [mrt-k](https://github.com/mrt-k)
 
+* LT駆動のスライドを作った.
+    * [スライド](https://mrt-k.github.io/slides/ltdd/12/#/) - [解説](https://mrt-k.github.io/lt/2015/03/07/LT%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA12%E3%81%A7Scapy%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%A9%B1%E3%81%97%E3%81%9F/)
+* Numpyを使ってベイズ入門した.
+    * [機械学習のPythonとの出会い](http://www.kamishima.net/mlmpyja/)
+
 
 ## [nemumu](https://github.com/nemumu)
 
