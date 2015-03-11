@@ -10,3 +10,8 @@ categories: events
 ---
 
 # 参加者
+
+## [24motz](http://twitter.com/24motz)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1566)
+* [NVDA日本語チーム 点訳エンジン](https://sourceforge.jp/ticket/browse.php?group_id=4221&tid=34973)
