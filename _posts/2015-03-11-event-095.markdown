@@ -11,6 +11,5 @@ categories: events
 
 # 参加者
 
-## [digital09](https://github.com/great-h/great-h.github.io/issues/1568)
-はじめて「すごい広島」勉強会に参加させていただきました。よろしくです。
-## [Gistにご挨拶を書きました](https://gist.github.com/digital09/5d9c1473b16ece90e865)
+## [digital09](https://gist.github.com/digital09/5d9c1473b16ece90e865)
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1568)
