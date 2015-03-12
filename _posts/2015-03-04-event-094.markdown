@@ -27,3 +27,7 @@ categories: events
 
 
 ## [k2works](https://github.com/k2works)
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1559)
+* [chefDK-handson](https://github.com/k2works/chefDK-handson)
+  * [ChefSpecが動かない](https://github.com/k2works/chefDK-handson/issues)
+* [タスクの整理](https://huboard.com/parkmap-h/parkmap#/)
