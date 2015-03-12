@@ -4,12 +4,29 @@ title: "すごい広島 #95"
 date: 2015-03-11 18:00:00 JST
 doorkeeper: https://great-h.doorkeeper.jp/events/21758
 facebook: https://www.facebook.com/events/1060472350633584/
-togetter:
+togetter: http://togetter.com/li/793875
 place: movin_on
 categories: events
 ---
 
 # 参加者
 
-## [digital09](https://gist.github.com/digital09/5d9c1473b16ece90e865)
+## [digital09](https://github.com/digital09)
+
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1568)
+* [ブログ](https://gist.github.com/digital09/5d9c1473b16ece90e865)
+
+
+## [isabisi1484](http://twitter.com/isabisi1484)
+
+
+## [mrt-k](https://github.com/mrt-k)
+
+
+## [akira345](https://github.com/akira345)
+
+
+## [24motz](http://twitter.com/24motz)
+
+
+## [eiel](https://github.com/eiel)
