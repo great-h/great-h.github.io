@@ -11,6 +11,11 @@ categories: events
 
 # 参加者
 
+## [kwgch](https://github.com/kwgch)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1554)
+* 回線が不安定だったので読書してた　[CSS設計の教科書](http://www.amazon.co.jp/dp/B00M0ESXUI)
+
 
 ## [eiel](https://github.com/eiel)
 
