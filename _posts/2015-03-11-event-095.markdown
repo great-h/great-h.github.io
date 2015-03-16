@@ -15,3 +15,4 @@ categories: events
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1566)
 * [NVDA日本語チーム 点訳エンジン](https://sourceforge.jp/ticket/browse.php?group_id=4221&tid=34973)
+* [ブログ記事](http://d.nishimotz.com/archives/1811)
