@@ -19,6 +19,11 @@ categories: events
 
 ## [eiel](https://github.com/eiel)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1555)
+* [ChefDKハンズオン Debianの環境設定 - Qiita](http://qiita.com/eielh/items/53025a09effec9bf5d62)
+* [ブログにはてぶのウィジェットつけてみた](https://github.com/eiel/blog.eiel.info/commit/1160e252042b84495f9f8acbfb503d454c4a7743)
+* [GIF画像をPPMに変換して色の数を数えて遊んだ](https://gist.github.com/eiel/ffe292eceb97c9290576)
+
 
 ## [mrt-k](https://github.com/mrt-k)
 
