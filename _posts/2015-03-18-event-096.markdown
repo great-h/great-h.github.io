@@ -10,3 +10,7 @@ categories: events
 ---
 
 # 参加者
+
+## [tsuda.a](https://twitter.com/tsuda_ahr)
+
+* [ノルマルリューベーとは何か](http://ooltcloud.expressweb.jp/201503/article_18202402.html)
