@@ -35,8 +35,10 @@ categories: events
 
 ## [nemumu](https://github.com/nemumu)
 
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1557)
 
 ## [k2works](https://github.com/k2works)
+
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1559)
 * [chefDK-handson](https://github.com/k2works/chefDK-handson)
   * [ChefSpecが動かない](https://github.com/k2works/chefDK-handson/issues)
