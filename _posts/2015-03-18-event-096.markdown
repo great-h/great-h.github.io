@@ -10,3 +10,21 @@ categories: events
 ---
 
 # 参加者
+
+## [kitanofubon](https://github.com/kitanofubon)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1578)
+
+### やったこと
+
+* Unity5の解説を拝聴
+* Unity4.6から５にUpdateしたプロジェクトのskyboxを修復
+
+### わかったこと
+
+* 見た目はほとんど変わってないけど、手順やアタッチの場所が変わっていた
+* Unity4のプロジェクトを5にアップデートシテSkypBoxが壊れた原因かも
+
+### 次にやりたいこと
+
+体験版を終らせて5のテキストの作成をする
