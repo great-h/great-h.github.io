@@ -4,7 +4,7 @@ title: "すごい広島 #97"
 date: 2015-03-25 18:00:00 JST
 doorkeeper: https://great-h.doorkeeper.jp/events/22421
 facebook: https://www.facebook.com/events/386301051553389/
-togetter:
+togetter: http://great-h.github.io/events/event-096.html
 place: movin_on
 categories: events
 ---
