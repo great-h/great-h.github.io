@@ -11,6 +11,11 @@ categories: events
 
 # 参加者
 
+## [digital09](https://github.com/digital09)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1568)
+* [ブログ](https://gist.github.com/digital09/5d9c1473b16ece90e865)
+
 
 ## [isabisi1484](http://twitter.com/isabisi1484)
 
