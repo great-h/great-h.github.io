@@ -4,7 +4,7 @@ title: "すごい広島 #96"
 date: 2015-03-18 18:00:00 JST
 doorkeeper: https://great-h.doorkeeper.jp/events/21232
 facebook: https://www.facebook.com/events/834977439898034/
-togetter:
+togetter: http://togetter.com/li/796865
 place: movin_on
 categories: events
 ---
