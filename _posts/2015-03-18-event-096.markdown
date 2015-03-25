@@ -11,6 +11,14 @@ categories: events
 
 # 参加者
 
+## [kamera25](https://github.com/kamera25)
+
+### やったこと
+
+* [すごい広島 #96 with すごいUnity を開催しました](http://hiroshima-unity.jimdo.com/2015/03/18/%E3%81%99%E3%81%94%E3%81%84%E5%BA%83%E5%B3%B6-96-with-%E3%81%99%E3%81%94%E3%81%84unity-%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/)
+* Unity5の紹介
+
+
 ## [mavoroshi](https://github.com/mavoroshi)
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1577#issuecomment-82979389)
