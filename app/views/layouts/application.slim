@@ -12,18 +12,17 @@ html
         = javascript_include_tag 'application'
         = stylesheet_link_tag :application
   body
+    nav.nav
+      h1.title
+        a href="/" すごい広島
     .container
       .site
-        .header
-          h1.title
-            a href="/" すごい広島
-          a.extra href="/"
-          a.extra href="/archives.html"
         = yield
 
         .footer
-          .contact
-            p
-              a href="http://github.com/great-h/" すごい広島 - GitHub
+          .block
+            .contact
+              p
+                a href="http://github.com/great-h/" すごい広島 - GitHub
     /! /container
     = partial "analytics"

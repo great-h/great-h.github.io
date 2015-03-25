@@ -1,25 +1,35 @@
-== markdown summary.body
-h2 次のイベント
 - next_event = articles.first
-ul class="posts"
-  li
-    span= next_event.date.strftime("%Y-%m-%d")
-    = " » "
-    a href="/events/event-#{next_event.no}.html"
-      = next_event.title
+.hero
+  .concept 広島はもっとすごくなる
+  a.main-button href="http://github.com/great-h/great-h.github.io/issues" 参加する
+.hero-container
 
-== markdown article.body
+  .block
+    == markdown summary.body
 
-h2 活動履歴
+  .block
+    h2 次のイベント
+    ul class="posts"
+      li
+        span= next_event.date.strftime("%Y-%m-%d")
+        = " » "
+        a href="/events/event-#{next_event.no}.html"
+          = next_event.title
 
-ul class="posts"
-  - articles[1..-1].each do |article|
-    li
-      span= article.date.strftime("%Y-%m-%d")
-      = " » "
-      a href="/events/event-#{article.no}.html"
-        = article.title
+  .block
+    == markdown article.body
 
-a href="/archives.html" すべてみる
+  .block
+    h2 活動履歴
+    ul class="posts"
+      - articles[1..-1].each do |article|
+        li
+          span= article.date.strftime("%Y-%m-%d")
+          = " » "
+          a href="/events/event-#{article.no}.html"
+            = article.title
 
-== markdown Article.new("link.markdown").body
+    a href="/archives.html" すべてみる
+
+  .block
+    == markdown Article.new("link.markdown").body
