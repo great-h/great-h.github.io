@@ -41,7 +41,7 @@
 * [LT駆動開発](http://ltdd.doorkeeper.jp/)<br>普段の開発の中で毎月ライトニングトークをすること想定しつつ、本当に毎月ライトニングトークすることで勉強しようという勉強会。勉強会で一番勉強になるのは発表者らしいです。
 * [広島Unity勉強会](http://hiroshima-unity.jimdo.com/)<br>広島でUnity3Dを学ぼうという活動している会です。勉強会や広報の他に、広島の人がUnityで制作した物の紹介などを行っています。
 * [DevLOVE広島](https://www.facebook.com/groups/657965497630510/)<br>DevLOVEとは、開発(Develop)を愛する人たちの集まりの広島版です。開発の楽しさや開発の現場をよりよくすることを主眼に勉強会が行われています。
-* [concrete5 in HIROSHIMA](https://www.facebook.com/groups/concrete5hiroshima/)<br>オープンソースのCMSである[concrete5](http://concrete5-japan.org/)の広島コミュニティ。直感的にホームページ運営ができるのが特徴。
+* [広島でコンクリ](https://www.facebook.com/groups/concrete5hiroshima/)<br>オープンソースのCMSである[concrete5](http://concrete5-japan.org/)の広島コミュニティ。直感的にホームページ運営ができるのが特徴。
 * [広島 Cocos2d-x の会(仮称)](http://hsc2dx.sblo.jp)<br>[Cocos2d-x](http://www.cocos2d-x.org/)を使用したアプリ製作者との交流を行うコミュニティです。
 * [広島電子工作娯楽部(仮称)](https://www.facebook.com/groups/359376677490481/)<br>電子工作が趣味の人たちの集りです。
 * [JAWS-UG 広島](http://jaws-ug.jp/bc/hiroshima/)<br>AWSのユーザコミュニティで3ヶ月に1度程度勉強会が開催されています。
