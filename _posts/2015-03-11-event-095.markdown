@@ -11,6 +11,13 @@ categories: events
 
 # 参加者
 
+## [Toro_kun](https://twitter.com/Toro_kun)
+
+Android Studioでリリース版アプリの作成方法を調べた。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1569)
+
+
 ## [digital09](https://github.com/digital09)
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/1568)
