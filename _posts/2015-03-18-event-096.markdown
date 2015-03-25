@@ -11,6 +11,13 @@ categories: events
 
 # 参加者
 
+## [OmotoAkihiro](https://github.com/OmotoAkihiro)
+
+### やったこと
+
+* Unity5のありがたいお話を聞く
+* マウスを買って参加
+
 ## [kamera25](https://github.com/kamera25)
 
 ### やったこと
