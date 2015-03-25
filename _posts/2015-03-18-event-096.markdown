@@ -108,3 +108,10 @@ categories: events
 ## [tsuda.a](https://twitter.com/tsuda_ahr)
 
 * [ノルマルリューベーとは何か](http://ooltcloud.expressweb.jp/201503/article_18202402.html)
+
+
+## [k2works](https://github.com/k2works)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1574)
+* [RSpecによるRailsテスト入門](https://github.com/k2works/rails-4-1-rspec-3-0)
+* [タスクの整理](https://huboard.com/parkmap-h/parkmap#/)
