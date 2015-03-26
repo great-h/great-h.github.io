@@ -19,6 +19,7 @@ describe "Sitespec" do
     get "/stylesheets/application.css"
     get "/javascripts/application.js"
     get "/event.json"
+    get "/img/main.jpg"
     get "/google1f4a02fe0a1f18ac.html"
   end
 
