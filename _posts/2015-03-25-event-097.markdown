@@ -23,5 +23,18 @@ categories: events
 
 ## [LirioY](http://twitter.com/LirioY)
 
+### やったこと
+
+Concrete5 のページのおさらいをした。
+
+* [銀ねこアトリエ | concrete5ページタイプのおさらい](http://ginneko-atelier.com/blogs/concrete5/317/)
+
+### わかったこと
+
+* Concrete5にはまだまだ気になる機能があった。
+
+### 次にしたいこと
+
+子ページ、パッケージについて、もっとわかりやすく説明したい。
 
 ## [eiel](https://github.com/eiel)
