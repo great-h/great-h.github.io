@@ -31,8 +31,15 @@ categories: events
 
 ### やったこと
 
-* ibusが使い物にならないので代替を探す
-* ハニーポットのログの整理
+* ibusからfcitx-mozcにした
+
+### わかったこと
+
+* [fcitx](https://archlinuxjp.kusakata.com/wiki/Fcitx?rdfrom=https%3A%2F%2Fwiki.archlinux.org%2Findex.php%3Ftitle%3DFcitx_%28%25E6%2597%25A5%25E6%259C%25AC%25E8%25AA%259E%29%26redirect%3Dno)というインプットメソッドがある
+
+### 次にやりたいこと
+
+辞書登録が分からないのでそのあたり調べる
 
 
 ## [nemumu](https://github.com/nemumu)
