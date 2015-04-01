@@ -17,6 +17,11 @@ categories: events
 
 ## [mrt-k](https://github.com/mrt-k)
 
+### やったこと
+
+* ibusが使い物にならないので代替を探す
+* ハニーポットのログの整理
+
 
 ## [nemumu](https://github.com/nemumu)
 
