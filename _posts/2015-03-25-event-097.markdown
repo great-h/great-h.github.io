@@ -20,6 +20,12 @@ categories: events
 
 ## [nemumu](https://github.com/nemumu)
 
+### やったこと
+
+プログラミング同好会でおこなったことを整理した。
+
+* [参考](https://github.com/great-h/great-h.github.io/issues/1589)
+
 
 ## [LirioY](http://twitter.com/LirioY)
 
