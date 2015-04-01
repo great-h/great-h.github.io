@@ -16,8 +16,16 @@ categories: events
 
 ### やったこと
 
-[パークマッププロジェクト](https://github.com/parkmap-h)をすすめた
+* [パークマッププロジェクト](https://github.com/parkmap-h)をすすめた
+* [パークマップ広島のインセプションデッキをヒロハタプロジェクトで発表した](http://www.slideshare.net/kakimomokuri/ss-46481667)
 
+### わかったこと
+
+* ボランティアベースでプロジェクトを立ち上げ継続する場合はプロジェクト参加者がそれぞれ得られるメリットを明確にしておかないと継続は難しいと思った。
+
+### 次にしたいこと
+
+* タスク管理手法をもっと勉強したい
 
 ## [mrt-k](https://github.com/mrt-k)
 
