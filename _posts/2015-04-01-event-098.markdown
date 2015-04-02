@@ -19,3 +19,28 @@ categories: events
 
 
 ## [eiel](http://eiel.info)
+
+### やったこと
+
+hasicorp社の[terraform](https://www.terraform.io/)で遊んだ。
+
+### わかったこと
+
+インフラを構築するアプリケーションでAWSやGCP、herokuなどを管理できるアプリケーション。
+IaaS,Paas問わず管理できるのが特徴。
+ちょっとしたプロビジョニング(ファイルの生成とか)もできるようになっている。
+
+これをつかってい、hasicorp社の言うアーティファクトを展開してデプロイする模様。
+アーティファクトはAMIとかコンテナとかディスクイメージに相当するものを基本的には指している模様。
+Consulと連携することもできる模様。
+
+terrform用の設定ファイルをかいて terraform apply で実行できる。
+
+### 次にしたいこと
+
+* ATLASやConsulと連携させたい
+* Dockerアプリケーションを展開してみたい
+
+### 関連
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1594)
