@@ -14,6 +14,8 @@ categories: events
 
 ## [mrt-k](https://github.com/mrt-k)
 
+* LT駆動開発のスライドを作った
+    * [スライド](https://mrt-k.github.io/slides/ltdd/13/#/) - [ブログ](https://mrt-k.github.io/lt/2015/04/04/LT%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA13%E3%81%A7Tor%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8BFingerprint-Attack%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%A9%B1%E3%81%97%E3%81%9F/)
 
 ## [sasakilemonte](https://github.com/sasakilemonte)
 
