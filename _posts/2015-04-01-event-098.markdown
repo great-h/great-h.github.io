@@ -11,6 +11,12 @@ categories: events
 
 # 参加者
 
+## [tsuda_ahr](https://github.com/great-h/great-h.github.io/issues/1596)
+
+### やったこと
+
+* LCD の デジタル伝送について調べる
+
 ## [meibutuoyaji22](https://github.com/meibutuoyaji22)
 
 ### やったこと
