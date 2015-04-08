@@ -11,6 +11,18 @@ categories: events
 
 # 参加者
 
+## [meibutuoyaji22](https://github.com/meibutuoyaji22)
+
+### やったこと
+
+* すごい広島に参加した
+* Windows8にRuby環境の構築を試みた
+* Vagrantでubuntuをインストールした
+
+### わかったこと
+
+* windowsでRubyの利用は難しい
+
 
 ## [mrt-k](https://github.com/mrt-k)
 
