@@ -13,3 +13,28 @@ categories: events
 
 
 ## [eiel](https://github.com/eiel)
+
+### やったこと
+
+* Haskellを少し書いた
+* Scalaを少し書いた
+* Git SubmoduleとSubtreeの話をした
+* さんまラーメンを食べた
+
+### わかったこと
+
+* 関数型脳が劣化していた
+* モナドはモノイドに似ているらしい
+* Scalaの引数は型指定が必須っぽい感じだった
+* Scalaでは :: が cons
+* Scalaのパターンマッチは matchを使う
+* オブジェクト指向言語なので list.tail list.head などとかけてこれはこれで悪くない
+
+### 次にしたいこと
+
+* Scalaのパターンのシーケンスパターンを試したい
+* メソッド呼び出しの括弧の省略ルールとかよくわからないので文法をちゃんと調べる。
+
+### 関連
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1598)
