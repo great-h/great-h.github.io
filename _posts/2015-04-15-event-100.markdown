@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #100"
+date: 2015-04-15 18:00:00 JST
+doorkeeper: https://great-h.doorkeeper.jp/events/23424
+facebook: https://www.facebook.com/events/1436448649982782/
+togetter:
+place: movin_on
+categories: events
+---
+
+# 参加者
