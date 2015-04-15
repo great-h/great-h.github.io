@@ -11,6 +11,16 @@ categories: events
 
 # 参加者
 
+# [majosystems](https://github.com/majosystems)
+
+### やったこと
+
+* git subtree と submoduleについて学んだ
+
+### わかったこと
+
+* submoduleがコミットのshaをもってることがわかった
+
 
 ## [eiel](https://github.com/eiel)
 
