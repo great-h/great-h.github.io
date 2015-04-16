@@ -22,3 +22,22 @@ categories: events
 
 
 ## [eiel](https://github.com/eiel)
+
+### やったこと
+
+* [ドミニオン](https://hobbyjapan.co.jp/dominion/)というデッキ構築型のゲームで遊んだ
+* [LT駆動開発14](https://manage.doorkeeper.jp/groups/ltdd/events/23736)のページを作成した
+
+### わかったこと
+
+* 100回を達成すると祝われる
+* ドミニオンのルール説明の方法
+* 鉱山のルールをまちがえていた疑惑
+
+### 次にしたいこと
+
+* ドミニオンの拡張パックで遊びたい(もってない)
+
+### 関連
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1605)
