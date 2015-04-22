@@ -14,6 +14,14 @@ categories: events
 
 ## [kwgch](https://github.com/kwgch)
 
+### やったこと
+
+* rails new する
+
+### わかったこと
+
+* rails new で雛形ができる
+
 
 ## [k2works](https://github.com/k2works)
 
