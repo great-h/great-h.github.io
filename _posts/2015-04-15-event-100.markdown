@@ -11,6 +11,11 @@ categories: events
 
 # 参加者
 
+## [takatayoshitake](http://twitter.com/takatayoshitake)
+
+### やったこと
+
+* [岡山IT勉強会カレンダー(仮)](https://www.google.com/calendar/embed?src=8vcfps2chp2asne7scebcf62b0@group.calendar.google.com&ctz=Asia/Tokyo)を作成した。
 
 ## [kwgch](https://github.com/kwgch)
 
