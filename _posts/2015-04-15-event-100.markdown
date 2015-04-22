@@ -26,7 +26,39 @@ categories: events
 ## [k2works](https://github.com/k2works)
 
 
+### やったこと
+
+* vagrantとdockerで作る統合開発環境を考えてみる
+
+### わかったこと
+
+* docker楽しい
+
 ## [kakenavi](https://github.com/kakenavi)
+
+### やったこと
+
+* ドミニオンした
+
+## [kamera25](https://github.com/kamera25)
+
+### やったこと
+
+* ドミニオンした
+
+
+## [tsuda_ahr](https://github.com/great-h/great-h.github.io/issues/1596)
+
+### やったこと
+
+* ドミニオンした
+
+
+## [Toro_kun](https://twitter.com/Toro_kun)
+
+### やったこと
+
+* ドミニオンした
 
 
 ## [eiel](https://github.com/eiel)
