@@ -44,6 +44,20 @@ categories: events
 
 ## [Mavoroshi_Oni](http://twitter.com/Mavoroshi_Oni)
 
+### やったこと
+
+* 敵キャラ1体作成した。(元画像：mon_074)
+
+
+### わかったこと
+
+* Animationの途中で引数ありのメソッドを呼べる。<br>※これでアニメーションに合わせて当たり判定用のColliderをOn/Offできる。
+
+
+### 次にやりたいこと
+
+* 帰ったらこの敵キャラの残りのアニメーション用スクリプト追加
+
 
 ## [majosystems](https://github.com/majosystems)
 
