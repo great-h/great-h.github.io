@@ -17,6 +17,10 @@ categories: events
 
 ## [mrt-k](https://github.com/mrt-k)
 
+* postfix + dovecotで実験用のメールサーバーを立てた
+* bootstrapはやめた
+  * [sh3ll.xyz](http://sh3ll.xyz)
+
 
 ## [eiel](https://github.com/eiel)
 
