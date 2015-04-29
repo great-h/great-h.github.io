@@ -20,6 +20,23 @@ categories: events
 
 ## [eiel](https://github.com/eiel)
 
+### やったこと
+
+* 来週のすごい広島のページをつくった
+* [会社を辞めないという選択](http://www.amazon.co.jp/gp/product/482226842X/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=482226842X&linkCode=as2&tag=eiel-22)について雑談をした
+* オブジェクト指向について雑談した
+
+
+### わかったこと
+
+* thisの説明は難しい
+* 仕事してすごい広島にくる人たちすごい
+
+### 次にすること
+
+* いかに体力を消費せずに作業できるかを考える
+* いかに体力がないときに作業できるかを考える
+
 
 ## [Mavoroshi_Oni](http://twitter.com/Mavoroshi_Oni)
 
