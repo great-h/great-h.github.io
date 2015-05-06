@@ -15,8 +15,13 @@ categories: events
 
 ## [pecosantoyobe](http://twitter.com/pecosantoyobe)
 
+### やったこと
+
+* [dotfilesの整理](https://github.com/furu/dotfiles)
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1613)
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
 
 ## [eiel](https://github.com/eiel)
+
