@@ -4,7 +4,7 @@ title: "すごい広島 #103"
 date: 2015-05-06 18:00:00 JST
 doorkeeper: https://great-h.doorkeeper.jp/events/24441
 facebook: https://www.facebook.com/events/462348677262246/
-togetter:
+togetter: http://togetter.com/li/817644
 place: movin_on
 categories: events
 ---
