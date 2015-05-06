@@ -11,6 +11,15 @@ categories: events
 
 # 参加者
 
+## [yuririn](https://github.com/yuririn)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1616))
+* concrete5 5.7 のページタイプを学ぶ
+
+### やったこと
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1616))
+
 ## [watanabe1981](https://github.com/watanabe1981)
 
 ### やったこと
