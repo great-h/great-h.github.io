@@ -25,3 +25,15 @@ categories: events
 
 ## [eiel](https://github.com/eiel)
 
+### やったこと
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1614)
+* GitHubの使い方の説明をした
+
+### わかったこと
+
+* WindowsのGUIクライアントはやっぱりSourceTreeらしい
+
+### 次にしたいこと
+
+* IntelliJになれる
