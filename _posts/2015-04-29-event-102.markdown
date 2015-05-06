@@ -11,6 +11,14 @@ categories: events
 
 # 参加者
 
+## [watanabe1981](https://github.com/watanabe1981)
+
+### やったこと
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1615)
+* concrete5 5.7 の ページタイプを学んだ
+
+
 ## [mu2in](http://twitter.com/mu2in)
 
 ## [pecosantoyobe](http://twitter.com/pecosantoyobe)
