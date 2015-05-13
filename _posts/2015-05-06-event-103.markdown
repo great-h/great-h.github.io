@@ -38,3 +38,7 @@ categories: events
 
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
+
+### やったこと
+
+* [CakePHPに挑戦](https://github.com/great-h/great-h.github.io/issues/1620)
