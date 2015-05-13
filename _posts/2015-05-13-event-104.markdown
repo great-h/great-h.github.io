@@ -17,5 +17,23 @@ categories: events
 
 ## [eiel](https://github.com/eiel)
 
+### やったこと
+
+* [オープンセミナー2015@岡山](http://okayama.open-seminar.org/)の準備
+* [ScalaのMapで遊んだ](http://blog.eiel.info/blog/2015/05/13/scala-map/)
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1624)
+
+### わかったこと
+
+* ImmutableなMapでも更新っぽいことができる。+演算子を使う
+* `"hoge" -> 1` はタプルであることがわかった
+* ' は演算子でないようだ
+
+### 次にしたいこと
+
+* タプルを作成するいろんな方法を調べたい
+* ->演算子をつかわずに タプル からMapを作ろうとすると括弧がふたついる理由が気になる `Map.apply`のときはなんとなくわかるけど。
+  * たぶん関数適用の括弧みたいになってしまうのだろう
+* scalazやscalaのライブラリをゆっくりみていこう。
 
 ## [Torokun](https://github.com/Torokun)
