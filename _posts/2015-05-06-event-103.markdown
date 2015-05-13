@@ -11,6 +11,12 @@ categories: events
 
 # 参加者
 
+## [tsuda_ahr](https://github.com/tsuda-a)
+
+### やったこと
+
+* [モナドに思いを馳せた](https://github.com/great-h/great-h.github.io/issues/1623)
+
 ## [eiel](http://eiel.info/)
 
 ### やったこと
