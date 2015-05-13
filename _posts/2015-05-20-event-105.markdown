@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #105"
+date: 2015-05-20 18:00:00 JST
+doorkeeper: https://great-h.doorkeeper.jp/events/24848
+facebook: https://www.facebook.com/events/1839181232973568/
+togetter:
+place: movin_on
+categories: events
+---
+
+# 参加者
