@@ -11,6 +11,22 @@ categories: events
 
 # 参加者
 
+## [eiel](http://eiel.info/)
+
+### やったこと
+
+* 先週のIssueの整理
+* [IntelliJの動画をみた](https://github.com/great-h/great-h.github.io/issues/1621)
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1621)
+
+### わかったこと
+
+* みんなIssueを放置しているのでなんとかせんといかん
+* IntelliJのことをさっぱりわかっていない
+
+### 次にしたいこと
+
+* IntelliJの利用方法を学ぶ
 
 ## [100001647649493](http://www.facebook.com/100001647649493)
 
