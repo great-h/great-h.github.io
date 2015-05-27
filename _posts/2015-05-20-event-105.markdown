@@ -18,6 +18,13 @@ categories: events
 ## [rang1234](http://twitter.com/rang1234)
 
 
+### やったこと
+
+* [OSC用の作品ＵＲＬ記載](http://unityroom.com/games/play/383)
+* VisualStudioとUnityの連携してデバッグしてみた
+* Blenderで服を作る
+
+
 ## [eiel](https://github.com/eiel)
 
 
