@@ -27,6 +27,22 @@ categories: events
 
 ## [eiel](https://github.com/eiel)
 
+### やったこと
+
+* [ScalaでMyListの実装した](https://github.com/eiel/scala-quiz/tree/master/src/main/scala/com/chatwork/quiz)
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1629)
+
+### わかったこと
+
+* Scalaは末尾再帰最適化は自動でしてくれない
+  * anotationを付けるひつようがある
+* Scalaは遅延評価でないので気をつけるべきだ
+
+### 次にしたいこと
+
+* IntelliJが使いこなせてない気がする
+* Scalaのプロジェクトをカジュアルに作成したい
+
 
 ## [Mavoroshi_Oni](http://twitter.com/Mavoroshi_Oni)
 
