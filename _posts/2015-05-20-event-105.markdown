@@ -36,3 +36,8 @@ categories: events
 * 岩持ちゴブリン(mon_205)用のスクリプト書く。
 
 ## [kamera25](https://github.com/kamera25)
+
+### やったこと
+
+* [参加者の成果をまとめた](http://hiroshima-unity.jimdo.com/%E5%8F%82%E5%8A%A0%E8%80%85%E3%81%AE%E6%88%90%E6%9E%9C/)
+* [すごいUnityを開催したブログ記事を書いた](http://hiroshima-unity.jimdo.com/2015/05/20/%E3%81%99%E3%81%94%E3%81%84%E5%BA%83%E5%B3%B6-105-with-%E3%81%99%E3%81%94%E3%81%84unity-%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/)
