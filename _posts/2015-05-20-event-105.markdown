@@ -23,5 +23,16 @@ categories: events
 
 ## [Mavoroshi_Oni](http://twitter.com/Mavoroshi_Oni)
 
+### やったこと
+
+* 岩持ちゴブリン(mon_205)をUnityにとりこんだ。
+
+### わかったこと
+
+* 岩はゴブリンの子オブジェクトにすればいいと思ってたけど、だめっぽいということ。
+
+### 次にやりたいこと
+
+* 岩持ちゴブリン(mon_205)用のスクリプト書く。
 
 ## [kamera25](https://github.com/kamera25)
