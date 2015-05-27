@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #107"
+date: 2015-06-03 18:00:00 JST
+doorkeeper: https://manage.doorkeeper.jp/groups/great-h/events/26031
+facebook: https://www.facebook.com/events/750940498338692/
+togetter:
+place: movin_on
+categories: events
+---
+
+# 参加者
