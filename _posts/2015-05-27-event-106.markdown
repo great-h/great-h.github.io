@@ -16,3 +16,23 @@ categories: events
 
 
 ## [eiel](https://github.com/eiel)
+
+### やったこと
+
+* Railsについて会話をした
+  * 主にAjax関連
+* AWSについて会話をした
+* 主にCloudFormationとかOpsWorkとか
+
+
+### わかったこと
+
+* CloundFormationはAWSのリソースを操作できるっぽい
+* OpsWorkはある程度決まった構成を簡単につくれるっぽい。内部ではChefをつかってるらしい。
+* BeansTalkはPaaSらしい。
+
+### 次にしたいこと
+
+* CodeDeployを試したい
+* OpsWorkを試したい
+* CloundFormationを試したい
