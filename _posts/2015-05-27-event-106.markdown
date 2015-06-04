@@ -21,6 +21,10 @@ categories: events
 
 ## [LirioY](http://twitter.com/LirioY)
 
+### やったこと
+
+* 「[コンポーザーの使い方を考える](http://www.onside.com/web_design/9215.html)」を参考にカスタムテンプレートを作成する
+
 
 ## [eiel](https://github.com/eiel)
 
