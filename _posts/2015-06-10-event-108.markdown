@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #108"
+date: 2015-06-10 18:00:00 JST
+doorkeeper: https://great-h.doorkeeper.jp/events/26348
+facebook: https://www.facebook.com/events/479065052259802/
+togetter:
+place: movin_on
+categories: events
+---
+
+# 参加者
