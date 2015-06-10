@@ -10,3 +10,20 @@ categories: events
 ---
 
 # 参加者
+
+## [eiel](http://eiel.info)
+
+### やったこと
+
+* [AWSのアクセスキーの設定について調べた](http://qiita.com/eielh/items/e66e9c52d3a2488cb249)
+
+### わかったこと
+
+* AWSのアクセスキーの情報は `~/.aws/credentials` に保存されることがわかった
+* 環境変数 AWS_DEFALUT_PROFILE でプロファイルの変更ができることがわかった
+* aws s3 ls でs3の中身がみれることがわかった
+
+### 次にしたいこと
+
+* IAMをこまかく発行にて profile を分離する
+* Cloudformationに挑戦する
