@@ -13,3 +13,23 @@ categories: events
 
 
 ## [eiel](https://github.com/eiel)
+
+### やったこと
+
+* AWSのルートアカウントを二段階認証にした
+* CloudFormationを試した
+  * kumogataをつかった
+  * [作業記録](http://qiita.com/eielh/items/522aca9c6d378d14c307)
+
+### わかったこと
+
+* MFAの設定を再設定しようとするとシークレットキーが変わる
+* CloudFormationはAWSの自動化には外せないサービスのようだ
+* CloudFormationはVPC、EC2、EBなどなど操作が可能。
+* 実験でインスタンスを起動すると、5分程度でインスタンスを終了してしまうので有効に使いたい
+
+### 次にしたいこと
+
+* CloudFormationでもっと複雑なことをする
+* PackerでもつかってAMIをつくりたい
+* SNSとか連携して通知したい
