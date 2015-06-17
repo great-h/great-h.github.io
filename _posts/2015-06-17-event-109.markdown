@@ -4,7 +4,7 @@ title: "すごい広島 #109"
 date: 2015-06-17 18:00:00 JST
 doorkeeper: https://great-h.doorkeeper.jp/events/26750
 facebook: https://www.facebook.com/events/1434072893566482/
-togetter:
+togetter: http://togetter.com/li/835883
 place: movin_on
 categories: events
 ---
