@@ -12,6 +12,13 @@ categories: events
 # 参加者
 
 
+## [Torokun](https://github.com/Torokun)
+
+### やったこと
+
+* 引越しの最終確認をする - [参考](http://toianna.blog.fc2.com/blog-entry-4.html)
+
+
 ## [eiel](https://github.com/eiel)
 
 ### やったこと
