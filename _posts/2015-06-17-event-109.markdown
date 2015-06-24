@@ -16,3 +16,20 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+### やったこと
+
+* アジャイルな計画づくりについて考えていた
+* Consulで遊んでみた - [Conssul - Consulでざっくり死活監視してみる - Qiita](http://qiita.com/eielh/items/b006949406d263a11a98)
+
+### わかったこと
+
+* ストーリー、フィーチャより大きな概念としてエピックというのがあるらしい
+* consulはsensuより設定が楽でsensuの代わりにつかえなくもない感じがした
+* consulはうまく使うと便利そう。chef serverの代わりにもつかえなくもない感じがした
+
+### 次にしたいこと
+
+* consulをもっと使いこなして実践投入
+* awsのSNSをつかって通知
+* アジャイルな計画を極める
