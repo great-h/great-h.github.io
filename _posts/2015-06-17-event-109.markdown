@@ -17,6 +17,12 @@ categories: events
 
 * [ためまっぷ](https://www.facebook.com/tamemap)のスケジュール確認
 
+## [sasakilemonte](https://github.com/sasakilemonte)
+
+### やったこと
+
+* Androidアプリのビルド
+
 
 ## [eiel](http://eiel.info/)
 
