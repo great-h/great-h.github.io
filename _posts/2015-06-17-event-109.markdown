@@ -11,6 +11,13 @@ categories: events
 
 # 参加者
 
+## [kamera25](https://github.com/kamera25)
+
+### やったこと
+
+* 「WTM+Unity」の県人の開催準備をする
+
+
 ## [andoromeda](https://github.com/andoromeda)
 
 ### やったこと
