@@ -11,6 +11,13 @@ categories: events
 
 # 参加者
 
+## [yoship](https://github.com/yoship)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1644)
+
+* ためまっぷプロジェクトスケジュール確認
+
+
 ## [kamera25](https://github.com/kamera25)
 
 ### やったこと
