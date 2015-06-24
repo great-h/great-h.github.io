@@ -11,6 +11,13 @@ categories: events
 
 # 参加者
 
+## [yasu7ri](https://github.com/yasu7ri)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1647)
+
+* アジャイルサムライ読書会 廣島道場　２−３に参加
+
+
 ## [yoship](https://github.com/yoship)
 
 ### [やったこと](https://github.com/great-h/great-h.github.io/issues/1644)
