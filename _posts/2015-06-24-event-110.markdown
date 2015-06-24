@@ -19,3 +19,19 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1650)
+
+* 広島Javaユーザグループのハンズオンに参加した
+
+### わかったこと
+
+* Stream APIで流行りの言語っぽくなった。
+* しかし、やっぱりJavaだった。
+* IntelliJIDEAでプロジェクトを広くときは pom.xml
+* 最近のIDEは補完が偉い
+* 言語には思想があることを感じた
+
+### 次にしたいこと
+
+* 関数型をもっと勉強したい
