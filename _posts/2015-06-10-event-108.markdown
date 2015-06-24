@@ -11,6 +11,10 @@ categories: events
 
 # 参加者
 
+## [yuririn](https://github.com/yuririn)
+
+* [concrete5のデザイナー&開発者ドキュメント](http://concrete5-japan.org/help/5-7/developer/)の確認
+
 
 ## [Torokun](https://github.com/Torokun)
 
