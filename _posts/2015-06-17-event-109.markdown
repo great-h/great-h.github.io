@@ -11,8 +11,11 @@ categories: events
 
 # 参加者
 
+## [andoromeda](https://github.com/andoromeda)
 
-## [sasakilemonte](https://github.com/sasakilemonte)
+### やったこと
+
+* [ためまっぷ](https://www.facebook.com/tamemap)のスケジュール確認
 
 
 ## [eiel](http://eiel.info/)
