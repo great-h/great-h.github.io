@@ -28,6 +28,9 @@ categories: events
 
 ## [mu2in](http://twitter.com/mu2in)
 
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1651)
+
+* Java8 Lambda ハンズオンに参加した
 
 ## [eiel](http://eiel.info/)
 
