@@ -4,7 +4,7 @@ title: "すごい広島 #111"
 date: 2015-07-01 18:00:00 JST
 doorkeeper: https://great-h.doorkeeper.jp/events/27521
 facebook: https://www.facebook.com/events/382673958598297/
-togetter:
+togetter: http://togetter.com/li/841583
 place: movin_on
 categories: events
 ---
