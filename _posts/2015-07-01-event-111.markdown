@@ -20,5 +20,19 @@ categories: events
 
 ## [mrt-k](https://github.com/mrt-k)
 
+なんとなくxv6をqemuで動かしてみた.
+gcc5.1.0ではコンパイルにコケたのでgcc4.6.3を使った.
+ソースコードも少ないので読んで見るのもおもしろいかもしれない.
+[qemuでxv6を動かすメモ](https://github.com/great-h/great-h.github.io/issues/1654#issuecomment-117614444)
+
+研究室勉強会用のスライド作成を進めた.
+書式指定文字列攻撃によるGOT Overwriteに関する資料とサンプルを作成.
+参考
+* http://d.hatena.ne.jp/kusano_k/20140302/1393781714
+* http://inaz2.hatenablog.com/entry/2014/04/20/041453
+* http://07c00.hatenablog.com/entry/2013/08/10/112404
+
+LT駆動のネタが決まった.
+
 
 ## [eiel](http://eiel.info/)
