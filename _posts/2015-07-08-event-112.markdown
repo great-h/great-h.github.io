@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #112"
+date: 2015-07-08 18:00:00 JST
+doorkeeper: https://great-h.doorkeeper.jp/events/27823
+facebook: https://www.facebook.com/events/445870408924240/
+togetter:
+place: movin_on
+categories: events
+---
+
+# 参加者
