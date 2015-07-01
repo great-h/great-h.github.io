@@ -22,3 +22,17 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+### やったこと
+
+* [中国地方DB勉強会のサイトを更新した](http://dbstudychugoku.github.io/events/tokyo-001.html)
+* [Code for Hiroshimaに関することをざくっと書いた](http://blog.eiel.info/blog/2015/07/01/code-for-hiroshima/)
+
+### わかったこと
+
+* redcarpetでHTMLタグに囲まれた部分をマークダウンするには markdownという属性に1を設定する
+* 考えていることをうまく文章化できない。文章むずかしい。
+
+### 次にしたいこと
+
+* いろんなオープンデータつくって、WebComponent的なもので表示したりしたい。
