@@ -17,6 +17,12 @@ categories: events
 
 ## [Uemmra3](https://github.com/Uemmra3)
 
+* OSC島根のFxOSコミュニティの申し込み書(ブース関連)を作成した
+* OSC島根のFxOSコミュニティの準備・検討事項をスタッフMLに投げた
+* Atomのインストールしてみた(本体のみでプラグインが未)
+* [MDN翻訳](https://developer.mozilla.org/ja/Firefox_OS/Developing_Firefox_OS/Filing_bugs_against_Firefox_OS)
+* [ブログを書いた](http://d.hatena.ne.jp/Uemmra3/20150701/1435763104)
+
 
 ## [mrt-k](https://github.com/mrt-k)
 
