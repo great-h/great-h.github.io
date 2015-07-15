@@ -19,3 +19,18 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+### やったこと
+
+* [Scala Kansai SummitにLTの概要を伝えた](http://summit.scala-kansai.org/#schedule)
+* stackのインストールを試みた
+
+### わかったこと
+
+* cabal update しわすれてバージョンが古そうだった
+* バイナリでいれたほうがいいんだろうか
+* brew にはまだなさそうだった
+
+### 次にしたいこと
+
+* stackでもっと遊ぶ
