@@ -31,3 +31,19 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+### やったこと
+
+* [JSON-LD](http://json-ld.org/)について調べていた
+* [Vagrantのboxつくってた](https://atlas.hashicorp.com/eiel/boxes/rails-mysql)
+  * [AtlasでPackerが実行できるようになってて感動した](http://blog.eiel.info/blog/2015/07/16/atlas-packer-vagrant/)
+
+### わかったこと
+
+* JSON-LDのLDはLinkData
+* Atlasでboxがつくれてすばらしい
+
+### 次にしたいこと
+
+* JSON-LDをつかってみる
+* Hashicorp製品で遊ぶ
