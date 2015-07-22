@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #115"
+date: 2015-07-29 18:00:00 JST
+doorkeeper: https://great-h.doorkeeper.jp/events/28951
+facebook: https://www.facebook.com/events/789691821144509/789691827811175/
+togetter:
+place: movin_on
+categories: events
+---
+
+# 参加者
