@@ -20,6 +20,15 @@ categories: events
 
 ## [LirioY](http://twitter.com/LirioY)
 
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1664)
+
+* HTML5の勉強をした
+* [IE8に関する会話をした](http://ginneko-atelier.com/blogs/itcomunity/about_ie/)
+
+### わかったこと
+
+* IE対策はしっかりするべき。
+
 
 ## [k2works](https://github.com/k2works)
 
