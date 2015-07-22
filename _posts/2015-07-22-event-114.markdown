@@ -26,6 +26,22 @@ categories: events
 
 ## [eiel](http://eiel.info/)
 
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1667)
+
+* [JIRAのコミュニティライセンスに申し込みしてみた](https://www.atlassian.com/ja/software/views/open-source-license-request)
+* [Material Design Liteをいじって遊んだ](http://www.getmdl.io)
+
+### わかったこと
+
+* AtlassianのサポートページはJIRAベースっぽい感じになっていた
+* Material Design Liteは MDL と略すらしい
+* Material Design LiteはGoogleがホスティングCSSとJSを読むだけでも使えるっぽい
+* Material Design LiteはPolymerの知識は不要だけど、それなりにたいへん
+
+### 次にしたいこと
+
+* JIRA Agileをうまく使う
+
 
 ## [sasakilemonte](https://github.com/sasakilemonte)
 
