@@ -35,5 +35,5 @@ categories: events
 
 ## [tsuda_ahr](http://twitter.com/tsuda_ahr)
 * \[Excel\] リボンにカスタムボタンを追加する(http://ooltcloud.expressweb.jp/201507/article_24001733.html)
-* \[PS1\] Powershell で html の特殊文字をエスケープするる(http://ooltcloud.expressweb.jp/201507/article_24001927.html)
+* \[PS1\] Powershell で html の特殊文字をエスケープする(http://ooltcloud.expressweb.jp/201507/article_24001927.html)
 
