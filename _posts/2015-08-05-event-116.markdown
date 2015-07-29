@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #116"
+date: 2015-08-05 18:00:00 JST
+doorkeeper: https://great-h.doorkeeper.jp/events/29258
+facebook: https://www.facebook.com/events/106710336344371/
+togetter:
+place: movin_on
+categories: events
+---
+
+# 参加者
