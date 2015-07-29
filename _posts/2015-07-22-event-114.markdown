@@ -48,6 +48,10 @@ categories: events
 
 ## [kamera25](https://github.com/kamera25)
 
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1666)
+
+* [OSC Hiroshimaへの出展をした](http://www.ospn.jp/osc2015-hiroshima/)
+
 
 ## [tsuda_ahr](http://twitter.com/tsuda_ahr)
 
