@@ -14,6 +14,9 @@ categories: events
 
 ## [LirioY](http://twitter.com/LirioY)
 
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1670)
+
+* FuelPHPの本を読んだ
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
