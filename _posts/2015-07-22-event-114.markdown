@@ -20,6 +20,10 @@ categories: events
 
 ## [k2works](https://github.com/k2works)
 
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1668)
+
+* Railsアプリをいじった
+
 
 ## [Toro_kun](https://twitter.com/Toro_kun)
 
