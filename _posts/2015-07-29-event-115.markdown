@@ -31,3 +31,17 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1673)
+
+* JIRAで遊んだ
+* [stack対応をした](https://github.com/great-h/auto_participant/commit/cbcd8c2b1ada11b26a439d2a565c253c5b556c58)
+
+### わかったこと
+
+* JIRAとConflu連携よくできてる。
+* stack素晴らしい。Haskellの敷居が下がった
+
+### 次にしたいこと
+
+* Haskellが良いと叫びたい
