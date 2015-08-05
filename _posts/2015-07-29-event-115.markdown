@@ -23,6 +23,11 @@ categories: events
 
 ## [k2works](https://github.com/k2works)
 
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1675)
+
+* アジャイルサムライ読書会
+* JIRAで遊んだ
+
 
 ## [moriC](https://github.com/moriC)
 
