@@ -33,6 +33,10 @@ categories: events
 
 ## [nemumu](https://github.com/nemumu)
 
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1680)
+
+* CEDECの問題を解いた
+
 
 ## [eiel](http://eiel.info/)
 
