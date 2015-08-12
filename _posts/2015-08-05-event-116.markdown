@@ -26,6 +26,21 @@ categories: events
 
 ## [eiel](http://eiel.info/)
 
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1679)
+
+* ConfluenceとJIRAで遊んだ
+* Code for JapanのBrigadeミーティングに参加した
+* [夏休みの宿題をつくった](https://gist.github.com/eiel/3c146f085d590a9adc08)
+
+### わかったこと
+
+* Conflu便利。
+* Civic Hack Nightってのがいろんなところでおこなわれているらしい。
+* いつのまにかMonadがApplicativeになってた
+
+### 次にしたいこと
+
+* Haskellのライブラリのソースコードを積極的に読んでいきたい
 
 ## [Toro_kun](https://twitter.com/Toro_kun)
 
