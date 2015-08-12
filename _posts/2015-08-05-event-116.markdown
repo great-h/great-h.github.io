@@ -20,6 +20,11 @@ categories: events
 
 ## [mrt-k](https://github.com/mrt-k)
 
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1678)
+
+* CEDECの問題を解いた
+* [LT駆動開発17でXSSについて話した](https://mrtc0.github.io/2015/08/05/LT%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA17%E3%81%A7XSS%E3%81%AE%E9%98%B2%E5%BE%A1%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%A9%B1%E3%81%97%E3%81%9F/)
+
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
