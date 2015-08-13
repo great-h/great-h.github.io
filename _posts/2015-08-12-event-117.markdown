@@ -16,3 +16,10 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+
+## [tsuda_ahr](http://twitter.com/tsuda_ahr)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1686)
+
+* [\[VB.NET\] System.Text.Encoding.Default は使わないほうがよい](http://ooltcloud.expressweb.jp/201508/article_13200024.html)
