@@ -16,3 +16,17 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1684)
+
+* [純粋関数メタプログラミングの日のイベントページをつくった](https://www.facebook.com/events/872093576198340/)
+* [docker-machineで遊んだ](http://qiita.com/eielh/items/428e24022955b0be8616)
+
+### わかったこと
+
+* docker machineすごくよかった。もっとはやく使うべきだった。
+* docker machineからのdocker composeはとてもよい。
+
+### 次にしたいこと
+
+* dockerで全部運用してレンサバをひとつ解約したい
