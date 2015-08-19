@@ -34,6 +34,7 @@ categories: events
 ### [やったこと](https://github.com/great-h/great-h.github.io/issues/1681)
 
 * UEFIについて調べた
+* [\[XAML\]\[WPF\] DataGrid のフォーマットの調整](http://ooltcloud.expressweb.jp/201508/article_05165936.html)
 
 
 ## [nemumu](https://github.com/nemumu)

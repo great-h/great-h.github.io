@@ -17,6 +17,7 @@ categories: events
 
 ## [eiel](http://eiel.info/)
 
+
 ### [やったこと](https://github.com/great-h/great-h.github.io/issues/1684)
 
 * [純粋関数メタプログラミングの日のイベントページをつくった](https://www.facebook.com/events/872093576198340/)
@@ -30,3 +31,10 @@ categories: events
 ### 次にしたいこと
 
 * dockerで全部運用してレンサバをひとつ解約したい
+
+
+## [tsuda_ahr](http://twitter.com/tsuda_ahr)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1686)
+
+* [\[VB.NET\] System.Text.Encoding.Default は使わないほうがよい](http://ooltcloud.expressweb.jp/201508/article_13200024.html)
