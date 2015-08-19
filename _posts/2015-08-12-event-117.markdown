@@ -11,6 +11,12 @@ categories: events
 
 # 参加者
 
+## [tkt](https://github.com/takata)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1687)
+
+* [OSCのポスターを印刷する](http://www.ospn.jp/osc2015-hiroshima/modules/article/article.php?articleid=4)
+
 
 ## [Toro_kun](https://twitter.com/Toro_kun)
 
