@@ -22,3 +22,20 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1691)
+
+* Jira Agileをした
+* [nodejsなアプリをherokuにデプロイするときに追加処理をする方法を調べた](https://github.com/great-h/great-h.github.io/issues/1691#issuecomment-132914975)
+* [GAE/Goでhttp.Clintでタイムアウトする時間を変更する方法を調べた](http://qiita.com/eielh/items/2e5fabb707355253b187)
+
+### わかったこと
+
+* GAE/Goはうまく一部のライブラリをさしかえられてるっぽいようだ
+* Goのメソッドの仕組みは型クラスの一歩手前みたいな感じで親しみやすかった
+* Goはインターフェイスは必要なメソッドがあれば勝手にimplementされるようだ
+* herokuがgithubインテグレーションできるようになってた
+
+### 次にしたいこと
+
+* Datastoreのことをもうちょっと調べておきたい
