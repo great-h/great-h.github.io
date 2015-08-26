@@ -27,6 +27,9 @@ categories: events
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1694)
+
+* OSCの準備をおこなった
 
 ## [Toro_kun](https://twitter.com/Toro_kun)
 
