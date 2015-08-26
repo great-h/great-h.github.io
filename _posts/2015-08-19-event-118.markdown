@@ -11,6 +11,12 @@ categories: events
 
 # 参加者
 
+## [kamera25](https://github.com/kamera25)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1693)
+
+* [ゲーム制作関連イベントを詳解する記事を書いた](http://hiroshima-unity.jimdo.com/2015/08/19/イベントお知らせ-中国地方でゲームイベントが盛り上がってます/)
+
 
 ## [k2works](https://github.com/k2works)
 
