@@ -46,6 +46,8 @@
 * [広島電子工作娯楽部(仮称)](https://www.facebook.com/groups/359376677490481/)<br>電子工作が趣味の人たちの集りです。
 * [JAWS-UG 広島](http://jaws-ug.jp/bc/hiroshima/)<br>AWSのユーザコミュニティで3ヶ月に1度程度勉強会が開催されています。
 * [JSers' Cafe ZERO](http://jczero.doorkeeper.jp)<br>Cafeに集まり、JavaScriptに関する談義をしたり、もくもくと作業したりしています。
+* [MT Hiroshima](https://www.mt-hiroshima.net) Movable Typeのユーザーコミュニティで、MT day in Hiroshimaと題したイベントヲ定期的に行っています。
+* [Hiroshima Motion Control Network](https://www.facebook.com/HiroshimaMotionControlNetwork) 通称 HMCN。Kinectなど安価に入手可能なセンサー＆デバイスに関するオープンなエンジニアリングコミュニティです。
 
 
 他にも 広島のITコミュニティがありましたら、[Pull Request](https://github.com/great-h/great-h.github.io/pulls) をお願いします。
