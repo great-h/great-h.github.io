@@ -4,7 +4,7 @@ title: "すごい広島 #119"
 date: 2015-08-26 18:00:00 JST
 doorkeeper: https://great-h.doorkeeper.jp/events/30188
 facebook: https://www.facebook.com/events/684113335022004/
-togetter:
+togetter: http://togetter.com/li/865732
 place: movin_on
 categories: events
 ---
