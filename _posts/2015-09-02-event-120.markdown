@@ -4,7 +4,7 @@ title: "すごい広島 #120"
 date: 2015-09-02 18:00:00 JST
 doorkeeper: https://great-h.doorkeeper.jp/events/30647
 facebook: https://www.facebook.com/events/1668975249982855/
-togetter:
+togetter: http://togetter.com/li/868900
 place: movin_on
 categories: events
 ---
