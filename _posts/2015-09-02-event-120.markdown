@@ -12,6 +12,13 @@ categories: events
 # 参加者
 
 
+## [k2works](https://github.com/k2works)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1700)
+
+* Rubyの例外処理を勉強し直した
+
+
 ## [mu2in](http://twitter.com/mu2in)
 
 
