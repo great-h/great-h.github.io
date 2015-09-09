@@ -28,6 +28,11 @@ categories: events
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1703)
+
+* OSC広島の準備をした
+
+
 ## [tsuda_ahr](http://twitter.com/tsuda_ahr)
 
 
