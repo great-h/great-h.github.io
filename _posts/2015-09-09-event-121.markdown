@@ -14,6 +14,10 @@ categories: events
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1707)
+
+* 広島IT勉強会紹介紙の作成
+* 発表や展示するネタをそろそろ考える
 
 ## [k2works](https://github.com/k2works)
 
