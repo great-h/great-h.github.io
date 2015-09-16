@@ -22,3 +22,15 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1705)
+
+* パークマップ作戦会議をした
+
+### わかったこと
+
+* Go言語難しい
+
+### 次にしたいこと
+
+* パークマップsakanaのリリース
