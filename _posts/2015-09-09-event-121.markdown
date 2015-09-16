@@ -20,6 +20,13 @@ categories: events
 
 ## [Uemmra3](https://github.com/Uemmra3)
 
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1704)
+
+* わんくま大阪の発表資料作り
+* ブログを書く(8月のMDN翻訳状況)
+* FirefoxOS 勉強会in米子の構想
+* OSC広島のFirefoxOSコミュニティ紹介文確認
+
 
 ## [eiel](http://eiel.info/)
 
