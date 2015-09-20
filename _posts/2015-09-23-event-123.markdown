@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #123"
+date: 2015-09-23 18:00:00 JST
+doorkeeper: https://great-h.doorkeeper.jp/events/31807
+facebook: https://www.facebook.com/events/1386133168360111/
+togetter:
+place: movin_on
+categories: events
+---
+
+# 参加者
