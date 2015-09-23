@@ -16,3 +16,8 @@ categories: events
 
 
 ## [mu2in](http://twitter.com/mu2in)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1708)
+
+* アジャイサムライを読む
+* ドメイン駆動開発の本を読む
