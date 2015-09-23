@@ -21,6 +21,11 @@ categories: events
 
 ## [Uemmra3](https://github.com/Uemmra3)
 
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1709)
+
+* 中国FirefoxOS3rdのブログをかく
+* わんくま+関西インフラのブログをかく
+
 
 ## [mu2in](http://twitter.com/mu2in)
 
