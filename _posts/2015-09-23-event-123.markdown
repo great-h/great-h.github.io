@@ -23,5 +23,9 @@ categories: events
 
 ## [mu2in](http://twitter.com/mu2in)
 
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1711)
+
+* [iPadの開封式](https://twitter.com/mu2in/status/646636422208684038)
+
 
 ## [eiel](http://eiel.info/)
