@@ -37,3 +37,16 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1713)
+
+* [パークマップ sakana](https://github.com/parkmap-h/sakana/)の開発を進めた
+
+### わかったこと
+
+* ES6にはマッチさせながら代入ができる
+* ES6にはtype hint がある
+
+### 次にしたいこと
+
+* パークマップ sakanaでマップを表示したい
