@@ -16,3 +16,17 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1714)
+
+* [アジャイルサムライ読書会に参加した](https://github.com/agile-samurai-ja/support/wiki/Readingagilesamuraiinhiroshima20150930)
+* 実践ドメイン駆動のホワイトボードの時間をした
+* パークマップの週次レビューした
+
+### わかったこと
+
+* アジャイルサムライはときどき読み直すべきだ
+
+### 次にしたいこと
+
+* 実践ドメイン駆動ワークショップ
