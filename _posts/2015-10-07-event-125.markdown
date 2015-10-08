@@ -16,3 +16,18 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1717)
+
+* パークマップの週次レビューした。ふりかえり情報が外部に共有できてない。
+* 510botの調子がわるいのでなおした。tokenが古いバージョンをつかってたので新しくした。
+* [パークマップを例に実践DDD](https://twitter.com/eielh/status/651732497206652928)
+
+### わかったこと
+
+* レビューむずかしい
+* slackをhubotするとき slackbot という名前がつかえなくなってるようだ
+
+### 次にしたいこと
+
+* JSONライブラリで遊びたい
