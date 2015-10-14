@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #127"
+date: 2015-10-21 18:00:00 JST
+doorkeeper: https://great-h.doorkeeper.jp/events/33208
+facebook: https://www.facebook.com/events/323207007803216/
+togetter:
+place: movin_on
+categories: events
+---
+
+# 参加者
