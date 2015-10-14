@@ -11,6 +11,13 @@ categories: events
 
 # 参加者
 
+## [tsuda-a](https://github.com/tsuda-a)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1721)
+
+* VHDLでシフト演算をする
+
+
 ## [mu2in](https://github.com/mu2in)
 
 ### [やったこと](https://github.com/great-h/great-h.github.io/issues/1719)
