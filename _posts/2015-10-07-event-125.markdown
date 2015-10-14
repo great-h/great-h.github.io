@@ -11,6 +11,12 @@ categories: events
 
 # 参加者
 
+## [moriC](https://github.com/moriC)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1718)
+
+* 「関数型プログラミングに目覚めた! IQ145の女子高校生の先輩から受けた特訓5日間」の4日目を読み進める
+
 
 ## [LirioY](http://twitter.com/LirioY)
 
