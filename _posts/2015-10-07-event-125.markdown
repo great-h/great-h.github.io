@@ -11,6 +11,13 @@ categories: events
 
 # 参加者
 
+## [mu2in](https://github.com/mu2in)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1719)
+
+* カープの応援をした
+
+
 ## [moriC](https://github.com/moriC)
 
 ### [やったこと](https://github.com/great-h/great-h.github.io/issues/1718)
