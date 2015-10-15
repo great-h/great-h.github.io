@@ -4,7 +4,7 @@ title: "すごい広島 #126"
 date: 2015-10-14 18:00:00 JST
 doorkeeper: https://great-h.doorkeeper.jp/events/32730
 facebook: https://www.facebook.com/events/979066742158525/
-togetter:
+togetter: http://togetter.com/li/887093
 place: movin_on
 categories: events
 ---
