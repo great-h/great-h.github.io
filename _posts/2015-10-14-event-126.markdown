@@ -11,6 +11,14 @@ categories: events
 
 # 参加者
 
+
+## [mu2in](https://github.com/mu2in)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1724)
+
+* PCがないので自作Chrome拡張の構想を練る
+
+
 ## [eiel](http://eiel.info/)
 
 ### [やったこと](https://github.com/great-h/great-h.github.io/issues/1723)
