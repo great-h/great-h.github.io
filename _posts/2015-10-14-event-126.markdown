@@ -11,6 +11,12 @@ categories: events
 
 # 参加者
 
+## [k2work](https://github.com/k2works)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1725)
+
+* アジャイルサムライ読書会に参加する
+
 
 ## [mu2in](https://github.com/mu2in)
 
