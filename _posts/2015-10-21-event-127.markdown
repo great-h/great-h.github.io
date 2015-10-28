@@ -18,3 +18,17 @@ categories: events
 * 技術書を読む(熊とワルツを)
 * ブログを書く(熊とワルツを)
 * CoderDojo大山/米子立ち上げ構想
+
+## [eiel](http://eiel.info)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1728)
+
+* すごい広島の参加者取得ツールをなおした
+
+### わかったこと
+
+* stackのおかげで修正はとてもらくちんだった
+
+### 次にしたいこと
+
+* HaskellでWebAPIで作成したい
