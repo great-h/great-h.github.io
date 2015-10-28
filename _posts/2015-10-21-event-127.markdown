@@ -32,3 +32,9 @@ categories: events
 ### 次にしたいこと
 
 * HaskellでWebAPIで作成したい
+
+## [mu2in](https://github.com/mu2in)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1729)
+
+* パークマップのタスクを消化
