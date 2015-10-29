@@ -20,5 +20,18 @@ categories: events
 
 ## [eiel](http://eiel.info/)
 
+### やったこと
+
+* [パークマップ](http://parkmap.eiel.info)の週次レビュー
+* [実践DDD](https://www.amazon.co.jp/dp/B00UX9VJGW?tag=eiel-22&camp=1027&creative=7407&linkCode=as4&creativeASIN=B00UX9VJGW&adid=1V8569K45APFR5TDXANT&)読書会をした
+* [Google Container Registryで遊んだ](http://qiita.com/eielh/items/11c8f212612169ac5ee4)
+
+### わかったこと
+
+* Google Container Registryはそんなに難しくないのでprivateなイメージは積極的においていく
+
+### 次にしたいこと
+
+* Google App Engine Managed VMs を試したい
 
 ## [isabisi1484](http://twitter.com/isabisi1484)
