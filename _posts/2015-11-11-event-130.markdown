@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #130"
+date: 2015-11-11 18:00:00 JST
+doorkeeper: https://great-h.doorkeeper.jp/events/34219
+facebook: https://www.facebook.com/events/873842312728567/
+togetter:
+place: movin_on
+categories: events
+---
+
+# 参加者
