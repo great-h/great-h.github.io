@@ -40,3 +40,17 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1735)
+
+* オープンセミナー広島の準備をすすめた
+* [Scala.jsで遊んだ](https://gist.github.com/eiel/45cf223a33d620d6a5c2)
+
+### わかったこと
+
+* Scala.js はわりと自然にかける。ただし、Javaのライブラリに依存しているものはつかえないようにみえた(よくわからん
+* HaskellのAPIサーバと対話させようとしたらヘッダつけわすれた。ビルドが長いのでCI環境をつくろう
+
+### 次にしたいこと
+
+* Scala.jsとHaskellでウェブサイトをつくる
