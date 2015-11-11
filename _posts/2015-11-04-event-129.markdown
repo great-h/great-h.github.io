@@ -20,6 +20,11 @@ categories: events
 
 ## [mu2in](http://twitter.com/mu2in)
 
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1736)
+
+* いきステにいく
+* JavaScriptを教える
+
 
 ## [shoji-k](https://github.com/shoji-k)
 
