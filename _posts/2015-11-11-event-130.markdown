@@ -36,5 +36,9 @@ categories: events
 
 ## [mu2in](http://twitter.com/mu2in)
 
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1742)
+
+* パークマップのスプリントミーティングに参加する
+
 
 ## [andoromeda](https://github.com/andoromeda)
