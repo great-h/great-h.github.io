@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #132"
+date: 2015-11-25 18:00:00 JST
+doorkeeper: https://great-h.doorkeeper.jp/events/34899
+facebook: https://www.facebook.com/events/433930056812285/
+togetter:
+place: movin_on
+categories: events
+---
+
+# 参加者
