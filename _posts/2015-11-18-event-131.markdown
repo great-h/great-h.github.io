@@ -16,3 +16,17 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1743)
+
+* パークマップのスプリントミーティング
+* iOS/OSXのWebsocketライブラリ[starsscream](https://github.com/daltoniam/starscream)を試した
+
+### わかったこと
+
+* インスタンスを維持されるようにちゃんとインスタンス変数に保持しないといけない罠にかかった
+* starsscream自体はとても簡単につかえた。しかし、swiftで実装されておりObj-Cでの使い方がわからず。
+
+### 次にしたいこと
+
+* SpriteKitで遊ぶ
