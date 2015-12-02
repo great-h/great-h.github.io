@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #134"
+date: 2015-12-09 18:00:00 JST
+doorkeeper: https://great-h.doorkeeper.jp/events/35735
+facebook: https://www.facebook.com/events/475208682665150/
+togetter:
+place: movin_on
+categories: events
+---
+
+# 参加者
