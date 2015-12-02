@@ -22,3 +22,15 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1745)
+
+* [Sprite Kit を勉強しはじめた](https://developer.apple.com/library/ios/documentation/GraphicsAnimation/Conceptual/SpriteKit_PG/Introduction/Introduction.html)
+
+### わかったこと
+
+* SpriteKitのスプライトはFlashのMovieClipみたいなもののようだ
+
+### 次にしたいこと
+
+* Sprite Kitをつかってなにかをつくる
