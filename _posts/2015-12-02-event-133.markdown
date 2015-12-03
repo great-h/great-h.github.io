@@ -4,7 +4,7 @@ title: "すごい広島 #133"
 date: 2015-12-02 18:00:00 JST
 doorkeeper: https://great-h.doorkeeper.jp/events/35286
 facebook: https://www.facebook.com/events/904514126250487/
-togetter:
+togetter: http://togetter.com/li/908010m
 place: movin_on
 categories: events
 ---
