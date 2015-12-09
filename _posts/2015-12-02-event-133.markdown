@@ -11,6 +11,12 @@ categories: events
 
 # 参加者
 
+## [eiel](http://eiel.info)
+
+### やったこと
+
+* パークマップのスプリングミーティング
+* [A8D:3の準備](https://www.facebook.com/events/1523029791352319/)
 
 ## [k2works](https://github.com/k2works)
 
