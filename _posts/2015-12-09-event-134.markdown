@@ -10,3 +10,17 @@ categories: events
 ---
 
 # 参加者
+
+## [eiel](http://eiel.info/)
+
+### やったこと
+
+* SpriteKitで遊んだ
+
+### わかったこと
+
+* SpriteKitおもったほど難しくない？
+
+### 次にしたいこと
+
+* Sprite Kitで弾を打てるようにしたい
