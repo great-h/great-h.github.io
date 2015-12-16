@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #136"
+date: 2015-12-23 18:00:00 JST
+doorkeeper: https://great-h.doorkeeper.jp/events/36337
+facebook: https://www.facebook.com/events/1236483826365380/
+togetter:
+place: movin_on
+categories: events
+---
+
+# 参加者
