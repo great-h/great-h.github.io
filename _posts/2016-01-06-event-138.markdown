@@ -1,0 +1,14 @@
+---
+layout: event
+title: "すごい広島 #138"
+date: 2016-01-06 18:00:00 JST
+doorkeeper: https://great-h.doorkeeper.jp/events/36186
+facebook: https://www.facebook.com/events/774666999305725/
+togetter:
+place: movin_on
+categories: events
+---
+
+すごい広島 #138 with すごいUnity(もくもく会)
+
+# 参加者
