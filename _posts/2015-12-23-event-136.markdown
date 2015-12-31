@@ -22,3 +22,16 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+### やったこと
+
+* [ユーザーストーリーマッピング](https://www.amazon.co.jp/dp/4873117321?tag=eiel-22&camp=1027&creative=7407&linkCode=as4&creativeASIN=4873117321&adid=1ADTZP6NVA590F3CFMPC&)の0章を読んだ
+
+### わかったこと
+
+* みんなの認識を合わせることが重要
+* みんなで集まって考えたことを思い出せるきっかっけとしてドキュメント
+
+### 次にしたいこと
+
+* ユーザーストーリマッピングを読み終える
