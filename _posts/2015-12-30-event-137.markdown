@@ -19,3 +19,17 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1750)
+
+* [akka-httpの雛形をおいた](https://github.com/eiel/akka-http-hello) -> mrtk0くんが書いてくれたものだけど
+  * [うごいている](https://akka-http-hello-eiel.herokuapp.com)
+
+### わかったこと
+
+* `proect/build.properties` でsbtのバージョン指定の必要がある
+
+### 次にしたいこと
+
+* build.propertiesについて調べる
+* sbt run のデフォルトの動作について調べる
