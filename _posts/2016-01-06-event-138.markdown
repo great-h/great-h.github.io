@@ -13,6 +13,15 @@ categories: events
 
 # 参加者
 
+## [eiel](http://eiel.info)
+
+* k2worksさんにJavaScriptのアドバイスをした
+* 広島RailsGirlsへRailsのアドバイスをした
+* パークマップスプリントミーティングした
+  * 圧倒的成長
+  * モダンな手法が扱える人材(システムが作れる)育成
+  * 新しい技術を試す
+
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
