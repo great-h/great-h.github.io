@@ -48,6 +48,7 @@
 * [JSers' Cafe ZERO](http://jczero.doorkeeper.jp)<br>Cafeに集まり、JavaScriptに関する談義をしたり、もくもくと作業したりしています。
 * [MT Hiroshima](https://www.mt-hiroshima.net) Movable Typeのユーザーコミュニティで、MT day in Hiroshimaと題したイベントヲ定期的に行っています。
 * [Hiroshima Motion Control Network](https://www.facebook.com/HiroshimaMotionControlNetwork) 通称 HMCN。Kinectなど安価に入手可能なセンサー＆デバイスに関するオープンなエンジニアリングコミュニティです。
+* [Hiroshima Student Community](https://hsc15.doorkeeper.jp/) 広島の学生が主催で様々なイベントを実施するコミュニティです。学生と社会人が交流できる場を多く作ることを目的としています。
 
 
 他にも 広島のITコミュニティがありましたら、[Pull Request](https://github.com/great-h/great-h.github.io/pulls) をお願いします。
