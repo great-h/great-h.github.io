@@ -4,7 +4,7 @@ title: "すごい広島 #139"
 date: 2016-01-13 18:00:00 JST
 doorkeeper: https://great-h.doorkeeper.jp/events/37169
 facebook: https://www.facebook.com/events/996693000402172/
-togetter: 
+togetter: http://togetter.com/li/925485
 place: movin_on
 categories: events
 ---
