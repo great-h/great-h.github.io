@@ -16,3 +16,5 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+* リアクティブとはなにか話した
