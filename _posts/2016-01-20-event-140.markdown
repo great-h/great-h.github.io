@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #140"
+date: 2016-01-20 18:00:00 JST
+doorkeeper: https://great-h.doorkeeper.jp/events/37544
+facebook: https://www.facebook.com/events/936506573106431/
+togetter:
+place: movin_on
+categories: events
+---
+
+# 参加者
