@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #141"
+date: 2016-01-27 18:00:00 JST
+doorkeeper: https://great-h.doorkeeper.jp/events/37995
+facebook: https://www.facebook.com/events/483833665075090/
+togetter:
+place: movin_on
+categories: events
+---
+
+# 参加者
