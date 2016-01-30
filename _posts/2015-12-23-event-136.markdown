@@ -20,6 +20,11 @@ categories: events
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1748)
+
+* クリスマスケーキを食べる
+* BIND の nanny を試す
+
 
 ## [eiel](http://eiel.info/)
 
