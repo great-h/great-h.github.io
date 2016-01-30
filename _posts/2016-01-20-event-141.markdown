@@ -23,5 +23,9 @@ categories: events
 
 ## [Nyoho](http://nyoho.jp/)
 
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1758)
+
+* nginx + rack アプリの設定で css が異様の遅いのを調べた
+
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
