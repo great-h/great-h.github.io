@@ -20,6 +20,11 @@ categories: events
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1760)
+
+* まめまき
+* LT駆動の申し込み
+
 
 ## [eiel](http://eiel.info/)
 
