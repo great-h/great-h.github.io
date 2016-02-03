@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #143"
+date: 2016-02-10 18:00:00 JST
+doorkeeper: https://great-h.doorkeeper.jp/events/38809
+facebook: https://www.facebook.com/events/466515480222755/
+togetter:
+place: movin_on
+categories: events
+---
+
+# 参加者
