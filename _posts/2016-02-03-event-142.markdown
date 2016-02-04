@@ -4,7 +4,7 @@ title: "すごい広島 #142"
 date: 2016-02-03 18:00:00 JST
 doorkeeper: https://great-h.doorkeeper.jp/events/38386
 facebook: https://www.facebook.com/events/960142514067373/
-togetter:
+togetter: http://togetter.com/li/934271
 place: movin_on
 categories: events
 ---
