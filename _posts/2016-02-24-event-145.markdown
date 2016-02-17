@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #145"
+date: 2016-02-24 18:00:00 JST
+doorkeeper: https://great-h.doorkeeper.jp/events/39549
+facebook: https://www.facebook.com/events/180689425636341/
+togetter:
+place: movin_on
+categories: events
+---
+
+# 参加者
