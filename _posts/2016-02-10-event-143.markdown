@@ -12,6 +12,22 @@ categories: events
 # 参加者
 
 
+## [eiel](http://eiel.info/)
+
+### やったこと
+
+* OSH関係のブログを書いた
+  * [関数型を現場に持ち込むことはモダンなのか](https://github.com/great-h/great-h.github.io/issues/1761)
+  * [ユーザーストーリーマッピングのここが面白いという話をした](http://blog.eiel.info/blog/2016/02/10/user-story-mapping/)
+
+### わかったこと
+
+* 関数型の話をするとあれるらしい。
+
+### 次にしたいこと
+
+* ユーザーストーリーマッピングを読んだことを役立てる
+
 ## [mu2in](http://twitter.com/mu2in)
 
 
