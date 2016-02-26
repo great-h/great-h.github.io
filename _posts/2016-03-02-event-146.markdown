@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #146"
+date: 2016-03-02 18:00:00 JST
+doorkeeper: https://great-h.doorkeeper.jp/events/40072
+facebook: https://www.facebook.com/events/1131545726855443/
+togetter:
+place: "city_hiroshima_m-plaza-meeting_c"
+categories: events
+---
+
+# 参加者
