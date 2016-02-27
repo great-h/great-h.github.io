@@ -60,7 +60,7 @@ macの初期設定などをしました
 TimeFlies ですが、完成はしなかったので宣伝記事を書いておきました。
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/563)
-* [TimeFlies なるウェブサイトを作成中 - ワタタツの日記!(2014-01-22)](http://kita.dyndns.org/diary/?date=20140122#p01)
+* [TimeFlies なるウェブサイトを作成中 - ワタタツの日記!(2014-01-22)](http://nyoho.jp/diary/?date=20140122#p01)
 
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)

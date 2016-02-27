@@ -107,7 +107,7 @@
 * [nishimotz](https://github.com/nishimotz)
   * [nishimotzの日記](http://d.nishimotz.com)
 * [Nyoho](http://nyoho.jp/)
-  * [ワタタツの日記!](http://kita.dyndns.org/diary/)
+  * [ワタタツの日記!](http://nyoho.jp/diary/)
 * [@ogatomo](https://twitter.com/ogatomo)
   * [Ogalog](http://blog.ogatomo.com/)
 * [@pecosantoyobe](https://twitter.com/pecosantoyobe)
