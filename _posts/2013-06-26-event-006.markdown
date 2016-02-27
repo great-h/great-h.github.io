@@ -20,8 +20,8 @@ categories: events
 
 ## [@NeXTSTEP2OSX](https://twitter.com/NeXTSTEP2OSX)
 
-* [すごい広島 #6 にエア参加した - ワタタツの日記!(2013-06-26)](http://kita.dyndns.org/diary/?date=20130626#p02)
-* [docker に関する誰得系情報 - ワタタツの日記!(2013-06-26)](http://kita.dyndns.org/diary/?date=20130626#p01)
+* [すごい広島 #6 にエア参加した - ワタタツの日記!(2013-06-26)](http://nyoho.jp/diary/?date=20130626#p02)
+* [docker に関する誰得系情報 - ワタタツの日記!(2013-06-26)](http://nyoho.jp/diary/?date=20130626#p01)
 
 ## [@eielh](http://twitter.com/eielh)
 
