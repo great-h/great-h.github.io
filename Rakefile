@@ -25,7 +25,7 @@ def front_formatter(datetime, event_no)
     doorkeeper: nil,
     facebook: nil,
     togetter: nil,
-    place: 'movin_on',
+    place: 'shakehands',
     categories: 'events',
   }.stringify_keys.to_yaml
 end

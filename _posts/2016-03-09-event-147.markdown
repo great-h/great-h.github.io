@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #147"
+date: 2016-03-09 18:00:00 JST
+doorkeeper: https://great-h.doorkeeper.jp/events/40451
+facebook: https://www.facebook.com/events/1685027771750734/
+togetter:
+place: shakehands
+categories: events
+---
+
+# 参加者

@@ -213,6 +213,10 @@ class Place
         postcode: "7300021",
         address: "広島県広島市中区胡町4番25号 7F",
         name: "Movin'on"),
+      "shakehands" => new(
+        postcode: "7300031",
+        address: "広島県広島市中区紙屋町1-4-6 アウルスタイル紙屋町 3F",
+        name: "ShakeHands"),
       "internet" => new(
         name: "インターネットのどこか")
     }
