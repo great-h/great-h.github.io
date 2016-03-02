@@ -31,3 +31,17 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+### やったこと
+
+* MOVIN'ONにありがとうをした
+* [swagger](http://swagger.io/)でAPIドキュメントをかこうとした
+
+### わかったこと
+
+* swaggerはyamlをかいてAPIドキュメントが生成できる
+* しかもAPIをたたけるらしい
+
+### 次にしたいこと
+
+* swaggerをつかってどこかのAPIのドキュメントをかく
