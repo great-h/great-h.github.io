@@ -69,7 +69,7 @@ ios版はてなブログアプリを触ってみました
 その後、Homebrew の Emacs 用 formula も作れたのでよかったです。
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/513)
-* [あけまおめで!!!, Homebrew の my formulae レポジトリを作った - すごい広島 #33 - 元日にエア参加にて レポいじり - ワタタツの日記!(2014-01-01)](http://kita.dyndns.org/diary/?date=20140101)
+* [あけまおめで!!!, Homebrew の my formulae レポジトリを作った - すごい広島 #33 - 元日にエア参加にて レポいじり - ワタタツの日記!(2014-01-01)](http://nyoho.jp/diary/?date=20140101)
 
 
 ## [tsuda_ahr](http://twitter.com/tsuda_ahr)

@@ -50,7 +50,7 @@ OSCの展示中に行います。
 『YouTube動画の再生回数がわし…気になります!! (きゅふぃーん』という LT をしました。
 LT のあとは息子を連れて市内でしばらく遊びました。主にエディオン本店です。
 
-* 日記: [OSC 2013 Hiroshima に参加してきた - ワタタツの日記!(2013-10-06)](http://kita.dyndns.org/diary/?date=20131006#p01)
+* 日記: [OSC 2013 Hiroshima に参加してきた - ワタタツの日記!(2013-10-06)](http://nyoho.jp/diary/?date=20131006#p01)
 * スライド: [「YouTube動画の再生回数がわし…気になります!! (きゅふぃーん @OSC 2013 Hiroshima」(Slideshare)](http://www.slideshare.net/YukinoriKitadai/osc-2013-hiroshima-sigh-say-soon-share-version)
 * 息子と市内でしばらく遊ぶという[やること宣言 (Issue #319)](https://github.com/great-h/great-h.github.io/issues/319)
 * 成果物: [Sigh! Say! Soon!](http://sigh-say-soon.herokuapp.com) (Heroku上のRailsアプリ)
