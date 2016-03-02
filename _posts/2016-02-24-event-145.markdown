@@ -14,6 +14,18 @@ categories: events
 
 ## [Nyoho](http://nyoho.jp/)
 
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1762)
+
+* react-rails を学んだ
+  * [react-railsを使ってReactのTutorialをやってみる - Qiita](http://qiita.com/joe-re/items/96f12dda4a62470d1d7c) に沿って実習を行った。
+  * Rails で Rest な API をざくざく作れるというのを初めて知って勉強になった。(そこかよ! react関係ないじゃろ!)
+  * この実習だけではReactのことはあまりわからなかったのでまだまだ勉強が必要だと思った。
+
+* [Kituraのブログポスト](https://developer.ibm.com/swift/2016/02/22/building-end-end-cloud-apps-using-swift-kitura/)は読んだ。
+  * 眺めただけである。次は関連したものを作りたい。
+  * とりあえずこれは本当にサーバサイドだけを作ってあることがわかった。
+    * http://todobackend.com/client/index.html?ここにローカルサーバを渡す と書けば、さくっとサーバサイドのテストが出来るという todobackend.com というのが用意されており、いろんな他の言語の他のフレームワークがこのために書かれている。とても有用なプロジェクトだと思った。
+
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
