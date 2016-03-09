@@ -59,6 +59,10 @@ categories: events
 
 ## [takatayoshitake](http://twitter.com/takatayoshitake)
 
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1773)
+
+* Hiroshima Ruby Conferenceの準備
+
 
 ## [Naomi Yoriji](https://www.facebook.com/app_scoped_user_id/496792670482609/)
 
