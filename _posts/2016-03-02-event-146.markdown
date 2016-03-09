@@ -45,6 +45,11 @@ categories: events
 
 ## [mando](http://twitter.com/m_ando_japan)
 
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1768)
+
+* 参加者にあいさつする
+* IoTLT広島の準備
+
 
 ## [tsuda_ahr](http://twitter.com/tsuda_ahr)
 
