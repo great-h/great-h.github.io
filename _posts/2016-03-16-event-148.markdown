@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #148"
+date: 2016-03-16 18:00:00 JST
+doorkeeper: https://great-h.doorkeeper.jp/events/40912
+facebook: https://www.facebook.com/events/963870487023931/
+togetter:
+place: shakehands
+categories: events
+---
+
+# 参加者
