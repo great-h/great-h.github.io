@@ -20,6 +20,22 @@ categories: events
 
 ## [Nyoho](http://nyoho.jp/)
 
+### やったこと
+
+* try! Swift の[ハッシュタグ #tryswiftconf](https://twitter.com/search?q=%23tryswiftconf) を羨ましそうに追った
+* Swiftのわしわしフレームワークを作り始めた。そのために https://robots.thoughtbot.com/creating-your-first-ios-framework にしたがって実習を行った。
+* スライドは出来なかった。
+ 
+### わかったこと
+
+* try! Swift conference はとても有用なカンファレンスだとわかった。ビデオ販売が望まれる。
+* Swiftのフレームワークを作るのは簡単で、そして楽しそうだとわかった。
+
+### 次にしたいこと
+
+* 来週だとスライド作りは遅いので、**スライドは来週にスライドしない**。
+* 次はわしわしフレームワークをちゃんと有用になるようにしたい。
+
 
 ## [k2works](https://github.com/k2works)
 
