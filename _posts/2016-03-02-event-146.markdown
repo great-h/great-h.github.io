@@ -20,6 +20,22 @@ categories: events
 
 ## [Nyoho](http://nyoho.jp/)
 
+### やったこと
+
+* try! Swift の[ハッシュタグ #tryswiftconf](https://twitter.com/search?q=%23tryswiftconf) を羨ましそうに追った
+* Swiftのわしわしフレームワークを作り始めた。そのために https://robots.thoughtbot.com/creating-your-first-ios-framework にしたがって実習を行った。
+* スライドは出来なかった。
+ 
+### わかったこと
+
+* try! Swift conference はとても有用なカンファレンスだとわかった。ビデオ販売が望まれる。
+* Swiftのフレームワークを作るのは簡単で、そして楽しそうだとわかった。
+
+### 次にしたいこと
+
+* 来週だとスライド作りは遅いので、**スライドは来週にスライドしない**。
+* 次はわしわしフレームワークをちゃんと有用になるようにしたい。
+
 
 ## [k2works](https://github.com/k2works)
 
@@ -43,3 +59,24 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+### やったこと
+
+* OSC広島のミーティングに参加した
+* [swagger](http://swagger.io/)で遊んだ
+  * かいたyaml https://gist.github.com/eiel/659c9f4e5c9447cf3354
+  * jsonに変換したもの https://gist.github.com/eiel/862b914b1c2bde21282f
+
+### わかったこと
+
+* swaggerを使うとAPIドキュメントやサーバサイドのテンプレート、クライアントコードを生成できる(レスポンス内容の確認もできそう)
+* [swagger-editor](http://editor.swagger.io/#/)をつかってyamlをかくと、リアルタイムにAPIドキュメントが記述される
+  * リクエストに必要なパラメータを入力するとリクエストすることもできる
+  * さまざまなサーバコードやクライアントコードの雛形が生成できる
+* 作成したyamlからjsonに変換し、[swagger-ui](http://petstore.swagger.io/#!/self/get_self_home)にわたしてやると同様に実際にリクエスト可能なドキュメントが表示される。
+  * curlでの実行方法も表示される
+
+### 次にしたいこと
+
+* レスポンスのチェックの方法をしらべる
+* コード生成のカスタマイズ
