@@ -14,6 +14,18 @@ categories: events
 
 ## [eiel](http://eiel.info/)
 
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1781)
+
+* [image mapのSwagger specをかいた](https://gist.github.com/eiel/87caeace3e4250af94b2)
+
+### わかったこと
+
+* ドキュメントは自動生成できるけど、コードジェネレーターは結構まだまだなので自分でかいたほうが良さそう
+
+### 次にしたいこと
+
+* Swagger specを活用してAPIサービスを効率よくつくりたい
+
 
 ## [k2works](https://github.com/k2works)
 
