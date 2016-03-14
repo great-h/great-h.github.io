@@ -25,3 +25,20 @@ categories: events
 
 
 ## [Uemmra3](https://github.com/Uemmra3)
+
+
+## [furu](https://github.com/furu)
+
+### やったこと
+
+* 48時間でSchemeを書こうの練習問題2.5を解いて答え合わせをした
+* [コード](https://github.com/furu/scheme-in-48h/compare/dffa5400cc7d9351f1693737a5a7dff84ed3f55d...edf06f63d534c05910ee67556c21f519d05f34d3)
+
+### わかったこと
+
+* コンビネータ `<|>` は、入力が消費されることなくパースに失敗した場合だけ次のパーサーを試す
+* 新しく `notFollowedBy` というコンビネータが登場
+
+### 次にしたいこと
+
+* 48時間でSchemeを書こうの練習問題2.6を解く
