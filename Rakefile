@@ -12,7 +12,7 @@ task :preview do
     Launchy.open 'http://localhost:4000/'
   end
 
-  sh 'bundle exec padrino start -p 4000'
+  sh 'bundle exec padrino start -p 4000 -h 0.0.0.0'
 end
 
 def front_formatter(datetime, event_no)
