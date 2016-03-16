@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #149"
+date: 2016-03-23 18:00:00 JST
+doorkeeper: https://great-h.doorkeeper.jp/events/41489
+facebook: https://www.facebook.com/events/1705439219740494/
+togetter:
+place: shakehands
+categories: events
+---
+
+# 参加者
