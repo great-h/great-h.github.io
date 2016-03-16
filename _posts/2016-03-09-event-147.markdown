@@ -12,6 +12,11 @@ categories: events
 # 参加者
 
 
+## [久保](https://github.com/fumi0204)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1779)
+
+
 ## [eiel](http://eiel.info/)
 
 ### [やったこと](https://github.com/great-h/great-h.github.io/issues/1781)
