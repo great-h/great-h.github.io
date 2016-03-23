@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #150"
+date: 2016-03-30 18:00:00 JST
+doorkeeper: https://great-h.doorkeeper.jp/events/41865
+facebook: https://great-h.doorkeeper.jp/events/41865
+togetter:
+place: shakehands
+categories: events
+---
+
+# 参加者
