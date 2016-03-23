@@ -43,6 +43,16 @@ Qiitaデビューしてみた
 
 ## [eiel](http://eiel.info/)
 
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1786)
+
+* GitHub講座
+* JavaScript談義
+* Cloud Functionをためす
+
+### わかったこと
+
+Cloud Functionは、まだアルファで利用権限がたりなかった。
+
 
 ## [akifo](https://github.com/akifo)
 
