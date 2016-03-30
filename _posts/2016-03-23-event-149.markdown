@@ -11,6 +11,20 @@ categories: events
 
 # 参加者
 
+## [eiel](http://eiel.info)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1789)
+
+* Angular 2で自分のサイトつくる
+
+### わかったこと
+
+* コンポーネント内ににコンポーネントを利用する場合はディレクティブを追加する
+
+### 次にしたいこと
+
+* データをtomlで書いて利用できるようにしたい
+
 
 ## [jmettraux](https://github.com/jmettraux)
 
