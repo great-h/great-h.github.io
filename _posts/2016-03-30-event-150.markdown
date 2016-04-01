@@ -4,7 +4,7 @@ title: "すごい広島 #150"
 date: 2016-03-30 18:00:00 JST
 doorkeeper: https://great-h.doorkeeper.jp/events/41865
 facebook: https://great-h.doorkeeper.jp/events/41865
-togetter:
+togetter: http://togetter.com/li/956986
 place: shakehands
 categories: events
 ---
