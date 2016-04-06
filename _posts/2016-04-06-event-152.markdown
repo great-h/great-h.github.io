@@ -1,0 +1,12 @@
+---
+layout: event
+title: "すごい広島 #152"
+date: 2016-04-06 18:00:00 JST
+doorkeeper: https://great-h.doorkeeper.jp/events/42687
+facebook: https://www.facebook.com/events/833836853387908/
+togetter:
+place: shakehands
+categories: events
+---
+
+# 参加者
