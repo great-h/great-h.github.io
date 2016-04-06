@@ -23,3 +23,15 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1791)
+
+* bluemixで遊んだ
+
+### わかったこと
+
+* bluemixの中身はCloud Foundlyだった
+
+### 次にしたいこと
+
+* rustのbuildpackをつくりたい
