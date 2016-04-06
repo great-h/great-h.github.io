@@ -17,5 +17,9 @@ categories: events
 
 ## [Ando Mitsuaki](https://www.facebook.com/ando.mitsuaki)
 
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1790)
+
+* 4/2 IoTLT広島の資料をつくる
+
 
 ## [eiel](http://eiel.info/)
