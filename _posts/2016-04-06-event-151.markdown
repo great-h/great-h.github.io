@@ -4,7 +4,7 @@ title: "すごい広島 #151"
 date: 2016-04-06 18:00:00 JST
 doorkeeper: https://great-h.doorkeeper.jp/events/42273
 facebook: https://www.facebook.com/events/856341007846065/
-togetter:
+togetter: http://togetter.com/li/959752
 place: shakehands
 categories: events
 ---
