@@ -26,6 +26,19 @@ categories: events
 
 ## [eiel](http://eiel.info/)
 
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1792)
+
+* webpackのtoml-loaderを利用して angular2でtomlで記述したデータを読みこみした。
+
+### わかったこと
+
+* webpack難しくない。
+
+
+### 次にしたいこと
+
+* angular2でウェブサイトを完成させる
+
 
 ## [akiho](https://github.com/akifo)
 
