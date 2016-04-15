@@ -1,16 +1,14 @@
 require File.expand_path("../../config/boot.rb", __FILE__)
-require 'sitespec'
+require "sitespec/rspec"
 require './app/app'
 require 'pry'
 
-Sitespec.configure do
-  self.application = GreatHiroshima::App.new
-  self.build_path = "_site/"
-  self.raise_http_error = true
-end
+Sitespec.configuration.build_path = "_site/"
 
-describe "Sitespec" do
-  include Sitespec
+describe "Sitespec", :sitespec do
+  let(:app) do
+    GreatHiroshima::App
+  end
 
   it "generate main page" do
     get "/index.html"
