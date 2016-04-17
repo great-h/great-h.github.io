@@ -1,4 +1,4 @@
-g---
+---
 layout: event
 title: "すごい広島 #153"
 date: 2016-04-20 18:00:00 JST
