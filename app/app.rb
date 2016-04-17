@@ -103,7 +103,7 @@ class Article
   def date
     @date ||= DateTime.parse(front_matter["date"])
   rescue
-    STDERR.puts path
+    STDERR.puts "Parse error date from file: path"
     raise
   end
 
