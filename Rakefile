@@ -31,6 +31,7 @@ def front_formatter(datetime, event_no)
 end
 
 def next_event_time
+  require 'active_support'
   require 'active_support/core_ext'
   Date.today.beginning_of_week(:wednesday) + 1.week + 18.hours
 end

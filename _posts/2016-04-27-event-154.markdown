@@ -1,0 +1,12 @@
+---
+layout: event
+title: 'すごい広島 #154'
+date: 2016-04-27 18:00:00 JST
+doorkeeper: https://great-h.doorkeeper.jp/events/43657
+facebook: https://www.facebook.com/events/1750645321880858/
+togetter:
+place: shakehands
+categories: events
+---
+
+# 参加者
