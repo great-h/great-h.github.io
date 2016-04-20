@@ -13,3 +13,19 @@ categories: events
 
 
 ## [profile.php?id=805090012951697](http://www.facebook.com/profile.php?id=805090012951697)
+
+
+## [eiel](https://github.com/great-h/great-h.github.io/issues/1795)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1795)
+
+* Angular2で遊んだ
+* toml-loaderをつかってデータを組み込みした。
+
+### わかったこと
+
+* angular2そんなに難しくない
+
+### 次にすること
+
+* デプロイする
