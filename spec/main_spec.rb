@@ -9,21 +9,14 @@ describe "Sitespec", :sitespec do
   let(:app) do
     GreatHiroshima::App
   end
-
-  it "generate main page" do
-    get "/index.html"
-    get "/rule.html"
-    get "/archives.html"
-    get "/stylesheets/application.css"
-    get "/javascripts/application.js"
-    get "/event.json"
-    get "/google1f4a02fe0a1f18ac.html"
-    `mkdir -p _site/img`
-    `cp public/img/main.jpg _site/img`
+  ["/index.html", "/rule.html", "/archives.html", "/stylesheets/application.css",  "/javascripts/application.js", "/event.json", "/google1f4a02fe0a1f18ac.html"].each do |path|
+    it "generate page: #{path}" do
+      get path
+    end
   end
 
-  it "generate event page" do
-    Dir.glob('_posts/*.markdown').each do |filepath|
+  Dir.glob('_posts/*.markdown').each do |filepath|
+    it "generate event page #{filepath}" do
       event_no = filepath.match(/_posts\/.*event-(.+)\.markdown/)[1]
       path = "/events/event-#{event_no}.html"
       get path

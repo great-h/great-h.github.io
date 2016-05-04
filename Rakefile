@@ -63,4 +63,6 @@ end
 desc 'generate site'
 task :generate do
   sh 'bundle exec rspec'
+  sh 'mkdir -p _site/img'
+  sh 'cp public/img/main.jpg _site/img'
 end
