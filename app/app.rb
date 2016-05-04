@@ -58,7 +58,7 @@ module GreatHiroshima
       slim :archives, locals: { articles: articles }
     end
 
-    get "/event.json" do
+    get "/event.json", :provides => [:json] do
       article = articles.last
       Jbuilder.encode do |json|
         json.no article.no.to_i
