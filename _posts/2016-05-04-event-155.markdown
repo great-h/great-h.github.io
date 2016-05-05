@@ -4,7 +4,7 @@ title: 'すごい広島 #155'
 date: 2016-05-04 18:00:00 JST
 doorkeeper: https://great-h.doorkeeper.jp/events/44114
 facebook: https://www.facebook.com/events/901289613309112/
-togetter:
+togetter: http://togetter.com/li/971167
 place: shakehands
 categories: events
 ---
