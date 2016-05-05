@@ -10,3 +10,17 @@ categories: events
 ---
 
 # 参加者
+
+## [eiel](http://eiel.info)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1801)
+
+* すごい広島のWebサイトが更新されない容になってたので修正した
+
+### わかったこと
+
+* Sitespecは1テスト 1ファイルになってた
+
+### 次にしたいこと
+
+* すごい広島のWebサイトのリニューアル
