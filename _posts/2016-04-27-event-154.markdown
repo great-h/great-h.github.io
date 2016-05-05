@@ -16,3 +16,7 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1799)
+
+* [eiel.info](http://eiel.info/)をリニューアルしました
