@@ -1,0 +1,12 @@
+---
+layout: event
+title: 'すごい広島 #157'
+date: 2016-05-18 18:00:00 JST
+doorkeeper: https://great-h.doorkeeper.jp/events/44864
+facebook: https://www.facebook.com/events/1606017823021779/
+togetter:
+place: shakehands
+categories: events
+---
+
+# 参加者
