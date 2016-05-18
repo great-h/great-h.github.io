@@ -172,6 +172,8 @@ class Place
     plaza_b.name = "広島市まちづくり市民交流プラザ 会議室B"
     plaza_c = plaza_free.dup
     plaza_c.name = "広島市まちづくり市民交流プラザ 会議室C"
+    plaza_training_c = plaza_free.dup
+    plaza_training_c.name = "広島市まちづくり市民交流プラザ 研修室C"
     @places ||= {
       "tully_main_street" => new(
         postcode: "7300035",
@@ -192,6 +194,7 @@ class Place
       "city_hiroshima_m-plaza-freespace" => plaza_free,
       "city_hiroshima_m-plaza-meeting_b" => plaza_b,
       "city_hiroshima_m-plaza-meeting_c" => plaza_c,
+      "city_hiroshima_m-plaza-training_c" => plaza_training_c,
       "itarian_tomate_kamiyacho" => new(
         postcode: "7300031",
         address: "中区紙屋町1-5-10紙屋町クラタビル",

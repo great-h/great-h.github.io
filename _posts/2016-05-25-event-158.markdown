@@ -1,0 +1,12 @@
+---
+layout: event
+title: 'すごい広島 #158 in IoTLT広島 Vol.1'
+date: 2016-05-25 18:00:00 JST
+doorkeeper: https://great-h.doorkeeper.jp/events/45260
+facebook: https://www.facebook.com/events/1718916518377665/
+togetter:
+place: city_hiroshima_m-plaza-training_c
+categories: events
+---
+
+# 参加者
