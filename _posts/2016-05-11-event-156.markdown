@@ -19,3 +19,15 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1802)
+
+* Angular2ですごい広島のWebサイトをつくりなおすために、ベースをつくった
+
+### わかったこと
+
+* SystemJSなかなかよい。が、難しい
+
+### 次にしたいこと
+
+* front_matterのついたmarkdownファイルを読み込みしたい
