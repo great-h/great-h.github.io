@@ -24,3 +24,9 @@ categories: events
 ### 次にしたいこと
 
 * スクラムのノウハウをいかす
+
+## [akira](https://github.com/akira345)
+
+### やったこと
+
+* [DockerをWebで管理するツールを試してみた](http://akira-junkbox.blogspot.jp/2016/05/dockerweb.html)
