@@ -25,3 +25,16 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+### やったこと
+
+* IoTLT広島で[高級な言語でArduino](https://speakerdeck.com/eiel/gao-ji-nayan-yu-dearudino)という話をした
+
+### わかったこと
+
+* Haskellでarudinoを動かせることがわかった
+
+
+### 次にしたいこと
+
+* ネットの世界へ旅立つ
