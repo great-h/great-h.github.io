@@ -1,0 +1,12 @@
+---
+layout: event
+title: 'すごい広島 #161'
+date: 2016-06-15 18:00:00 JST
+doorkeeper: https://great-h.doorkeeper.jp/events/46877
+facebook: https://www.facebook.com/events/1575263442766169/
+togetter:
+place: shakehands
+categories: events
+---
+
+# 参加者
