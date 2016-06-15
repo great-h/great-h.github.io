@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+      <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+        <title></title>
+        <meta content="width=device-width" name="viewport" />
+        <meta content="広島,すごい広島,IT勉強会,IT交流会,ミートアップ,プログラマ,デザイナ,GitHub,Haskell,LT駆動" name="Keywords" />
+        <meta content="すごい広島は広島のエンジニアやウェブデザイナーが毎週集まって、 もくもくしたり Hackしたり 読書したり する場所です。" name="Description" />
+        <meta content="すごい広島" name="Author" />
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script src="/javascripts/application.js?1465990129" type="text/javascript"></script><link href="/stylesheets/application.css?1465990174" rel="stylesheet" type="text/css" />
+      </meta>
+    </meta>
+  </head>
+  <body>
+    <nav class="nav">
+      <h1 class="title">
+        <a href="/">すごい広島</a>
+      </h1>
+    </nav>
+    <div class="container">
+      <div class="site"><h1>ルール</h1>
+
+<p>すごい広島の参加ルールをもう少し詳しく書きます。</p>
+
+<h2>基本</h2>
+
+<ul>
+<li>周りに迷惑を掛けない</li>
+<li>入退出自由</li>
+<li>エア参加可能</li>
+<li>やることを宣言する</li>
+<li>GitHub に Pull Request すること</li>
+</ul>
+
+<h2>参加手順例</h2>
+
+<ol>
+<li>GitHub の Issues  でやることを宣言する</li>
+<li>作成した Issues 番号と自分のIDを元にブランチを作成する</li>
+<li><code>/_posts/yyyy-mm-dd-event-xxx.markdown</code> に「自分の名前」と「作成したIssueへのリンク」を作成する(<strong><a href="http://great-h.doorkeeper.jp/">doorkeeper</a>の方で参加者登録している場合は自動生成されるので不要です</strong>)</li>
+<li>Pull Request を出す</li>
+<li>やることを宣言したことをしたり、参加者と情報交換したり、地域貢献する</li>
+</ol>
+
+<h2>GitHub の Issues でやることを宣言する</h2>
+
+<p>やること宣言には <a href="https://github.com/great-h/great-h.github.io/issues?state=open">GitHub の Issues</a> を利用しています。</p>
+
+<p>やることを <code>issue</code> として登録します。
+他の参加者に自分が何をしているか伝えて、話のタネにしたり、自分がどんな人なのかをさりげなく伝えます。</p>
+
+<h3>もっと挑戦してみる</h3>
+
+<p>この小節は読み飛ばしても構いません。</p>
+
+<p>Issue を作成するのに慣れたら、Issue に <code>label</code> と <code>milestone</code> と <code>assign</code> を設定してみましょう。</p>
+
+<p><code>label</code> には <code>やること宣言</code> というのを用意しているのでこれを利用してください。
+Issue の一覧を表示する際に、このラベルをついているものだけにできます。</p>
+
+<p><code>milestone</code> には 日付を利用しています。参加した日付の <code>milestone</code> を設定してください。
+その日のすごい広島のやること宣言が終了しているかどうかの確認に利用しています。</p>
+
+<p><code>assign</code> はその <code>issue</code> の担当者です。自分を設定することになっています。</p>
+
+<h2>作成した Issues 番号と自分のIDを元にブランチを作成する</h2>
+
+<p>はじめて参加した場合は行うことができないので注意してください。
+Issue を作成した場合、すごい広島の管理権限を持っている人が権限を追加してくれるのでそれを待ってください。</p>
+
+<p>権限が付与されると GitHub でブランチを作成できます。
+作成するブランチ名は <code>Issue番号-自分のID</code> の形式をオススメしています。</p>
+
+<p>例</p>
+
+<pre><code>291-eiel
+</code></pre>
+
+<p>上記のブランチ名の場合、対応する Issue が <a href="https://github.com/great-h/great-h.github.io/issues/291">ここにあります。</a></p>
+
+<p>TODO WEBでのブランチの作成方法をかく</p>
+
+<h2><code>/_posts/yyyy-mm-dd-event-xxx.markdown</code> に「自分の名前」と「作成したIssueへリンク」を作成する</h2>
+
+<p><strong><a href="http://great-h.doorkeeper.jp/">doorkeeper</a>で参加者登録を行っている場合はSNSのID追加の手順は自動化されているので不要です</strong></p>
+
+<p>参加したことが残るようにして欲しいので、ウェブページの更新を行ないます。
+参加したイベントページが <a href="https://github.com/great-h/great-h.github.io/tree/master/_posts">_posts</a> の中にあります。
+開催日を元にファイルを指定しているので、該当するファイルを探してください。</p>
+
+<p>このファイルに自分の名前やSNSのIDとさきほど作成した Issue へのリンクを追加します。</p>
+
+<p>例</p>
+
+<pre><code>### [eiel](http://eiel.info)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/291)
+
+</code></pre>
+
+<p>ここのフォーマットについては「<a href="#%E8%A8%98%E4%BA%8B%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88">記事のフォーマット</a>」を参照してください。</p>
+
+<p>これらの編集は GitHub の中で行えます。
+Edit から編集を行えます。</p>
+
+<h2>Pull Request を出す</h2>
+
+<p>サイトに参加表明することができたので メインのブランチに取り込みの依頼をします。
+<a href="https://github.com/great-h/great-h.github.io">すごい広島のリポジトリページ</a> を開くと Pull Request するボタンがあります。</p>
+
+<p>ここから Pull Request してください。
+ボタンを押していくだけでOKです。</p>
+
+<h2>やることを宣言したことをしたり、参加者と情報交換したり、地域貢献する</h2>
+
+<p>Pull Request ができたらやること宣言したことをしたり、近くの人と会話したりしましょう。
+その際に面白い話などがあれば、自分の Issue にコメントしたりブログにしたりして、再度プルリクエストしたりしましょう。</p>
+
+<h2>サイトのプレビュー方法</h2>
+
+<p>pull request をする前に動作確認をしてみましょう。自分のコンピュータ上でウェブサイトを確認できます。</p>
+
+<h3>事前準備</h3>
+
+<ul>
+<li>ruby のインストール</li>
+<li><code>bundle install</code> の実行</li>
+</ul>
+
+<h3>プレビューの方法</h3>
+
+<ul>
+<li><code>rake preview</code> の実行します</li>
+<li><a href="http://localhost:4000/">http://localhost:4000/</a> をブラウザでひらきます。</li>
+</ul>
+
+<p>この時、ブラウザを自動で開くようになっています。
+サーバが立ち上がるより速く開くことがあります。
+その場合は更新ボタンを押してください。</p>
+
+<h2>おまけ</h2>
+
+<p>なれてきたら他の人の Pull Request をレビュー しましょう。</p>
+
+<p>レビューが二つついたら マージをするというルールにしています。
+もし、あなたが二人めになったら、マージボタンを押してマージしましょう。
+コンフリクトする場合は、Webからはできないので、他の人に任せましょう。</p>
+
+<h2 id="記事のフォーマット">記事のフォーマット</h2>
+
+<p>「すごい広島」 に参加するとイベントページを更新することになります。
+詳しくは「<a href="#%E8%A8%98%E4%BA%8B%E3%81%B8%E3%81%AE%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%92%E8%BF%BD%E5%8A%A0%E3%81%99%E3%82%8B">記事へのリンクを追加する</a>」を参照してください。</p>
+
+<p>このイベントページ更新する時のフォーマットは 以下のようになります。</p>
+
+<pre><code>## [名前](自分ウェブサイトなど)
+
+参加コメント、感想などを書く
+
+* [ページ名](ページのURL)
+* [ページ名](ページのURL)
+</code></pre>
+
+<p><code>名前</code> には 自分の名前、もしくは GitHubやTwitter ID を書きます。</p>
+
+<p><code>自分のウェブサイトなど</code> には、自分のウェブサイトや、GitHub や Twitter などのプロフィール表示のURLを書きます。</p>
+
+<p><code>参加コメント、感想などをかく</code> には、参加したときの感想など好きなことを書きます。書かなくても大丈夫です。</p>
+
+<p><code>ページ名</code> には、書いたブログ記事のタイトル、もしくは、何をしたか書きます。</p>
+
+<p><code>ページURL</code> にはやったことがわかる ウェブページのURL を書きます。
+Togetter などを利用してもいいですし、作成した Issue にコメントで書いて構いません。</p>
+
+        <div class="footer">
+          <div class="block">
+            <div class="contact">
+              <p>
+                <a href="http://github.com/great-h/">すごい広島 - GitHub</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--/container--><script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    
+      ga('create', 'UA-42226652-1', 'great-h.github.io');
+      ga('send', 'pageview');
+    </script>
+    
+  </body>
+</html>

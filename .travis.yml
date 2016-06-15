@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 language: ruby
 rvm:
   - 2.3.0
@@ -27,3 +28,8 @@ env:
 notifications:
   webhooks:
     - https://idobata.io/hook/23b0913b-4122-4521-8478-e841a6a3f871
+=======
+branches:
+  except:
+    - master
+>>>>>>> ec59476a0b302c78cec61b83da7970753b77078d
