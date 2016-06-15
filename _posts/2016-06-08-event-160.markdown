@@ -11,6 +11,19 @@ categories: events
 
 # 参加者
 
+## [eiel](http://eiel.info/)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1809)
+
+* 5374.jpの更新
+
+### わかったこと
+
+* 広島市がオープンデータを公開してることがわかった
+
+### 次にしたいこと
+
+* 広島のオープンデータをもっと活用する
 
 ## [mu2in](http://twitter.com/mu2in)
 
