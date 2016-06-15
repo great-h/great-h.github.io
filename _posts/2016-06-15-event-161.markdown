@@ -10,3 +10,9 @@ categories: events
 ---
 
 # 参加者
+
+## [kwgch](http://twitter.com/ducky19999)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1812)
+
+* [リハビリとしてのプルリクまで](https://github.com/great-h/great-h.github.io/pull/1798)
