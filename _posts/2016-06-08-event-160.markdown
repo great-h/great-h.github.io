@@ -17,5 +17,8 @@ categories: events
 
 ## 小栗 潤一
 
+## [m-ando](https://github.com/m-ando-japan)
 
-## [profile.php?id=805090012951697](http://www.facebook.com/profile.php?id=805090012951697)
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1807)
+
+* twilioからkintoneにデータを書き込む
