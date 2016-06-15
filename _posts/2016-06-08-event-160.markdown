@@ -14,6 +14,9 @@ categories: events
 
 ## [mu2in](http://twitter.com/mu2in)
 
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1808)
+
+* 第1回 【広島】 Atlassian ユーザーグループ 中国地方の企画
 
 ## 小栗 潤一
 
