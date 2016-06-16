@@ -32,7 +32,9 @@ categories: events
 
 ## [kwgch](https://github.com/kwgch)
 
-[プルリクをつくる](https://github.com/great-h/great-h.github.io/pull/1814)
+### やったこと
+
+* [プルリクをつくる](https://github.com/great-h/great-h.github.io/pull/1814)
 
 ## [mu2in](http://twitter.com/mu2in)
 
