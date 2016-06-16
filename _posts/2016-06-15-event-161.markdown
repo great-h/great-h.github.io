@@ -11,12 +11,14 @@ categories: events
 
 # 参加者
 
-
 ## [Toro_kun](https://twitter.com/Toro_kun)
 
 
 ## [kwgch](https://github.com/kwgch)
 
+### やったこと
+
+* [プルリクをつくる](https://github.com/great-h/great-h.github.io/pull/1814)
 
 ## [mu2in](http://twitter.com/mu2in)
 
