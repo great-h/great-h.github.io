@@ -31,3 +31,7 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1811)
+
+* AUGのイベント準備をする
