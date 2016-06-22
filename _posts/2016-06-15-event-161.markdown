@@ -13,6 +13,10 @@ categories: events
 
 ## [Toro_kun](https://twitter.com/Toro_kun)
 
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1810)
+
+* 日本Androidの会 - 2016年6月定例会 Google I/O 2016報告会に参加する
+
 
 ## [kwgch](https://github.com/kwgch)
 
