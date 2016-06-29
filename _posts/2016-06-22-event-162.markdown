@@ -20,6 +20,10 @@ categories: events
 
 ## [kwgch](https://github.com/kwgch)
 
+### やったこと
+
+* [OSH2017のキックオフ](http://osh-web.github.io/)
+
 
 ## 小栗 潤一
 
