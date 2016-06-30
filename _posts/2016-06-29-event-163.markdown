@@ -4,7 +4,7 @@ title: 'すごい広島 #163'
 date: 2016-06-29 18:00:00 JST
 doorkeeper: https://great-h.doorkeeper.jp/events/47778
 facebook: https://www.facebook.com/events/592167854276970/
-togetter:
+togetter: http://togetter.com/li/993771
 place: shakehands
 categories: events
 ---
