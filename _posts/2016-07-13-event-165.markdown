@@ -1,0 +1,12 @@
+---
+layout: event
+title: 'すごい広島 #165'
+date: 2016-07-13 18:00:00 JST
+doorkeeper: https://great-h.doorkeeper.jp/events/48757
+facebook: https://www.facebook.com/events/981257875323978/
+togetter:
+place: shakehands
+categories: events
+---
+
+# 参加者
