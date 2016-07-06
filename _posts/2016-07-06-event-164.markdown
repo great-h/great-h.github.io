@@ -19,3 +19,16 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+### やったこと
+
+* [Google Cloud Pub/Subの動作確認をした](http://qiita.com/eielh/items/2312751b0e4258eaebc3)
+
+### わかったこと
+
+思ったより難しくなかった。SQSやKinesis Streamのかわりにつかえそう。
+Kafkaの代わりになるのか気になる。
+
+### 次にしたいこと
+
+Cloud DataFlowやCloud Functionと連携させてみる。
