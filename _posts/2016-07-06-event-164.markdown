@@ -14,6 +14,8 @@ categories: events
 
 ## [kwgch](https://github.com/kwgch)
 
+### やったこと
+[phpQuery使ったときにEUC-JPだと数字だけ消える現象をなんとかした](http://qiita.com/kwgch/items/43edc68f9df7881a9eea)
 
 ## [mu2in](http://twitter.com/mu2in)
 
