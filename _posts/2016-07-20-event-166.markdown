@@ -25,3 +25,16 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1825)
+
+* PlayFrameworkでWebSocket
+
+### わかったこと
+
+* Akka Stream のFlowを渡せばいいらしい
+
+
+### 次にしたいこと
+
+* WebSocketをつかってやりたいことをできるようにする
