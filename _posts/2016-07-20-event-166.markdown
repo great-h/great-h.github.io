@@ -17,6 +17,10 @@ categories: events
 
 ## [k2works](https://github.com/k2works)
 
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1826)
+
+* 他のコミュニティと交流する
+
 
 ## [kwgch](https://github.com/kwgch)
 
