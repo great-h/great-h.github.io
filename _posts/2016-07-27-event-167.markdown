@@ -4,7 +4,7 @@ title: 'すごい広島 #167'
 date: 2016-07-27 18:00:00 JST
 doorkeeper: https://great-h.doorkeeper.jp/events/49667
 facebook: https://www.facebook.com/events/140566736374799/
-togetter:
+togetter: http://togetter.com/li/1005593
 place: shakehands
 categories: events
 ---
