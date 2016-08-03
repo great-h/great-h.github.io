@@ -1,0 +1,12 @@
+---
+layout: event
+title: 'すごい広島 #169'
+date: 2016-08-10 18:00:00 JST
+doorkeeper: https://great-h.doorkeeper.jp/events/50567
+facebook: https://www.facebook.com/events/1748638918738189/
+togetter:
+place: shakehands
+categories: events
+---
+
+# 参加者
