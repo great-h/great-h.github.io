@@ -1,0 +1,12 @@
+---
+layout: event
+title: 'すごい広島 #170'
+date: 2016-08-17 18:00:00 JST
+connpass: http://great-h.connpass.com/event/37839/
+facebook: https://www.facebook.com/events/1736447953295573/
+togetter: 
+place: shakehands
+categories: events
+---
+
+# 参加者

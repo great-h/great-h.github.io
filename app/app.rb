@@ -120,7 +120,7 @@ class Article
 
     @atnd_type = "none"
     keys = front_matter.keys
-    %W|atnd localsearch doorkeeper|.each do |type|
+    %W|atnd localsearch doorkeeper connpass|.each do |type|
       if keys.include? type
         @atnd_type = type
         break
