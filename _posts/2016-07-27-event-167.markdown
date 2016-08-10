@@ -16,3 +16,15 @@ categories: events
 
 
 ## [eiel](http://eiel.info/)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1829)
+
+* GeoHashやQuadKeyなどのジオコーディングについて調べる
+
+### わかったこと
+
+QuadKeyは地球を４分割していく手法で、Google Mapなどでも利用されている
+
+### 次にしたいこと
+
+パークマップに活かす
