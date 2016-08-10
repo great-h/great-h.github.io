@@ -11,6 +11,20 @@ categories: events
 
 # 参加者
 
+## [eiel](http://eiel.info)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1827)
+
+* Play FrameworkでWebSocketした
+
+### わかったこと
+
+* Akka Httpに比べて扱いやすい
+  * String -> StringやJsValue -> JsValueなAkka StreamのFlowになるため
+
+### 次にしたいこと
+
+去年のWebSocketのプログラムをScalaで置き換える
 
 ## 小栗 潤一
 
