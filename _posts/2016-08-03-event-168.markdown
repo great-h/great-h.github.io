@@ -11,6 +11,12 @@ categories: events
 
 # 参加者
 
+## [akira345](https://github.com/akira345)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1830)
+
+* Rubyで並列プログラミングの練習
+
 ## [eiel](http://eiel.info)
 
 ### [やったこと](https://github.com/great-h/great-h.github.io/issues/1827)
