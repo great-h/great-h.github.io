@@ -1,0 +1,12 @@
+---
+layout: event
+title: 'すごい広島 #172'
+date: 2016-08-31 18:00:00 JST
+connpass: http://great-h.connpass.com/event/38769/
+facebook: https://www.facebook.com/events/635599533273821/
+togetter:
+place: shakehands
+categories: events
+---
+
+# 参加者
