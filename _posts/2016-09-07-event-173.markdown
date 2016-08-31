@@ -1,0 +1,12 @@
+---
+layout: event
+title: 'すごい広島 #173'
+date: 2016-09-07 18:00:00 JST
+connpass: http://great-h.connpass.com/event/39285/
+facebook: https://www.facebook.com/events/531681300366930/
+togetter:
+place: shakehands
+categories: events
+---
+
+# 参加者
