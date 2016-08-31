@@ -10,3 +10,18 @@ categories: events
 ---
 
 # 参加者
+
+## [eiel](http://eiel.info/)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1833)
+
+* Unityやるはずだったけど起動すらしなかったこと
+
+### わかったこと
+
+* ドキュメントが日本語されてた
+* GameObjectはコンポネントの集合をもっていることがわかった
+
+### 次にしたいこと
+
+* 入力イベントまわり勉強したい
