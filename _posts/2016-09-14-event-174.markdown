@@ -1,0 +1,12 @@
+---
+layout: event
+title: 'すごい広島 #174'
+date: 2016-09-14 18:00:00 JST
+connpass: http://great-h.connpass.com/event/39882/
+facebook: https://www.facebook.com/events/547682445428807/
+togetter: 
+place: shakehands
+categories: events
+---
+
+# 参加者
