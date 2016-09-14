@@ -1,0 +1,12 @@
+---
+layout: event
+title: 'すごい広島 #175'
+date: 2016-09-21 18:00:00 JST
+connpass: http://great-h.connpass.com/event/40482/
+facebook: https://www.facebook.com/events/1692582161065604/
+togetter:
+place: shakehands
+categories: events
+---
+
+# 参加者
