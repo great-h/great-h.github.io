@@ -1,0 +1,12 @@
+---
+layout: event
+title: 'すごい広島 #176'
+date: 2016-09-28 18:00:00 JST
+connpass: http://great-h.connpass.com/event/40968/
+facebook: https://www.facebook.com/events/582046825253729/
+togetter:
+place: shakehands
+categories: events
+---
+
+# 参加者
