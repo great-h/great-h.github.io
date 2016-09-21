@@ -25,3 +25,9 @@ categories: events
 ### 次にしたいこと
 
 * 入力イベントまわり勉強したい
+
+## [kwgch](https://github.com/kwgch)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1834)
+
+* ScalaのチュートリアルをやるためにInteliJをインストール
