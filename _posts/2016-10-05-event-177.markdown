@@ -1,0 +1,12 @@
+---
+layout: event
+title: 'すごい広島 #177'
+date: 2016-10-05 18:00:00 JST
+connpass: http://great-h.connpass.com/event/41420/
+facebook: https://www.facebook.com/events/190156958082430/
+togetter: 
+place: shakehands
+categories: events
+---
+
+# 参加者
