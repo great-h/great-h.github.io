@@ -1,0 +1,12 @@
+---
+layout: event
+title: 'すごい広島 #178'
+date: 2016-10-12 18:00:00 JST
+connpass: http://great-h.connpass.com/event/41965/
+facebook: https://www.facebook.com/events/1621584358139389/
+togetter:
+place: shakehan
+categories: events
+---
+
+# 参加者
