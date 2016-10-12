@@ -1,0 +1,12 @@
+---
+layout: event
+title: 'すごい広島 #179'
+date: 2016-10-19 18:00:00 JST
+connpass: http://great-h.connpass.com/event/41965/
+facebook: https://www.facebook.com/events/333456333670819/
+togetter:
+place: shakehands
+categories: events
+---
+
+# 参加者
