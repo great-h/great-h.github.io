@@ -4,7 +4,7 @@ title: 'すごい広島 #178 with すごいUnity in 広島#10'
 date: 2016-10-12 18:00:00 JST
 connpass: http://great-h.connpass.com/event/40576
 facebook: https://www.facebook.com/events/1621584358139389/
-togetter:
+togetter: http://togetter.com/li/1036480
 place: shakehan
 categories: events
 ---
