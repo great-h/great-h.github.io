@@ -1,0 +1,12 @@
+---
+layout: event
+title: 'すごい広島 #180'
+date: 2016-10-26 18:00:00 JST
+connpass: http://great-h.connpass.com/event/43194/
+facebook: https://www.facebook.com/events/317852515246847/
+togetter: 
+place: shakehands
+categories: events
+---
+
+# 参加者
