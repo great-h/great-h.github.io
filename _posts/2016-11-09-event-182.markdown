@@ -1,0 +1,12 @@
+---
+layout: event
+title: 'すごい広島 #182 with すごいUnity in 広島 #11'
+date: 2016-11-09 18:00:00 JST
+connpass: http://great-h.connpass.com/event/43106/
+facebook: https://www.facebook.com/events/363905943946911/
+togetter: 
+place: shakehands
+categories: events
+---
+
+# 参加者
