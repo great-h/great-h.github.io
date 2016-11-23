@@ -10,3 +10,11 @@ categories: events
 ---
 
 # 参加者
+
+## [ThaddeusJiang](https://github.com/ThaddeusJiang)
+
+### [やったこと](https://github.com/great-h/great-h.github.io/issues/1846)
+
+* github blog update
+
+> 共有やすいために、もともと中国語のBlogを英語へ変更した。
