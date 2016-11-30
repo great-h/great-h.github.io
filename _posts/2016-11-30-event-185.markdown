@@ -10,3 +10,17 @@ categories: events
 ---
 
 # 参加者
+
+## [eiel](http://eiel.info/)
+
+### やったこと
+
+* gatlingをした
+
+### わかったこと
+
+サーバからのヘッダやレスポンスを利用するときはcheckの中で、headerやbodyからxpathや正規表現をつかって値を取得し、saveAsを使うことでその後の処理で利用可能になる。
+
+### 次にしたいこと
+
+gatligについて整理する
