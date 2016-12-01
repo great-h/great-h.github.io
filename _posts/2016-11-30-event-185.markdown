@@ -24,3 +24,15 @@ categories: events
 ### 次にしたいこと
 
 gatligについて整理する
+
+## [TJ](http://thaddeusjiang.github.io/)
+
+### やったこと
+
+* Vapor Templateを勉強する
+* Vapor Controllerを勉強する
+> https://github.com/great-h/great-h.github.io/issues/1848
+
+### 20161207
+
+予定があるため、欠席します。
