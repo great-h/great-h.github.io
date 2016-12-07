@@ -1,0 +1,12 @@
+---
+layout: event
+title: 'すごい広島 #187'
+date: 2016-12-14 18:00:00 JST
+connpass: https://great-h.connpass.com/event/46782/
+facebook: https://www.facebook.com/events/344456879251801/
+togetter:
+place: shakehands
+categories: events
+---
+
+# 参加者
