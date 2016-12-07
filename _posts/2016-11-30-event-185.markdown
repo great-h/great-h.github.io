@@ -4,7 +4,7 @@ title: 'すごい広島 #185'
 date: 2016-11-30 18:00:00 JST
 connpass: https://great-h.connpass.com/event/45848/
 facebook: https://www.facebook.com/events/778113185660190/
-togetter: 
+togetter: http://togetter.com/li/1054534
 place: shakehands
 categories: events
 ---

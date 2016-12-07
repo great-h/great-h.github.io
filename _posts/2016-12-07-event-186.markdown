@@ -4,7 +4,7 @@ title: 'すごい広島 #186'
 date: 2016-12-07 18:00:00 JST
 connpass: https://great-h.connpass.com/event/46284/
 facebook: https://www.facebook.com/events/1829003574013875/
-togetter: http://togetter.com/li/1054534
+togetter: http://togetter.com/li/1057194
 place: shakehands
 categories: events
 ---
