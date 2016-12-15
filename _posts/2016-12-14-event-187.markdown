@@ -10,3 +10,15 @@ categories: events
 ---
 
 # 参加者
+
+## [ThaddeusJiang](http://thaddeusjiang.github.io/)
+
+### やったこと
+
+* Vapor勉強
+　Vapor Middleware を勉強した
+　https://github.com/great-h/great-h.github.io/issues/1851
+
+### 次にしたいこと
+
+* Vapor　Routing を勉強したい
