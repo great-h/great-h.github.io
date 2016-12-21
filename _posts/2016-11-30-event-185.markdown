@@ -25,7 +25,7 @@ categories: events
 
 gatligについて整理する
 
-## [TJ](http://thaddeusjiang.github.io/)
+## [ThaddeusJiang](http://thaddeusjiang.github.io/)
 
 ### やったこと
 
