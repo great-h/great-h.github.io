@@ -4,7 +4,7 @@ title: 'すごい広島 #189'
 date: 2016-12-28 18:00:00 JST
 connpass: https://great-h.connpass.com/event/47617/
 facebook: https://www.facebook.com/events/545469035660916/
-togetter:
+togetter: https://togetter.com/li/1064755
 place: shakehands
 categories: events
 ---
