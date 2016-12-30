@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "すごい広島 #1"
+date:   2013-05-22 19:00:00
+categories: events
+---
+
+第１回です。
+
+* [atnd](http://atnd.org/events/39897)
+* [セキココ](http://sekico.co/zaseki/138)
+* [togetter](http://togetter.com/li/507014)
+
+イベントのルール決めや、グループ名を決めたりしました。
+
+# 参加者
+
+## [@eielh](https://twitter.com/eielh)
+
+* [すごい広島 はじめました。](http://eielh-life.tumblr.com/post/51064201668)
+
+
+## [@hanapage](https://twitter.com/hanapage)
+
+* [ブログ作りました。](http://hanapage.wordpress.com/)
+
+
+## [@moriC](https://twitter.com/CentBoss)
+
+* [すごい広島参加しました！](http://blog.mori-theta.net/?p=7)
+
+
+## [@Toro_kun](https://twitter.com/Toro_kun)
+
+* [CentOS 6.4 x64 にnvmでnode.jsをインストールする](http://106n.net/toro/blog/?p=879)
+
+
+## [@yukilab](https://twitter.com/yukilab)
+
+* [第一回すごい広島 参加しました](http://yukilab3.blog.fc2.com/blog-entry-17.html)
+
+# 次回
+
+2013年5月29日 (水) 19:00 - 22:00
+
+* [atnd](http://atnd.org/events/39927)

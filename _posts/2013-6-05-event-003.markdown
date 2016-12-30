@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "すごい広島 #3"
+date:   2013-06-05 19:00:00
+categories: events
+---
+
+第3回です。
+
+* [atnd](http://atnd.org/events/40132)
+* [togetter](http://togetter.com/li/514216)
+
+<!-- 概要 -->
+
+# 参加者
+
+## [@moriC](https://twitter.com/CentBoss)
+
+* [Gitlabを導入する](http://blog.mori-theta.net/?p=67)
+
+## [@24motz](https://twitter.com/24motz)
+
+* [すごい広島 #3 に行って勉強した - nishimotzの日記](http://d.nishimotz.com/archives/1494)
+
+## [@yukilab](https://twitter.com/yukilab)
+
+* [第三回すごい広島 参加しました](http://yukilab3.blog.fc2.com/blog-entry-20.html)
+
+## [@eielh](https://twitter.com/eielh)
+
+* [すごい広島 #3 に遊びにいった。](http://eielh-life.tumblr.com/post/52212876105/3)
+
+## [@Toro_kun](https://twitter.com/Toro_kun)
+
+* [CentOS 6.4 x64 にnginxをインストールする](http://106n.net/toro/blog/?p=921)
+
+## [@NeXTSTEP2OSX](https://twitter.com/NeXTSTEP2OSX)
+
+* [すごい広島 #3 にエア参加した - ワタタツの日記!(2013-06-05)](http://kita.dyndns.org/diary/?date=20130605#p01)
+

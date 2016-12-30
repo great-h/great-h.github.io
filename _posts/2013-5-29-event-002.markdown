@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "すごい広島 #2"
+date:   2013-05-29 19:00:00
+categories: events
+---
+
+第2回です。
+
+* [atnd](http://atnd.org/events/39927)
+* [togetter](http://togetter.com/li/510364)
+
+<!-- 概要 -->
+
+# 参加者
+
+## [@moriC](https://twitter.com/CentBoss)
+
+* [RedmineでGitのリポジトリを見れるようにしたい](http://blog.mori-theta.net/?p=46)
+
+## [@hanapage](https://twitter.com/hanapage)
+
+* [WPF勉強しました。](http://hanapage.wordpress.com/2013/05/29/%E3%81%99%E3%81%94%E3%81%84%E5%BA%83%E5%B3%B62-wpf%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E5%8B%89%E5%BC%B7%E3%81%99%E3%82%8B%E3%80%82/)
+
+## [@enofujityan](https://twitter.com/enofujityan)
+
+* [office365調査](http://enofujityan.tumblr.com/post/51638321602/office365)
+
+## [@pecosantoyobe](https://twitter.com/pecosantoyobe)
+
+* [すごい広島 #2](http://49.212.143.129/posts/2013-05-30-great-h-2.html)
+
+## [@eielh](http://twitter.com/eielh)
+
+* [すごい広島 #2 に遊びにいった](http://eielh-life.tumblr.com/post/51639356116/2)
+* [Github Page で公開する サイトを ローカルで preview するのに使ってる方法](http://blog.eiel.info/blog/2013/05/29/jekyll-preview/)
+
+## [@Toro_kun](http://twitter.com/Toro_kun)
+
+* [すごい広島#2に行って来た。](http://106n.net/toro/blog/?p=906)
+
+## [@yukilab](https://twitter.com/yukilab)
+
+* [第一回すごい広島 参加しました](http://yukilab3.blog.fc2.com/blog-entry-17.html)
