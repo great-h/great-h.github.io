@@ -1,0 +1,12 @@
+---
+layout: event
+title: 'すごい広島 #191'
+date: 2017-01-11 18:00:00 JST
+connpass: https://great-h.connpass.com/event/48119/
+facebook: https://www.facebook.com/events/1754097494910446/
+togetter: 
+place: shakehands
+categories: events
+---
+
+# 参加者
