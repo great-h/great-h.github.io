@@ -4,7 +4,7 @@ title: 'すごい広島 #190'
 date: 2017-01-04 18:00:00 JST
 connpass: https://great-h.connpass.com/event/47939/
 facebook: https://www.facebook.com/events/264358200649901/
-togetter: 
+togetter: https://togetter.com/li/1067285
 place: shakehands
 categories: events
 ---
