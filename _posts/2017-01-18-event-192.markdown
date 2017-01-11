@@ -1,0 +1,12 @@
+---
+layout: event
+title: 'すごい広島 #192'
+date: 2017-01-18 18:00:00 JST
+connpass: https://great-h.connpass.com/event/48658/
+facebook: https://www.facebook.com/events/170850153397945/
+togetter: 
+place: shakehands
+categories: events
+---
+
+# 参加者
