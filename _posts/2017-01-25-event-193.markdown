@@ -1,0 +1,12 @@
+---
+layout: event
+title: 'すごい広島 #193'
+date: 2017-01-25 18:00:00 JST
+connpass: https://great-h.connpass.com/event/49183/
+facebook: https://www.facebook.com/events/1307313295994775/
+togetter: 
+place: shakehands
+categories: events
+---
+
+# 参加者
