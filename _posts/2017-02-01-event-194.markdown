@@ -1,0 +1,12 @@
+---
+layout: event
+title: 'すごい広島 #194'
+date: 2017-02-01 18:00:00 JST
+connpass: https://great-h.connpass.com/event/49682/
+facebook: https://www.facebook.com/events/1359645647442282/
+togetter: 
+place: shakehands
+categories: events
+---
+
+# 参加者
