@@ -1,0 +1,12 @@
+---
+layout: event
+title: 'すごい広島 #195'
+date: 2017-02-08 18:00:00 JST
+connpass: https://great-h.connpass.com/event/50164/
+facebook: https://www.facebook.com/events/192023601274610/
+togetter: 
+place: shakehands
+categories: events
+---
+
+# 参加者
