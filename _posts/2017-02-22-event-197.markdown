@@ -1,0 +1,12 @@
+---
+layout: event
+title: 'すごい広島 #197'
+date: 2017-02-22 18:00:00 JST
+connpass: https://great-h.connpass.com/event/51322/
+facebook: https://www.facebook.com/events/166807627153719/
+togetter: 
+place: shakehands
+categories: events
+---
+
+# 参加者
