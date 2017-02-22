@@ -1,0 +1,12 @@
+---
+layout: event
+title: 'すごい広島 #198'
+date: 2017-03-01 18:00:00 JST
+connpass: https://great-h.connpass.com/event/51806/
+facebook: https://www.facebook.com/events/411161949230573/
+togetter: 
+place: shakehands
+categories: events
+---
+
+# 参加者
