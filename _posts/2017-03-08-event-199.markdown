@@ -1,0 +1,12 @@
+---
+layout: event
+title: 'すごい広島 #199'
+date: 2017-03-08 18:00:00 JST
+connpass: https://great-h.connpass.com/event/52282/
+facebook: https://www.facebook.com/events/350789165315535/
+togetter: 
+place: shakehands
+categories: events
+---
+
+# 参加者
