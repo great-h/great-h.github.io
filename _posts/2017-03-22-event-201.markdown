@@ -2,7 +2,7 @@
 layout: event
 title: 'すごい広島 #201'
 date: '2017-03-22 18:00:00 JST'
-connpass: 
+connpass: https://great-h.connpass.com/event/53639/
 facebook: 
 togetter: 
 place: shakehands
