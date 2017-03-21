@@ -1,0 +1,12 @@
+---
+layout: event
+title: 'すごい広島 #201'
+date: '2017-03-22 18:00:00 JST'
+connpass: 
+facebook: 
+togetter: 
+place: shakehands
+categories: events
+---
+
+# 参加者
