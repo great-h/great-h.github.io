@@ -1,0 +1,14 @@
+---
+layout: event
+title: 'すごい広島 #203'
+date: '2017-04-05 18:00:00 JST'
+connpass: https://great-h.connpass.com/event/54199/
+facebook: 
+togetter: 
+place: shakehands
+categories: events
+---
+
+# 参加者
+* [@mu2in](https://twitter.com/mu2in)
+
