@@ -1,0 +1,12 @@
+---
+layout: event
+title: 'すごい広島 #204'
+date: '2017-04-12 18:00:00 JST'
+connpass: https://great-h.connpass.com/event/54727/
+facebook: 
+togetter: 
+place: shakehands
+categories: events
+---
+
+# 参加者
