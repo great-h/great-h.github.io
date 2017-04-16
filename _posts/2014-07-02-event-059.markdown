@@ -11,6 +11,10 @@ categories: events
 
 # 参加者
 
+## [fujienoki](https://github.com/great-h/great-h.github.io/issues/1063)
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1063)
+
 
 ## [Toro_kun](https://twitter.com/Toro_kun)
 
