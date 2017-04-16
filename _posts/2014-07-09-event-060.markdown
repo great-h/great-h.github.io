@@ -11,6 +11,12 @@ categories: events
 
 # 参加者
 
+## [k2works](https://github.com/k2works)
+
+試験勉強した
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1073))
+
 ## [isabasi1484](https://twitter.com/isabisi1484)
 
 [OSC2014 Hiroshima](http://www.ospn.jp/osc2014-hiroshima/)のミーティングをした
