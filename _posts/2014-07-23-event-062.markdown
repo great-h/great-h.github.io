@@ -21,6 +21,13 @@ categories: events
 * [マルレク「グローバル・ネットワークと技術革新の展望」](http://kokucheese.com/event/index/192017/)に参加
 
 
+## [k2works](https://github.com/great-h/great-h.github.io/issues/1102)
+
+試験勉強って何。
+
+* [やること宣言](https://github.com/great-h/great-h.github.io/issues/1102)
+
+
 ## [tsuda_ahr](http://twitter.com/tsuda_ahr)
 
 w32tmとかntpとかLT駆動で発表するらしいとの噂。
