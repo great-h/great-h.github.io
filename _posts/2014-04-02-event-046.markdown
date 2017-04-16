@@ -49,7 +49,6 @@ categories: events
 
 * [やること宣言](https://github.com/great-h/great-h.github.io/issues/797)
 
-
 ## [ferretdayo](https://github.com/ferretdayo)
 
 * [C++の勉強](http://www.asahi-net.or.jp/~yf8k-kbys/newcpp9.html)
