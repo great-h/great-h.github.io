@@ -1,7 +1,7 @@
 ---
 layout: event
 title: 'すごい広島 #205'
-date: '2017-04-19 18:00:00 JST'
+date: '2017-04-19 19:10:00 JST'
 connpass: https://great-h.connpass.com/event/55174/
 facebook: 
 togetter: 
