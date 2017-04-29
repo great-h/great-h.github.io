@@ -1,0 +1,14 @@
+---
+layout: event
+title: 'すごい広島 #207'
+date: '2017-05-03 19:10:00 JST'
+connpass: https://great-h.connpass.com/event/56382/
+facebook: 
+togetter: 
+place: shakehands
+categories: events
+---
+
+# 参加者
+* [@mu2in](https://twitter.com/mu2in)
+
