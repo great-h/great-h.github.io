@@ -26,4 +26,4 @@ GitHub の利用方法がわからない場合は、他の参加者に気軽に�
 あとは、参加者と自由に情報交換したり、作業に没頭したりしましょう。
 
 * [もっと詳しいルール](/rule.html)
-* [参加例 - [勉強会] 「すごい広島 #7」に参加しました & GitHubの使用方法 - オールトの雲](http://ooltcloud.expressweb.jp/201307/article_04231557.html)
+* [参加例 - [勉強会] 「すごい広島 #7」に参加しました & GitHubの使用方法 - オールトの雲](http://ooltcloud.azurewebsites.net/201307/article_04231557.html)
