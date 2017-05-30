@@ -1,0 +1,13 @@
+---
+layout: event
+title: 'すごい広島 #211 with Python[2] - DjangoとPandasの環境構築'
+date: '2017-05-31 19:10:00 JST'
+connpass: https://great-h.connpass.com/event/56598/
+facebook: 
+togetter: 
+place: shakehands
+categories: events
+---
+
+# 参加者
+* @mu2in

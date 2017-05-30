@@ -1,0 +1,13 @@
+---
+layout: event
+title: 'すごい広島 #210'
+date: '2017-05-31 19:10:00 JST'
+connpass: https://great-h.connpass.com/event/57931/
+facebook: 
+togetter: 
+place: shakehands
+categories: events
+---
+
+# 参加者
+* @mu2in
