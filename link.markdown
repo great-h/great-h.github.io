@@ -35,7 +35,7 @@
 * [広島マックユーザグループ](http://hiroshima.mac-ug.net/)<br>ほぼ毎月行われているマックの勉強会です。他の勉強会よりも普通のマック利用者向けの勉強会になっています。
 * [日本Androidの会 中国支部](http://www.android-group.jp/index.php?%A5%EF%A1%BC%A5%AD%A5%F3%A5%B0%A5%B0%A5%EB%A1%BC%A5%D7%2F%C3%E6%B9%F1%BB%D9%C9%F4)<br>Androidの会の中国支部です。勉強会などを行われています。最近の活動は不定期です。
 * [中国地方DB勉強会](http://dbstudychugoku.github.io/)<br>隔月程度でDBに関する勉強会を中国地方で開催しています。
-* [すくすくスクラム広島](https://www.facebook.com/Sukusuku.Scrum.Hiroshima)<br>すくすくスクラムの広島支部です。広島でScrum、Agile等について皆さんが経験や情報の共有、また相互に改善や気づきを言い合える場としたいです。
+* [AgileHiroshima](https://www.facebook.com/AgileHiroshima/)<br>広島でScrum、Agile等について皆さんが経験や情報の共有、また相互に改善や気づきを言い合える場です。
 * [Hiroshima.rb](http://hiroshimarb.github.io/)<br>広島のRubyコミュニティです。Rubyをメインに様々なプログラミング言語やオープンソースソフトウェアを扱うことが多いです。概ね毎月第一土曜日にイベントを行われています。
 * [広島++](http://hiroshima-plus-plus.github.io/)<br>広島のC++コミュニティ(になる予定)です。C++についての様々な情報共有や開発を行っていきたいです。定期的に小規模な勉強会など開催出来たらいいなぁと思っています。
 * [LT駆動開発](http://ltdd.doorkeeper.jp/)<br>普段の開発の中で毎月ライトニングトークをすること想定しつつ、本当に毎月ライトニングトークすることで勉強しようという勉強会。勉強会で一番勉強になるのは発表者らしいです。
@@ -48,8 +48,10 @@
 * [JSers' Cafe ZERO](http://jczero.doorkeeper.jp)<br>Cafeに集まり、JavaScriptに関する談義をしたり、もくもくと作業したりしています。
 * [MT Hiroshima](https://www.mt-hiroshima.net) Movable Typeのユーザーコミュニティで、MT day in Hiroshimaと題したイベントヲ定期的に行っています。
 * [Hiroshima Motion Control Network](https://www.facebook.com/HiroshimaMotionControlNetwork) 通称 HMCN。Kinectなど安価に入手可能なセンサー＆デバイスに関するオープンなエンジニアリングコミュニティです。
-* [Hiroshima Student Community](https://hsc15.doorkeeper.jp/) 広島の学生が主催で様々なイベントを実施するコミュニティです。学生と社会人が交流できる場を多く作ることを目的としています。
-* [広島フロントエンド勉強会(仮)](http://hiroshima.codecodeweb.com/) 広島フロントエンド勉強会(仮)は広島で活動するフロントエンドエンジニアの悩みを解決する集まりです。毎月テーマに沿って、ディスカッション形式でマークアップ、スタイリング等の疑問や悩みを解決しましょう。 共に疑問や悩みの解決、新たな技術の習得を通して広島のweb制作のレベルアップを目指します。
+* [Hiroshima Student Community](https://hsc.connpass.com/) 広島の学生が主催で様々なイベントを実施するコミュニティです。学生と社会人が交流できる場を多く作ることを目的としています。
+* [広島フロントエンド勉強会](https://hfe.connpass.com/) 広島フロントエンド勉強会(仮)は広島で活動するフロントエンドエンジニアの悩みを解決する集まりです。毎月テーマに沿って、ディスカッション形式でマークアップ、スタイリング等の疑問や悩みを解決しましょう。 共に疑問や悩みの解決、新たな技術の習得を通して広島のweb制作のレベルアップを目指します。
+* [IoTLT広島](https://www.facebook.com/groups/976816062402231/) IoT縛りのLT大会の広島バージョンです。隔月で開催されています。
+* [広島Web系の会](https://hiroweb.connpass.com/) web開発に興味ある人から仕事でバリバリやってる人まで、 技術的なことを教え合ったり、雑談したり、一人でもくもく作業したりする会です。
 
 
 他にも 広島のITコミュニティがありましたら、[Pull Request](https://github.com/great-h/great-h.github.io/pulls) をお願いします。
