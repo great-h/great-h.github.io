@@ -49,7 +49,8 @@
 * [MT Hiroshima](https://www.mt-hiroshima.net) Movable Typeのユーザーコミュニティで、MT day in Hiroshimaと題したイベントヲ定期的に行っています。
 * [Hiroshima Motion Control Network](https://www.facebook.com/HiroshimaMotionControlNetwork) 通称 HMCN。Kinectなど安価に入手可能なセンサー＆デバイスに関するオープンなエンジニアリングコミュニティです。
 * [Hiroshima Student Community](https://hsc15.doorkeeper.jp/) 広島の学生が主催で様々なイベントを実施するコミュニティです。学生と社会人が交流できる場を多く作ることを目的としています。
-* [広島フロントエンド勉強会(仮)](http://hiroshima.codecodeweb.com/) 広島フロントエンド勉強会(仮)は広島で活動するフロントエンドエンジニアの悩みを解決する集まりです。毎月テーマに沿って、ディスカッション形式でマークアップ、スタイリング等の疑問や悩みを解決しましょう。 共に疑問や悩みの解決、新たな技術の習得を通して広島のweb制作のレベルアップを目指します。
+* [広島フロントエンド勉強会](https://hfe.connpass.com/) 広島フロントエンド勉強会(仮)は広島で活動するフロントエンドエンジニアの悩みを解決する集まりです。毎月テーマに沿って、ディスカッション形式でマークアップ、スタイリング等の疑問や悩みを解決しましょう。 共に疑問や悩みの解決、新たな技術の習得を通して広島のweb制作のレベルアップを目指します。
+
 
 
 他にも 広島のITコミュニティがありましたら、[Pull Request](https://github.com/great-h/great-h.github.io/pulls) をお願いします。
