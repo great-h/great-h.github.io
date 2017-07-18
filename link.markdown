@@ -50,6 +50,7 @@
 * [Hiroshima Motion Control Network](https://www.facebook.com/HiroshimaMotionControlNetwork) 通称 HMCN。Kinectなど安価に入手可能なセンサー＆デバイスに関するオープンなエンジニアリングコミュニティです。
 * [Hiroshima Student Community](https://hsc.connpass.com/) 広島の学生が主催で様々なイベントを実施するコミュニティです。学生と社会人が交流できる場を多く作ることを目的としています。
 * [広島フロントエンド勉強会](https://hfe.connpass.com/) 広島フロントエンド勉強会(仮)は広島で活動するフロントエンドエンジニアの悩みを解決する集まりです。毎月テーマに沿って、ディスカッション形式でマークアップ、スタイリング等の疑問や悩みを解決しましょう。 共に疑問や悩みの解決、新たな技術の習得を通して広島のweb制作のレベルアップを目指します。
+* [IoTLT広島](https://www.facebook.com/groups/976816062402231/) IoT縛りのLT大会の広島バージョンです。隔月で開催されています。
 
 
 
