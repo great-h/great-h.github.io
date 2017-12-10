@@ -6,3 +6,4 @@ public/stylesheets
 .sass-cache
 .versions.conf
 .DS_Store
+.ruby-version
