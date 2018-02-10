@@ -17,10 +17,10 @@ GEM
     jbuilder (2.4.1)
       activesupport (>= 3.0.0, < 5.1)
       multi_json (~> 1.2)
-    json (1.8.3)
+    json (1.8.6)
     launchy (2.4.3)
       addressable (~> 2.3)
-    mail (2.5.4)
+    mail (2.5.5)
       mime-types (~> 1.16)
       treetop (~> 1.4.8)
     method_source (0.8.2)
@@ -75,7 +75,7 @@ GEM
       rack
     rack-test (0.6.3)
       rack (>= 1.0)
-    rake (11.1.2)
+    rake (12.3.0)
     redcarpet (3.3.4)
     rspec (3.4.0)
       rspec-core (~> 3.4.0)
@@ -131,4 +131,4 @@ DEPENDENCIES
   slim
 
 BUNDLED WITH
-   1.11.2
+   1.16.0
