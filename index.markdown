@@ -3,10 +3,6 @@ layout: default
 title: 'すごい広島'
 ---
 
-## 応援してる
-
-- [ひろしま発 人材集積促進プロジェクト](http://hiro-hata.com/)
-
 ## 関連サイトなど
 
 - [ウェブサイトのリポジトリ - GitHub](https://github.com/great-h/)
